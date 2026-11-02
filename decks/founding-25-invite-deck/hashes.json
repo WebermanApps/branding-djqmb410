@@ -51,6 +51,76 @@
   },
   "c6": {
     "A": {
+      "label": "\"The One Who Fixes Things\"",
+      "sha12": "ad9813b9399e"
+    },
+    "B": {
+      "label": "\"From [Where We Met]\"",
+      "sha12": "2c9542025e48"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "\"Leaky Faucet Call\"",
+      "sha12": "47850c097772"
+    },
+    "B": {
+      "label": "\"Hey, It's Me\"",
+      "sha12": "3d5c781daf6e"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Full List",
+      "sha12": "d2ef22f9fa55"
+    },
+    "B": {
+      "label": "Short Version",
+      "sha12": "2f8273682f30"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "App Link",
+      "sha12": "64c53b3f28c6"
+    },
+    "B": {
+      "label": "\"Text Me Back\"",
+      "sha12": "a7b0a88078e4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Show A QR",
+      "sha12": "e2bd7b9b8553"
+    },
+    "B": {
+      "label": "No QR",
+      "sha12": "7a6374166f5a"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Yes, Say 25",
+      "sha12": "07dbcff3cacf"
+    },
+    "B": {
+      "label": "No, Leave It Out",
+      "sha12": "086ecd47914b"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Explainer Art",
+      "sha12": "e2cc324e79c3"
+    },
+    "B": {
+      "label": "Own Home Footage",
+      "sha12": "cada3ba86961"
+    }
+  },
+  "c13": {
+    "A": {
       "label": "\"Made For The Lived-In Home\"",
       "sha12": "6d880d097bee"
     },
@@ -59,7 +129,7 @@
       "sha12": "895ef5a3160b"
     }
   },
-  "c7": {
+  "c14": {
     "A": {
       "label": "\"Busy\"",
       "sha12": "7e7f8452d55e"
@@ -69,7 +139,7 @@
       "sha12": "6b74858f761c"
     }
   },
-  "c8": {
+  "c15": {
     "A": {
       "label": "Dec 15 (Example)",
       "sha12": "1d6d8b18a4a5"
@@ -79,7 +149,7 @@
       "sha12": "5740dd1838d4"
     }
   },
-  "c9": {
+  "c16": {
     "A": {
       "label": "Gentle Check-In",
       "sha12": "e9f5b58c7bd5"
@@ -89,7 +159,7 @@
       "sha12": "48b3866f9cbf"
     }
   },
-  "c10": {
+  "c17": {
     "A": {
       "label": "Core Four",
       "sha12": "413dd160d16d"
