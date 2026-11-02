@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/order/c1a.jpg",
+    "/workspace/cc-open-1102/staged/order/c1b.jpg",
+    "/workspace/cc-open-1102/staged/order/c2a.jpg",
+    "/workspace/cc-open-1102/staged/order/c2b.jpg",
+    "/workspace/cc-open-1102/staged/order/c3a.jpg",
+    "/workspace/cc-open-1102/staged/order/c3b.jpg",
+    "/workspace/cc-open-1102/staged/order/c4a.jpg",
+    "/workspace/cc-open-1102/staged/order/c4b.jpg",
+    "/workspace/cc-open-1102/staged/order/c5a.jpg",
+    "/workspace/cc-open-1102/staged/order/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Section Order Deck"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Members On Top",
+      "sha12": "0c489a293fa2"
+    },
+    "B": {
+      "label": "Scheduling On Top",
+      "sha12": "cb20bbbbcb87"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Financial On Top",
+      "sha12": "d2c7a13c3af3"
+    },
+    "B": {
+      "label": "Tools On Top",
+      "sha12": "be1421110ec2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Equal 2x2 Grid",
+      "sha12": "6ba13b14ef69"
+    },
+    "B": {
+      "label": "One Column Stack",
+      "sha12": "0350de97ca4e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Sidebar Nav",
+      "sha12": "e3fd4c935d8a"
+    },
+    "B": {
+      "label": "Top Tabs",
+      "sha12": "e03c1f5ede15"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Full Sidebar",
+      "sha12": "75d037db47d1"
+    },
+    "B": {
+      "label": "Icons-Only Sidebar",
+      "sha12": "3b0cc3417459"
+    }
+  }
+}
