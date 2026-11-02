@@ -1,0 +1,28 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/f25-invite-1102/staged/inv/c1a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c1b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c2a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c2b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c3a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c3b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c4a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c4b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c5a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c5b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c6a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c6b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c7a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c7b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c8a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c8b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c9a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c9b.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c10a.jpg",
+    "/workspace/f25-invite-1102/staged/inv/c10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding 25 Invite Deck"
+}

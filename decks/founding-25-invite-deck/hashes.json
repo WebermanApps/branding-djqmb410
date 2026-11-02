@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Starting Something New\"",
+      "sha12": "fb0a0d0f8e33"
+    },
+    "B": {
+      "label": "\"First I Thought Of\"",
+      "sha12": "cb81ccd8110e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "\"A Small Favor\"",
+      "sha12": "bd42fb7abd25"
+    },
+    "B": {
+      "label": "\"Quick Story\"",
+      "sha12": "f7d7504ecc38"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Why First",
+      "sha12": "2ab79ad28e10"
+    },
+    "B": {
+      "label": "Visit First",
+      "sha12": "686c9e34a15e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Visit-Heavy",
+      "sha12": "032d382626d3"
+    },
+    "B": {
+      "label": "Story-Heavy",
+      "sha12": "ec7df85572cd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Offer First",
+      "sha12": "dee5c968ac74"
+    },
+    "B": {
+      "label": "Date First",
+      "sha12": "b0d5edde5135"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Made For The Lived-In Home\"",
+      "sha12": "6d880d097bee"
+    },
+    "B": {
+      "label": "\"Looked After Like Family\"",
+      "sha12": "895ef5a3160b"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "\"Busy\"",
+      "sha12": "7e7f8452d55e"
+    },
+    "B": {
+      "label": "\"Family\"",
+      "sha12": "6b74858f761c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Dec 15 (Example)",
+      "sha12": "1d6d8b18a4a5"
+    },
+    "B": {
+      "label": "Dec 31 (Example)",
+      "sha12": "5740dd1838d4"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Gentle Check-In",
+      "sha12": "e9f5b58c7bd5"
+    },
+    "B": {
+      "label": "\"Saved You A Spot\"",
+      "sha12": "48b3866f9cbf"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Core Four",
+      "sha12": "413dd160d16d"
+    },
+    "B": {
+      "label": "Founding Pin Instead Of Filter",
+      "sha12": "0c3b66a9b5ef"
+    }
+  }
+}
