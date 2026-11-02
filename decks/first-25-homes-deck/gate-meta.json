@@ -1,0 +1,20 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/f25/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c5b.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c6a.jpg",
+    "/workspace/warm-launch-1102/staged/f25/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "First 25 Homes Deck"
+}

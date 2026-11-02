@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Share The Count",
+      "sha12": "44fcbc7916ad"
+    },
+    "B": {
+      "label": "Personal Ask Only",
+      "sha12": "0f60a140113a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Family First",
+      "sha12": "295f254cd2cf"
+    },
+    "B": {
+      "label": "Friends First",
+      "sha12": "1a1cd052fbc5"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Set Date",
+      "sha12": "48086f0a53a9"
+    },
+    "B": {
+      "label": "When Full",
+      "sha12": "fa76f075aed8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "First Pick Of Times",
+      "sha12": "cfed6ea40c63"
+    },
+    "B": {
+      "label": "Free Furnace Filter",
+      "sha12": "3d617f2841e0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Round Terracotta Seal",
+      "sha12": "26d537114490"
+    },
+    "B": {
+      "label": "Lagoon Ribbon Tag",
+      "sha12": "403f6f657607"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Handwritten Note",
+      "sha12": "f23da9b0eccc"
+    },
+    "B": {
+      "label": "Same-Day Text",
+      "sha12": "19b8cce4a1db"
+    }
+  }
+}
