@@ -1,0 +1,20 @@
+{
+  "category": "marketing-ideas",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/seq/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c5b.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c6a.jpg",
+    "/workspace/warm-launch-1102/staged/seq/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Personal Outreach Sequence Deck"
+}

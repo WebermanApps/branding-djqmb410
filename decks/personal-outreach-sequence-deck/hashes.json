@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Text, Video, Mailer",
+      "sha12": "4fe3b6c5e6c8"
+    },
+    "B": {
+      "label": "Mailer, Text, Video",
+      "sha12": "c8d8ef41dba5"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "\"I Started Something\"",
+      "sha12": "eb635f2673aa"
+    },
+    "B": {
+      "label": "\"Quick Favor\"",
+      "sha12": "09128b6beed4"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Three Days",
+      "sha12": "3b663d7aece9"
+    },
+    "B": {
+      "label": "One Week",
+      "sha12": "84e8cef41833"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Personal Text",
+      "sha12": "c64464a6d51a"
+    },
+    "B": {
+      "label": "Personal Mailer",
+      "sha12": "e8e87a78e989"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "\"Save You A Spot?\"",
+      "sha12": "1e10b007709d"
+    },
+    "B": {
+      "label": "\"Closes Friday\"",
+      "sha12": "3ff40b3792cd"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Text",
+      "sha12": "dbacbfcaaa70"
+    },
+    "B": {
+      "label": "Email",
+      "sha12": "e9d795ec23f0"
+    }
+  }
+}
