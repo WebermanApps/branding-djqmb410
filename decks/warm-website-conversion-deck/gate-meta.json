@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/site/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/site/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/site/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/site/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/site/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/site/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/site/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/site/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/site/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/site/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Warm Website Conversion Deck"
+}

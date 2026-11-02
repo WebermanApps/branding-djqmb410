@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "d3b74b241812"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "859fb14ca811"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Personal Friends Page",
+      "sha12": "13a79d1ee6e1"
+    },
+    "B": {
+      "label": "Regular Homepage",
+      "sha12": "16af278ce5e2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Email Only",
+      "sha12": "54db16812406"
+    },
+    "B": {
+      "label": "Name, Email, Zip",
+      "sha12": "ab14b2048ccd"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Founding Count",
+      "sha12": "242077f17474"
+    },
+    "B": {
+      "label": "Machan's Story",
+      "sha12": "188fba57797a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Question Form",
+      "sha12": "3cc7ac8d0cae"
+    },
+    "B": {
+      "label": "QR Chat",
+      "sha12": "e1b74a620f9e"
+    }
+  }
+}
