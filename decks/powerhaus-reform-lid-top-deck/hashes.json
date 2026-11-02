@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Small Nest Logo",
+      "sha12": "c5901649ce1a"
+    },
+    "B": {
+      "label": "Large Nest Logo",
+      "sha12": "48ee5603250f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Full Color Print",
+      "sha12": "0b16fa358066"
+    },
+    "B": {
+      "label": "Blind Emboss",
+      "sha12": "3034fd103f6f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "PowerHaus",
+      "sha12": "c48d3b449946"
+    },
+    "B": {
+      "label": "The WellNest",
+      "sha12": "1428954e17df"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "REFORM In Slate",
+      "sha12": "ec3d3025d02b"
+    },
+    "B": {
+      "label": "REFORM In Ribbon Blue",
+      "sha12": "fe991197e77f"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Thin Blue Ring",
+      "sha12": "f9584415d382"
+    },
+    "B": {
+      "label": "Wide Blue Ring",
+      "sha12": "60789a58b8aa"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "The Cup After The Class",
+      "sha12": "41c492c8a592"
+    },
+    "B": {
+      "label": "PowerHaus · The WellNest",
+      "sha12": "6903a71e238b"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Gauge Dots On Lid",
+      "sha12": "965dff935427"
+    },
+    "B": {
+      "label": "Single Blue Dot",
+      "sha12": "c817bfcc13f5"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Nest Over REFORM",
+      "sha12": "6ff5de0b6eb3"
+    },
+    "B": {
+      "label": "Nest Over PowerHaus",
+      "sha12": "a006cc99de67"
+    }
+  }
+}

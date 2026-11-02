@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Smaller Logo",
+      "sha12": "321a99e54958"
+    },
+    "B": {
+      "label": "Larger Logo",
+      "sha12": "406987629924"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Smaller REFORM",
+      "sha12": "3e483a02737f"
+    },
+    "B": {
+      "label": "Larger REFORM",
+      "sha12": "cec9b08fa059"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Smaller Subline",
+      "sha12": "949f06da3665"
+    },
+    "B": {
+      "label": "Larger Subline",
+      "sha12": "776f4d29068c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Smaller Ingredients",
+      "sha12": "3c777e78a42c"
+    },
+    "B": {
+      "label": "Larger Ingredients",
+      "sha12": "449e87f21327"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Smaller Dots",
+      "sha12": "aad8fddbd2cf"
+    },
+    "B": {
+      "label": "Larger Dots",
+      "sha12": "8475949cabdf"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Smaller Label",
+      "sha12": "42acef573b9e"
+    },
+    "B": {
+      "label": "Larger Label",
+      "sha12": "cad483e61662"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Logo Leads",
+      "sha12": "3fef2f73cae8"
+    },
+    "B": {
+      "label": "Name Leads",
+      "sha12": "7476f0dda796"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Compact Lower Block",
+      "sha12": "2f67e0914d19"
+    },
+    "B": {
+      "label": "Bigger Lower Block",
+      "sha12": "4d25e7fbf8d2"
+    }
+  }
+}

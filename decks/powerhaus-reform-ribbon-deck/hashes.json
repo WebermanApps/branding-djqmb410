@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Thin Bar",
+      "sha12": "6c9823a1a81d"
+    },
+    "B": {
+      "label": "Slash",
+      "sha12": "5ad3ccd23ed0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Small Diamond",
+      "sha12": "d9c76b765674"
+    },
+    "B": {
+      "label": "Small Star",
+      "sha12": "0c8ea7ae6129"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Open Ring",
+      "sha12": "20351f190e12"
+    },
+    "B": {
+      "label": "Double Dot",
+      "sha12": "7cfa6cb0831f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Short Dash",
+      "sha12": "cd017512545f"
+    },
+    "B": {
+      "label": "Long Hairline Rule",
+      "sha12": "ef2af3ce96f1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plus",
+      "sha12": "0e48de0877e5"
+    },
+    "B": {
+      "label": "Times",
+      "sha12": "93da276e6dc2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Smaller Ribbon Text",
+      "sha12": "1e60272f7718"
+    },
+    "B": {
+      "label": "Larger Ribbon Text",
+      "sha12": "dad2f9138d70"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Light Weight",
+      "sha12": "1ae77d3c4cfc"
+    },
+    "B": {
+      "label": "Bold Weight",
+      "sha12": "b7e15b654423"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Tighter Ribbon Text",
+      "sha12": "1034684fb3e4"
+    },
+    "B": {
+      "label": "Wider Ribbon Text",
+      "sha12": "438a7d88d846"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "All Caps Small",
+      "sha12": "44beaaedab39"
+    },
+    "B": {
+      "label": "All Caps Bold",
+      "sha12": "e972011466a6"
+    }
+  }
+}

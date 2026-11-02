@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Light REFORM",
+      "sha12": "b7f9a0980f2d"
+    },
+    "B": {
+      "label": "Semibold REFORM",
+      "sha12": "6542ab74eca1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Ribbon Blue",
+      "sha12": "a4bc29d2e017"
+    },
+    "B": {
+      "label": "Charcoal",
+      "sha12": "05aa7cd75261"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Gray Filled Dots",
+      "sha12": "129cd2821c7d"
+    },
+    "B": {
+      "label": "Bars Instead Of Dots",
+      "sha12": "58b917213463"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Match The Sans",
+      "sha12": "4e4f11d4096f"
+    },
+    "B": {
+      "label": "Typewriter Kept, Smaller",
+      "sha12": "71cec14587aa"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Italic Subline",
+      "sha12": "07734ce01123"
+    },
+    "B": {
+      "label": "Medium Subline",
+      "sha12": "68ca47cb0332"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Plus Sign",
+      "sha12": "666e30d888d4"
+    },
+    "B": {
+      "label": "Ampersand",
+      "sha12": "9d51f5e89e5d"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Small Caps",
+      "sha12": "cfaa05296a41"
+    },
+    "B": {
+      "label": "Medium Lowercase",
+      "sha12": "bc0afc65bebe"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Hairline Above Ingredients",
+      "sha12": "9f8833165412"
+    },
+    "B": {
+      "label": "Blue Dash Under REFORM",
+      "sha12": "7d19b9bbc459"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Soft Logo",
+      "sha12": "8b16c816dd55"
+    },
+    "B": {
+      "label": "Gray Logo",
+      "sha12": "c8e9d1d7ab28"
+    }
+  }
+}

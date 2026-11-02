@@ -1,0 +1,92 @@
+{
+  "c1": {
+    "A": {
+      "label": "Stack Higher",
+      "sha12": "276c10b6990d"
+    },
+    "B": {
+      "label": "Stack Lower",
+      "sha12": "fa5e5842b446"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Logo Closer To REFORM",
+      "sha12": "42999060261c"
+    },
+    "B": {
+      "label": "Logo Further From REFORM",
+      "sha12": "0208053292e1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Subline Tucked Under",
+      "sha12": "2f2ef6415640"
+    },
+    "B": {
+      "label": "Subline With Air",
+      "sha12": "1dde723c3050"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Ingredients Higher",
+      "sha12": "e51b37028626"
+    },
+    "B": {
+      "label": "Ingredients Lower",
+      "sha12": "c82e24aac071"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Dots Close",
+      "sha12": "979882621481"
+    },
+    "B": {
+      "label": "Dots Further Down",
+      "sha12": "c7f090f732ce"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Label Tight",
+      "sha12": "c212a76edd10"
+    },
+    "B": {
+      "label": "Label Open",
+      "sha12": "8d8ff68ac87f"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Dots Tight",
+      "sha12": "43cd270174c2"
+    },
+    "B": {
+      "label": "Dots Spread",
+      "sha12": "49e1d7957beb"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Tighter Tracking",
+      "sha12": "9a1c8e6d4f56"
+    },
+    "B": {
+      "label": "Wider Tracking",
+      "sha12": "2fd664b4ea89"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Centered On The Visible Face",
+      "sha12": "86101c3b7e4c"
+    },
+    "B": {
+      "label": "Left Aligned Beside The Ribbon",
+      "sha12": "839a25198565"
+    }
+  }
+}
