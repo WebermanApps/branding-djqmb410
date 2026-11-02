@@ -2,23 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "plan-services-deck",
-   "name": "Plan Services Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-services-deck/",
-   "total": 97,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T21:23:30+07:00",
-   "note": "Machan Nov 2 2026 (UpKeep Develop) — one service per card: swipe right Include In Plans, left Not In Any Plan, Include In Extras button. Replaces the 3 plan idea decks.",
-   "requested_at": "2026-11-02T21:23:30+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "97 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-02"
-  },
-  {
    "id": "powerhaus-reform-sizing-deck",
    "name": "PowerHaus Reform Sizing Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-sizing-deck/",
@@ -123,40 +106,6 @@
    "new": true,
    "blurb": "10 cards, ready now, with Notes",
    "agent": "wellnest",
-   "made": "2026-11-02"
-  },
-  {
-   "id": "covered-this-month-deck",
-   "name": "Covered This Month Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/covered-this-month-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T14:50:07+07:00",
-   "note": "Machan Nov 2 2026 — Covered This Month tile + New Prices in the member app.",
-   "requested_at": "2026-11-02T14:50:07+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-02"
-  },
-  {
-   "id": "new-prices-deck",
-   "name": "New Prices Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-prices-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T14:50:07+07:00",
-   "note": "Machan Nov 2 2026 — Covered This Month tile + New Prices in the member app.",
-   "requested_at": "2026-11-02T14:50:07+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "4 cards, ready now, with Notes",
-   "agent": "branding",
    "made": "2026-11-02"
   },
   {
@@ -969,8 +918,41 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-11-02T21:23:30+07:00",
+ "updated": "2026-11-02T22:00:26+07:00",
  "done": [
+  {
+   "id": "new-prices-deck",
+   "at": "2026-11-02T20:29:41+07:00",
+   "done_at": "2026-11-02T20:29:41+07:00",
+   "name": "New Prices Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-prices-deck/",
+   "total": 4,
+   "answered": 4,
+   "status": "done",
+   "agent": "branding"
+  },
+  {
+   "id": "covered-this-month-deck",
+   "at": "2026-11-02T20:28:54+07:00",
+   "done_at": "2026-11-02T20:28:54+07:00",
+   "name": "Covered This Month Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/covered-this-month-deck/",
+   "total": 5,
+   "answered": 5,
+   "status": "done",
+   "agent": "branding"
+  },
+  {
+   "id": "plan-services-deck",
+   "at": "2026-11-02T21:58:59+07:00",
+   "done_at": "2026-11-02T21:58:59+07:00",
+   "name": "Plan Services Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-services-deck/",
+   "total": 97,
+   "answered": 93,
+   "status": "done",
+   "agent": "branding"
+  },
   {
    "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
    "at": "2026-10-31T13:25:53+07:00",
@@ -3302,23 +3284,6 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "plan-services-deck",
-   "name": "Plan Services Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-services-deck/",
-   "total": 97,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T21:23:30+07:00",
-   "note": "Machan Nov 2 2026 (UpKeep Develop) — one service per card: swipe right Include In Plans, left Not In Any Plan, Include In Extras button. Replaces the 3 plan idea decks.",
-   "requested_at": "2026-11-02T21:23:30+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "97 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-02"
-  },
-  {
    "id": "powerhaus-reform-sizing-deck",
    "name": "PowerHaus Reform Sizing Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-sizing-deck/",
@@ -3423,40 +3388,6 @@
    "new": true,
    "blurb": "10 cards, ready now, with Notes",
    "agent": "wellnest",
-   "made": "2026-11-02"
-  },
-  {
-   "id": "covered-this-month-deck",
-   "name": "Covered This Month Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/covered-this-month-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T14:50:07+07:00",
-   "note": "Machan Nov 2 2026 — Covered This Month tile + New Prices in the member app.",
-   "requested_at": "2026-11-02T14:50:07+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-02"
-  },
-  {
-   "id": "new-prices-deck",
-   "name": "New Prices Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-prices-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-02T14:50:07+07:00",
-   "note": "Machan Nov 2 2026 — Covered This Month tile + New Prices in the member app.",
-   "requested_at": "2026-11-02T14:50:07+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "4 cards, ready now, with Notes",
-   "agent": "branding",
    "made": "2026-11-02"
   },
   {
