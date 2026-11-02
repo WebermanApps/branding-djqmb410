@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Hey, It's Machan\"",
+      "sha12": "0473bef01397"
+    },
+    "B": {
+      "label": "Problem Hook",
+      "sha12": "bb1aae19fe7c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Casual Selfie",
+      "sha12": "12771f2bcccc"
+    },
+    "B": {
+      "label": "Steady Tripod",
+      "sha12": "ae3ea6135bc6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Machan Alone",
+      "sha12": "2a97992713d9"
+    },
+    "B": {
+      "label": "Machan + A Tech",
+      "sha12": "7f1d4c5a8ada"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "By The Van",
+      "sha12": "33b8646b63e6"
+    },
+    "B": {
+      "label": "In A Basement",
+      "sha12": "8ca60327a975"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "\"Be One Of My First 25\"",
+      "sha12": "822b9100cfcb"
+    },
+    "B": {
+      "label": "\"Reply And I'll Save A Spot\"",
+      "sha12": "a4cc55b70047"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "3dfb7a8d0023"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "90da7210c81c"
+    }
+  }
+}
