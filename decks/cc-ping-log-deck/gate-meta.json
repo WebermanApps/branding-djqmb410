@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/ping/c1a.jpg",
+    "/workspace/cc-open-1102/staged/ping/c1b.jpg",
+    "/workspace/cc-open-1102/staged/ping/c2a.jpg",
+    "/workspace/cc-open-1102/staged/ping/c2b.jpg",
+    "/workspace/cc-open-1102/staged/ping/c3a.jpg",
+    "/workspace/cc-open-1102/staged/ping/c3b.jpg",
+    "/workspace/cc-open-1102/staged/ping/c4a.jpg",
+    "/workspace/cc-open-1102/staged/ping/c4b.jpg",
+    "/workspace/cc-open-1102/staged/ping/c5a.jpg",
+    "/workspace/cc-open-1102/staged/ping/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Ping Log Deck"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact Rows",
+      "sha12": "1dc0a6470410"
+    },
+    "B": {
+      "label": "Roomy Rows",
+      "sha12": "5d957b321bad"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Colour Per Type",
+      "sha12": "4a4368641d3a"
+    },
+    "B": {
+      "label": "One Plain Style",
+      "sha12": "6bdb95ffaef5"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Grouped By Day",
+      "sha12": "3447a226b1b2"
+    },
+    "B": {
+      "label": "One Running List",
+      "sha12": "4b0ecbbd7f3b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Pinned Red On Top",
+      "sha12": "69f768732a6c"
+    },
+    "B": {
+      "label": "In Line With A Red Edge",
+      "sha12": "06bde1d4c62e"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Clock Time",
+      "sha12": "cacd6a3e0200"
+    },
+    "B": {
+      "label": "Time Ago",
+      "sha12": "782675704302"
+    }
+  }
+}
