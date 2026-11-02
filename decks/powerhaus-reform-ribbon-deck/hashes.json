@@ -2,91 +2,91 @@
   "c1": {
     "A": {
       "label": "Thin Bar",
-      "sha12": "cdbfe5fca62b"
+      "sha12": "663e19a5bbd0"
     },
     "B": {
       "label": "Slash",
-      "sha12": "985ea7405124"
+      "sha12": "16917f6d1ac0"
     }
   },
   "c2": {
     "A": {
       "label": "Small Diamond",
-      "sha12": "79b534b5a09f"
+      "sha12": "4899f1882a28"
     },
     "B": {
       "label": "Small Star",
-      "sha12": "aeafe22d3022"
+      "sha12": "a34c549db0dc"
     }
   },
   "c3": {
     "A": {
       "label": "Open Ring",
-      "sha12": "3f5baa7bfe7c"
+      "sha12": "3c1098c07580"
     },
     "B": {
       "label": "Double Dot",
-      "sha12": "413d92d025b7"
+      "sha12": "a3916224bbc6"
     }
   },
   "c4": {
     "A": {
       "label": "Short Dash",
-      "sha12": "c7ac0aa2d9f2"
+      "sha12": "fcd13944f21f"
     },
     "B": {
       "label": "Long Hairline Rule",
-      "sha12": "f93776cde787"
+      "sha12": "0ebb642ac77d"
     }
   },
   "c5": {
     "A": {
       "label": "Plus",
-      "sha12": "af7edb4e9721"
+      "sha12": "49f85f07c7e7"
     },
     "B": {
       "label": "Times",
-      "sha12": "6072b94f287b"
+      "sha12": "ca9d32c9c8ba"
     }
   },
   "c6": {
     "A": {
       "label": "Smaller Ribbon Text",
-      "sha12": "ea3e79c37f8a"
+      "sha12": "a66426b13f28"
     },
     "B": {
       "label": "Larger Ribbon Text",
-      "sha12": "b11802265467"
+      "sha12": "7cd72fb13adf"
     }
   },
   "c7": {
     "A": {
       "label": "Light Weight",
-      "sha12": "95895b0e9a0d"
+      "sha12": "0193fe06046b"
     },
     "B": {
       "label": "Bold Weight",
-      "sha12": "b2913f5deee8"
+      "sha12": "4165e41ae513"
     }
   },
   "c8": {
     "A": {
       "label": "Tighter Ribbon Text",
-      "sha12": "fc423e7ec4ce"
+      "sha12": "ba5eec3c23ae"
     },
     "B": {
       "label": "Wider Ribbon Text",
-      "sha12": "bd3886775ba3"
+      "sha12": "819e7ad97ff8"
     }
   },
   "c9": {
     "A": {
       "label": "All Caps Small",
-      "sha12": "15a8491a56c6"
+      "sha12": "8a9e3f57e91b"
     },
     "B": {
       "label": "All Caps Bold",
-      "sha12": "24ff11bd96b6"
+      "sha12": "ac3739eb1aec"
     }
   }
 }

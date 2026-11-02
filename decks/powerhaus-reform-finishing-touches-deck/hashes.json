@@ -2,91 +2,91 @@
   "c1": {
     "A": {
       "label": "Light REFORM",
-      "sha12": "992620912d97"
+      "sha12": "b4a3ad81cf54"
     },
     "B": {
       "label": "Semibold REFORM",
-      "sha12": "d58f9774c944"
+      "sha12": "aee98e5068c0"
     }
   },
   "c2": {
     "A": {
       "label": "Ribbon Blue",
-      "sha12": "779c86bae04d"
+      "sha12": "e9c0e007f12d"
     },
     "B": {
       "label": "Charcoal",
-      "sha12": "2f67ec1ca533"
+      "sha12": "52dc17db99e1"
     }
   },
   "c3": {
     "A": {
       "label": "Gray Filled Dots",
-      "sha12": "cde65867cd92"
+      "sha12": "fac465793861"
     },
     "B": {
       "label": "Bars Instead Of Dots",
-      "sha12": "11f43f29ff77"
+      "sha12": "9202ca54f0ae"
     }
   },
   "c4": {
     "A": {
       "label": "Match The Sans",
-      "sha12": "3ce80c9e351f"
+      "sha12": "d0fd64eb24fb"
     },
     "B": {
       "label": "Typewriter Kept, Smaller",
-      "sha12": "b1cd0c56f341"
+      "sha12": "7c0a84e73a9b"
     }
   },
   "c5": {
     "A": {
       "label": "Italic Subline",
-      "sha12": "bb3d620bbf17"
+      "sha12": "93f99627899c"
     },
     "B": {
       "label": "Medium Subline",
-      "sha12": "34066d1de56d"
+      "sha12": "40b9d4b477d0"
     }
   },
   "c6": {
     "A": {
       "label": "Plus Sign",
-      "sha12": "073937176dcd"
+      "sha12": "eaae054b83f8"
     },
     "B": {
       "label": "Ampersand",
-      "sha12": "d7c371549758"
+      "sha12": "28c972ae1201"
     }
   },
   "c7": {
     "A": {
       "label": "Small Caps",
-      "sha12": "4f9558056302"
+      "sha12": "4f6aecf83658"
     },
     "B": {
       "label": "Medium Lowercase",
-      "sha12": "29f4168c5043"
+      "sha12": "9b27eae7bf1d"
     }
   },
   "c8": {
     "A": {
       "label": "Hairline Above Ingredients",
-      "sha12": "82a3d690bd42"
+      "sha12": "5ac77a26ee44"
     },
     "B": {
       "label": "Blue Dash Under REFORM",
-      "sha12": "a8b191c146d6"
+      "sha12": "6213d607db5e"
     }
   },
   "c9": {
     "A": {
       "label": "Soft Logo",
-      "sha12": "f1326abb7d14"
+      "sha12": "6137233a8801"
     },
     "B": {
       "label": "Gray Logo",
-      "sha12": "53c77ecab42c"
+      "sha12": "afdfcbee10c4"
     }
   }
 }

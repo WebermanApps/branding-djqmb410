@@ -2,91 +2,91 @@
   "c1": {
     "A": {
       "label": "Stack Higher",
-      "sha12": "b91c3c8d0738"
+      "sha12": "26b4edb381c4"
     },
     "B": {
       "label": "Stack Lower",
-      "sha12": "21dfc283d6fe"
+      "sha12": "097da3b4be4f"
     }
   },
   "c2": {
     "A": {
       "label": "Logo Closer To REFORM",
-      "sha12": "fea4c45e2a57"
+      "sha12": "794b94daf372"
     },
     "B": {
       "label": "Logo Further From REFORM",
-      "sha12": "f0c1a55fac7c"
+      "sha12": "7dd51c36b420"
     }
   },
   "c3": {
     "A": {
       "label": "Subline Tucked Under",
-      "sha12": "7e650fc287db"
+      "sha12": "ab0ba4bab384"
     },
     "B": {
       "label": "Subline With Air",
-      "sha12": "98d07a0b30d7"
+      "sha12": "1b5399c4d63a"
     }
   },
   "c4": {
     "A": {
       "label": "Ingredients Higher",
-      "sha12": "e2f4ccd1ed80"
+      "sha12": "d27331cad651"
     },
     "B": {
       "label": "Ingredients Lower",
-      "sha12": "cc7d78d09c8d"
+      "sha12": "3e43d42ad1c8"
     }
   },
   "c5": {
     "A": {
       "label": "Dots Close",
-      "sha12": "3aaaf5a57e1a"
+      "sha12": "9b3ca377ced1"
     },
     "B": {
       "label": "Dots Further Down",
-      "sha12": "5db4be698b92"
+      "sha12": "29155a6bffa2"
     }
   },
   "c6": {
     "A": {
       "label": "Label Tight",
-      "sha12": "3ab810ef7198"
+      "sha12": "071ddfd14382"
     },
     "B": {
       "label": "Label Open",
-      "sha12": "04ec78371559"
+      "sha12": "5176038dcb08"
     }
   },
   "c7": {
     "A": {
       "label": "Dots Tight",
-      "sha12": "e5bb2b593123"
+      "sha12": "c4abf39ad0e2"
     },
     "B": {
       "label": "Dots Spread",
-      "sha12": "aeab23c93a55"
+      "sha12": "eb08386cd139"
     }
   },
   "c8": {
     "A": {
       "label": "Tighter Tracking",
-      "sha12": "b19f64e84216"
+      "sha12": "b3477f2fdea2"
     },
     "B": {
       "label": "Wider Tracking",
-      "sha12": "03e99776581b"
+      "sha12": "93772cef5733"
     }
   },
   "c9": {
     "A": {
       "label": "Centered On The Can",
-      "sha12": "b22f3d61eac1"
+      "sha12": "7d2003b81b93"
     },
     "B": {
       "label": "Left Aligned",
-      "sha12": "5d4b00a23ba1"
+      "sha12": "e5cb0f1ebaf1"
     }
   }
 }
