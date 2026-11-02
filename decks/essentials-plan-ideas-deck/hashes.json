@@ -1,0 +1,352 @@
+{
+  "c1": {
+    "A": {
+      "label": "Fall Furnace Tune-Up",
+      "sha12": "1e7a62b839bc"
+    },
+    "B": {
+      "label": "Fall Furnace Tune-Up (Text Tile)",
+      "sha12": "97c3d5ac7db7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Spring AC Tune-Up",
+      "sha12": "13bc45c1801d"
+    },
+    "B": {
+      "label": "Spring AC Tune-Up (Text Tile)",
+      "sha12": "64155c625818"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Furnace Filter Changes",
+      "sha12": "8066988fe6ff"
+    },
+    "B": {
+      "label": "Furnace Filter Changes (Text Tile)",
+      "sha12": "ee9ec91670c9"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Water Heater Flush",
+      "sha12": "64dfa171bbc9"
+    },
+    "B": {
+      "label": "Water Heater Flush (Text Tile)",
+      "sha12": "a669a275c403"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Dryer Vent Cleaning",
+      "sha12": "694feed6cb07"
+    },
+    "B": {
+      "label": "Dryer Vent Cleaning (Text Tile)",
+      "sha12": "efd3e32d7297"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Smoke And CO Checks",
+      "sha12": "03c7b52e471b"
+    },
+    "B": {
+      "label": "Smoke And CO Checks (Text Tile)",
+      "sha12": "2d340c4808b0"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Mold And Moisture Scan",
+      "sha12": "9bc53cb61a9e"
+    },
+    "B": {
+      "label": "Mold And Moisture Scan (Text Tile)",
+      "sha12": "c7f47c695411"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Recall Monitoring",
+      "sha12": "a39b309fd66f"
+    },
+    "B": {
+      "label": "Recall Monitoring (Text Tile)",
+      "sha12": "0bdc8285faf7"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Visit Reports",
+      "sha12": "6dc5b1a934cd"
+    },
+    "B": {
+      "label": "Visit Reports (Text Tile)",
+      "sha12": "575f8b7d4f5d"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Proof Pack",
+      "sha12": "c936b858f535"
+    },
+    "B": {
+      "label": "Proof Pack (Text Tile)",
+      "sha12": "53fec8e4fda7"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Home Record",
+      "sha12": "89bd0c583303"
+    },
+    "B": {
+      "label": "Home Record (Text Tile)",
+      "sha12": "2491e3bc8957"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Roof Drone Inspection Frequency",
+      "sha12": "7b9b1ed6d3ef"
+    },
+    "B": {
+      "label": "Roof Drone Inspection Frequency (Text Tile)",
+      "sha12": "18a41f9b740b"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Drone Gutter Check",
+      "sha12": "4d4e5474a90f"
+    },
+    "B": {
+      "label": "Drone Gutter Check (Text Tile)",
+      "sha12": "6f0b576d71a7"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Drone Roof Photo Saved To Home Record",
+      "sha12": "94b46b0f02b4"
+    },
+    "B": {
+      "label": "Drone Roof Photo Saved To Home Record (Text Tile)",
+      "sha12": "2fe73386dfba"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Winter Freeze Prep Walkthrough",
+      "sha12": "c2731c3f9df6"
+    },
+    "B": {
+      "label": "Winter Freeze Prep Walkthrough (Text Tile)",
+      "sha12": "3545fe909696"
+    }
+  },
+  "c16": {
+    "A": {
+      "label": "Outdoor Faucet Shut-Off And Drain",
+      "sha12": "8e758899a37d"
+    },
+    "B": {
+      "label": "Outdoor Faucet Shut-Off And Drain (Text Tile)",
+      "sha12": "257ec101074a"
+    }
+  },
+  "c17": {
+    "A": {
+      "label": "Pipe Insulation Check",
+      "sha12": "541c30cb9a68"
+    },
+    "B": {
+      "label": "Pipe Insulation Check (Text Tile)",
+      "sha12": "837176478cdc"
+    }
+  },
+  "c18": {
+    "A": {
+      "label": "Thermostat Battery And Settings Check",
+      "sha12": "ee532cf95cb0"
+    },
+    "B": {
+      "label": "Thermostat Battery And Settings Check (Text Tile)",
+      "sha12": "8fe93b1c3823"
+    }
+  },
+  "c19": {
+    "A": {
+      "label": "Sump Pump Test",
+      "sha12": "d56fce39fd0e"
+    },
+    "B": {
+      "label": "Sump Pump Test (Text Tile)",
+      "sha12": "046f8aec5afb"
+    }
+  },
+  "c20": {
+    "A": {
+      "label": "Main Water Shut-Off Tag",
+      "sha12": "37427fbd4048"
+    },
+    "B": {
+      "label": "Main Water Shut-Off Tag (Text Tile)",
+      "sha12": "c486b74f52d8"
+    }
+  },
+  "c21": {
+    "A": {
+      "label": "Electrical Panel Label Check",
+      "sha12": "0285fb488bf9"
+    },
+    "B": {
+      "label": "Electrical Panel Label Check (Text Tile)",
+      "sha12": "f5475c80fdc8"
+    }
+  },
+  "c22": {
+    "A": {
+      "label": "Fire Extinguisher Check",
+      "sha12": "a7c53ad62de5"
+    },
+    "B": {
+      "label": "Fire Extinguisher Check (Text Tile)",
+      "sha12": "ac4f5e824fb1"
+    }
+  },
+  "c23": {
+    "A": {
+      "label": "Washing Machine Hose Check",
+      "sha12": "894d8c96285b"
+    },
+    "B": {
+      "label": "Washing Machine Hose Check (Text Tile)",
+      "sha12": "2a4025e581ed"
+    }
+  },
+  "c24": {
+    "A": {
+      "label": "Toilet Leak Dye Test",
+      "sha12": "87b9f308aca7"
+    },
+    "B": {
+      "label": "Toilet Leak Dye Test (Text Tile)",
+      "sha12": "f409886f30a5"
+    }
+  },
+  "c25": {
+    "A": {
+      "label": "Caulk Check At Tubs And Sinks",
+      "sha12": "662d37172a5a"
+    },
+    "B": {
+      "label": "Caulk Check At Tubs And Sinks (Text Tile)",
+      "sha12": "bfcd4a5cac0b"
+    }
+  },
+  "c26": {
+    "A": {
+      "label": "Range Hood Filter Clean",
+      "sha12": "48a66019a0fb"
+    },
+    "B": {
+      "label": "Range Hood Filter Clean (Text Tile)",
+      "sha12": "ee6e1a0219aa"
+    }
+  },
+  "c27": {
+    "A": {
+      "label": "Fridge Coil Cleaning",
+      "sha12": "2e30f3f621dd"
+    },
+    "B": {
+      "label": "Fridge Coil Cleaning (Text Tile)",
+      "sha12": "7254553030df"
+    }
+  },
+  "c28": {
+    "A": {
+      "label": "Fridge Water Filter Swap",
+      "sha12": "9b7885444a4d"
+    },
+    "B": {
+      "label": "Fridge Water Filter Swap (Text Tile)",
+      "sha12": "b54662754c6b"
+    }
+  },
+  "c29": {
+    "A": {
+      "label": "Garage Door Lube",
+      "sha12": "ef3c40f51c48"
+    },
+    "B": {
+      "label": "Garage Door Lube (Text Tile)",
+      "sha12": "599dbb35b1cf"
+    }
+  },
+  "c30": {
+    "A": {
+      "label": "GFCI Outlet Tests",
+      "sha12": "6226b759c5af"
+    },
+    "B": {
+      "label": "GFCI Outlet Tests (Text Tile)",
+      "sha12": "6537617c0dae"
+    }
+  },
+  "c31": {
+    "A": {
+      "label": "Basement Window Well Check",
+      "sha12": "83386ad564af"
+    },
+    "B": {
+      "label": "Basement Window Well Check (Text Tile)",
+      "sha12": "5aa83908ba8e"
+    }
+  },
+  "c32": {
+    "A": {
+      "label": "Grading And Downspout Check",
+      "sha12": "d63762049c36"
+    },
+    "B": {
+      "label": "Grading And Downspout Check (Text Tile)",
+      "sha12": "6489ef23e39b"
+    }
+  },
+  "c33": {
+    "A": {
+      "label": "Seasonal Home Checklist Email",
+      "sha12": "04015a510ac0"
+    },
+    "B": {
+      "label": "Seasonal Home Checklist Email (Text Tile)",
+      "sha12": "9fd32a2f4908"
+    }
+  },
+  "c34": {
+    "A": {
+      "label": "Small Fix Allowance",
+      "sha12": "d7a57aab0251"
+    },
+    "B": {
+      "label": "Small Fix Allowance (Text Tile)",
+      "sha12": "cf29e5030706"
+    }
+  },
+  "c35": {
+    "A": {
+      "label": "Member Repair Discount",
+      "sha12": "ab6bee20117e"
+    },
+    "B": {
+      "label": "Member Repair Discount (Text Tile)",
+      "sha12": "f57d1b989b01"
+    }
+  }
+}
