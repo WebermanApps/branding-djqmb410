@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"2 Years For The Price Of 1\"",
+      "sha12": "f64a08b8bf7c"
+    },
+    "B": {
+      "label": "\"Founding 25: Half Price For 2 Years\"",
+      "sha12": "38240abdfcd8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "2 Years Half Price",
+      "sha12": "b99425bed152"
+    },
+    "B": {
+      "label": "1 Year Half Price",
+      "sha12": "c672e4c3de78"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "1 Year At 30% Off",
+      "sha12": "aa048d9f1770"
+    },
+    "B": {
+      "label": "2 Years At Half Price",
+      "sha12": "e05162d68803"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Offer Both",
+      "sha12": "1623ddab5aeb"
+    },
+    "B": {
+      "label": "One Deal Only",
+      "sha12": "a1710c0c657d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Stack Both",
+      "sha12": "fba3bace3960"
+    },
+    "B": {
+      "label": "Replace It",
+      "sha12": "0b922fd73324"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "\"Be One Of The First 25 Homes\"",
+      "sha12": "323b55e0feba"
+    },
+    "B": {
+      "label": "\"Founding 25\"",
+      "sha12": "70766ead7f70"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "\"First 25 Of 100\"",
+      "sha12": "a590d18926a3"
+    },
+    "B": {
+      "label": "Plain 25",
+      "sha12": "54117ab94adb"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "3 Months Free",
+      "sha12": "51bc08a80b65"
+    },
+    "B": {
+      "label": "Price Locked For Life",
+      "sha12": "cfca2ed98807"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Free Add-Ons Year One",
+      "sha12": "b761c9cd9d8b"
+    },
+    "B": {
+      "label": "Free Moisture Scan",
+      "sha12": "360f03903c17"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Cancel Anytime",
+      "sha12": "3882655788e0"
+    },
+    "B": {
+      "label": "Founding Badge",
+      "sha12": "0cbc6db9011d"
+    }
+  }
+}

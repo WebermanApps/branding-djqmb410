@@ -1,0 +1,28 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/crazy25-1102/staged/c25/c1a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c1b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c2a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c2b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c3a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c3b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c4a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c4b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c5a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c5b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c6a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c6b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c7a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c7b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c8a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c8b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c9a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c9b.jpg",
+    "/workspace/crazy25-1102/staged/c25/c10a.jpg",
+    "/workspace/crazy25-1102/staged/c25/c10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Crazy Founding 25 Offer Deck"
+}
