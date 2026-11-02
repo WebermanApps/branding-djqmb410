@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Free Month Headline",
+      "sha12": "5a0cfd7fd8cb"
+    },
+    "B": {
+      "label": "Cap And Free Month Together",
+      "sha12": "7ef0cd2972f1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "\"First 25 Of 100\"",
+      "sha12": "a4bea34c93ef"
+    },
+    "B": {
+      "label": "\"Saved For You\"",
+      "sha12": "00ca0a9be1f1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Set Date",
+      "sha12": "04c6c989ef60"
+    },
+    "B": {
+      "label": "While Spots Last",
+      "sha12": "cfd0ff409024"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "White With Band",
+      "sha12": "b6f0674471e4"
+    },
+    "B": {
+      "label": "Full Lagoon",
+      "sha12": "444bd1b48edd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Printed Card",
+      "sha12": "61defbb1c308"
+    },
+    "B": {
+      "label": "Digital In A Text",
+      "sha12": "afaa46b06cd2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Founding Number",
+      "sha12": "e26533eea4a3"
+    },
+    "B": {
+      "label": "Hand Signed",
+      "sha12": "68cf51853b91"
+    }
+  }
+}
