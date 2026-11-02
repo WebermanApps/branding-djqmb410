@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "8f06253f0f3e"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "dadaf59e952b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Five Slides",
+      "sha12": "9680056d308c"
+    },
+    "B": {
+      "label": "Seven Slides",
+      "sha12": "a37d7b42530c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Problem, Plan, Join",
+      "sha12": "29126b9f8d82"
+    },
+    "B": {
+      "label": "Visit Step By Step",
+      "sha12": "1ae560faca0a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Checklists",
+      "sha12": "773e97a62570"
+    },
+    "B": {
+      "label": "Task Photos",
+      "sha12": "6d7060d336e2"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Scan The QR",
+      "sha12": "0da68df5fdb7"
+    },
+    "B": {
+      "label": "Comment Ask",
+      "sha12": "062c14c8b4e5"
+    }
+  }
+}

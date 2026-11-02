@@ -1,0 +1,18 @@
+{
+  "category": "social-posts",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/car/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/car/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/car/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/car/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/car/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/car/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/car/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/car/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/car/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/car/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "What Smart Upkeep Does Carousel Deck"
+}
