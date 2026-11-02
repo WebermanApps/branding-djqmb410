@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "3723c146953f"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "088240c44d30"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Handwritten Note",
+      "sha12": "63b00c925d00"
+    },
+    "B": {
+      "label": "Short Printed Letter",
+      "sha12": "003ca8a98334"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Follow-Up Only",
+      "sha12": "a46610f039d2"
+    },
+    "B": {
+      "label": "Whole Warm List",
+      "sha12": "3ae935935f5e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Mailed",
+      "sha12": "f2cb24e6309b"
+    },
+    "B": {
+      "label": "Hand Delivered",
+      "sha12": "5f527dc674fb"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "After The Text",
+      "sha12": "a797069adf84"
+    },
+    "B": {
+      "label": "Card First",
+      "sha12": "92df381c63e1"
+    }
+  }
+}

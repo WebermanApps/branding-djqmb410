@@ -1,0 +1,18 @@
+{
+  "category": "print-collateral",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/mail/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/mail/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Personal Mailer Deck"
+}
