@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warm List Only",
+      "sha12": "3cfb4ee8ba0e"
+    },
+    "B": {
+      "label": "Bring A Friend",
+      "sha12": "57ae1f8b1514"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "20 Minutes",
+      "sha12": "7b0892596f90"
+    },
+    "B": {
+      "label": "30 Minutes",
+      "sha12": "4b7f4e45c529"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Weekday Evening",
+      "sha12": "98d63d3faccf"
+    },
+    "B": {
+      "label": "Sunday Afternoon",
+      "sha12": "a067e0584cdf"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Machan At The Van",
+      "sha12": "4ee589242282"
+    },
+    "B": {
+      "label": "Machan At A Furnace",
+      "sha12": "07791443f1f0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Personal Text",
+      "sha12": "a312a3929152"
+    },
+    "B": {
+      "label": "Personal Email",
+      "sha12": "c4c71bcdcd49"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Spot Held 48 Hours",
+      "sha12": "a6def0f62559"
+    },
+    "B": {
+      "label": "First Pick Of Times",
+      "sha12": "ff55a576dff2"
+    }
+  }
+}
