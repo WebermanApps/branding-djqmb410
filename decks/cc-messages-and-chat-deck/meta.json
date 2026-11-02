@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/msg/c1a.jpg",
+    "/workspace/cc-open-1102/staged/msg/c1b.jpg",
+    "/workspace/cc-open-1102/staged/msg/c2a.jpg",
+    "/workspace/cc-open-1102/staged/msg/c2b.jpg",
+    "/workspace/cc-open-1102/staged/msg/c3a.jpg",
+    "/workspace/cc-open-1102/staged/msg/c3b.jpg",
+    "/workspace/cc-open-1102/staged/msg/c4a.jpg",
+    "/workspace/cc-open-1102/staged/msg/c4b.jpg",
+    "/workspace/cc-open-1102/staged/msg/c5a.jpg",
+    "/workspace/cc-open-1102/staged/msg/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Messages And Chat Deck"
+}

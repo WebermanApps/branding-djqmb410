@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Soft Rounded Bubbles",
+      "sha12": "a5c79d4ba72f"
+    },
+    "B": {
+      "label": "Square Blocks",
+      "sha12": "ac5948ea31f8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Terracotta Badge",
+      "sha12": "97e8d3313cd2"
+    },
+    "B": {
+      "label": "Lagoon Blue Badge",
+      "sha12": "f4798218669b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Show Quick Replies",
+      "sha12": "6434a02e4f25"
+    },
+    "B": {
+      "label": "No Quick Replies",
+      "sha12": "04432d585d4f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Show AI Summary",
+      "sha12": "9d94dee8a3ff"
+    },
+    "B": {
+      "label": "No AI Summary",
+      "sha12": "63a8796494cf"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Newest First",
+      "sha12": "5da6930ad081"
+    },
+    "B": {
+      "label": "Open First",
+      "sha12": "5776209d9bec"
+    }
+  }
+}
