@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Printed Card",
+      "sha12": "5d5affdb4d42"
+    },
+    "B": {
+      "label": "Sent By Text",
+      "sha12": "67542926e7a4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Founding Number",
+      "sha12": "9994f7c1f8c0"
+    },
+    "B": {
+      "label": "Hand Signature",
+      "sha12": "e74e3d2b46a2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Side By Side",
+      "sha12": "380f6fc84cd7"
+    },
+    "B": {
+      "label": "2-Year Hero",
+      "sha12": "f7e6f24b7693"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Personal Text First (then video, mailer last)",
+      "sha12": "62c944ae9d0c"
+    },
+    "B": {
+      "label": "Personal Mailer First (then text, video)",
+      "sha12": "29210cb2396c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Both At The Bottom",
+      "sha12": "1a1d451a0fae"
+    },
+    "B": {
+      "label": "Number Top, Signature Bottom",
+      "sha12": "871ee42b2156"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "One Big QR",
+      "sha12": "d94315ec3765"
+    },
+    "B": {
+      "label": "Small QR With A Line",
+      "sha12": "52aa02f8deb1"
+    }
+  }
+}

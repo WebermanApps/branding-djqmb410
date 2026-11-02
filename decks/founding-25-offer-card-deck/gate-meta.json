@@ -1,0 +1,20 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/f25-card-1102/staged/card/c1a.jpg",
+    "/workspace/f25-card-1102/staged/card/c1b.jpg",
+    "/workspace/f25-card-1102/staged/card/c2a.jpg",
+    "/workspace/f25-card-1102/staged/card/c2b.jpg",
+    "/workspace/f25-card-1102/staged/card/c3a.jpg",
+    "/workspace/f25-card-1102/staged/card/c3b.jpg",
+    "/workspace/f25-card-1102/staged/card/c4a.jpg",
+    "/workspace/f25-card-1102/staged/card/c4b.jpg",
+    "/workspace/f25-card-1102/staged/card/c5a.jpg",
+    "/workspace/f25-card-1102/staged/card/c5b.jpg",
+    "/workspace/f25-card-1102/staged/card/c6a.jpg",
+    "/workspace/f25-card-1102/staged/card/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Founding 25 Offer Card Deck"
+}
