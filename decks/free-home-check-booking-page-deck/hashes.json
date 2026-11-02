@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"Home Care, On Schedule\"",
+      "sha12": "6d043ecdf3b6"
+    },
+    "B": {
+      "label": "\"Your Home, Looked After\"",
+      "sha12": "85baf4a6ca81"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "20 Minutes",
+      "sha12": "c508b84aa136"
+    },
+    "B": {
+      "label": "45 Minutes",
+      "sha12": "adead8446a54"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Slot Picker",
+      "sha12": "7fc53ec87fbf"
+    },
+    "B": {
+      "label": "Request And Confirm",
+      "sha12": "e7a9583df89d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Email Only",
+      "sha12": "0ea8b1c40706"
+    },
+    "B": {
+      "label": "Name, Email, Zip",
+      "sha12": "2bf5c19a59bb"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Confirmation Email",
+      "sha12": "0a73c8253331"
+    },
+    "B": {
+      "label": "Personal Text",
+      "sha12": "2cb6fd0d30c6"
+    }
+  }
+}

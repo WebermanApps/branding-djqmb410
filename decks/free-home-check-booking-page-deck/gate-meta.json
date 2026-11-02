@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/book/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/book/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/book/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/book/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/book/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/book/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/book/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/book/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/book/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/book/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Free Home Check Booking Page Deck"
+}
