@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Small Dot",
+      "sha12": "a32ba79b8c87"
+    },
+    "B": {
+      "label": "Full-Colour Box",
+      "sha12": "f8ef9b6fe469"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Auto-Reorder",
+      "sha12": "67dfe82aac83"
+    },
+    "B": {
+      "label": "Always Ask",
+      "sha12": "cb96786cc55a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Auto-Approve Under A Limit",
+      "sha12": "d022f4783713"
+    },
+    "B": {
+      "label": "Approve Every Order",
+      "sha12": "7bb28a12f8f7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Simple List",
+      "sha12": "375112f8ad8a"
+    },
+    "B": {
+      "label": "Supplier Cards",
+      "sha12": "17409d509983"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Supplier Name In Full",
+      "sha12": "6d5bf4ba0337"
+    },
+    "B": {
+      "label": "Short Supplier Badge",
+      "sha12": "38fe8ad30338"
+    }
+  }
+}

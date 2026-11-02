@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/tools/c1a.jpg",
+    "/workspace/cc-open-1102/staged/tools/c1b.jpg",
+    "/workspace/cc-open-1102/staged/tools/c2a.jpg",
+    "/workspace/cc-open-1102/staged/tools/c2b.jpg",
+    "/workspace/cc-open-1102/staged/tools/c3a.jpg",
+    "/workspace/cc-open-1102/staged/tools/c3b.jpg",
+    "/workspace/cc-open-1102/staged/tools/c4a.jpg",
+    "/workspace/cc-open-1102/staged/tools/c4b.jpg",
+    "/workspace/cc-open-1102/staged/tools/c5a.jpg",
+    "/workspace/cc-open-1102/staged/tools/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Tools And Order Approval Deck"
+}
