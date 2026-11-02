@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Big Number Only",
+      "sha12": "4de7ed7385ce"
+    },
+    "B": {
+      "label": "Number Plus Sparkline",
+      "sha12": "ba5843004a17"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Monthly View",
+      "sha12": "d4861a1b09bb"
+    },
+    "B": {
+      "label": "Yearly View",
+      "sha12": "ca2759c70cc8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Show Goal Bar",
+      "sha12": "694090d4548e"
+    },
+    "B": {
+      "label": "No Goal Bar",
+      "sha12": "cd48293e1c92"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Failed-Payments Badge",
+      "sha12": "e73cf132949d"
+    },
+    "B": {
+      "label": "No Badge",
+      "sha12": "4b087017cb44"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Members Goal",
+      "sha12": "cb56f9b588f1"
+    },
+    "B": {
+      "label": "Revenue Goal",
+      "sha12": "bb09e26ccda1"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/fin/c1a.jpg",
+    "/workspace/cc-open-1102/staged/fin/c1b.jpg",
+    "/workspace/cc-open-1102/staged/fin/c2a.jpg",
+    "/workspace/cc-open-1102/staged/fin/c2b.jpg",
+    "/workspace/cc-open-1102/staged/fin/c3a.jpg",
+    "/workspace/cc-open-1102/staged/fin/c3b.jpg",
+    "/workspace/cc-open-1102/staged/fin/c4a.jpg",
+    "/workspace/cc-open-1102/staged/fin/c4b.jpg",
+    "/workspace/cc-open-1102/staged/fin/c5a.jpg",
+    "/workspace/cc-open-1102/staged/fin/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Financial Deck"
+}
