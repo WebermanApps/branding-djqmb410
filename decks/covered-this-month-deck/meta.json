@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/price-cover-1102/staged/cover/c1a.jpg",
+    "/workspace/price-cover-1102/staged/cover/c1b.jpg",
+    "/workspace/price-cover-1102/staged/cover/c2a.jpg",
+    "/workspace/price-cover-1102/staged/cover/c2b.jpg",
+    "/workspace/price-cover-1102/staged/cover/c3a.jpg",
+    "/workspace/price-cover-1102/staged/cover/c3b.jpg",
+    "/workspace/price-cover-1102/staged/cover/c4a.jpg",
+    "/workspace/price-cover-1102/staged/cover/c4b.jpg",
+    "/workspace/price-cover-1102/staged/cover/c5a.jpg",
+    "/workspace/price-cover-1102/staged/cover/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Covered This Month Deck"
+}

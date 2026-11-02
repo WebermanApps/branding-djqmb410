@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Big Number Comparison",
+      "sha12": "4a5274c07cf2"
+    },
+    "B": {
+      "label": "Bar Comparison",
+      "sha12": "0e1ba7ee165c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Strip Of Bars",
+      "sha12": "4b2fa6dbe9ad"
+    },
+    "B": {
+      "label": "Strip Of Dots",
+      "sha12": "3af20d2ddcfa"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Covered",
+      "sha12": "a0a7c39b4f62"
+    },
+    "B": {
+      "label": "On Track",
+      "sha12": "d76db6b9a6c7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Gap In Dollars",
+      "sha12": "99b6dcbf9eb3"
+    },
+    "B": {
+      "label": "Gap In Percent",
+      "sha12": "ef4e959d9493"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tile At The Top",
+      "sha12": "8317d3364ce5"
+    },
+    "B": {
+      "label": "Beside Cash On Hand",
+      "sha12": "81e6d00ad520"
+    }
+  }
+}
