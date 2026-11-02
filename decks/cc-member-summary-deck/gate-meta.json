@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/cc-open-1102/staged/mem/c1a.jpg",
+    "/workspace/cc-open-1102/staged/mem/c1b.jpg",
+    "/workspace/cc-open-1102/staged/mem/c2a.jpg",
+    "/workspace/cc-open-1102/staged/mem/c2b.jpg",
+    "/workspace/cc-open-1102/staged/mem/c3a.jpg",
+    "/workspace/cc-open-1102/staged/mem/c3b.jpg",
+    "/workspace/cc-open-1102/staged/mem/c4a.jpg",
+    "/workspace/cc-open-1102/staged/mem/c4b.jpg",
+    "/workspace/cc-open-1102/staged/mem/c5a.jpg",
+    "/workspace/cc-open-1102/staged/mem/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "CC Member Summary Deck"
+}

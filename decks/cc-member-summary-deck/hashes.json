@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tabs",
+      "sha12": "c8e7c8c33a39"
+    },
+    "B": {
+      "label": "One Long Scroll",
+      "sha12": "2d97e15443f6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Visits First",
+      "sha12": "fea53f3eae2c"
+    },
+    "B": {
+      "label": "Systems First",
+      "sha12": "900d96a36cf4"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Show Health Score",
+      "sha12": "b7ba96173f9c"
+    },
+    "B": {
+      "label": "No Health Score",
+      "sha12": "ccfc7b717506"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Staff Notes Field",
+      "sha12": "526648a1dc90"
+    },
+    "B": {
+      "label": "No Notes Field",
+      "sha12": "61ec62d8f4ed"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Show Call And Text",
+      "sha12": "180acfe5f10c"
+    },
+    "B": {
+      "label": "No Call Or Text",
+      "sha12": "12eb1a3a0980"
+    }
+  }
+}
