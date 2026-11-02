@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Starting At $129/Month",
+      "sha12": "cacb82d1e833"
+    },
+    "B": {
+      "label": "From $4.30 A Day",
+      "sha12": "facd91fd533d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Monthly Price First",
+      "sha12": "2c8f33e365dd"
+    },
+    "B": {
+      "label": "Yearly Price First",
+      "sha12": "6269774800c6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Badge On Plus",
+      "sha12": "419363696415"
+    },
+    "B": {
+      "label": "Badge On Essentials",
+      "sha12": "bdbd2729b239"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Savings In Dollars",
+      "sha12": "6913cdd8eae1"
+    },
+    "B": {
+      "label": "Savings In Percent",
+      "sha12": "74989b5459cd"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/price-cover-1102/staged/price/c1a.jpg",
+    "/workspace/price-cover-1102/staged/price/c1b.jpg",
+    "/workspace/price-cover-1102/staged/price/c2a.jpg",
+    "/workspace/price-cover-1102/staged/price/c2b.jpg",
+    "/workspace/price-cover-1102/staged/price/c3a.jpg",
+    "/workspace/price-cover-1102/staged/price/c3b.jpg",
+    "/workspace/price-cover-1102/staged/price/c4a.jpg",
+    "/workspace/price-cover-1102/staged/price/c4b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "New Prices Deck"
+}
