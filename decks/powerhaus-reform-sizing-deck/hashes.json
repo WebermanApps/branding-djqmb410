@@ -2,81 +2,81 @@
   "c1": {
     "A": {
       "label": "Smaller Logo",
-      "sha12": "321a99e54958"
+      "sha12": "eae4ba944cb4"
     },
     "B": {
       "label": "Larger Logo",
-      "sha12": "406987629924"
+      "sha12": "4ea8fe401dc6"
     }
   },
   "c2": {
     "A": {
       "label": "Smaller REFORM",
-      "sha12": "3e483a02737f"
+      "sha12": "3dd839834c20"
     },
     "B": {
       "label": "Larger REFORM",
-      "sha12": "cec9b08fa059"
+      "sha12": "0770c6822a87"
     }
   },
   "c3": {
     "A": {
       "label": "Smaller Subline",
-      "sha12": "949f06da3665"
+      "sha12": "abc0dba84efb"
     },
     "B": {
       "label": "Larger Subline",
-      "sha12": "776f4d29068c"
+      "sha12": "c1983c6580a4"
     }
   },
   "c4": {
     "A": {
       "label": "Smaller Ingredients",
-      "sha12": "3c777e78a42c"
+      "sha12": "d7e3b721c91e"
     },
     "B": {
       "label": "Larger Ingredients",
-      "sha12": "449e87f21327"
+      "sha12": "8dad91b0fa9e"
     }
   },
   "c5": {
     "A": {
       "label": "Smaller Dots",
-      "sha12": "aad8fddbd2cf"
+      "sha12": "45b9614649ec"
     },
     "B": {
       "label": "Larger Dots",
-      "sha12": "8475949cabdf"
+      "sha12": "d1bec7a7f3e0"
     }
   },
   "c6": {
     "A": {
       "label": "Smaller Label",
-      "sha12": "42acef573b9e"
+      "sha12": "6a42f7f048fb"
     },
     "B": {
       "label": "Larger Label",
-      "sha12": "cad483e61662"
+      "sha12": "0849faed8516"
     }
   },
   "c7": {
     "A": {
       "label": "Logo Leads",
-      "sha12": "3fef2f73cae8"
+      "sha12": "e394b621c437"
     },
     "B": {
       "label": "Name Leads",
-      "sha12": "7476f0dda796"
+      "sha12": "ebaf52c8943c"
     }
   },
   "c8": {
     "A": {
       "label": "Compact Lower Block",
-      "sha12": "2f67e0914d19"
+      "sha12": "e1e98d975153"
     },
     "B": {
       "label": "Bigger Lower Block",
-      "sha12": "4d25e7fbf8d2"
+      "sha12": "8e331fe051e0"
     }
   }
 }

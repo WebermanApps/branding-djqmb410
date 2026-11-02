@@ -2,81 +2,81 @@
   "c1": {
     "A": {
       "label": "Small Nest Logo",
-      "sha12": "c5901649ce1a"
+      "sha12": "04996eb20c8e"
     },
     "B": {
       "label": "Large Nest Logo",
-      "sha12": "48ee5603250f"
+      "sha12": "6d7d8094eb90"
     }
   },
   "c2": {
     "A": {
       "label": "Full Color Print",
-      "sha12": "0b16fa358066"
+      "sha12": "1045a40b18b6"
     },
     "B": {
       "label": "Blind Emboss",
-      "sha12": "3034fd103f6f"
+      "sha12": "6a30feea117c"
     }
   },
   "c3": {
     "A": {
       "label": "PowerHaus",
-      "sha12": "c48d3b449946"
+      "sha12": "cc73048e5ced"
     },
     "B": {
       "label": "The WellNest",
-      "sha12": "1428954e17df"
+      "sha12": "b6110eb0374e"
     }
   },
   "c4": {
     "A": {
       "label": "REFORM In Slate",
-      "sha12": "ec3d3025d02b"
+      "sha12": "09e696984987"
     },
     "B": {
       "label": "REFORM In Ribbon Blue",
-      "sha12": "fe991197e77f"
+      "sha12": "9d351a1c22d8"
     }
   },
   "c5": {
     "A": {
       "label": "Thin Blue Ring",
-      "sha12": "f9584415d382"
+      "sha12": "2760e839d3d8"
     },
     "B": {
       "label": "Wide Blue Ring",
-      "sha12": "60789a58b8aa"
+      "sha12": "12dcc4cfeb16"
     }
   },
   "c6": {
     "A": {
       "label": "The Cup After The Class",
-      "sha12": "41c492c8a592"
+      "sha12": "2a874e587f2f"
     },
     "B": {
       "label": "PowerHaus · The WellNest",
-      "sha12": "6903a71e238b"
+      "sha12": "b4794c9599ea"
     }
   },
   "c7": {
     "A": {
       "label": "Gauge Dots On Lid",
-      "sha12": "965dff935427"
+      "sha12": "88171fa7e76f"
     },
     "B": {
       "label": "Single Blue Dot",
-      "sha12": "c817bfcc13f5"
+      "sha12": "e43558b33af7"
     }
   },
   "c8": {
     "A": {
       "label": "Nest Over REFORM",
-      "sha12": "6ff5de0b6eb3"
+      "sha12": "4161d0aee2a1"
     },
     "B": {
       "label": "Nest Over PowerHaus",
-      "sha12": "a006cc99de67"
+      "sha12": "99e6bb042346"
     }
   }
 }
