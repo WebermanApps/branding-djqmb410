@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "\"You Both Get A Free Month\"",
+      "sha12": "a12c9fbc63d2"
+    },
+    "B": {
+      "label": "\"Give A Month, Get A Month\"",
+      "sha12": "40e8e929df52"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Personal Text From Machan",
+      "sha12": "f409888c3d5d"
+    },
+    "B": {
+      "label": "Card At The Visit",
+      "sha12": "be2aaca126d1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Forwardable Text",
+      "sha12": "46d070b593dc"
+    },
+    "B": {
+      "label": "Personal QR Card",
+      "sha12": "8e4afb6f7edb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "After Visit One",
+      "sha12": "7f2d9d5bca05"
+    },
+    "B": {
+      "label": "After One Month",
+      "sha12": "2852e8ca90b6"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Personal Text",
+      "sha12": "23c8d4d034b5"
+    },
+    "B": {
+      "label": "Note On Visit Report",
+      "sha12": "d517a133864e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Unlimited",
+      "sha12": "396a9d27e1a2"
+    },
+    "B": {
+      "label": "Up To Three A Year",
+      "sha12": "4a68c287a442"
+    }
+  }
+}

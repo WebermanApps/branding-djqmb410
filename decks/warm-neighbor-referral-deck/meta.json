@@ -1,0 +1,20 @@
+{
+  "category": "offer-marketing",
+  "asset_paths": [
+    "/workspace/warm-launch-1102/staged/ref/c1a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c1b.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c2a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c2b.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c3a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c3b.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c4a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c4b.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c5a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c5b.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c6a.jpg",
+    "/workspace/warm-launch-1102/staged/ref/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Warm Neighbor Referral Deck"
+}
