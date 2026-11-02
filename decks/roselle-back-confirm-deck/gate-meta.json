@@ -1,0 +1,28 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/roselle-back-confirm-1102/assets/c1a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c1b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c2a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c2b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c3a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c3b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c4a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c4b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c5a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c5b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c6a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c6b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c7a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c7b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c8a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c8b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c9a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c9b.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c10a.jpg",
+    "/workspace/roselle-back-confirm-1102/assets/c10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Roselle Back Confirm Deck"
+}

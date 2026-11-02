@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "roselle-back-confirm-deck",
+   "name": "Roselle Back Confirm Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/roselle-back-confirm-deck/",
+   "total": 10,
+   "answered": 0,
+   "tag": "WellNest",
+   "status": "open",
+   "added": "2026-11-02T15:17:52+07:00",
+   "note": "Machan Nov 2 2026 — Roselle short can back: roselle lower and behind text, About/How to Brew/footer kept; spacing, illustration and divider tests.",
+   "requested_at": "2026-11-02T15:17:52+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "10 cards, ready now, with Notes",
+   "agent": "wellnest",
+   "made": "2026-11-02"
+  },
+  {
    "id": "covered-this-month-deck",
    "name": "Covered This Month Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/covered-this-month-deck/",
@@ -845,7 +862,7 @@
    "done_at": "2026-10-28T14:35:24+07:00"
   }
  ],
- "updated": "2026-11-02T14:50:07+07:00",
+ "updated": "2026-11-02T15:17:52+07:00",
  "done": [
   {
    "id": "smart-upkeep-van-wrap-final-details-rdi7aj",
@@ -3177,6 +3194,23 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "roselle-back-confirm-deck",
+   "name": "Roselle Back Confirm Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/roselle-back-confirm-deck/",
+   "total": 10,
+   "answered": 0,
+   "tag": "WellNest",
+   "status": "open",
+   "added": "2026-11-02T15:17:52+07:00",
+   "note": "Machan Nov 2 2026 — Roselle short can back: roselle lower and behind text, About/How to Brew/footer kept; spacing, illustration and divider tests.",
+   "requested_at": "2026-11-02T15:17:52+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "10 cards, ready now, with Notes",
+   "agent": "wellnest",
+   "made": "2026-11-02"
+  },
   {
    "id": "covered-this-month-deck",
    "name": "Covered This Month Deck",

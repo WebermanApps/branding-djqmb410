@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Low, In The Wash",
+      "sha12": "0e3f8d414214"
+    },
+    "B": {
+      "label": "Higher, Behind The Body Text",
+      "sha12": "bee11e03b171"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Centered Under The Divider",
+      "sha12": "dcf8b9cfedc0"
+    },
+    "B": {
+      "label": "Split To Both Sides",
+      "sha12": "8452b885cce8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Small Accent",
+      "sha12": "3a1f08c08494"
+    },
+    "B": {
+      "label": "Large And Painterly",
+      "sha12": "47e01f54ee9f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Faint Watermark",
+      "sha12": "474adf3ed542"
+    },
+    "B": {
+      "label": "Stronger Colour",
+      "sha12": "9972cb06eb15"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tighter Gutter",
+      "sha12": "109c7a9ce93a"
+    },
+    "B": {
+      "label": "Wide Gutter",
+      "sha12": "0783a65bee2f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Compact Lines",
+      "sha12": "edfb5675c016"
+    },
+    "B": {
+      "label": "Airy Lines",
+      "sha12": "6a47b6883796"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Close To The Sections",
+      "sha12": "4754a02b7d55"
+    },
+    "B": {
+      "label": "More Air Under The Logo",
+      "sha12": "f1fcb31774e8"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Hairline Gold",
+      "sha12": "d8883df43248"
+    },
+    "B": {
+      "label": "Bolder Gold",
+      "sha12": "5438261c4766"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Footer Close",
+      "sha12": "bc2aa02ea4a8"
+    },
+    "B": {
+      "label": "Footer With Breathing Room",
+      "sha12": "b297ac2c9bac"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Wider Text Block",
+      "sha12": "ed153dbf3dda"
+    },
+    "B": {
+      "label": "Narrower Text Block",
+      "sha12": "55c9a8b817fd"
+    }
+  }
+}
