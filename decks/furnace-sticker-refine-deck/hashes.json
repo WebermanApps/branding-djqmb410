@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "C: Terracotta Frame",
+      "sha12": "20a8ab9edd59"
+    },
+    "B": {
+      "label": "D: Clean White, Corner Sweep",
+      "sha12": "cda4276c2ec0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "C: Terracotta Frame",
+      "sha12": "20a8ab9edd59"
+    },
+    "B": {
+      "label": "E: Frame With Corner Sweep",
+      "sha12": "673a0994f1d0"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "D: Clean White, Corner Sweep",
+      "sha12": "cda4276c2ec0"
+    },
+    "B": {
+      "label": "E: Frame With Corner Sweep",
+      "sha12": "673a0994f1d0"
+    }
+  }
+}

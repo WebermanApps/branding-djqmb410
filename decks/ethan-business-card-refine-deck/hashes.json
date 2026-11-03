@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Terracotta QR Back",
+      "sha12": "1fc3add2c30b"
+    },
+    "B": {
+      "label": "White QR Back",
+      "sha12": "0212d0af2f7a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Technician",
+      "sha12": "9895fa808f41"
+    },
+    "B": {
+      "label": "Home Care Technician",
+      "sha12": "d7b9af7a24f3"
+    }
+  }
+}

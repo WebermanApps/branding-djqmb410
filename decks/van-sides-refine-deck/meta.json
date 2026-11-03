@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "title": "Van Sides Refine Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/refine-1103/sides/right-a.jpg",
+    "/workspace/refine-1103/sides/right-b.jpg",
+    "/workspace/refine-1103/sides/right-c.jpg",
+    "/workspace/refine-1103/sides/left-a.jpg",
+    "/workspace/refine-1103/sides/left-b.jpg",
+    "/workspace/refine-1103/sides/left-c.jpg"
+  ]
+}

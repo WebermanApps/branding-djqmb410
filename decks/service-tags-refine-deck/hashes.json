@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "White Item Name",
+      "sha12": "10959bbf0a33"
+    },
+    "B": {
+      "label": "Terracotta Item Name",
+      "sha12": "28bc0eba59b1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Standard QR",
+      "sha12": "10959bbf0a33"
+    },
+    "B": {
+      "label": "Bigger QR",
+      "sha12": "a574e26198a5"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Thin Rule",
+      "sha12": "10959bbf0a33"
+    },
+    "B": {
+      "label": "Thick Rule",
+      "sha12": "f6b8db235e38"
+    }
+  }
+}

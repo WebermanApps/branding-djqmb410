@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/fm-a.jpg",
+    "/workspace/refine-1103/prod/out/fm-c.jpg",
+    "/workspace/refine-1103/prod/out/fm-e.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Fridge Magnet Refine Deck"
+}

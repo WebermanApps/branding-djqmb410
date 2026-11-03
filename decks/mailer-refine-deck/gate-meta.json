@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/ml-wc.jpg",
+    "/workspace/refine-1103/prod/out/ml-wc-badge.jpg",
+    "/workspace/refine-1103/prod/out/ml-wc-frame.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Mailer Refine Deck"
+}

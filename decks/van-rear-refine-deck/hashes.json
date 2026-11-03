@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Bigger, Same Height",
+      "sha12": "d3cd4ab0ae3e"
+    },
+    "B": {
+      "label": "Current Size",
+      "sha12": "38434c34d2c1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "smartupkeep.ai Bar",
+      "sha12": "ac365e706a3b"
+    },
+    "B": {
+      "label": "No Bar",
+      "sha12": "e8ee878f891c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Refined Rear",
+      "sha12": "d3cd4ab0ae3e"
+    },
+    "B": {
+      "label": "Original Locked Rear",
+      "sha12": "aa4e0f1f7740"
+    }
+  }
+}

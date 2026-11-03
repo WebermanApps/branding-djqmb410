@@ -1,0 +1,13 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/rear/big.jpg",
+    "/workspace/refine-1103/rear/cur.jpg",
+    "/workspace/refine-1103/rear/bar-url.jpg",
+    "/workspace/refine-1103/rear/bar-none.jpg",
+    "/workspace/refine-1103/rear/orig.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Van Rear Refine Deck"
+}

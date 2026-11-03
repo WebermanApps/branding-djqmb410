@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Standard QR",
+      "sha12": "564f1eee35b0"
+    },
+    "B": {
+      "label": "Bigger QR",
+      "sha12": "88665367dbe9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal Tagline",
+      "sha12": "564f1eee35b0"
+    },
+    "B": {
+      "label": "Terracotta Tagline",
+      "sha12": "d8289835307d"
+    }
+  }
+}

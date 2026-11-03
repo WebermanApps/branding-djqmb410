@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/bc-pair-terra.jpg",
+    "/workspace/refine-1103/prod/out/bc-pair-white.jpg",
+    "/workspace/refine-1103/prod/out/bc-title-tech.jpg",
+    "/workspace/refine-1103/prod/out/bc-title-hc.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Ethan Business Card Refine Deck"
+}

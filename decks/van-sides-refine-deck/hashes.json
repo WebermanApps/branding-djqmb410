@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Option A: Logo Leads The Slide Door",
+      "sha12": "d9f1f0909083"
+    },
+    "B": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "e1ba5ec941cb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Option A: Logo Leads The Slide Door",
+      "sha12": "d9f1f0909083"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "7da8b30bc6ae"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "e1ba5ec941cb"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "7da8b30bc6ae"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Option A: Logo Leads The Front Cargo Panel",
+      "sha12": "7ffdb7297dd6"
+    },
+    "B": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "f513571231a1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Option A: Logo Leads The Front Cargo Panel",
+      "sha12": "7ffdb7297dd6"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "a21f794f11c2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "f513571231a1"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "a21f794f11c2"
+    }
+  }
+}

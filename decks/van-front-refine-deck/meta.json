@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "title": "Van Front Refine Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/refine-1103/front/logo-ch.jpg",
+    "/workspace/refine-1103/front/logo-tc.jpg",
+    "/workspace/refine-1103/front/s-thin.jpg",
+    "/workspace/refine-1103/front/s-thick.jpg",
+    "/workspace/refine-1103/front/final.jpg",
+    "/workspace/refine-1103/front/orig.jpg"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: White, QR Right",
+      "sha12": "6f7d3514863f"
+    },
+    "B": {
+      "label": "C: QR Left, Van Sweep",
+      "sha12": "c9ecd23a16e1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "A: White, QR Right",
+      "sha12": "6f7d3514863f"
+    },
+    "B": {
+      "label": "E: A With Van Sweep",
+      "sha12": "f6c3f37cb012"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "C: QR Left, Van Sweep",
+      "sha12": "c9ecd23a16e1"
+    },
+    "B": {
+      "label": "E: A With Van Sweep",
+      "sha12": "f6c3f37cb012"
+    }
+  }
+}

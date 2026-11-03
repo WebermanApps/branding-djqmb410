@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/st-b.jpg",
+    "/workspace/refine-1103/prod/out/st-b-tcitem.jpg",
+    "/workspace/refine-1103/prod/out/st-b-bigqr.jpg",
+    "/workspace/refine-1103/prod/out/st-b-thickrule.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Service Tags Refine Deck"
+}

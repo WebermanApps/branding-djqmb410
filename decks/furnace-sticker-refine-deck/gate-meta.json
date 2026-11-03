@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/fs-c.jpg",
+    "/workspace/refine-1103/prod/out/fs-d.jpg",
+    "/workspace/refine-1103/prod/out/fs-e.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Furnace Sticker Refine Deck"
+}

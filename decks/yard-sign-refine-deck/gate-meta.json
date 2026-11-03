@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/ys-c.jpg",
+    "/workspace/refine-1103/prod/out/ys-c-bigqr.jpg",
+    "/workspace/refine-1103/prod/out/ys-c-tctag.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Yard Sign Refine Deck"
+}

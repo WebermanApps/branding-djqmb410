@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Charcoal Hood Logo",
+      "sha12": "108f4a235fe1"
+    },
+    "B": {
+      "label": "Terracotta Hood Logo",
+      "sha12": "fc6a59f5e658"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Thin Stripe",
+      "sha12": "7a27806a2ec8"
+    },
+    "B": {
+      "label": "Bolder Stripe",
+      "sha12": "fa70e027ab0d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Refined Front",
+      "sha12": "9b2c7c8c4ec5"
+    },
+    "B": {
+      "label": "Original Locked Front",
+      "sha12": "fe997a6d3f83"
+    }
+  }
+}

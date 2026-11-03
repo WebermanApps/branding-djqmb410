@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/wk-band.jpg",
+    "/workspace/refine-1103/prod/out/wk-ribbon.jpg",
+    "/workspace/refine-1103/prod/out/wk-bow-c.jpg",
+    "/workspace/refine-1103/prod/out/wk-bow-r.jpg",
+    "/workspace/refine-1103/prod/out/wk-full-ribbon.jpg",
+    "/workspace/su-products-1103/out/wk-in_full.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Welcome Kit Refine Deck"
+}

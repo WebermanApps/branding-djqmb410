@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Printed Band",
+      "sha12": "00b3d168532c"
+    },
+    "B": {
+      "label": "Terracotta Ribbon",
+      "sha12": "89297458ecb3"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Centered Bow",
+      "sha12": "36a3ea4cffb2"
+    },
+    "B": {
+      "label": "Corner Bow",
+      "sha12": "60241ea28eb2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Ribbon Lid Full Set",
+      "sha12": "fedc86f1e891"
+    },
+    "B": {
+      "label": "Band Lid Full Set",
+      "sha12": "fee925eb7221"
+    }
+  }
+}
