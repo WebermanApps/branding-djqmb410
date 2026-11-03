@@ -1,0 +1,10 @@
+{
+  "category": null,
+  "title": "Fridge Magnet Shape Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/refine-1103/prod/out/fm-e.jpg",
+    "/workspace/refine-1103/prod/out/fm-e-house.jpg"
+  ]
+}

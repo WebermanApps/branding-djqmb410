@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Your Mix",
+      "sha12": "9bdef5df12d4"
+    },
+    "B": {
+      "label": "Both Bigger",
+      "sha12": "d49e74f8a84a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Clear For The Sticker",
+      "sha12": "9bdef5df12d4"
+    },
+    "B": {
+      "label": "Keep The Bar",
+      "sha12": "a9cfd17d1b5c"
+    }
+  }
+}

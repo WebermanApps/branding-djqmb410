@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/su-mascot-1103/out/persimmon-approved.jpg",
+    "/workspace/su-mascot-1103/out/persimmon-keepcalm.jpg",
+    "/workspace/su-mascot-1103/out/othercar-a2.jpg",
+    "/workspace/su-mascot-1103/out/othercar-b2.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Bumper Sticker Lines Deck"
+}

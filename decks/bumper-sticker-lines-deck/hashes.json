@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Persimmon Approved Home Care",
+      "sha12": "9a4b3bed3c13"
+    },
+    "B": {
+      "label": "Keep Calm And Persimmon On",
+      "sha12": "deb81463b6f8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "My Other Car Is A Ladder",
+      "sha12": "738b6085a5db"
+    },
+    "B": {
+      "label": "Drip-Free Since Day One",
+      "sha12": "84dd06f89596"
+    }
+  }
+}

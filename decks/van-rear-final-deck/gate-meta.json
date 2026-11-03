@@ -1,0 +1,11 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/rear/mix-nobar.jpg",
+    "/workspace/refine-1103/rear/big-nobar.jpg",
+    "/workspace/refine-1103/rear/mix-bar.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Van Rear Final Deck"
+}
