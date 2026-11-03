@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "title": "Van Front Accent Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/van-accent-1103/staged/A.jpg",
+    "/workspace/van-accent-1103/staged/B.jpg",
+    "/workspace/van-accent-1103/staged/C.jpg",
+    "/workspace/van-accent-1103/staged/D.jpg",
+    "/workspace/van-accent-1103/staged/E.jpg",
+    "/workspace/van-accent-1103/staged/F.jpg",
+    "/workspace/van-accent-1103/staged/G.jpg",
+    "/workspace/van-accent-1103/staged/H.jpg"
+  ]
+}

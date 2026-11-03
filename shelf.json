@@ -2,6 +2,24 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "van-front-accent-deck",
+   "name": "Van Front Accent Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-accent-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-03T23:26:20+07:00",
+   "added": "2026-11-03T23:26:20+07:00",
+   "note": "Machan Nov 3 2026: subtle crisp front accents for the Smart Upkeep van; headlight wrap (true outline), grille, bumper, fender sweep, double pinstripe, clean, vs windshield line control.",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:26:20+07:00"
+  },
+  {
    "id": "branded-tape-measure-deck",
    "name": "Branded Tape Measure Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-tape-measure-deck/",
@@ -538,7 +556,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-03T23:24:04+07:00",
+ "updated": "2026-11-03T23:26:20+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3188,6 +3206,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "van-front-accent-deck",
+   "name": "Van Front Accent Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-accent-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-03T23:26:20+07:00",
+   "added": "2026-11-03T23:26:20+07:00",
+   "note": "Machan Nov 3 2026: subtle crisp front accents for the Smart Upkeep van; headlight wrap (true outline), grille, bumper, fender sweep, double pinstripe, clean, vs windshield line control.",
+   "pinned": true,
+   "new": true,
+   "blurb": "8 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-03",
+   "updated": "2026-11-03T23:26:20+07:00"
+  },
   {
    "id": "welcome-box-packaging-deck",
    "name": "Welcome Box Packaging Deck",

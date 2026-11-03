@@ -1,0 +1,82 @@
+{
+  "c1": {
+    "A": {
+      "label": "Headlight Wrap",
+      "sha12": "76b083e792ae"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Grille Surround",
+      "sha12": "f4f76bb18e58"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Bumper Pinstripe",
+      "sha12": "89b741f11c8f"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Fender Corner Sweep",
+      "sha12": "03027bdeb7c2"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Double Pinstripe",
+      "sha12": "592273415b44"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Clean Front",
+      "sha12": "c50b354d226e"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Headlight Wrap",
+      "sha12": "76b083e792ae"
+    },
+    "B": {
+      "label": "Headlight Wrap Plus Grille Line",
+      "sha12": "35ee0ac1ac85"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Headlight Wrap Plus Grille Line",
+      "sha12": "35ee0ac1ac85"
+    },
+    "B": {
+      "label": "Windshield Line",
+      "sha12": "e331a337c7e1"
+    }
+  }
+}
