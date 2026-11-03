@@ -2,45 +2,9 @@
   "agent": "branding",
   "decks": [
     {
-      "id": "fridge-magnet-deck",
-      "name": "Fridge Magnet Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/fridge-magnet-deck/",
-      "total": 4,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:54:00+07:00",
-      "added": "2026-11-03T13:40:00+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
-    },
-    {
       "id": "bumper-sticker-deck",
       "name": "Bumper Sticker Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-deck/",
-      "total": 4,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:54:00+07:00",
-      "added": "2026-11-03T13:40:00+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
-    },
-    {
-      "id": "furnace-sticker-deck",
-      "name": "Furnace Sticker Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/furnace-sticker-deck/",
       "total": 4,
       "answered": 0,
       "tag": "UpKeep",
@@ -74,114 +38,6 @@
       "updated": "2026-11-03T13:40:00+07:00"
     },
     {
-      "id": "service-tags-deck",
-      "name": "Service Tags Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/service-tags-deck/",
-      "total": 4,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:54:00+07:00",
-      "added": "2026-11-03T13:40:00+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
-    },
-    {
-      "id": "ethan-business-card-deck",
-      "name": "Ethan Business Card Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/ethan-business-card-deck/",
-      "total": 3,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:58:08+07:00",
-      "added": "2026-11-03T12:58:08+07:00",
-      "note": "Machan Nov 3 2026: Ethan, Technician business card, real QR to smartupkeep.ai.",
-      "pinned": true,
-      "new": true,
-      "blurb": "3 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
-    },
-    {
-      "id": "mailer-deck",
-      "name": "Mailer Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-deck/",
-      "total": 3,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:58:08+07:00",
-      "added": "2026-11-03T12:58:08+07:00",
-      "note": "Machan Nov 3 2026: Founding 25 invite postcard, front, back and offer line.",
-      "pinned": true,
-      "new": true,
-      "blurb": "3 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
-    },
-    {
-      "id": "welcome-kit-deck",
-      "name": "Welcome Kit Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-kit-deck/",
-      "total": 3,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:58:08+07:00",
-      "added": "2026-11-03T12:58:08+07:00",
-      "note": "Machan Nov 3 2026: welcome kit box or folder and what goes inside.",
-      "pinned": true,
-      "new": true,
-      "blurb": "3 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
-    },
-    {
-      "id": "pen-deck",
-      "name": "Pen Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-deck/",
-      "total": 3,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:58:08+07:00",
-      "added": "2026-11-03T12:58:08+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep pen barrel and imprint.",
-      "pinned": true,
-      "new": true,
-      "blurb": "3 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
-    },
-    {
-      "id": "van-rear-deck",
-      "name": "Van Rear Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-rear-deck/",
-      "total": 6,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:29:41+07:00",
-      "added": "2026-11-03T12:29:41+07:00",
-      "note": "Machan Nov 3 2026: rear of the van, 3 full options vs the current rear (top line, bigger logo and QR, bumper bar, QR frame).",
-      "pinned": true,
-      "new": true,
-      "blurb": "6 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:29:41+07:00"
-    },
-    {
       "id": "van-sides-deck",
       "name": "Van Sides Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-sides-deck/",
@@ -198,24 +54,6 @@
       "agent": "develop",
       "made": "2026-11-03",
       "updated": "2026-11-03T13:10:00+07:00"
-    },
-    {
-      "id": "van-front-deck",
-      "name": "Van Front Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-deck/",
-      "total": 5,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:19:41+07:00",
-      "added": "2026-11-03T12:19:41+07:00",
-      "note": "Machan Nov 3 2026: small front-of-van touches on the locked white Transit (stock black mirrors; hood logo, windshield stripe, header colour, bumper line).",
-      "pinned": true,
-      "new": true,
-      "blurb": "5 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T12:19:41+07:00"
     },
     {
       "id": "info-flow-fixes-deck",
@@ -682,7 +520,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-03T12:58:08+07:00",
+  "updated": "2026-11-03T14:37:09+07:00",
   "done": [
     {
       "id": "new-prices-deck",
@@ -3052,6 +2890,69 @@
       "done_at": "2026-11-03T11:23:16+07:00",
       "answered": 21,
       "total": 21
+    },
+    {
+      "id": "fridge-magnet-deck",
+      "at": "2026-11-03T14:33:13+07:00",
+      "name": "Fridge Magnet Deck",
+      "answered": 4,
+      "total": 4
+    },
+    {
+      "id": "furnace-sticker-deck",
+      "at": "2026-11-03T14:35:34+07:00",
+      "name": "Furnace Sticker Deck",
+      "answered": 4,
+      "total": 4
+    },
+    {
+      "id": "service-tags-deck",
+      "at": "2026-11-03T14:36:22+07:00",
+      "name": "Service Tags Deck",
+      "answered": 4,
+      "total": 4
+    },
+    {
+      "id": "ethan-business-card-deck",
+      "at": "2026-11-03T14:30:24+07:00",
+      "name": "Ethan Business Card Deck",
+      "answered": 3,
+      "total": 3
+    },
+    {
+      "id": "mailer-deck",
+      "at": "2026-11-03T14:31:10+07:00",
+      "name": "Mailer Deck",
+      "answered": 3,
+      "total": 3
+    },
+    {
+      "id": "welcome-kit-deck",
+      "at": "2026-11-03T14:32:00+07:00",
+      "name": "Welcome Kit Deck",
+      "answered": 3,
+      "total": 3
+    },
+    {
+      "id": "pen-deck",
+      "at": "2026-11-03T14:32:29+07:00",
+      "name": "Pen Deck",
+      "answered": 3,
+      "total": 3
+    },
+    {
+      "id": "van-rear-deck",
+      "at": "2026-11-03T12:33:54+07:00",
+      "name": "Van Rear Deck",
+      "answered": 4,
+      "total": 6
+    },
+    {
+      "id": "van-front-deck",
+      "at": "2026-11-03T12:23:02+07:00",
+      "name": "Van Front Deck",
+      "answered": 5,
+      "total": 5
     }
   ],
   "pinned": [
@@ -3082,9 +2983,9 @@
       "name": "Fridge Magnet Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/fridge-magnet-deck/",
       "total": 4,
-      "answered": 0,
+      "answered": 4,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:54:00+07:00",
       "added": "2026-11-03T13:40:00+07:00",
       "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
@@ -3093,7 +2994,8 @@
       "blurb": "4 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
+      "updated": "2026-11-03T13:40:00+07:00",
+      "done_at": "2026-11-03T14:33:13+07:00"
     },
     {
       "id": "bumper-sticker-deck",
@@ -3118,9 +3020,9 @@
       "name": "Furnace Sticker Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/furnace-sticker-deck/",
       "total": 4,
-      "answered": 0,
+      "answered": 4,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:54:00+07:00",
       "added": "2026-11-03T13:40:00+07:00",
       "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
@@ -3129,7 +3031,8 @@
       "blurb": "4 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
+      "updated": "2026-11-03T13:40:00+07:00",
+      "done_at": "2026-11-03T14:35:34+07:00"
     },
     {
       "id": "yard-sign-deck",
@@ -3154,9 +3057,9 @@
       "name": "Service Tags Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/service-tags-deck/",
       "total": 4,
-      "answered": 0,
+      "answered": 4,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:54:00+07:00",
       "added": "2026-11-03T13:40:00+07:00",
       "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
@@ -3165,16 +3068,17 @@
       "blurb": "4 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
+      "updated": "2026-11-03T13:40:00+07:00",
+      "done_at": "2026-11-03T14:36:22+07:00"
     },
     {
       "id": "ethan-business-card-deck",
       "name": "Ethan Business Card Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/ethan-business-card-deck/",
       "total": 3,
-      "answered": 0,
+      "answered": 3,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:58:08+07:00",
       "added": "2026-11-03T12:58:08+07:00",
       "note": "Machan Nov 3 2026: Ethan, Technician business card, real QR to smartupkeep.ai.",
@@ -3183,16 +3087,17 @@
       "blurb": "3 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
+      "updated": "2026-11-03T12:58:08+07:00",
+      "done_at": "2026-11-03T14:30:24+07:00"
     },
     {
       "id": "mailer-deck",
       "name": "Mailer Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-deck/",
       "total": 3,
-      "answered": 0,
+      "answered": 3,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:58:08+07:00",
       "added": "2026-11-03T12:58:08+07:00",
       "note": "Machan Nov 3 2026: Founding 25 invite postcard, front, back and offer line.",
@@ -3201,16 +3106,17 @@
       "blurb": "3 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
+      "updated": "2026-11-03T12:58:08+07:00",
+      "done_at": "2026-11-03T14:31:10+07:00"
     },
     {
       "id": "welcome-kit-deck",
       "name": "Welcome Kit Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-kit-deck/",
       "total": 3,
-      "answered": 0,
+      "answered": 3,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:58:08+07:00",
       "added": "2026-11-03T12:58:08+07:00",
       "note": "Machan Nov 3 2026: welcome kit box or folder and what goes inside.",
@@ -3219,16 +3125,17 @@
       "blurb": "3 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
+      "updated": "2026-11-03T12:58:08+07:00",
+      "done_at": "2026-11-03T14:32:00+07:00"
     },
     {
       "id": "pen-deck",
       "name": "Pen Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-deck/",
       "total": 3,
-      "answered": 0,
+      "answered": 3,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:58:08+07:00",
       "added": "2026-11-03T12:58:08+07:00",
       "note": "Machan Nov 3 2026: Smart Upkeep pen barrel and imprint.",
@@ -3237,16 +3144,17 @@
       "blurb": "3 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:58:08+07:00"
+      "updated": "2026-11-03T12:58:08+07:00",
+      "done_at": "2026-11-03T14:32:29+07:00"
     },
     {
       "id": "van-rear-deck",
       "name": "Van Rear Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-rear-deck/",
       "total": 6,
-      "answered": 0,
+      "answered": 4,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:29:41+07:00",
       "added": "2026-11-03T12:29:41+07:00",
       "note": "Machan Nov 3 2026: rear of the van, 3 full options vs the current rear (top line, bigger logo and QR, bumper bar, QR frame).",
@@ -3255,7 +3163,8 @@
       "blurb": "6 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:29:41+07:00"
+      "updated": "2026-11-03T12:29:41+07:00",
+      "done_at": "2026-11-03T12:33:54+07:00"
     },
     {
       "id": "van-sides-deck",
@@ -3280,9 +3189,9 @@
       "name": "Van Front Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-deck/",
       "total": 5,
-      "answered": 0,
+      "answered": 5,
       "tag": "UpKeep",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-03T12:19:41+07:00",
       "added": "2026-11-03T12:19:41+07:00",
       "note": "Machan Nov 3 2026: small front-of-van touches on the locked white Transit (stock black mirrors; hood logo, windshield stripe, header colour, bumper line).",
@@ -3291,7 +3200,8 @@
       "blurb": "5 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T12:19:41+07:00"
+      "updated": "2026-11-03T12:19:41+07:00",
+      "done_at": "2026-11-03T12:23:02+07:00"
     },
     {
       "id": "info-flow-fixes-deck",
