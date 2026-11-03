@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Option A",
+      "sha12": "0cce554236ed"
+    },
+    "B": {
+      "label": "Current Rear",
+      "sha12": "a39fafdacb15"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Bigger, Same Height",
+      "sha12": "5df3850e58e2"
+    },
+    "B": {
+      "label": "Current Size",
+      "sha12": "6dc615641698"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Option B",
+      "sha12": "8b99c88e8348"
+    },
+    "B": {
+      "label": "Option C",
+      "sha12": "95c6d3b0e847"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Licensed & Insured",
+      "sha12": "0e3c720f2f28"
+    },
+    "B": {
+      "label": "Plain Bar",
+      "sha12": "71f55627496a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Terracotta Frame",
+      "sha12": "82912ce5fc67"
+    },
+    "B": {
+      "label": "No Frame",
+      "sha12": "2def9dd82e54"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Home Care, On Schedule",
+      "sha12": "c2af0fbd87a3"
+    },
+    "B": {
+      "label": "Current Top Line",
+      "sha12": "5c199af67d6b"
+    }
+  }
+}

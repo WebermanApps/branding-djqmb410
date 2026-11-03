@@ -1,0 +1,20 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/van-rear-1103/assets/c1a.jpg",
+    "/workspace/van-rear-1103/assets/c1b.jpg",
+    "/workspace/van-rear-1103/assets/c2a.jpg",
+    "/workspace/van-rear-1103/assets/c2b.jpg",
+    "/workspace/van-rear-1103/assets/c3a.jpg",
+    "/workspace/van-rear-1103/assets/c3b.jpg",
+    "/workspace/van-rear-1103/assets/c4a.jpg",
+    "/workspace/van-rear-1103/assets/c4b.jpg",
+    "/workspace/van-rear-1103/assets/c5a.jpg",
+    "/workspace/van-rear-1103/assets/c5b.jpg",
+    "/workspace/van-rear-1103/assets/c6a.jpg",
+    "/workspace/van-rear-1103/assets/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Van Rear Deck"
+}
