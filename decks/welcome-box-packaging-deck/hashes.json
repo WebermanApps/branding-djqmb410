@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Plain",
+      "sha12": "1c0a44869b88"
+    },
+    "B": {
+      "label": "Welcome Message",
+      "sha12": "972f9f099543"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "White Tissue",
+      "sha12": "2291013c7ab0"
+    },
+    "B": {
+      "label": "Terracotta Tissue",
+      "sha12": "6032ef1bf1ad"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "No Sticker",
+      "sha12": "7cb6286e47c2"
+    },
+    "B": {
+      "label": "UP Seal Sticker",
+      "sha12": "8210eb96915e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "White Base",
+      "sha12": "ca6f6218d378"
+    },
+    "B": {
+      "label": "Charcoal Base",
+      "sha12": "f3ccd72c8fbd"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat Letter",
+      "sha12": "18796c897840"
+    },
+    "B": {
+      "label": "Folded Card",
+      "sha12": "fbc8227a740c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Corner QR",
+      "sha12": "69303ff3c00a"
+    },
+    "B": {
+      "label": "Home Record Panel",
+      "sha12": "b45c2e28edc7"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Centered Logo",
+      "sha12": "6395ab701ae6"
+    },
+    "B": {
+      "label": "Terracotta Band",
+      "sha12": "7c8309faedd3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Machan",
+      "sha12": "4150bae070a5"
+    },
+    "B": {
+      "label": "Your Smart Upkeep Team",
+      "sha12": "62368e721723"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "White Paper",
+      "sha12": "df3da32bc8b2"
+    },
+    "B": {
+      "label": "Cream Paper",
+      "sha12": "5b12c578ddc6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Welcome To The Neighborhood.",
+      "sha12": "e1e65202215c"
+    },
+    "B": {
+      "label": "Thanks For Trusting Us With Your Home.",
+      "sha12": "63c3c66e05c1"
+    }
+  }
+}

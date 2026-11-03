@@ -1,0 +1,20 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/round3-1103/letter/c1a.jpg",
+    "/workspace/round3-1103/letter/c1b.jpg",
+    "/workspace/round3-1103/letter/c2a.jpg",
+    "/workspace/round3-1103/letter/c2b.jpg",
+    "/workspace/round3-1103/letter/c3a.jpg",
+    "/workspace/round3-1103/letter/c3b.jpg",
+    "/workspace/round3-1103/letter/c4a.jpg",
+    "/workspace/round3-1103/letter/c4b.jpg",
+    "/workspace/round3-1103/letter/c5a.jpg",
+    "/workspace/round3-1103/letter/c5b.jpg",
+    "/workspace/round3-1103/letter/c6a.jpg",
+    "/workspace/round3-1103/letter/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Welcome Letter Deck"
+}

@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "title": "Welcome Box Packaging Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/round3-1103/box/c1a.jpg",
+    "/workspace/round3-1103/box/c1b.jpg",
+    "/workspace/round3-1103/box/c2a.jpg",
+    "/workspace/round3-1103/box/c2b.jpg",
+    "/workspace/round3-1103/box/c3a.jpg",
+    "/workspace/round3-1103/box/c3b.jpg",
+    "/workspace/round3-1103/box/c4a.jpg",
+    "/workspace/round3-1103/box/c4b.jpg"
+  ]
+}
