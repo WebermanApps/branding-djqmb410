@@ -1,0 +1,20 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/tool-1103/tape/c1a.jpg",
+    "/workspace/tool-1103/tape/c1b.jpg",
+    "/workspace/tool-1103/tape/c2a.jpg",
+    "/workspace/tool-1103/tape/c2b.jpg",
+    "/workspace/tool-1103/tape/c3a.jpg",
+    "/workspace/tool-1103/tape/c3b.jpg",
+    "/workspace/tool-1103/tape/c4a.jpg",
+    "/workspace/tool-1103/tape/c4b.jpg",
+    "/workspace/tool-1103/tape/c5a.jpg",
+    "/workspace/tool-1103/tape/c5b.jpg",
+    "/workspace/tool-1103/tape/c6a.jpg",
+    "/workspace/tool-1103/tape/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Branded Tape Measure Deck"
+}

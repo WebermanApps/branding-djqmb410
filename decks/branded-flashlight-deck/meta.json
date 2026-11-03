@@ -1,0 +1,20 @@
+{
+  "category": null,
+  "title": "Branded Flashlight Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/tool-1103/flash/c1a.jpg",
+    "/workspace/tool-1103/flash/c1b.jpg",
+    "/workspace/tool-1103/flash/c2a.jpg",
+    "/workspace/tool-1103/flash/c2b.jpg",
+    "/workspace/tool-1103/flash/c3a.jpg",
+    "/workspace/tool-1103/flash/c3b.jpg",
+    "/workspace/tool-1103/flash/c4a.jpg",
+    "/workspace/tool-1103/flash/c4b.jpg",
+    "/workspace/tool-1103/flash/c5a.jpg",
+    "/workspace/tool-1103/flash/c5b.jpg",
+    "/workspace/tool-1103/flash/c6a.jpg",
+    "/workspace/tool-1103/flash/c6b.jpg"
+  ]
+}

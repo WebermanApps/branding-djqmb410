@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Mini 10-Foot",
+      "sha12": "7c4a93e0de9b"
+    },
+    "B": {
+      "label": "Multifunction",
+      "sha12": "44ec92e6f8f2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Mini 10-Foot",
+      "sha12": "20193ea522ef"
+    },
+    "B": {
+      "label": "Tuff Stuff 16-Foot",
+      "sha12": "db69cd5cffaf"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Body",
+      "sha12": "36801f1735e7"
+    },
+    "B": {
+      "label": "Charcoal Body",
+      "sha12": "dac6e0c9cc7b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Logo",
+      "sha12": "d5ca838919b9"
+    },
+    "B": {
+      "label": "Terracotta Logo",
+      "sha12": "dc73f6111596"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Body Face",
+      "sha12": "9af534fb293e"
+    },
+    "B": {
+      "label": "Belt Clip",
+      "sha12": "c17e931751b8"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Full Lockup",
+      "sha12": "3a40947789a9"
+    },
+    "B": {
+      "label": "UP Mark",
+      "sha12": "2f2208906f67"
+    }
+  }
+}

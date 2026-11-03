@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Destin LED",
+      "sha12": "c4e08d310016"
+    },
+    "B": {
+      "label": "Pocket LED",
+      "sha12": "b708429531ad"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Destin LED",
+      "sha12": "6cf0ff26b385"
+    },
+    "B": {
+      "label": "Arica Carabiner",
+      "sha12": "44ef88934c90"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Body",
+      "sha12": "08aa512041a1"
+    },
+    "B": {
+      "label": "Charcoal Body",
+      "sha12": "84e47eadb593"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Logo",
+      "sha12": "fdf378b36fd8"
+    },
+    "B": {
+      "label": "Terracotta Logo",
+      "sha12": "357a99ba3f8b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Barrel Side",
+      "sha12": "4554529d0b41"
+    },
+    "B": {
+      "label": "End Cap",
+      "sha12": "c0d79ff50ab0"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Full Lockup",
+      "sha12": "7b01ae4c1751"
+    },
+    "B": {
+      "label": "UP Mark",
+      "sha12": "6efb7f5843ed"
+    }
+  }
+}
