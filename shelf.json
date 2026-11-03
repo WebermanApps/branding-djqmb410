@@ -20,24 +20,6 @@
       "updated": "2026-11-03T12:15:00+07:00"
     },
     {
-      "id": "powerhaus-reform-sizing-deck",
-      "name": "PowerHaus Reform Sizing Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-sizing-deck/",
-      "total": 8,
-      "answered": 0,
-      "tag": "WellNest",
-      "status": "open",
-      "requested_at": "2026-11-02T15:30:04+07:00",
-      "added": "2026-11-02T15:30:04+07:00",
-      "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
-      "pinned": true,
-      "new": true,
-      "blurb": "8 cards, ready now, with Notes",
-      "agent": "wellnest",
-      "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
-    },
-    {
       "id": "powerhaus-reform-placement-deck",
       "name": "PowerHaus Reform Placement Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-placement-deck/",
@@ -47,24 +29,6 @@
       "status": "open",
       "requested_at": "2026-11-02T15:30:03+07:00",
       "added": "2026-11-02T15:30:03+07:00",
-      "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
-      "pinned": true,
-      "new": true,
-      "blurb": "9 cards, ready now, with Notes",
-      "agent": "wellnest",
-      "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
-    },
-    {
-      "id": "powerhaus-reform-ribbon-deck",
-      "name": "PowerHaus Reform Ribbon Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-ribbon-deck/",
-      "total": 9,
-      "answered": 0,
-      "tag": "WellNest",
-      "status": "open",
-      "requested_at": "2026-11-02T15:30:02+07:00",
-      "added": "2026-11-02T15:30:02+07:00",
       "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
       "pinned": true,
       "new": true,
@@ -87,24 +51,6 @@
       "pinned": true,
       "new": true,
       "blurb": "8 cards, ready now, with Notes",
-      "agent": "wellnest",
-      "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
-    },
-    {
-      "id": "powerhaus-reform-finishing-touches-deck",
-      "name": "PowerHaus Reform Finishing Touches Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-finishing-touches-deck/",
-      "total": 9,
-      "answered": 0,
-      "tag": "WellNest",
-      "status": "open",
-      "requested_at": "2026-11-02T15:30:00+07:00",
-      "added": "2026-11-02T15:30:00+07:00",
-      "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
-      "pinned": true,
-      "new": true,
-      "blurb": "9 cards, ready now, with Notes",
       "agent": "wellnest",
       "made": "2026-11-02",
       "updated": "2026-11-02T21:13:41+07:00"
@@ -435,23 +381,6 @@
       "made": "2026-10-31"
     },
     {
-      "id": "buds-station-tin-round-3",
-      "name": "WellNest x Buds Station Tin Round 3",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/buds-station-tin-round-3/",
-      "total": 21,
-      "answered": 0,
-      "tag": "Max's Picks",
-      "status": "open",
-      "added": "2026-10-30T14:55:00+07:00",
-      "note": "Machan Oct 30 2026 — WellNest x The Buds Station tin round 3: narrows Round 2 picks (sage/mauve linen, slate/oatmeal moons, teal vs forest, cobalt vs navy, waves vs moons, gas-station stripes, botanicals, night gradient, label style, gold vs copper, wildcard, two-tone). Recipe locked.",
-      "requested_at": "2026-10-30T14:55:00+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "21 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-30"
-    },
-    {
       "id": "founding-night-gift-bag-deck",
       "name": "Founding Night Gift Bag Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/founding-night-gift-bag-deck/",
@@ -535,53 +464,9 @@
       "blurb": "9 cards, ready now, with Notes",
       "agent": "branding",
       "made": "2026-10-29"
-    },
-    {
-      "id": "tech-apparel-round-two-w5zikk",
-      "name": "Tech Apparel Round Two",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-apparel-round-two-w5zikk/",
-      "total": 8,
-      "answered": 8,
-      "tag": "Max's Picks",
-      "status": "done",
-      "added": "2026-10-29T13:51:36+07:00",
-      "note": "Round two of Smart Upkeep Tech Apparel — seasonal outfit sets (hot/rainy/cool).",
-      "requested_at": "2026-10-29T13:42:00+07:00",
-      "pinned": true,
-      "new": true,
-      "blurb": "10 cards, ready now, with Notes",
-      "agent": "branding",
-      "made": "2026-10-29",
-      "done_at": "2026-10-29T14:39:22+07:00"
-    },
-    {
-      "id": "quote-accept-membership-deck-cws91m",
-      "name": "Quote & Accept Membership",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/quote-accept-membership-deck-cws91m/",
-      "total": 6,
-      "answered": 6,
-      "tag": "Max's Picks",
-      "status": "done",
-      "added": "2026-10-27T22:00:24+07:00",
-      "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows.",
-      "requested_at": "2026-10-27T21:54:59+07:00",
-      "done_at": "2026-10-28T14:35:24+07:00"
-    },
-    {
-      "id": "ask-anything-triage-deck-9ev93n",
-      "name": "Ask Anything Triage & Urgency Handoff",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-triage-deck-9ev93n/",
-      "total": 6,
-      "answered": 6,
-      "tag": "Max's Picks",
-      "status": "done",
-      "added": "2026-10-27T22:00:24+07:00",
-      "note": "Machan via UpKeep Develop Oct 27 9:51 PM ICT — next phone-only flows.",
-      "requested_at": "2026-10-27T21:54:58+07:00",
-      "done_at": "2026-10-28T14:35:24+07:00"
     }
   ],
-  "updated": "2026-11-03T04:09:17+07:00",
+  "updated": "2026-11-03T12:03:30+07:00",
   "done": [
     {
       "id": "new-prices-deck",
@@ -2921,6 +2806,36 @@
       "agent": "branding",
       "made": "2026-11-02",
       "done_at": "2026-11-02T14:46:29+07:00"
+    },
+    {
+      "id": "powerhaus-reform-sizing-deck",
+      "at": "2026-11-03T09:09:32+07:00",
+      "name": "PowerHaus Reform Sizing Deck",
+      "answered": 8,
+      "total": 8
+    },
+    {
+      "id": "powerhaus-reform-ribbon-deck",
+      "at": "2026-11-03T09:12:01+07:00",
+      "name": "PowerHaus Reform Ribbon Deck",
+      "answered": 9,
+      "total": 9
+    },
+    {
+      "id": "powerhaus-reform-finishing-touches-deck",
+      "at": "2026-11-03T09:15:23+07:00",
+      "name": "PowerHaus Reform Finishing Touches Deck",
+      "answered": 8,
+      "total": 9
+    },
+    {
+      "id": "buds-station-tin-round-3",
+      "name": "WellNest x Buds Station Tin Round 3",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/buds-station-tin-round-3/",
+      "at": "2026-11-03T11:23:16+07:00",
+      "done_at": "2026-11-03T11:23:16+07:00",
+      "answered": 21,
+      "total": 21
     }
   ],
   "pinned": [
@@ -2969,9 +2884,9 @@
       "name": "PowerHaus Reform Sizing Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-sizing-deck/",
       "total": 8,
-      "answered": 0,
+      "answered": 8,
       "tag": "WellNest",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-02T15:30:04+07:00",
       "added": "2026-11-02T15:30:04+07:00",
       "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
@@ -2980,7 +2895,8 @@
       "blurb": "8 cards, ready now, with Notes",
       "agent": "wellnest",
       "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
+      "updated": "2026-11-02T21:13:41+07:00",
+      "done_at": "2026-11-03T09:09:32+07:00"
     },
     {
       "id": "powerhaus-reform-placement-deck",
@@ -3005,9 +2921,9 @@
       "name": "PowerHaus Reform Ribbon Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-ribbon-deck/",
       "total": 9,
-      "answered": 0,
+      "answered": 9,
       "tag": "WellNest",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-02T15:30:02+07:00",
       "added": "2026-11-02T15:30:02+07:00",
       "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
@@ -3016,7 +2932,8 @@
       "blurb": "9 cards, ready now, with Notes",
       "agent": "wellnest",
       "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
+      "updated": "2026-11-02T21:13:41+07:00",
+      "done_at": "2026-11-03T09:12:01+07:00"
     },
     {
       "id": "powerhaus-reform-lid-top-deck",
@@ -3041,9 +2958,9 @@
       "name": "PowerHaus Reform Finishing Touches Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/powerhaus-reform-finishing-touches-deck/",
       "total": 9,
-      "answered": 0,
+      "answered": 8,
       "tag": "WellNest",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-11-02T15:30:00+07:00",
       "added": "2026-11-02T15:30:00+07:00",
       "note": "Machan Nov 2 2026 — PowerHaus Reform FRONT tweaks on the locked ribbon-dot render (sizing, placement, ribbon, lid top, finishing touches).",
@@ -3052,7 +2969,8 @@
       "blurb": "9 cards, ready now, with Notes",
       "agent": "wellnest",
       "made": "2026-11-02",
-      "updated": "2026-11-02T21:13:41+07:00"
+      "updated": "2026-11-02T21:13:41+07:00",
+      "done_at": "2026-11-03T09:15:23+07:00"
     },
     {
       "id": "roselle-back-confirm-deck",
@@ -3367,12 +3285,13 @@
       "name": "Smart Upkeep Van QR Code",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-van-qr-code-d2mb46/",
       "total": 4,
-      "answered": 0,
+      "answered": 2,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "requested_at": "2026-10-29T14:47:00+07:00",
       "added": "2026-10-29T14:52:45+07:00",
-      "note": "Machan via UpKeep Develop Oct 29 2026 — QR code instead of phone (Van Wrap Final Details note): placement, driver side, size, style."
+      "note": "Machan via UpKeep Develop Oct 29 2026 — QR code instead of phone (Van Wrap Final Details note): placement, driver side, size, style.",
+      "done_at": "2026-10-30T16:22:57+07:00"
     },
     {
       "id": "member-home-phone-layout-locked-deck-uhk5v9",
@@ -3396,9 +3315,9 @@
       "name": "Tech App Phone Shell (locked)",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-phone-shell-locked-deck-mrs4op/",
       "total": 5,
-      "answered": 0,
+      "answered": 4,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "added": "2026-10-28T13:14:41+07:00",
       "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
       "requested_at": "2026-10-28T13:04:00+07:00",
@@ -3406,16 +3325,17 @@
       "new": true,
       "blurb": "5 cards, ready now, with Notes",
       "agent": "upkeep",
-      "made": "2026-10-28"
+      "made": "2026-10-28",
+      "done_at": "2026-10-28T14:20:09+07:00"
     },
     {
       "id": "tech-next-session-panel-locked-deck-09d4q4",
       "name": "Tech Next Session Panel (locked)",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-next-session-panel-locked-deck-09d4q4/",
       "total": 7,
-      "answered": 0,
+      "answered": 7,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "added": "2026-10-28T13:14:41+07:00",
       "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
       "requested_at": "2026-10-28T13:04:00+07:00",
@@ -3423,16 +3343,17 @@
       "new": true,
       "blurb": "7 cards, ready now, with Notes",
       "agent": "upkeep",
-      "made": "2026-10-28"
+      "made": "2026-10-28",
+      "done_at": "2026-10-28T14:09:17+07:00"
     },
     {
       "id": "tech-visit-report-locked-deck-z8uspk",
       "name": "Tech Visit Report (locked)",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-visit-report-locked-deck-z8uspk/",
       "total": 6,
-      "answered": 0,
+      "answered": 6,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "added": "2026-10-28T13:14:41+07:00",
       "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
       "requested_at": "2026-10-28T13:04:00+07:00",
@@ -3440,16 +3361,17 @@
       "new": true,
       "blurb": "6 cards, ready now, with Notes",
       "agent": "upkeep",
-      "made": "2026-10-28"
+      "made": "2026-10-28",
+      "done_at": "2026-10-28T14:11:05+07:00"
     },
     {
       "id": "member-onboarding-equipment-locked-deck-v9i4to",
       "name": "Member Onboarding & Equipment (locked)",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-onboarding-equipment-locked-deck-v9i4to/",
       "total": 6,
-      "answered": 0,
+      "answered": 5,
       "tag": "Max's Picks",
-      "status": "open",
+      "status": "done",
       "added": "2026-10-28T13:14:41+07:00",
       "note": "Machan Oct 28 ~1:04 PM ICT — publish locked follow-ups from swipe winners anyway (he noted possible contradicting answers). Looser/pulled-back UI crops, fuller option descriptions. Next Visit never shows tech name. Decks only until implement.",
       "requested_at": "2026-10-28T13:04:00+07:00",
@@ -3457,7 +3379,8 @@
       "new": true,
       "blurb": "6 cards, ready now, with Notes",
       "agent": "upkeep",
-      "made": "2026-10-28"
+      "made": "2026-10-28",
+      "done_at": "2026-10-28T14:20:31+07:00"
     },
     {
       "id": "team-improvement-deck-round-four",
