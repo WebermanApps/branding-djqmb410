@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Skip: Branded Coffee Mug",
+      "sha12": "1342c6421002"
+    },
+    "B": {
+      "label": "Include: Branded Coffee Mug",
+      "sha12": "3b7b1998f8a4"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Skip: Branded Fridge Notepad",
+      "sha12": "a313fd0c10a0"
+    },
+    "B": {
+      "label": "Include: Branded Fridge Notepad",
+      "sha12": "bea5bd546016"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Skip: Branded Microfiber Cloth",
+      "sha12": "56964d90e0d5"
+    },
+    "B": {
+      "label": "Include: Branded Microfiber Cloth",
+      "sha12": "d50e3eebd611"
+    }
+  }
+}

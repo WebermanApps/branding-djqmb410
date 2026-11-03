@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/refine-1103/items/out/mug-skip.jpg",
+    "/workspace/refine-1103/items/out/mug-in.jpg",
+    "/workspace/refine-1103/items/out/notepad-skip.jpg",
+    "/workspace/refine-1103/items/out/notepad-in.jpg",
+    "/workspace/refine-1103/items/out/cloth-skip.jpg",
+    "/workspace/refine-1103/items/out/cloth-in.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Welcome Box Branded Items Deck"
+}

@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "We Take Your Home Persimmonally",
+      "sha12": "325016da36e3"
+    },
+    "B": {
+      "label": "Persimmonally Inspected",
+      "sha12": "45bc6ab3d229"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "I Brake For Clogged Gutters",
+      "sha12": "209c123bf402"
+    },
+    "B": {
+      "label": "Ask Me About Your Gutters",
+      "sha12": "3f047e709bfa"
+    }
+  }
+}
