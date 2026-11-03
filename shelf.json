@@ -2,22 +2,22 @@
   "agent": "branding",
   "decks": [
     {
-      "id": "bumper-sticker-deck",
-      "name": "Bumper Sticker Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-deck/",
-      "total": 4,
+      "id": "bumper-sticker-mascot-deck",
+      "name": "Bumper Sticker Mascot Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-mascot-deck/",
+      "total": 7,
       "answered": 0,
       "tag": "UpKeep",
       "status": "open",
-      "requested_at": "2026-11-03T12:54:00+07:00",
-      "added": "2026-11-03T13:40:00+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
+      "requested_at": "2026-11-03T14:35:00+07:00",
+      "added": "2026-11-03T15:00:00+07:00",
+      "note": "Machan Nov 3 2026: bumper sticker redo built around the Machan persimmon mascot. Card 1 locks his look, cards 2-7 are funny home-care lines. No QR, no phone. Supersedes bumper-sticker-deck.",
       "pinned": true,
       "new": true,
-      "blurb": "4 cards, ready now, with Notes",
+      "blurb": "7 cards, ready now, with Notes",
       "agent": "develop",
       "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
+      "updated": "2026-11-03T15:00:00+07:00"
     },
     {
       "id": "yard-sign-deck",
@@ -520,7 +520,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-03T14:37:09+07:00",
+  "updated": "2026-11-03T15:00:00+07:00",
   "done": [
     {
       "id": "new-prices-deck",
@@ -2979,6 +2979,24 @@
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
     {
+      "id": "bumper-sticker-mascot-deck",
+      "name": "Bumper Sticker Mascot Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-mascot-deck/",
+      "total": 7,
+      "answered": 0,
+      "tag": "UpKeep",
+      "status": "open",
+      "requested_at": "2026-11-03T14:35:00+07:00",
+      "added": "2026-11-03T15:00:00+07:00",
+      "note": "Machan Nov 3 2026: bumper sticker redo built around the Machan persimmon mascot. Card 1 locks his look, cards 2-7 are funny home-care lines. No QR, no phone. Supersedes bumper-sticker-deck.",
+      "pinned": true,
+      "new": true,
+      "blurb": "7 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T15:00:00+07:00"
+    },
+    {
       "id": "fridge-magnet-deck",
       "name": "Fridge Magnet Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/fridge-magnet-deck/",
@@ -2996,24 +3014,6 @@
       "made": "2026-11-03",
       "updated": "2026-11-03T13:40:00+07:00",
       "done_at": "2026-11-03T14:33:13+07:00"
-    },
-    {
-      "id": "bumper-sticker-deck",
-      "name": "Bumper Sticker Deck",
-      "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-deck/",
-      "total": 4,
-      "answered": 0,
-      "tag": "UpKeep",
-      "status": "open",
-      "requested_at": "2026-11-03T12:54:00+07:00",
-      "added": "2026-11-03T13:40:00+07:00",
-      "note": "Machan Nov 3 2026: Smart Upkeep branded product, 4 options in the van wrap look (real logo, Hind type, real QR to smartupkeep.ai, no phone).",
-      "pinned": true,
-      "new": true,
-      "blurb": "4 cards, ready now, with Notes",
-      "agent": "develop",
-      "made": "2026-11-03",
-      "updated": "2026-11-03T13:40:00+07:00"
     },
     {
       "id": "furnace-sticker-deck",
@@ -10127,6 +10127,25 @@
     }
   ],
   "retired": [
+    {
+      "id": "bumper-sticker-deck",
+      "name": "Bumper Sticker Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-deck/",
+      "total": 4,
+      "answered": 0,
+      "tag": "UpKeep",
+      "status": "retired",
+      "requested_at": "2026-11-03T12:54:00+07:00",
+      "added": "2026-11-03T13:40:00+07:00",
+      "note": "superseded by bumper-sticker-mascot-deck",
+      "pinned": true,
+      "new": true,
+      "blurb": "4 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T13:40:00+07:00",
+      "retired_at": "2026-11-03T15:00:00+07:00"
+    },
     {
       "id": "mailer-targeting-and-timing-deck",
       "name": "Mailer Targeting And Timing Deck",

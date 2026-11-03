@@ -1,0 +1,22 @@
+{
+  "category": null,
+  "title": "Bumper Sticker Mascot Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/su-mascot-1103/out/mascot-a.jpg",
+    "/workspace/su-mascot-1103/out/mascot-b.jpg",
+    "/workspace/su-mascot-1103/out/gutters-a.jpg",
+    "/workspace/su-mascot-1103/out/gutters-b.jpg",
+    "/workspace/su-mascot-1103/out/lookedafter-a.jpg",
+    "/workspace/su-mascot-1103/out/lookedafter-b.jpg",
+    "/workspace/su-mascot-1103/out/wrench-a.jpg",
+    "/workspace/su-mascot-1103/out/wrench-b.jpg",
+    "/workspace/su-mascot-1103/out/persimmon-a.jpg",
+    "/workspace/su-mascot-1103/out/persimmon-b.jpg",
+    "/workspace/su-mascot-1103/out/honk-a.jpg",
+    "/workspace/su-mascot-1103/out/honk-b.jpg",
+    "/workspace/su-mascot-1103/out/othercar-a.jpg",
+    "/workspace/su-mascot-1103/out/othercar-b.jpg"
+  ]
+}

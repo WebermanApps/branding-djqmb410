@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: Classic Smile",
+      "sha12": "d9803df5bdfd"
+    },
+    "B": {
+      "label": "B: Wink And Wave",
+      "sha12": "8882fe7f9952"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "A: My Gutters Are Cleaner Than Yours",
+      "sha12": "82fefe6be894"
+    },
+    "B": {
+      "label": "B: I Brake For Clean Gutters",
+      "sha12": "8e6871f92d3b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: This Car's Home Is Looked After",
+      "sha12": "ea071350d8a4"
+    },
+    "B": {
+      "label": "B: Is Your Home Looked After?",
+      "sha12": "973a42c74061"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "A: Fixed It Before It Broke",
+      "sha12": "44b075de50b1"
+    },
+    "B": {
+      "label": "B: Nuts About Home Care",
+      "sha12": "5d4a2f0da459"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "A: Home Care, Persimmon-ally",
+      "sha12": "4b9aa31bc275"
+    },
+    "B": {
+      "label": "B: Ripe For A Home Check",
+      "sha12": "7f7be7b351f6"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "A: Honk If Your Filters Are Fresh",
+      "sha12": "ea3ba589cd95"
+    },
+    "B": {
+      "label": "B: Powered By Clean Air Filters",
+      "sha12": "45f8e28921e5"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "A: My Other Car Is A Ladder",
+      "sha12": "d13dcd7fbbeb"
+    },
+    "B": {
+      "label": "B: Drip-Free Since Day One",
+      "sha12": "ee6504fb6185"
+    }
+  }
+}
