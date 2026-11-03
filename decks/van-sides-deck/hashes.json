@@ -58,5 +58,65 @@
       "label": "Option C: Biggest Logo, QR With Tagline",
       "sha12": "b8ff1cd6577f"
     }
+  },
+  "c7": {
+    "A": {
+      "label": "Option A: Logo Leads The Slide Door",
+      "sha12": "e4a674115584"
+    },
+    "B": {
+      "label": "Polish 1: Clear Of The Crease",
+      "sha12": "e30b00221a0b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Option A: Logo Leads The Slide Door",
+      "sha12": "e4a674115584"
+    },
+    "B": {
+      "label": "Polish 2: Bigger Logo, Tight Grid",
+      "sha12": "e59c5410a9c9"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Polish 1: Clear Of The Crease",
+      "sha12": "e30b00221a0b"
+    },
+    "B": {
+      "label": "Polish 2: Bigger Logo, Tight Grid",
+      "sha12": "e59c5410a9c9"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Option A: Logo Leads The Front Cargo Panel",
+      "sha12": "721c3ea91633"
+    },
+    "B": {
+      "label": "Polish 1: Clear Of The Crease",
+      "sha12": "148f70ab7a8d"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Option A: Logo Leads The Front Cargo Panel",
+      "sha12": "721c3ea91633"
+    },
+    "B": {
+      "label": "Polish 2: Bigger Logo, Tight Grid",
+      "sha12": "f2ab76e60dbb"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Polish 1: Clear Of The Crease",
+      "sha12": "148f70ab7a8d"
+    },
+    "B": {
+      "label": "Polish 2: Bigger Logo, Tight Grid",
+      "sha12": "f2ab76e60dbb"
+    }
   }
 }
