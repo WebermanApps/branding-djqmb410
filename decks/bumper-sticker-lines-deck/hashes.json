@@ -18,5 +18,25 @@
       "label": "Drip-Free Since Day One",
       "sha12": "84dd06f89596"
     }
+  },
+  "c3": {
+    "A": {
+      "label": "White, Machan Left",
+      "sha12": "4428f458e44c"
+    },
+    "B": {
+      "label": "Terracotta, Machan Right",
+      "sha12": "ce698eecfe11"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal, Machan Left",
+      "sha12": "8d8bcdd86503"
+    },
+    "B": {
+      "label": "White, Machan Right",
+      "sha12": "072376913e34"
+    }
   }
 }
