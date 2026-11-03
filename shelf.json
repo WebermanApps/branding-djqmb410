@@ -2,6 +2,24 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "buds-station-tin-round-4",
+      "name": "Buds Station Tin Round 4",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/buds-station-tin-round-4/",
+      "total": 11,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-11-03T14:56:22+07:00",
+      "note": "Machan Nov 3 2026: Buds Station tin round 4 on the centered sage/forest/mauve bases (gauge 0 of 3 + chamomile · lavender · lemon on every tin): colour head-to-heads, label vs no label (settles R3 card 17), pattern, script colour, logo size, gauge order and size, pup size, overall.",
+      "requested_at": "2026-11-03T14:56:22+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "11 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T14:56:22+07:00"
+    },
+    {
       "id": "van-front-refine-deck",
       "name": "Van Front Refine Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-refine-deck/",
@@ -664,7 +682,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-03T15:00:00+07:00",
+  "updated": "2026-11-03T14:56:22+07:00",
   "done": [
     {
       "id": "new-prices-deck",
@@ -3162,6 +3180,24 @@
   "queued": [],
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
+    {
+      "id": "buds-station-tin-round-4",
+      "name": "Buds Station Tin Round 4",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/buds-station-tin-round-4/",
+      "total": 11,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-11-03T14:56:22+07:00",
+      "note": "Machan Nov 3 2026: Buds Station tin round 4 on the centered sage/forest/mauve bases (gauge 0 of 3 + chamomile · lavender · lemon on every tin): colour head-to-heads, label vs no label (settles R3 card 17), pattern, script colour, logo size, gauge order and size, pup size, overall.",
+      "requested_at": "2026-11-03T14:56:22+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "11 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T14:56:22+07:00"
+    },
     {
       "id": "van-front-refine-deck",
       "name": "Van Front Refine Deck",

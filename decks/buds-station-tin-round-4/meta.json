@@ -1,0 +1,27 @@
+{
+  "category": "packaging",
+  "asset_paths": [
+    "/workspace/buds-tin-r4-1103/img/c01a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c01b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c02a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c02b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c03a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c03b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c04b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c05a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c05b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c06a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c06b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c07a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c07b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c08a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c08b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c09a.jpg",
+    "/workspace/buds-tin-r4-1103/img/c09b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c10b.jpg",
+    "/workspace/buds-tin-r4-1103/img/c11a.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Buds Station Tin Round 4"
+}

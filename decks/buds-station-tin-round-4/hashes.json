@@ -1,0 +1,112 @@
+{
+  "c1": {
+    "A": {
+      "label": "Sage",
+      "sha12": "efd40cdfef6e"
+    },
+    "B": {
+      "label": "Deep Forest Green",
+      "sha12": "1ce6cf1d8749"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Deep Forest Green",
+      "sha12": "57f8449d8662"
+    },
+    "B": {
+      "label": "Dusty Mauve",
+      "sha12": "9af47d69b194"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Sage",
+      "sha12": "0911ff53fde3"
+    },
+    "B": {
+      "label": "Dusty Mauve",
+      "sha12": "52bffc57f98d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Cream Round Label (Forest)",
+      "sha12": "1ce6cf1d8749"
+    },
+    "B": {
+      "label": "No Label, Straight On Forest",
+      "sha12": "a49690f7ac88"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Gold Moons On Sage",
+      "sha12": "38a57d8acbec"
+    },
+    "B": {
+      "label": "Stripes On Sage",
+      "sha12": "fd84719b1eda"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Deep Green Script",
+      "sha12": "c0827e206ca8"
+    },
+    "B": {
+      "label": "Plum Script",
+      "sha12": "8e8fe059ee1c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Smaller Logo",
+      "sha12": "26894ff372db"
+    },
+    "B": {
+      "label": "Larger Logo",
+      "sha12": "e95ec7a11b52"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Above The Logo",
+      "sha12": "19a48c8884e4"
+    },
+    "B": {
+      "label": "Below The Logo, Tagline Last",
+      "sha12": "d74c5239d2f7"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Smaller Gauge",
+      "sha12": "d1f09ffc73ec"
+    },
+    "B": {
+      "label": "Larger Gauge",
+      "sha12": "bfb8d22c1183"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Small Pup",
+      "sha12": "1ce6cf1d8749"
+    },
+    "B": {
+      "label": "Medium Pup",
+      "sha12": "129c3862c07e"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Lock It From My Picks",
+      "sha12": "696acd98add8"
+    },
+    "B": {
+      "label": "Lock It, With The Medium Pup",
+      "sha12": "129c3862c07e"
+    }
+  }
+}
