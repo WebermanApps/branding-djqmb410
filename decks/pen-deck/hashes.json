@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "White Barrel",
+      "sha12": "b7a436e9da2f"
+    },
+    "B": {
+      "label": "Terracotta Barrel",
+      "sha12": "950190bf9eba"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal Barrel",
+      "sha12": "9b6b2cd611ef"
+    },
+    "B": {
+      "label": "White Barrel",
+      "sha12": "108b8e30a0fd"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "smartupkeep.ai",
+      "sha12": "7a831f34fc7b"
+    },
+    "B": {
+      "label": "Home Care, On Schedule",
+      "sha12": "1a9bf7b79ab7"
+    }
+  }
+}

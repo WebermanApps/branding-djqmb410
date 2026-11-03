@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "White Classic",
+      "sha12": "fb812ff70902"
+    },
+    "B": {
+      "label": "Terracotta Band",
+      "sha12": "22f1d795dd5d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "White QR Back",
+      "sha12": "d25d6590ecdd"
+    },
+    "B": {
+      "label": "Terracotta QR Back",
+      "sha12": "98877818f67c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Pair",
+      "sha12": "342e5610dddd"
+    },
+    "B": {
+      "label": "Terracotta Pair",
+      "sha12": "312d2af9f42c"
+    }
+  }
+}

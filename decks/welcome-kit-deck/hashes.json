@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Welcome Box",
+      "sha12": "f2208137f056"
+    },
+    "B": {
+      "label": "Welcome Folder",
+      "sha12": "c1fdb20167b5"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "White Lid, Terracotta Band",
+      "sha12": "3c51be035586"
+    },
+    "B": {
+      "label": "Terracotta Lid",
+      "sha12": "aab4b29adbab"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Simple Set",
+      "sha12": "22dc5c5b0c69"
+    },
+    "B": {
+      "label": "Full Set",
+      "sha12": "11f3cc928105"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c1a.jpg",
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c1b.jpg",
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c2a.jpg",
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c2b.jpg",
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c3a.jpg",
+    "/workspace/su-products-1103/decks/welcome-kit-deck/c3b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Welcome Kit Deck"
+}
