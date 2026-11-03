@@ -2,6 +2,24 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "van-front-deck",
+      "name": "Van Front Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-deck/",
+      "total": 6,
+      "answered": 0,
+      "tag": "UpKeep",
+      "status": "open",
+      "requested_at": "2026-11-03T12:19:41+07:00",
+      "added": "2026-11-03T12:19:41+07:00",
+      "note": "Machan Nov 3 2026: small front-of-van touches on the locked white Transit (mirror caps, hood logo, windshield stripe, header colour, bumper line).",
+      "pinned": true,
+      "new": true,
+      "blurb": "6 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T12:19:41+07:00"
+    },
+    {
       "id": "info-flow-fixes-deck",
       "name": "Info Flow Fixes Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/info-flow-fixes-deck/",
@@ -466,7 +484,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-03T12:03:30+07:00",
+  "updated": "2026-11-03T12:19:41+07:00",
   "done": [
     {
       "id": "new-prices-deck",
@@ -2861,6 +2879,24 @@
   "queued": [],
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
+    {
+      "id": "van-front-deck",
+      "name": "Van Front Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-deck/",
+      "total": 6,
+      "answered": 0,
+      "tag": "UpKeep",
+      "status": "open",
+      "requested_at": "2026-11-03T12:19:41+07:00",
+      "added": "2026-11-03T12:19:41+07:00",
+      "note": "Machan Nov 3 2026: small front-of-van touches on the locked white Transit (mirror caps, hood logo, windshield stripe, header colour, bumper line).",
+      "pinned": true,
+      "new": true,
+      "blurb": "6 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-03",
+      "updated": "2026-11-03T12:19:41+07:00"
+    },
     {
       "id": "info-flow-fixes-deck",
       "name": "Info Flow Fixes Deck",

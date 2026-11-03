@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Terracotta Mirror Caps",
+      "sha12": "c89527dd930f"
+    },
+    "B": {
+      "label": "Charcoal Mirror Caps",
+      "sha12": "c57d5b11f94c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Centered On The Hood",
+      "sha12": "8e594f3bd890"
+    },
+    "B": {
+      "label": "Offset To The Left",
+      "sha12": "5346c5182f72"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Thin Terracotta Stripe",
+      "sha12": "62b6fecc3104"
+    },
+    "B": {
+      "label": "No Stripe",
+      "sha12": "3a5a51b2bd93"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Header",
+      "sha12": "54c0a8e36d95"
+    },
+    "B": {
+      "label": "Terracotta Header",
+      "sha12": "f04967b1e822"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain Bumper",
+      "sha12": "f6201d8f1ee5"
+    },
+    "B": {
+      "label": "Terracotta Bumper Line",
+      "sha12": "cb06c4636849"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Combined Touches",
+      "sha12": "ffd20ae2031e"
+    },
+    "B": {
+      "label": "Locked Front",
+      "sha12": "1f98de565e0b"
+    }
+  }
+}
