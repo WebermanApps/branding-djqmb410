@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/round2-1103/mailer/c1a.jpg",
+    "/workspace/round2-1103/mailer/c1b.jpg",
+    "/workspace/round2-1103/mailer/c2a.jpg",
+    "/workspace/round2-1103/mailer/c2b.jpg",
+    "/workspace/round2-1103/mailer/c3a.jpg",
+    "/workspace/round2-1103/mailer/c3b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Mailer Back Colour Deck"
+}

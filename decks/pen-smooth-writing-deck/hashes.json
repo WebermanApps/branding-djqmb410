@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Zebra Z-Grip",
+      "sha12": "eae898a48e47"
+    },
+    "B": {
+      "label": "A Different Pen",
+      "sha12": "6d3fd139e80b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "G2 0.7 mm Fine",
+      "sha12": "14d8698f6b83"
+    },
+    "B": {
+      "label": "G2 1.0 mm Bold",
+      "sha12": "ec850b90b81e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Black Ink",
+      "sha12": "cf883f5ef7c9"
+    },
+    "B": {
+      "label": "Blue Ink",
+      "sha12": "357a153d2c4e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "White Barrel",
+      "sha12": "107b3a4f50c9"
+    },
+    "B": {
+      "label": "Clear Smoke Barrel",
+      "sha12": "837345ca5d2a"
+    }
+  }
+}

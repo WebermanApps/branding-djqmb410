@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Size",
+      "sha12": "a2394c5ef73e"
+    },
+    "B": {
+      "label": "A Touch Smaller",
+      "sha12": "7bcf42651aca"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Higher",
+      "sha12": "0f5828ff4237"
+    },
+    "B": {
+      "label": "Lower",
+      "sha12": "fd17d5afba4c"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Slimmer Band",
+      "sha12": "bdc5c3897824"
+    },
+    "B": {
+      "label": "Taller Band",
+      "sha12": "0ab1668c8858"
+    }
+  }
+}

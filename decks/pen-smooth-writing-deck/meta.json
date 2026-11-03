@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "title": "Pen Smooth Writing Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/round2-1103/pen/c1a.jpg",
+    "/workspace/round2-1103/pen/c1b.jpg",
+    "/workspace/round2-1103/pen/c2a.jpg",
+    "/workspace/round2-1103/pen/c2b.jpg",
+    "/workspace/round2-1103/pen/c3a.jpg",
+    "/workspace/round2-1103/pen/c3b.jpg",
+    "/workspace/round2-1103/pen/c4a.jpg",
+    "/workspace/round2-1103/pen/c4b.jpg"
+  ]
+}

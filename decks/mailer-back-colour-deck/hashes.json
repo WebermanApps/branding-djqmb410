@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Terracotta And White",
+      "sha12": "3bb118a08578"
+    },
+    "B": {
+      "label": "Charcoal And White",
+      "sha12": "09f0af2d2ebd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Tight Spacing",
+      "sha12": "2f05ea15fe56"
+    },
+    "B": {
+      "label": "Open Spacing",
+      "sha12": "8900aa268c5f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Tight Spacing",
+      "sha12": "e873de1d8bbc"
+    },
+    "B": {
+      "label": "Open Spacing",
+      "sha12": "646f62208828"
+    }
+  }
+}
