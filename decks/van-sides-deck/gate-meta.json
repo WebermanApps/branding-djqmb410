@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/upkeep/van-wrap/sides-options-1103/left-option-a.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/left-option-b.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/left-option-c.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/ref-left.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/ref-right.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/right-option-a.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/right-option-b.jpg",
+    "/workspace/upkeep/van-wrap/sides-options-1103/right-option-c.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Van Sides Deck"
+}

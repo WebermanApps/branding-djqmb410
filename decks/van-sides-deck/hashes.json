@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Right Side (Passenger)",
+      "sha12": "04ab15f087f4"
+    },
+    "B": {
+      "label": "Option A: Logo Leads The Slide Door",
+      "sha12": "e4a674115584"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Current Right Side (Passenger)",
+      "sha12": "04ab15f087f4"
+    },
+    "B": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "429e6de73b07"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Current Right Side (Passenger)",
+      "sha12": "04ab15f087f4"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "29b8a522b350"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Current Left Side (Driver)",
+      "sha12": "1c2ebf9c9227"
+    },
+    "B": {
+      "label": "Option A: Logo Leads The Front Cargo Panel",
+      "sha12": "721c3ea91633"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Current Left Side (Driver)",
+      "sha12": "1c2ebf9c9227"
+    },
+    "B": {
+      "label": "Option B: Logo Leads The Rear Panel",
+      "sha12": "5536ac7a64d8"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Current Left Side (Driver)",
+      "sha12": "1c2ebf9c9227"
+    },
+    "B": {
+      "label": "Option C: Biggest Logo, QR With Tagline",
+      "sha12": "b8ff1cd6577f"
+    }
+  }
+}
