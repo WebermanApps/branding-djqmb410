@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "title": "Service Tags Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/su-products-1103/out/service-tag-a.jpg",
+    "/workspace/su-products-1103/out/service-tag-b.jpg",
+    "/workspace/su-products-1103/out/service-tag-c.jpg",
+    "/workspace/su-products-1103/out/service-tag-d.jpg"
+  ]
+}

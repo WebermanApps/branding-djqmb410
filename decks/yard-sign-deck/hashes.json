@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: White, Home Care, On Schedule",
+      "sha12": "55f6a4fc72bb"
+    },
+    "B": {
+      "label": "B: Terracotta, Your Home, Looked After",
+      "sha12": "f76329077693"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "C: White With Van Sweep",
+      "sha12": "1f10015b37cb"
+    },
+    "B": {
+      "label": "D: Charcoal, Your Home, Looked After",
+      "sha12": "92ddcfbce053"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: White, Home Care, On Schedule",
+      "sha12": "55f6a4fc72bb"
+    },
+    "B": {
+      "label": "C: White With Van Sweep",
+      "sha12": "1f10015b37cb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "B: Terracotta, Your Home, Looked After",
+      "sha12": "f76329077693"
+    },
+    "B": {
+      "label": "D: Charcoal, Your Home, Looked After",
+      "sha12": "92ddcfbce053"
+    }
+  }
+}

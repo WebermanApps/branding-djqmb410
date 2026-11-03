@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: Terracotta Header",
+      "sha12": "6c31d1fb9a36"
+    },
+    "B": {
+      "label": "B: Charcoal Header",
+      "sha12": "6edc181b2e1a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "C: Terracotta Frame",
+      "sha12": "ad34fdde75ad"
+    },
+    "B": {
+      "label": "D: Clean White, Corner Sweep",
+      "sha12": "b26db90a2240"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: Terracotta Header",
+      "sha12": "6c31d1fb9a36"
+    },
+    "B": {
+      "label": "C: Terracotta Frame",
+      "sha12": "ad34fdde75ad"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "B: Charcoal Header",
+      "sha12": "6edc181b2e1a"
+    },
+    "B": {
+      "label": "D: Clean White, Corner Sweep",
+      "sha12": "b26db90a2240"
+    }
+  }
+}

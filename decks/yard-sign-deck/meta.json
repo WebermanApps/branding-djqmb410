@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "title": "Yard Sign Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/su-products-1103/out/yard-sign-a.jpg",
+    "/workspace/su-products-1103/out/yard-sign-b.jpg",
+    "/workspace/su-products-1103/out/yard-sign-c.jpg",
+    "/workspace/su-products-1103/out/yard-sign-d.jpg"
+  ]
+}

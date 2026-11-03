@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: White, Logo + Tagline",
+      "sha12": "783a9ff4ee17"
+    },
+    "B": {
+      "label": "B: Terracotta, Web Address",
+      "sha12": "039ca1caaf58"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "C: White With Sweep",
+      "sha12": "2e0acfea026d"
+    },
+    "B": {
+      "label": "D: Charcoal, Logo Row",
+      "sha12": "5b739afbdd44"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: White, Logo + Tagline",
+      "sha12": "783a9ff4ee17"
+    },
+    "B": {
+      "label": "C: White With Sweep",
+      "sha12": "2e0acfea026d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "B: Terracotta, Web Address",
+      "sha12": "039ca1caaf58"
+    },
+    "B": {
+      "label": "D: Charcoal, Logo Row",
+      "sha12": "5b739afbdd44"
+    }
+  }
+}

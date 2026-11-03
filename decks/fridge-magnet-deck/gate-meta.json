@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/su-products-1103/out/fridge-magnet-a.jpg",
+    "/workspace/su-products-1103/out/fridge-magnet-b.jpg",
+    "/workspace/su-products-1103/out/fridge-magnet-c.jpg",
+    "/workspace/su-products-1103/out/fridge-magnet-d.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Fridge Magnet Deck"
+}

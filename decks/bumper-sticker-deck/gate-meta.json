@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/su-products-1103/out/bumper-sticker-a.jpg",
+    "/workspace/su-products-1103/out/bumper-sticker-b.jpg",
+    "/workspace/su-products-1103/out/bumper-sticker-c.jpg",
+    "/workspace/su-products-1103/out/bumper-sticker-d.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Bumper Sticker Deck"
+}

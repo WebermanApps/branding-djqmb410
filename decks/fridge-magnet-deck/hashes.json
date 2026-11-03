@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "A: White, QR Right",
+      "sha12": "f46a4456e6b5"
+    },
+    "B": {
+      "label": "B: Terracotta Field",
+      "sha12": "d7ffb4060d0c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "C: QR Left, Van Sweep",
+      "sha12": "7bddbee5021c"
+    },
+    "B": {
+      "label": "D: Charcoal, Centered",
+      "sha12": "0257f9a0ec2d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "A: White, QR Right",
+      "sha12": "f46a4456e6b5"
+    },
+    "B": {
+      "label": "C: QR Left, Van Sweep",
+      "sha12": "7bddbee5021c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "B: Terracotta Field",
+      "sha12": "d7ffb4060d0c"
+    },
+    "B": {
+      "label": "D: Charcoal, Centered",
+      "sha12": "0257f9a0ec2d"
+    }
+  }
+}

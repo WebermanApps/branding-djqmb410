@@ -1,0 +1,12 @@
+{
+  "category": null,
+  "asset_paths": [
+    "/workspace/su-products-1103/out/furnace-sticker-a.jpg",
+    "/workspace/su-products-1103/out/furnace-sticker-b.jpg",
+    "/workspace/su-products-1103/out/furnace-sticker-c.jpg",
+    "/workspace/su-products-1103/out/furnace-sticker-d.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "fit-whole",
+  "title": "Furnace Sticker Deck"
+}
