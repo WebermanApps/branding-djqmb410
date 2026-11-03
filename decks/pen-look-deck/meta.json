@@ -1,0 +1,18 @@
+{
+  "category": null,
+  "title": "Pen Look Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/look-1103/pen/c1a.jpg",
+    "/workspace/look-1103/pen/c1b.jpg",
+    "/workspace/look-1103/pen/c2a.jpg",
+    "/workspace/look-1103/pen/c2b.jpg",
+    "/workspace/look-1103/pen/c3a.jpg",
+    "/workspace/look-1103/pen/c3b.jpg",
+    "/workspace/look-1103/pen/c4a.jpg",
+    "/workspace/look-1103/pen/c4b.jpg",
+    "/workspace/look-1103/pen/c5a.jpg",
+    "/workspace/look-1103/pen/c5b.jpg"
+  ]
+}

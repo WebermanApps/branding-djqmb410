@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Terracotta Header",
+      "sha12": "f3a7606001c6"
+    },
+    "B": {
+      "label": "Side Panel",
+      "sha12": "625a8c6a8cfd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Refer A Neighbor",
+      "sha12": "b94cea142860"
+    },
+    "B": {
+      "label": "Know A Neighbor?",
+      "sha12": "05db872bfbea"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Standard QR",
+      "sha12": "81f675a60c03"
+    },
+    "B": {
+      "label": "Large QR",
+      "sha12": "3d1bc230ebb0"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Write-In Lines",
+      "sha12": "f09d073a7078"
+    },
+    "B": {
+      "label": "Plain Logo Back",
+      "sha12": "afb5080f1e64"
+    }
+  }
+}

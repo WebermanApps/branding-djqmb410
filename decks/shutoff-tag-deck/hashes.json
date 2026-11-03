@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Three Tags",
+      "sha12": "af211323b776"
+    },
+    "B": {
+      "label": "Two Tags",
+      "sha12": "edfdc9a578b2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Name Only",
+      "sha12": "dc48e2ec9dc1"
+    },
+    "B": {
+      "label": "Small Icon",
+      "sha12": "6c3f79796cc4"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Zip Tie",
+      "sha12": "1b7c2e539ea0"
+    },
+    "B": {
+      "label": "Metal Ring",
+      "sha12": "87a3dd0e01c8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "How-To Steps",
+      "sha12": "17503da9b1ab"
+    },
+    "B": {
+      "label": "Same As Front",
+      "sha12": "2beafea67954"
+    }
+  }
+}

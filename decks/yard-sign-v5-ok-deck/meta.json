@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "title": "Yard Sign v5 OK Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/look-1103/yard/c1a.jpg",
+    "/workspace/look-1103/yard/c1b.jpg",
+    "/workspace/look-1103/yard/c2a.jpg",
+    "/workspace/look-1103/yard/c2b.jpg",
+    "/workspace/look-1103/yard/c3a.jpg",
+    "/workspace/look-1103/yard/c3b.jpg"
+  ]
+}

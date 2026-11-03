@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tight Spacing",
+      "sha12": "acd2bbd462d6"
+    },
+    "B": {
+      "label": "Open Spacing",
+      "sha12": "93f611f70b1b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Open",
+      "sha12": "d258f698fec9"
+    },
+    "B": {
+      "label": "Extra Open",
+      "sha12": "836f8f7a50b3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Current Size",
+      "sha12": "b6b13e0d6ce3"
+    },
+    "B": {
+      "label": "A Little Bigger",
+      "sha12": "0906a3c91551"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "v4",
+      "sha12": "19fd011fb659"
+    },
+    "B": {
+      "label": "v5",
+      "sha12": "35fef9acda94"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "v4 Proof",
+      "sha12": "766c2244279a"
+    },
+    "B": {
+      "label": "v5 Proof",
+      "sha12": "d5d411567867"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Print v5 As Is",
+      "sha12": "20f339ee84e3"
+    },
+    "B": {
+      "label": "One More Tweak",
+      "sha12": "10a0a628c1ed"
+    }
+  }
+}

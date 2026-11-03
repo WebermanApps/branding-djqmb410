@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "title": "Refer-A-Neighbor Card Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/look-1103/refer/c1a.jpg",
+    "/workspace/look-1103/refer/c1b.jpg",
+    "/workspace/look-1103/refer/c2a.jpg",
+    "/workspace/look-1103/refer/c2b.jpg",
+    "/workspace/look-1103/refer/c3a.jpg",
+    "/workspace/look-1103/refer/c3b.jpg",
+    "/workspace/look-1103/refer/c4a.jpg",
+    "/workspace/look-1103/refer/c4b.jpg"
+  ]
+}

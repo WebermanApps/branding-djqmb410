@@ -1,0 +1,16 @@
+{
+  "category": null,
+  "title": "Shutoff Tag Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/look-1103/shutoff/c1a.jpg",
+    "/workspace/look-1103/shutoff/c1b.jpg",
+    "/workspace/look-1103/shutoff/c2a.jpg",
+    "/workspace/look-1103/shutoff/c2b.jpg",
+    "/workspace/look-1103/shutoff/c3a.jpg",
+    "/workspace/look-1103/shutoff/c3b.jpg",
+    "/workspace/look-1103/shutoff/c4a.jpg",
+    "/workspace/look-1103/shutoff/c4b.jpg"
+  ]
+}

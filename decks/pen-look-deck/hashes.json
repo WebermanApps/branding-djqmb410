@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Along The Barrel",
+      "sha12": "6c1c1c832064"
+    },
+    "B": {
+      "label": "Near The Clip",
+      "sha12": "04ec70097a6e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal Clip",
+      "sha12": "61d7ae1b3ea2"
+    },
+    "B": {
+      "label": "Terracotta Clip",
+      "sha12": "4b94cc5b0ef1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Clip",
+      "sha12": "771fbf452299"
+    },
+    "B": {
+      "label": "Charcoal Clip",
+      "sha12": "df5dfe4bd746"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Charcoal Grip",
+      "sha12": "8c851fed46a7"
+    },
+    "B": {
+      "label": "Terracotta Grip",
+      "sha12": "e4f2ec016b78"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Classic Charcoal",
+      "sha12": "bafc2c15d5b7"
+    },
+    "B": {
+      "label": "Terracotta Pop",
+      "sha12": "f7da0c44718b"
+    }
+  }
+}
