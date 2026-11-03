@@ -1,32 +1,82 @@
 {
   "c1": {
     "A": {
-      "label": "White Barrel",
-      "sha12": "b7a436e9da2f"
+      "label": "Zebra Z-Grip, Custom Imprint",
+      "sha12": "59e34c22bb92"
     },
     "B": {
-      "label": "Terracotta Barrel",
-      "sha12": "950190bf9eba"
+      "label": "Pilot G2 0.7 Gel",
+      "sha12": "a6c9dbeafc84"
     }
   },
   "c2": {
     "A": {
-      "label": "Charcoal Barrel",
-      "sha12": "9b6b2cd611ef"
+      "label": "Zebra Z-Grip, Custom Imprint",
+      "sha12": "ff90f6a72761"
     },
     "B": {
-      "label": "White Barrel",
-      "sha12": "108b8e30a0fd"
+      "label": "uni-ball Jetstream Sport",
+      "sha12": "9521115c696e"
     }
   },
   "c3": {
     "A": {
-      "label": "smartupkeep.ai",
-      "sha12": "7a831f34fc7b"
+      "label": "Pilot G2 0.7 Gel",
+      "sha12": "41e95357e6a6"
     },
     "B": {
-      "label": "Home Care, On Schedule",
-      "sha12": "1a9bf7b79ab7"
+      "label": "uni-ball Jetstream Sport",
+      "sha12": "213427fd955b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Vera Soft Touch Gel Metal",
+      "sha12": "890677588ad4"
+    },
+    "B": {
+      "label": "Sharpie S-Gel Metal",
+      "sha12": "f2d840d93699"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "uni-ball Jetstream Sport",
+      "sha12": "6e1689ab2835"
+    },
+    "B": {
+      "label": "Vera Soft Touch Gel Metal",
+      "sha12": "93cbed0aa10c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "White Barrel",
+      "sha12": "0b2c9874d9ed"
+    },
+    "B": {
+      "label": "Charcoal Barrel",
+      "sha12": "008cb42d7a46"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Terracotta Logo",
+      "sha12": "d29c71ac310e"
+    },
+    "B": {
+      "label": "Charcoal Logo",
+      "sha12": "1f8fb54e7a54"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Full Lockup",
+      "sha12": "fe791c33b889"
+    },
+    "B": {
+      "label": "UP Mark Only",
+      "sha12": "c642d4fc33bf"
     }
   }
 }

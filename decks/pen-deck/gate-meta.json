@@ -1,12 +1,22 @@
 {
   "category": null,
   "asset_paths": [
-    "/workspace/su-products-1103/decks/pen-deck/c1a.jpg",
-    "/workspace/su-products-1103/decks/pen-deck/c1b.jpg",
-    "/workspace/su-products-1103/decks/pen-deck/c2a.jpg",
-    "/workspace/su-products-1103/decks/pen-deck/c2b.jpg",
-    "/workspace/su-products-1103/decks/pen-deck/c3a.jpg",
-    "/workspace/su-products-1103/decks/pen-deck/c3b.jpg"
+    "/workspace/pen-1103/out/c1a.jpg",
+    "/workspace/pen-1103/out/c1b.jpg",
+    "/workspace/pen-1103/out/c2a.jpg",
+    "/workspace/pen-1103/out/c2b.jpg",
+    "/workspace/pen-1103/out/c3a.jpg",
+    "/workspace/pen-1103/out/c3b.jpg",
+    "/workspace/pen-1103/out/c4a.jpg",
+    "/workspace/pen-1103/out/c4b.jpg",
+    "/workspace/pen-1103/out/c5a.jpg",
+    "/workspace/pen-1103/out/c5b.jpg",
+    "/workspace/pen-1103/out/c6a.jpg",
+    "/workspace/pen-1103/out/c6b.jpg",
+    "/workspace/pen-1103/out/c7a.jpg",
+    "/workspace/pen-1103/out/c7b.jpg",
+    "/workspace/pen-1103/out/c8a.jpg",
+    "/workspace/pen-1103/out/c8b.jpg"
   ],
   "ui_screenshots": false,
   "bleed_mode": "fit-whole",
