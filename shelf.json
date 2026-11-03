@@ -2,24 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "welcome-box-items-deck",
-   "name": "Welcome Box Items Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-items-deck/",
-   "total": 13,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T20:15:00+07:00",
-   "added": "2026-11-03T20:15:00+07:00",
-   "note": "Machan Nov 3 2026: one card per welcome box item. Swipe right to include, left to skip; Notes and Machan Decides on every card. Fridge magnet and furnace sticker already included; pen waits for the photo.",
-   "pinned": true,
-   "new": true,
-   "blurb": "13 cards, ready now, with Notes",
-   "agent": "develop",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T20:15:00+07:00"
-  },
-  {
    "id": "van-rear-final-deck",
    "name": "Van Rear Final Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-rear-final-deck/",
@@ -54,24 +36,6 @@
    "agent": "develop",
    "made": "2026-11-03",
    "updated": "2026-11-03T19:55:00+07:00"
-  },
-  {
-   "id": "bumper-sticker-lines-deck",
-   "name": "Bumper Sticker Lines Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-lines-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "UpKeep",
-   "status": "open",
-   "requested_at": "2026-11-03T19:55:00+07:00",
-   "added": "2026-11-03T19:55:00+07:00",
-   "note": "Machan Nov 3 2026: follow-up with only the open choices left from your refine swipes; everything else is locked. Nov 3 20:05: added 2 Are Your Gutters Clean? ladder cards.",
-   "pinned": true,
-   "new": true,
-   "blurb": "4 cards, ready now, with Notes",
-   "agent": "develop",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T20:05:00+07:00"
   },
   {
    "id": "buds-station-tin-round-4",
@@ -556,7 +520,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-03T20:15:00+07:00",
+ "updated": "2026-11-03T22:30:13+07:00",
  "done": [
   {
    "id": "new-prices-deck",
@@ -3104,6 +3068,20 @@
    "id": "bumper-sticker-mascot-deck",
    "done_at": "2026-11-03T19:55:00+07:00",
    "by": "Machan"
+  },
+  {
+   "id": "welcome-box-items-deck",
+   "at": "2026-11-03T20:33:08+07:00",
+   "name": "Welcome Box Items Deck",
+   "answered": 12,
+   "total": 13
+  },
+  {
+   "id": "bumper-sticker-lines-deck",
+   "at": "2026-11-03T20:33:42+07:00",
+   "name": "Bumper Sticker Lines Deck",
+   "answered": 4,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3134,9 +3112,9 @@
    "name": "Welcome Box Items Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-items-deck/",
    "total": 13,
-   "answered": 0,
+   "answered": 12,
    "tag": "UpKeep",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T20:15:00+07:00",
    "added": "2026-11-03T20:15:00+07:00",
    "note": "Machan Nov 3 2026: one card per welcome box item. Swipe right to include, left to skip; Notes and Machan Decides on every card. Fridge magnet and furnace sticker already included; pen waits for the photo.",
@@ -3145,7 +3123,8 @@
    "blurb": "13 cards, ready now, with Notes",
    "agent": "develop",
    "made": "2026-11-03",
-   "updated": "2026-11-03T20:15:00+07:00"
+   "updated": "2026-11-03T20:15:00+07:00",
+   "done_at": "2026-11-03T20:33:08+07:00"
   },
   {
    "id": "van-rear-final-deck",
@@ -3188,9 +3167,9 @@
    "name": "Bumper Sticker Lines Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/bumper-sticker-lines-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "UpKeep",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T19:55:00+07:00",
    "added": "2026-11-03T19:55:00+07:00",
    "note": "Machan Nov 3 2026: follow-up with only the open choices left from your refine swipes; everything else is locked. Nov 3 20:05: added 2 Are Your Gutters Clean? ladder cards.",
@@ -3199,7 +3178,8 @@
    "blurb": "4 cards, ready now, with Notes",
    "agent": "develop",
    "made": "2026-11-03",
-   "updated": "2026-11-03T20:05:00+07:00"
+   "updated": "2026-11-03T20:05:00+07:00",
+   "done_at": "2026-11-03T20:33:42+07:00"
   },
   {
    "id": "buds-station-tin-round-4",
