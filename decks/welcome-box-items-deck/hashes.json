@@ -1,0 +1,132 @@
+{
+  "c1": {
+    "A": {
+      "label": "Skip: Spare HVAC Filter",
+      "sha12": "68781e7707fd"
+    },
+    "B": {
+      "label": "Include: Spare HVAC Filter",
+      "sha12": "fab11045ed97"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Skip: Smoke And CO Alarm Battery",
+      "sha12": "2661218bd9b5"
+    },
+    "B": {
+      "label": "Include: Smoke And CO Alarm Battery",
+      "sha12": "4804dd21a080"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Skip: Home Maintenance Checklist Card",
+      "sha12": "dda8a13fd78e"
+    },
+    "B": {
+      "label": "Include: Home Maintenance Checklist Card",
+      "sha12": "e9cb76fe6734"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Skip: Home Record QR Card",
+      "sha12": "167a36666de9"
+    },
+    "B": {
+      "label": "Include: Home Record QR Card",
+      "sha12": "42b6a986c084"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Skip: Welcome Letter",
+      "sha12": "1a1bef45c021"
+    },
+    "B": {
+      "label": "Include: Welcome Letter",
+      "sha12": "50f13e19f3d1"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Skip: Refer-A-Neighbor Card",
+      "sha12": "3472092f28a3"
+    },
+    "B": {
+      "label": "Include: Refer-A-Neighbor Card",
+      "sha12": "b9557d037ee2"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Skip: Yard Sign Opt-In Card",
+      "sha12": "ea5692dc218c"
+    },
+    "B": {
+      "label": "Include: Yard Sign Opt-In Card",
+      "sha12": "0813ab5118e8"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Skip: Mascot Sticker Sheet",
+      "sha12": "bff1390c34b0"
+    },
+    "B": {
+      "label": "Include: Mascot Sticker Sheet",
+      "sha12": "a2970e3c0507"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Skip: Water Heater Tag",
+      "sha12": "3aa6ac884aec"
+    },
+    "B": {
+      "label": "Include: Water Heater Tag",
+      "sha12": "c882078eb0a4"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Skip: Flashlight",
+      "sha12": "8461a2fd8351"
+    },
+    "B": {
+      "label": "Include: Flashlight",
+      "sha12": "bf76a003dfb1"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Skip: Tape Measure",
+      "sha12": "6a4e5e7d3ea4"
+    },
+    "B": {
+      "label": "Include: Tape Measure",
+      "sha12": "27053992f9bc"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Skip: Utility Shutoff Tag Set",
+      "sha12": "772def118868"
+    },
+    "B": {
+      "label": "Include: Utility Shutoff Tag Set",
+      "sha12": "7ed58b9ca7d0"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Skip: Lint Brush",
+      "sha12": "86877f2044ad"
+    },
+    "B": {
+      "label": "Include: Lint Brush",
+      "sha12": "14269f4d7d60"
+    }
+  }
+}
