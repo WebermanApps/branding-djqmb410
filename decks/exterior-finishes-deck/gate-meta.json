@@ -1,0 +1,28 @@
+{
+  "category": "residence-finishes",
+  "asset_paths": [
+    "/workspace/ext-finishes-1103/staged/ex1a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex1b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex2a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex2b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex3a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex3b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex4a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex4b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex5a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex5b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex6a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex6b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex7a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex7b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex8a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex8b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex9a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex9b.jpg",
+    "/workspace/ext-finishes-1103/staged/ex10a.jpg",
+    "/workspace/ext-finishes-1103/staged/ex10b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Exterior Finishes Deck"
+}

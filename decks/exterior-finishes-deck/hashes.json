@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Mostly One Material",
+      "sha12": "1b01738c246f"
+    },
+    "B": {
+      "label": "A Mix Of Materials",
+      "sha12": "f36b90228f00"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Yakisugi Charred Cedar",
+      "sha12": "5380dd3c5855"
+    },
+    "B": {
+      "label": "Natural Teak",
+      "sha12": "3bb1ab0e99f3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "White Plaster, Wood Accents",
+      "sha12": "0601d8dead6a"
+    },
+    "B": {
+      "label": "Full Wood",
+      "sha12": "b5d20cec3403"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Wood At The Entry",
+      "sha12": "2b97dc668ef4"
+    },
+    "B": {
+      "label": "Wood On The Soffits",
+      "sha12": "74dbb804bec7"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Vertical Boards",
+      "sha12": "ad34e3998242"
+    },
+    "B": {
+      "label": "Horizontal Boards",
+      "sha12": "92a584fb4097"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Slatted Screens",
+      "sha12": "b8fdf0c31dac"
+    },
+    "B": {
+      "label": "Solid Panels",
+      "sha12": "2c57fe43294a"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Silver-Gray Patina",
+      "sha12": "8801908c55de"
+    },
+    "B": {
+      "label": "Oiled Honey",
+      "sha12": "b0c1d5cbc0f6"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Thin Bronze Fascia",
+      "sha12": "56e015dd2bc3"
+    },
+    "B": {
+      "label": "Exposed Rafter Tails",
+      "sha12": "093222c13338"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Pale Limestone Plinth",
+      "sha12": "421c97fda0c2"
+    },
+    "B": {
+      "label": "Dark Basalt Plinth",
+      "sha12": "10060d64c7a1"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Dark And Grounded",
+      "sha12": "df6bd0b64214"
+    },
+    "B": {
+      "label": "Bright And Warm",
+      "sha12": "bea9bdf17f3d"
+    }
+  }
+}
