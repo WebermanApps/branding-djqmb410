@@ -1,0 +1,21 @@
+{
+  "category": "brand-mixed",
+  "asset_paths": [
+    "/workspace/info-flow-1103/gen/c1a.jpg",
+    "/workspace/info-flow-1103/gen/c1b.jpg",
+    "/workspace/info-flow-1103/gen/c2a.jpg",
+    "/workspace/info-flow-1103/gen/c2b.jpg",
+    "/workspace/info-flow-1103/gen/c3a.jpg",
+    "/workspace/info-flow-1103/gen/c3b.jpg",
+    "/workspace/info-flow-1103/gen/c4a.jpg",
+    "/workspace/info-flow-1103/gen/c4b.jpg",
+    "/workspace/info-flow-1103/gen/c5a.jpg",
+    "/workspace/info-flow-1103/gen/c5b.jpg",
+    "/workspace/info-flow-1103/gen/c6a.jpg",
+    "/workspace/info-flow-1103/gen/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Info Flow Fixes Deck",
+  "text_only": true
+}

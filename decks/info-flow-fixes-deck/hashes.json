@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Instant Shelf Sync",
+      "sha12": "46bbbabf26d6"
+    },
+    "B": {
+      "label": "Instant Shelf Sync (Owner Tile)",
+      "sha12": "f53696de0b2c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One Status File",
+      "sha12": "3e2e5ca1aea0"
+    },
+    "B": {
+      "label": "One Status File (Owner Tile)",
+      "sha12": "f12a80c6a746"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Auto Last Activity",
+      "sha12": "26ca3e2d3b2f"
+    },
+    "B": {
+      "label": "Auto Last Activity (Owner Tile)",
+      "sha12": "b22383e20890"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Dashboards Read Status",
+      "sha12": "145758919828"
+    },
+    "B": {
+      "label": "Dashboards Read Status (Owner Tile)",
+      "sha12": "6806866274a5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Stale Item Check",
+      "sha12": "0cb088be1f78"
+    },
+    "B": {
+      "label": "Stale Item Check (Owner Tile)",
+      "sha12": "a1b20fbed97b"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "One Handoff Line",
+      "sha12": "90ba51b39ada"
+    },
+    "B": {
+      "label": "One Handoff Line (Owner Tile)",
+      "sha12": "efba1f43f823"
+    }
+  }
+}
