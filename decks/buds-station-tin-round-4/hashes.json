@@ -36,17 +36,17 @@
     },
     "B": {
       "label": "No Label, Straight On Forest",
-      "sha12": "a49690f7ac88"
+      "sha12": "b88b902bd421"
     }
   },
   "c5": {
     "A": {
       "label": "Gold Moons On Sage",
-      "sha12": "38a57d8acbec"
+      "sha12": "65b144e61e7c"
     },
     "B": {
       "label": "Stripes On Sage",
-      "sha12": "fd84719b1eda"
+      "sha12": "67ad52a91a97"
     }
   },
   "c6": {
@@ -62,31 +62,31 @@
   "c7": {
     "A": {
       "label": "Smaller Logo",
-      "sha12": "26894ff372db"
+      "sha12": "af7eac760601"
     },
     "B": {
       "label": "Larger Logo",
-      "sha12": "e95ec7a11b52"
+      "sha12": "dd206d73a3f4"
     }
   },
   "c8": {
     "A": {
       "label": "Above The Logo",
-      "sha12": "19a48c8884e4"
+      "sha12": "e86cf881d6d1"
     },
     "B": {
       "label": "Below The Logo, Tagline Last",
-      "sha12": "d74c5239d2f7"
+      "sha12": "3449a86452db"
     }
   },
   "c9": {
     "A": {
       "label": "Smaller Gauge",
-      "sha12": "d1f09ffc73ec"
+      "sha12": "50105ff97610"
     },
     "B": {
       "label": "Larger Gauge",
-      "sha12": "bfb8d22c1183"
+      "sha12": "56e78cd996c7"
     }
   },
   "c10": {
