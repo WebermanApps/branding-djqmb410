@@ -2,42 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "welcome-box-packaging-deck",
-   "name": "Welcome Box Packaging Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-packaging-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:15:15+07:00",
-   "added": "2026-11-03T23:15:15+07:00",
-   "note": "Machan Nov 3 2026: open packaging details on the locked ribbon lid box (inside lid, tissue, seal sticker, base).",
-   "pinned": true,
-   "new": true,
-   "blurb": "4 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:15+07:00"
-  },
-  {
-   "id": "welcome-letter-deck",
-   "name": "Welcome Letter Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-letter-deck/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:15:15+07:00",
-   "added": "2026-11-03T23:15:15+07:00",
-   "note": "Machan Nov 3 2026: welcome letter with the Home Record QR printed on it (format, QR, header, signature, paper, opening line).",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:15+07:00"
-  },
-  {
    "id": "branded-tape-measure-deck",
    "name": "Branded Tape Measure Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/branded-tape-measure-deck/",
@@ -574,7 +538,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-03T23:15:15+07:00",
+ "updated": "2026-11-03T23:24:04+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3185,6 +3149,20 @@
    "name": "Yard Sign Polish Deck",
    "answered": 3,
    "total": 3
+  },
+  {
+   "id": "welcome-box-packaging-deck",
+   "at": "2026-11-03T23:22:37+07:00",
+   "name": "Welcome Box Packaging Deck",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "welcome-letter-deck",
+   "at": "2026-11-03T23:23:25+07:00",
+   "name": "Welcome Letter Deck",
+   "answered": 6,
+   "total": 6
   }
  ],
  "pinned": [
@@ -3215,9 +3193,9 @@
    "name": "Welcome Box Packaging Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-box-packaging-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:15:15+07:00",
    "added": "2026-11-03T23:15:15+07:00",
    "note": "Machan Nov 3 2026: open packaging details on the locked ribbon lid box (inside lid, tissue, seal sticker, base).",
@@ -3226,16 +3204,17 @@
    "blurb": "4 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:15+07:00"
+   "updated": "2026-11-03T23:15:15+07:00",
+   "done_at": "2026-11-03T23:22:37+07:00"
   },
   {
    "id": "welcome-letter-deck",
    "name": "Welcome Letter Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/welcome-letter-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:15:15+07:00",
    "added": "2026-11-03T23:15:15+07:00",
    "note": "Machan Nov 3 2026: welcome letter with the Home Record QR printed on it (format, QR, header, signature, paper, opening line).",
@@ -3244,7 +3223,8 @@
    "blurb": "6 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:15:15+07:00"
+   "updated": "2026-11-03T23:15:15+07:00",
+   "done_at": "2026-11-03T23:23:25+07:00"
   },
   {
    "id": "branded-tape-measure-deck",
