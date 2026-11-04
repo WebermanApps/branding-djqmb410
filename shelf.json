@@ -2,6 +2,26 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "flashlight-options-deck",
+      "name": "Flashlight Options Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/flashlight-options-deck/",
+      "total": 3,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-11-04T17:26:43+07:00",
+      "added": "2026-11-04T17:26:43+07:00",
+      "note": "Machan Nov 4 2026 (via UpKeep Develop): five charcoal flashlight styles (EDC, penlight, magnetic work light, keychain, headlamp) with the real UP mark and smartupkeep.ai. Nothing locked.",
+      "pinned": true,
+      "new": true,
+      "collapsible": true,
+      "collapsed": true,
+      "blurb": "3 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-04",
+      "updated": "2026-11-04T17:26:43+07:00"
+    },
+    {
       "id": "refer-a-neighbor-card-deck",
       "name": "Refer-A-Neighbor Card Deck",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-card-deck/",
@@ -556,7 +576,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-04T10:25:24+07:00",
+  "updated": "2026-11-04T17:26:43+07:00",
   "done": [
     {
       "id": "welcome-box-branded-items-deck",
@@ -3234,6 +3254,26 @@
   "queued": [],
   "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
   "requested": [
+    {
+      "id": "flashlight-options-deck",
+      "name": "Flashlight Options Deck",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/flashlight-options-deck/",
+      "total": 3,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "requested_at": "2026-11-04T17:26:43+07:00",
+      "added": "2026-11-04T17:26:43+07:00",
+      "note": "Machan Nov 4 2026 (via UpKeep Develop): five charcoal flashlight styles (EDC, penlight, magnetic work light, keychain, headlamp) with the real UP mark and smartupkeep.ai. Nothing locked.",
+      "pinned": true,
+      "new": true,
+      "collapsible": true,
+      "collapsed": true,
+      "blurb": "3 cards, ready now, with Notes",
+      "agent": "develop",
+      "made": "2026-11-04",
+      "updated": "2026-11-04T17:26:43+07:00"
+    },
     {
       "id": "pen-look-deck",
       "name": "Pen Look Deck",
