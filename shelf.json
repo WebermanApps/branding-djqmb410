@@ -2,24 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "pen-look-deck",
-   "name": "Pen Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-look-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:30:34+07:00",
-   "added": "2026-11-03T23:30:34+07:00",
-   "note": "Machan Nov 3 2026: branded items pass (Swatch)",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
-  },
-  {
    "id": "refer-a-neighbor-card-deck",
    "name": "Refer-A-Neighbor Card Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-card-deck/",
@@ -33,42 +15,6 @@
    "pinned": true,
    "new": true,
    "blurb": "4 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
-  },
-  {
-   "id": "mailer-headline-spacing-deck",
-   "name": "Mailer Headline Spacing Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-headline-spacing-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:30:34+07:00",
-   "added": "2026-11-03T23:30:34+07:00",
-   "note": "Machan Nov 3 2026: branded items pass (Swatch)",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
-  },
-  {
-   "id": "yard-sign-v5-ok-deck",
-   "name": "Yard Sign v5 OK Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-v5-ok-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:30:34+07:00",
-   "added": "2026-11-03T23:30:34+07:00",
-   "note": "Machan Nov 3 2026: branded items pass (Swatch)",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
    "updated": "2026-11-03T23:30:34+07:00"
@@ -90,24 +36,6 @@
    "agent": "branding",
    "made": "2026-11-03",
    "updated": "2026-11-03T23:30:34+07:00"
-  },
-  {
-   "id": "van-front-accent-deck",
-   "name": "Van Front Accent Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-accent-deck/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-03T23:26:20+07:00",
-   "added": "2026-11-03T23:26:20+07:00",
-   "note": "Machan Nov 3 2026: subtle crisp front accents for the Smart Upkeep van; headlight wrap (true outline), grille, bumper, fender sweep, double pinstripe, clean, vs windshield line control.",
-   "pinned": true,
-   "new": true,
-   "blurb": "8 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-03",
-   "updated": "2026-11-03T23:26:20+07:00"
   },
   {
    "id": "branded-tape-measure-deck",
@@ -628,7 +556,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-04T04:01:11+07:00",
+ "updated": "2026-11-04T10:25:24+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3253,6 +3181,34 @@
    "name": "Welcome Letter Deck",
    "answered": 6,
    "total": 6
+  },
+  {
+   "id": "pen-look-deck",
+   "at": "2026-11-04T07:43:33+07:00",
+   "name": "Pen Look Deck",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "mailer-headline-spacing-deck",
+   "at": "2026-11-04T07:54:33+07:00",
+   "name": "Mailer Headline Spacing Deck",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "yard-sign-v5-ok-deck",
+   "at": "2026-11-04T07:53:37+07:00",
+   "name": "Yard Sign v5 OK Deck",
+   "answered": 2,
+   "total": 3
+  },
+  {
+   "id": "van-front-accent-deck",
+   "at": "2026-11-04T07:51:07+07:00",
+   "name": "Van Front Accent Deck",
+   "answered": 8,
+   "total": 8
   }
  ],
  "pinned": [
@@ -3283,9 +3239,9 @@
    "name": "Pen Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/pen-look-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:30:34+07:00",
    "added": "2026-11-03T23:30:34+07:00",
    "note": "Machan Nov 3 2026: branded items pass (Swatch)",
@@ -3294,7 +3250,8 @@
    "blurb": "5 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
+   "updated": "2026-11-03T23:30:34+07:00",
+   "done_at": "2026-11-04T07:43:33+07:00"
   },
   {
    "id": "refer-a-neighbor-card-deck",
@@ -3319,9 +3276,9 @@
    "name": "Mailer Headline Spacing Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/mailer-headline-spacing-deck/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:30:34+07:00",
    "added": "2026-11-03T23:30:34+07:00",
    "note": "Machan Nov 3 2026: branded items pass (Swatch)",
@@ -3330,16 +3287,17 @@
    "blurb": "3 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
+   "updated": "2026-11-03T23:30:34+07:00",
+   "done_at": "2026-11-04T07:54:33+07:00"
   },
   {
    "id": "yard-sign-v5-ok-deck",
    "name": "Yard Sign v5 OK Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/yard-sign-v5-ok-deck/",
    "total": 3,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:30:34+07:00",
    "added": "2026-11-03T23:30:34+07:00",
    "note": "Machan Nov 3 2026: branded items pass (Swatch)",
@@ -3348,7 +3306,8 @@
    "blurb": "3 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:30:34+07:00"
+   "updated": "2026-11-03T23:30:34+07:00",
+   "done_at": "2026-11-04T07:53:37+07:00"
   },
   {
    "id": "shutoff-tag-deck",
@@ -3373,9 +3332,9 @@
    "name": "Van Front Accent Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/van-front-accent-deck/",
    "total": 8,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-03T23:26:20+07:00",
    "added": "2026-11-03T23:26:20+07:00",
    "note": "Machan Nov 3 2026: subtle crisp front accents for the Smart Upkeep van; headlight wrap (true outline), grille, bumper, fender sweep, double pinstripe, clean, vs windshield line control.",
@@ -3384,7 +3343,8 @@
    "blurb": "8 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-03",
-   "updated": "2026-11-03T23:26:20+07:00"
+   "updated": "2026-11-03T23:26:20+07:00",
+   "done_at": "2026-11-04T07:51:07+07:00"
   },
   {
    "id": "welcome-box-packaging-deck",
