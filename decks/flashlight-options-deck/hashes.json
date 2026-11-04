@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact EDC Aluminum",
+      "sha12": "5b356a0028d2"
+    },
+    "B": {
+      "label": "Penlight",
+      "sha12": "6c08798e2f1b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Slim Magnetic Work Light",
+      "sha12": "e87b9e6f439a"
+    },
+    "B": {
+      "label": "Headlamp",
+      "sha12": "eaecbbb51092"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Terracotta UP Mark",
+      "sha12": "3aac9690c8f3"
+    },
+    "B": {
+      "label": "White UP Mark",
+      "sha12": "0843b2b25d48"
+    }
+  }
+}

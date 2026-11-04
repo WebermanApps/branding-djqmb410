@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "title": "Flashlight Options Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/refine-1103/flashlight-options/01-edc.jpg",
+    "/workspace/refine-1103/flashlight-options/02-penlight.jpg",
+    "/workspace/refine-1103/flashlight-options/03-work-light.jpg",
+    "/workspace/refine-1103/flashlight-options/05-headlamp.jpg",
+    "/workspace/refine-1103/flashlight-options/04-keychain.jpg",
+    "/workspace/refine-1103/flashlight-options/work/04-keychain-white-mark.jpg"
+  ]
+}
