@@ -1,0 +1,14 @@
+{
+  "category": null,
+  "title": "Yard Sign Persimmon Deck",
+  "bleed_mode": "fit-whole",
+  "ui_screenshots": false,
+  "asset_paths": [
+    "/workspace/look-1103/yardp/c1a.jpg",
+    "/workspace/look-1103/yardp/c1b.jpg",
+    "/workspace/look-1103/yardp/c2a.jpg",
+    "/workspace/look-1103/yardp/c2b.jpg",
+    "/workspace/look-1103/yardp/c3a.jpg",
+    "/workspace/look-1103/yardp/c3b.jpg"
+  ]
+}

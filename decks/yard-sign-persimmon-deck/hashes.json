@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Plain v4",
+      "sha12": "19fd011fb659"
+    },
+    "B": {
+      "label": "v4 + Persimmon",
+      "sha12": "a4bc1e837997"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Plain v4 Proof",
+      "sha12": "766c2244279a"
+    },
+    "B": {
+      "label": "v4 + Persimmon Proof",
+      "sha12": "cfe271da5cb6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain Corner",
+      "sha12": "1bfa9e584f04"
+    },
+    "B": {
+      "label": "Persimmon Corner",
+      "sha12": "0061db891bc2"
+    }
+  }
+}
