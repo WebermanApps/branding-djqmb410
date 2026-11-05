@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Phone Chrome Until 900",
+      "sha12": "8e25669bb5d4"
+    },
+    "B": {
+      "label": "True Tablet At 768",
+      "sha12": "08b865021e05"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Full-Width Bottom Bar",
+      "sha12": "cee1cbbfd9db"
+    },
+    "B": {
+      "label": "Top Tabs",
+      "sha12": "02705b592e90"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Top Tabs",
+      "sha12": "02705b592e90"
+    },
+    "B": {
+      "label": "Side Rail",
+      "sha12": "a94d6ecb07a7"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "3-Column Squeeze",
+      "sha12": "fa2ccdf47640"
+    },
+    "B": {
+      "label": "2+1 Stack",
+      "sha12": "55d4465c585c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "2+1 Stack",
+      "sha12": "55d4465c585c"
+    },
+    "B": {
+      "label": "Horizontal Snap",
+      "sha12": "8e071127140f"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Roomy Tiles + Page Cards",
+      "sha12": "80f86a7c7fa4"
+    },
+    "B": {
+      "label": "Dense Tiles + Plans",
+      "sha12": "c293ed34a734"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "True 768 · Top Tabs · 3-Up",
+      "sha12": "c7cf8f91a92c"
+    },
+    "B": {
+      "label": "Rail · Compact · 2+1 Plans",
+      "sha12": "37ac57ac6bc0"
+    }
+  }
+}

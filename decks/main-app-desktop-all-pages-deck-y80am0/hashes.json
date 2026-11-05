@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Top Horizontal Links",
+      "sha12": "5344623354db"
+    },
+    "B": {
+      "label": "Left Sidebar",
+      "sha12": "d5230987b519"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Top Horizontal Links",
+      "sha12": "5344623354db"
+    },
+    "B": {
+      "label": "Keep Floating Bottom Pill",
+      "sha12": "0df76b062ad0"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Split Media + Copy",
+      "sha12": "78b2c458d33f"
+    },
+    "B": {
+      "label": "Full-Bleed Centered",
+      "sha12": "06db7c852bb9"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "3-Up Grid",
+      "sha12": "d0e6a2aaec2f"
+    },
+    "B": {
+      "label": "Large Cards + Sticky CTA",
+      "sha12": "f9bfe069633b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Airy Generous Whitespace",
+      "sha12": "3f562f1805c8"
+    },
+    "B": {
+      "label": "Tighter Marketing Density",
+      "sha12": "1d81a4ecd817"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Persistent Top Utility Bar",
+      "sha12": "297d7e5289b3"
+    },
+    "B": {
+      "label": "Minimal Chrome",
+      "sha12": "945a4685c704"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Top Nav · Split Hero · 3-Up Plans",
+      "sha12": "17ada468e68e"
+    },
+    "B": {
+      "label": "Sidebar · Compact · Sticky Plans",
+      "sha12": "9d4b078b4af9"
+    }
+  }
+}

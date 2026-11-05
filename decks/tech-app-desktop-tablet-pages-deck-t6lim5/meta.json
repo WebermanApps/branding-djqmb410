@@ -1,0 +1,22 @@
+{
+  "category": "ui-desktop-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/mocks/tech_d_schedule_multi.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_d_schedule_single.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_d_van_split.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_d_van_stack.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_d_check_wide.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_d_check_narrow.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_t_schedule_multi.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_t_schedule_single.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_t_van_split.jpg",
+    "/workspace/su-desktop-1105/mocks/tech_t_check_wide.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tech-app-desktop-tablet-pages-deck-t6lim5",
+  "title": "Tech App Desktop And Tablet Pages",
+  "short": "Tech Desktop Tablet"
+}

@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Wide Two-Column Home",
+      "sha12": "13efabb9c491"
+    },
+    "B": {
+      "label": "Single Column Centered",
+      "sha12": "0de0311bee05"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sidebar Account Nav",
+      "sha12": "78673e0fbfee"
+    },
+    "B": {
+      "label": "Top Account Pills",
+      "sha12": "d3cc0519c7e3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Wide All Member Pages",
+      "sha12": "f8a80770f268"
+    },
+    "B": {
+      "label": "Narrow 560 Wraps",
+      "sha12": "ae4c1a405a15"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Two-Column Tablet Home",
+      "sha12": "68a85a9f2e3d"
+    },
+    "B": {
+      "label": "Single Stack Tablet",
+      "sha12": "f18d76ebead5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Bottom Dock Stack",
+      "sha12": "68a85a9f2e3d"
+    },
+    "B": {
+      "label": "Side Rail + Split",
+      "sha12": "17289259fe78"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Rail Home",
+      "sha12": "a9b1bc635489"
+    },
+    "B": {
+      "label": "Landscape Account Split",
+      "sha12": "17289259fe78"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Wide Two-Column · Sidebar Accounts",
+      "sha12": "13efabb9c491"
+    },
+    "B": {
+      "label": "Centered Stack · Top Pills · Split Tablet",
+      "sha12": "d3cc0519c7e3"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category": "ui-desktop-mockups",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/mocks/mem_d_twocol.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_d_single.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_d_acct_side.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_d_acct_top.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_d_pages_wide.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_d_pages_narrow.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_t_twocol.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_t_single.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_t_rail.jpg",
+    "/workspace/su-desktop-1105/mocks/mem_t_split.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member App Desktop And Tablet Pages"
+}

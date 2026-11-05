@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Multi-Day Schedule Columns",
+      "sha12": "15543e9ddcf0"
+    },
+    "B": {
+      "label": "Single Today List",
+      "sha12": "a34f8cc22a68"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Split Van And Tools",
+      "sha12": "026b17b45a0b"
+    },
+    "B": {
+      "label": "Stacked Van Then Tools",
+      "sha12": "ead65ad858e2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Wide Check-In",
+      "sha12": "6f998b64c5b1"
+    },
+    "B": {
+      "label": "Narrow Centered Check-In",
+      "sha12": "455b21b01b9b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Multi-Day Tablet Schedule",
+      "sha12": "d0f71b2ba1a5"
+    },
+    "B": {
+      "label": "Single Today Tablet",
+      "sha12": "c9fa77357dea"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Van | Tools Split",
+      "sha12": "d2d5c87b244f"
+    },
+    "B": {
+      "label": "Wide Check-In",
+      "sha12": "21df78e93c56"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Multi-Day · Split Van · Wide Check-In",
+      "sha12": "15543e9ddcf0"
+    },
+    "B": {
+      "label": "Today List · Stacked Van · Narrow Check-In",
+      "sha12": "a34f8cc22a68"
+    }
+  }
+}

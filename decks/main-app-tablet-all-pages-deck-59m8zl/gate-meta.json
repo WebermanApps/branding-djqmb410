@@ -1,0 +1,20 @@
+{
+  "category": "ui-desktop-mockups",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/mocks/mt_break_phone900.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_break_true768.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_tabs_bottom.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_tabs_top.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_tabs_rail.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_plans_3.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_plans_21.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_plans_snap.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_tiles_roomy.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_tiles_dense.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_overall_a.jpg",
+    "/workspace/su-desktop-1105/mocks/mt_overall_b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Main App Tablet All Pages"
+}

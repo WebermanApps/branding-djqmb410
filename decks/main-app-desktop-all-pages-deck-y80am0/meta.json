@@ -1,0 +1,25 @@
+{
+  "category": "ui-desktop-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/mocks/md_nav_top.jpg",
+    "/workspace/su-desktop-1105/mocks/md_nav_side.jpg",
+    "/workspace/su-desktop-1105/mocks/md_nav_pill.jpg",
+    "/workspace/su-desktop-1105/mocks/md_hero_split.jpg",
+    "/workspace/su-desktop-1105/mocks/md_hero_full.jpg",
+    "/workspace/su-desktop-1105/mocks/md_plans_3up.jpg",
+    "/workspace/su-desktop-1105/mocks/md_plans_sticky.jpg",
+    "/workspace/su-desktop-1105/mocks/md_density_airy.jpg",
+    "/workspace/su-desktop-1105/mocks/md_density_tight.jpg",
+    "/workspace/su-desktop-1105/mocks/md_chrome_util.jpg",
+    "/workspace/su-desktop-1105/mocks/md_chrome_minimal.jpg",
+    "/workspace/su-desktop-1105/mocks/md_overall_a.jpg",
+    "/workspace/su-desktop-1105/mocks/md_overall_b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "main-app-desktop-all-pages-deck-y80am0",
+  "title": "Main App Desktop All Pages",
+  "short": "Main Desktop Pages"
+}
