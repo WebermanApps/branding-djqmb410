@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Title Slide First",
+      "sha12": "7fb31055a258"
+    },
+    "B": {
+      "label": "Problem First",
+      "sha12": "ad89affe3842"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Steps In A Row",
+      "sha12": "633f9a191056"
+    },
+    "B": {
+      "label": "Steps As A List",
+      "sha12": "de6756ac85e3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plan Tiles",
+      "sha12": "19f4e3fcdef1"
+    },
+    "B": {
+      "label": "Plan Rows",
+      "sha12": "203fa06cd7ca"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Big Number",
+      "sha12": "2ce032a56d24"
+    },
+    "B": {
+      "label": "Homes Chart",
+      "sha12": "70fa4c14563d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Side By Side",
+      "sha12": "6edf0d777c49"
+    },
+    "B": {
+      "label": "One Line",
+      "sha12": "f63e405f0e91"
+    }
+  }
+}

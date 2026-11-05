@@ -2,21 +2,21 @@
   "c1": {
     "A": {
       "label": "Terracotta Text",
-      "sha12": "7c69f97e8ba5"
+      "sha12": "00207ac79c3c"
     },
     "B": {
       "label": "Terracotta Badge",
-      "sha12": "02e91bd14a89"
+      "sha12": "a7479bfa14b7"
     }
   },
   "c2": {
     "A": {
       "label": "Clean Edge",
-      "sha12": "7c69f97e8ba5"
+      "sha12": "00207ac79c3c"
     },
     "B": {
       "label": "Terracotta Border",
-      "sha12": "8b7d4b5eba34"
+      "sha12": "4882e27d966e"
     }
   }
 }

@@ -362,11 +362,11 @@
   "c37": {
     "A": {
       "label": "Servicing Chosen Extras",
-      "sha12": "01cd2fd0efa6"
+      "sha12": "0b849d979384"
     },
     "B": {
       "label": "Servicing Chosen Extras (Text Tile)",
-      "sha12": "c0dca0f5005a"
+      "sha12": "3da4cf4060cd"
     }
   },
   "c38": {
@@ -381,12 +381,12 @@
   },
   "c39": {
     "A": {
-      "label": "Generator Service",
-      "sha12": "473e5e0799e4"
+      "label": "Generator Annual Service (Quote Only)",
+      "sha12": "a8a0a65f8553"
     },
     "B": {
-      "label": "Generator Service (Text Tile)",
-      "sha12": "5aaf33238e3f"
+      "label": "Generator Annual Service (Quote Only) (Text Tile)",
+      "sha12": "fb80a1293159"
     }
   },
   "c40": {
@@ -621,65 +621,35 @@
   },
   "c63": {
     "A": {
-      "label": "Window Washing",
-      "sha12": "328eb8ec5c26"
+      "label": "Chimney Sweep (Quote Only)",
+      "sha12": "625b0d547059"
     },
     "B": {
-      "label": "Window Washing (Text Tile)",
-      "sha12": "4772156bddef"
+      "label": "Chimney Sweep (Quote Only) (Text Tile)",
+      "sha12": "91952b87dace"
     }
   },
   "c64": {
     "A": {
-      "label": "Chimney Sweep",
-      "sha12": "0115a54fcec5"
+      "label": "Radon Test",
+      "sha12": "a59f425895ae"
     },
     "B": {
-      "label": "Chimney Sweep (Text Tile)",
-      "sha12": "9534e538ddfa"
+      "label": "Radon Test (Text Tile)",
+      "sha12": "1cce63c504b9"
     }
   },
   "c65": {
     "A": {
-      "label": "Radon Test",
-      "sha12": "a4d9b15fc131"
+      "label": "Air Duct Cleaning (Quote Only)",
+      "sha12": "ccdc484f1f87"
     },
     "B": {
-      "label": "Radon Test (Text Tile)",
-      "sha12": "4f1e30a6c04b"
+      "label": "Air Duct Cleaning (Quote Only) (Text Tile)",
+      "sha12": "840a29bb688d"
     }
   },
   "c66": {
-    "A": {
-      "label": "Pressure Washing",
-      "sha12": "5ba0fa776e95"
-    },
-    "B": {
-      "label": "Pressure Washing (Text Tile)",
-      "sha12": "de9d47069a0a"
-    }
-  },
-  "c67": {
-    "A": {
-      "label": "Duct Cleaning",
-      "sha12": "47a72eb8ff72"
-    },
-    "B": {
-      "label": "Duct Cleaning (Text Tile)",
-      "sha12": "211cb004caef"
-    }
-  },
-  "c68": {
-    "A": {
-      "label": "Holiday Lights",
-      "sha12": "2cdb5b937872"
-    },
-    "B": {
-      "label": "Holiday Lights (Text Tile)",
-      "sha12": "dbcfe8483b4d"
-    }
-  },
-  "c69": {
     "A": {
       "label": "Sump Battery Backup",
       "sha12": "399c047299c2"
@@ -689,7 +659,7 @@
       "sha12": "545615af2e7c"
     }
   },
-  "c70": {
+  "c67": {
     "A": {
       "label": "Leak Sensors",
       "sha12": "bea3ef1f5049"
@@ -699,7 +669,7 @@
       "sha12": "73a5f07fc994"
     }
   },
-  "c71": {
+  "c68": {
     "A": {
       "label": "Humidifier Install",
       "sha12": "57c9f2811db3"
@@ -709,264 +679,224 @@
       "sha12": "52c9b7ebffa0"
     }
   },
-  "c72": {
+  "c69": {
     "A": {
-      "label": "Deck Sealing",
-      "sha12": "331193c15eec"
+      "label": "Smoke And CO Battery Swap",
+      "sha12": "a3fb9ab41891"
     },
     "B": {
-      "label": "Deck Sealing (Text Tile)",
-      "sha12": "43c883f80dbc"
+      "label": "Smoke And CO Battery Swap (Text Tile)",
+      "sha12": "f00240c7221a"
+    }
+  },
+  "c70": {
+    "A": {
+      "label": "Snow Removal Visits",
+      "sha12": "3704dc36d38c"
+    },
+    "B": {
+      "label": "Snow Removal Visits (Text Tile)",
+      "sha12": "06a63141d7d0"
+    }
+  },
+  "c71": {
+    "A": {
+      "label": "Ice Dam Steaming",
+      "sha12": "c8318f9daee4"
+    },
+    "B": {
+      "label": "Ice Dam Steaming (Text Tile)",
+      "sha12": "769bf54d5afd"
+    }
+  },
+  "c72": {
+    "A": {
+      "label": "Heat Cable Install",
+      "sha12": "eb3104d4701e"
+    },
+    "B": {
+      "label": "Heat Cable Install (Text Tile)",
+      "sha12": "c1dd7f12a637"
     }
   },
   "c73": {
     "A": {
-      "label": "Smoke And CO Battery Swap",
-      "sha12": "331b85f5b6e9"
+      "label": "Whole-House Surge Protector",
+      "sha12": "ba99f47df229"
     },
     "B": {
-      "label": "Smoke And CO Battery Swap (Text Tile)",
-      "sha12": "062c1efd1a90"
+      "label": "Whole-House Surge Protector (Text Tile)",
+      "sha12": "e701e6b692ea"
     }
   },
   "c74": {
     "A": {
-      "label": "Snow Removal Visits",
-      "sha12": "8024fcb0ebbc"
+      "label": "Smart Thermostat Install",
+      "sha12": "e4ac4ce513c8"
     },
     "B": {
-      "label": "Snow Removal Visits (Text Tile)",
-      "sha12": "d9445932f394"
+      "label": "Smart Thermostat Install (Text Tile)",
+      "sha12": "3b4715fd47e7"
     }
   },
   "c75": {
     "A": {
-      "label": "Ice Dam Steaming",
-      "sha12": "82af39c77aa0"
+      "label": "Smart Lock Install",
+      "sha12": "fb4548797d07"
     },
     "B": {
-      "label": "Ice Dam Steaming (Text Tile)",
-      "sha12": "b4a7102713d3"
+      "label": "Smart Lock Install (Text Tile)",
+      "sha12": "8e7d503bd7c3"
     }
   },
   "c76": {
     "A": {
-      "label": "Heat Cable Install",
-      "sha12": "4743f223e565"
+      "label": "Video Doorbell Install",
+      "sha12": "b5e0243294b1"
     },
     "B": {
-      "label": "Heat Cable Install (Text Tile)",
-      "sha12": "8e85e7783d29"
+      "label": "Video Doorbell Install (Text Tile)",
+      "sha12": "02a374fc2709"
     }
   },
   "c77": {
     "A": {
-      "label": "Whole-House Surge Protector",
-      "sha12": "5ed64cc352d0"
+      "label": "Wi-Fi Mesh Setup",
+      "sha12": "348241b5abf2"
     },
     "B": {
-      "label": "Whole-House Surge Protector (Text Tile)",
-      "sha12": "10a4d2ce5e31"
+      "label": "Wi-Fi Mesh Setup (Text Tile)",
+      "sha12": "01170f9193a9"
     }
   },
   "c78": {
     "A": {
-      "label": "Smart Thermostat Install",
-      "sha12": "4b9a61872ba0"
+      "label": "Security Camera Setup",
+      "sha12": "0f27dd5db2a0"
     },
     "B": {
-      "label": "Smart Thermostat Install (Text Tile)",
-      "sha12": "340d9a67620d"
+      "label": "Security Camera Setup (Text Tile)",
+      "sha12": "b217d5dbedb1"
     }
   },
   "c79": {
     "A": {
-      "label": "Smart Lock Install",
-      "sha12": "7e5e88a8a6f8"
+      "label": "Smart Water Shut-Off Valve",
+      "sha12": "37c25377feba"
     },
     "B": {
-      "label": "Smart Lock Install (Text Tile)",
-      "sha12": "cf7eabc5f8f1"
+      "label": "Smart Water Shut-Off Valve (Text Tile)",
+      "sha12": "1ad26b74a4e8"
     }
   },
   "c80": {
     "A": {
-      "label": "Video Doorbell Install",
-      "sha12": "f53686fbbade"
+      "label": "Move-In Or Move-Out Deep Clean",
+      "sha12": "a021645128f2"
     },
     "B": {
-      "label": "Video Doorbell Install (Text Tile)",
-      "sha12": "5780dc980dcb"
+      "label": "Move-In Or Move-Out Deep Clean (Text Tile)",
+      "sha12": "1cfd173415ea"
     }
   },
   "c81": {
     "A": {
-      "label": "Wi-Fi Mesh Setup",
-      "sha12": "82012a506070"
+      "label": "Appliance Deep Clean",
+      "sha12": "f09a16f1104a"
     },
     "B": {
-      "label": "Wi-Fi Mesh Setup (Text Tile)",
-      "sha12": "a4295d080694"
+      "label": "Appliance Deep Clean (Text Tile)",
+      "sha12": "64c049638bf6"
     }
   },
   "c82": {
     "A": {
-      "label": "Security Camera Setup",
-      "sha12": "b12f6269327c"
+      "label": "Grout And Tile Refresh",
+      "sha12": "4665e0f6aa58"
     },
     "B": {
-      "label": "Security Camera Setup (Text Tile)",
-      "sha12": "b3c163e1f5f1"
+      "label": "Grout And Tile Refresh (Text Tile)",
+      "sha12": "ff72cb2052d7"
     }
   },
   "c83": {
     "A": {
-      "label": "Smart Water Shut-Off Valve",
-      "sha12": "bd4f5baac134"
+      "label": "Vacation Home Watch",
+      "sha12": "0915fce85c4f"
     },
     "B": {
-      "label": "Smart Water Shut-Off Valve (Text Tile)",
-      "sha12": "aedf57f9eff8"
+      "label": "Vacation Home Watch (Text Tile)",
+      "sha12": "ad1e78d18281"
     }
   },
   "c84": {
     "A": {
-      "label": "Carpet Deep Clean",
-      "sha12": "23b173a6310c"
+      "label": "Package And Key Concierge",
+      "sha12": "d1d54256b06e"
     },
     "B": {
-      "label": "Carpet Deep Clean (Text Tile)",
-      "sha12": "b9c2ef242643"
+      "label": "Package And Key Concierge (Text Tile)",
+      "sha12": "d28a3a579015"
     }
   },
   "c85": {
     "A": {
-      "label": "Move-In Or Move-Out Deep Clean",
-      "sha12": "8f36caeb9297"
+      "label": "Contractor Bid Management",
+      "sha12": "a56006ad2173"
     },
     "B": {
-      "label": "Move-In Or Move-Out Deep Clean (Text Tile)",
-      "sha12": "2e93078b158b"
+      "label": "Contractor Bid Management (Text Tile)",
+      "sha12": "361c21968d78"
     }
   },
   "c86": {
     "A": {
-      "label": "Appliance Deep Clean",
-      "sha12": "9a7b12d485c8"
+      "label": "Seasonal Patio Furniture Setup",
+      "sha12": "f54a4b1fd425"
     },
     "B": {
-      "label": "Appliance Deep Clean (Text Tile)",
-      "sha12": "00abe83ead5e"
+      "label": "Seasonal Patio Furniture Setup (Text Tile)",
+      "sha12": "f5afcd7571e2"
     }
   },
   "c87": {
     "A": {
-      "label": "Grout And Tile Refresh",
-      "sha12": "ea2f589b6d84"
+      "label": "Dryer Vent Rerouting",
+      "sha12": "93cf28257a2a"
     },
     "B": {
-      "label": "Grout And Tile Refresh (Text Tile)",
-      "sha12": "bd29acb3273a"
+      "label": "Dryer Vent Rerouting (Text Tile)",
+      "sha12": "50e82af7f2b2"
     }
   },
   "c88": {
     "A": {
-      "label": "Furniture Assembly",
-      "sha12": "b666faeb9980"
+      "label": "Pest Entry Sealing",
+      "sha12": "bff97eedea2b"
     },
     "B": {
-      "label": "Furniture Assembly (Text Tile)",
-      "sha12": "a60d840f0037"
+      "label": "Pest Entry Sealing (Text Tile)",
+      "sha12": "fbf48d0ed346"
     }
   },
   "c89": {
     "A": {
-      "label": "TV And Shelf Mounting",
-      "sha12": "6fb7df8560b9"
+      "label": "Lead And Water Test",
+      "sha12": "d954455460e2"
     },
     "B": {
-      "label": "TV And Shelf Mounting (Text Tile)",
-      "sha12": "5f12299c702e"
+      "label": "Lead And Water Test (Text Tile)",
+      "sha12": "0789a69a7dab"
     }
   },
   "c90": {
     "A": {
-      "label": "Vacation Home Watch",
-      "sha12": "706f4e801cb7"
-    },
-    "B": {
-      "label": "Vacation Home Watch (Text Tile)",
-      "sha12": "1aa5371a9c28"
-    }
-  },
-  "c91": {
-    "A": {
-      "label": "Package And Key Concierge",
-      "sha12": "b479d17871c5"
-    },
-    "B": {
-      "label": "Package And Key Concierge (Text Tile)",
-      "sha12": "75b9d4d8cc22"
-    }
-  },
-  "c92": {
-    "A": {
-      "label": "Contractor Bid Management",
-      "sha12": "1299a2b53b1c"
-    },
-    "B": {
-      "label": "Contractor Bid Management (Text Tile)",
-      "sha12": "d37df226c3fe"
-    }
-  },
-  "c93": {
-    "A": {
-      "label": "Seasonal Patio Furniture Setup",
-      "sha12": "ff89ff4a4ede"
-    },
-    "B": {
-      "label": "Seasonal Patio Furniture Setup (Text Tile)",
-      "sha12": "70d344c19ff0"
-    }
-  },
-  "c94": {
-    "A": {
-      "label": "Dryer Vent Rerouting",
-      "sha12": "fd2b8e66d823"
-    },
-    "B": {
-      "label": "Dryer Vent Rerouting (Text Tile)",
-      "sha12": "e15c69e546d4"
-    }
-  },
-  "c95": {
-    "A": {
-      "label": "Pest Entry Sealing",
-      "sha12": "dbe0dc656c7d"
-    },
-    "B": {
-      "label": "Pest Entry Sealing (Text Tile)",
-      "sha12": "acdd64a28d35"
-    }
-  },
-  "c96": {
-    "A": {
-      "label": "Lead And Water Test",
-      "sha12": "472d01621a82"
-    },
-    "B": {
-      "label": "Lead And Water Test (Text Tile)",
-      "sha12": "dadf131deb8d"
-    }
-  },
-  "c97": {
-    "A": {
       "label": "Home Sale Ready Report",
-      "sha12": "2008ba4756a2"
+      "sha12": "5e1cb9233dc4"
     },
     "B": {
       "label": "Home Sale Ready Report (Text Tile)",
-      "sha12": "5b34dabf071f"
+      "sha12": "23241398fd91"
     }
   }
 }

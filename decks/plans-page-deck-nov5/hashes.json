@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Essentials First",
+      "sha12": "b8f72fbc6bd8"
+    },
+    "B": {
+      "label": "Complete First",
+      "sha12": "c9eeb428837d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Monthly Price Big",
+      "sha12": "0f55a97db234"
+    },
+    "B": {
+      "label": "Yearly Price Big",
+      "sha12": "2f0b005607dc"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Visits Count",
+      "sha12": "a092c58908b4"
+    },
+    "B": {
+      "label": "What Is New",
+      "sha12": "41c1d2261e65"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Get A Quote Button",
+      "sha12": "0ea17b784b50"
+    },
+    "B": {
+      "label": "Quote Only Tag",
+      "sha12": "18f55afce681"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Price List",
+      "sha12": "3dd33d1f597c"
+    },
+    "B": {
+      "label": "Price Tiles",
+      "sha12": "b9ba8c8da0d3"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Table",
+      "sha12": "1308e6041731"
+    },
+    "B": {
+      "label": "Chips",
+      "sha12": "a4e9b0a40421"
+    }
+  }
+}

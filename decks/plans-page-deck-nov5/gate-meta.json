@@ -1,0 +1,20 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/nov5-remake-1105/staged/plans/c1a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c1b.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c2a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c2b.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c3a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c3b.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c4a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c4b.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c5a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c5b.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c6a.jpg",
+    "/workspace/nov5-remake-1105/staged/plans/c6b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Plans Page Deck"
+}

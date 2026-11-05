@@ -2,31 +2,31 @@
   "c1": {
     "A": {
       "label": "White Front",
-      "sha12": "dcd2a25f5eb6"
+      "sha12": "9ce87e7728c0"
     },
     "B": {
       "label": "Terracotta Front",
-      "sha12": "99c33550f901"
+      "sha12": "112580950e5e"
     }
   },
   "c2": {
     "A": {
       "label": "Back With Prices",
-      "sha12": "a7efff7aa089"
+      "sha12": "da63d45a84d3"
     },
     "B": {
       "label": "Simple Back",
-      "sha12": "394607b15e92"
+      "sha12": "4a4e66e52296"
     }
   },
   "c3": {
     "A": {
       "label": "2 Years For The Price Of 1",
-      "sha12": "8ec946e58f64"
+      "sha12": "abd6c8d56201"
     },
     "B": {
       "label": "1 Year At 30% Off",
-      "sha12": "c027fa6d40b7"
+      "sha12": "49348b7ad683"
     }
   }
 }

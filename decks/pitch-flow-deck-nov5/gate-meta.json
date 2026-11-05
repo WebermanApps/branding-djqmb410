@@ -1,0 +1,18 @@
+{
+  "category": "app-ui",
+  "asset_paths": [
+    "/workspace/nov5-remake-1105/staged/pitch/c1a.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c1b.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c2a.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c2b.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c3a.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c3b.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c4a.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c4b.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c5a.jpg",
+    "/workspace/nov5-remake-1105/staged/pitch/c5b.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Pitch Flow Deck"
+}
