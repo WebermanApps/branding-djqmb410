@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Zabuton And Zafu",
+      "sha12": "820039dd5b8b"
+    },
+    "B": {
+      "label": "Zero-Gravity Recliner",
+      "sha12": "79ad5187de7e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Deep Matte Dark Walls",
+      "sha12": "f2b915651976"
+    },
+    "B": {
+      "label": "Warm Dark Earth Plaster",
+      "sha12": "bb3e50859bd1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Full Blackout · No Window",
+      "sha12": "37e7735f068d"
+    },
+    "B": {
+      "label": "Small Garden Window · Shoji",
+      "sha12": "3e317a7a9390"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Hinoki Wood Lining",
+      "sha12": "7894a07f2795"
+    },
+    "B": {
+      "label": "Fabric Acoustic Panels",
+      "sha12": "b5885fe102b9"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Tatami Floor",
+      "sha12": "aa6b0bdf1dbd"
+    },
+    "B": {
+      "label": "Thick Wool Rug",
+      "sha12": "1fdec7409582"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Hidden Cove Light",
+      "sha12": "d2ba31c94121"
+    },
+    "B": {
+      "label": "Single Low Lantern",
+      "sha12": "4496a5956064"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Empty Minimal",
+      "sha12": "511a18f1bb32"
+    },
+    "B": {
+      "label": "One Tokonoma Niche",
+      "sha12": "4423ce902edd"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Flat Ceiling",
+      "sha12": "00c3ceedacba"
+    },
+    "B": {
+      "label": "Soft Vaulted Wood Ceiling",
+      "sha12": "3cd303549e85"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Hinoki · Incense Tray",
+      "sha12": "e89b7389d1d5"
+    },
+    "B": {
+      "label": "No Scent Object",
+      "sha12": "78a0e1329691"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Cave-Like Womb",
+      "sha12": "99af308ba658"
+    },
+    "B": {
+      "label": "Serene Lighter Zen",
+      "sha12": "a3d2eb22ad92"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "room-design",
+  "asset_paths": [
+    "/workspace/bp-meditation-room-1106/staged/med-01a-zabuton.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-01b-recliner.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-02a-matte-walls.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-02b-earth-plaster.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-03a-blackout.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-03b-shoji-window.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-04a-hinoki-lining.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-04b-acoustic-panels.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-05a-tatami.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-05b-wool-rug.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-06a-cove-light.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-06b-lantern.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-07a-empty-minimal.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-07b-tokonoma.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-08a-flat-ceiling.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-08b-vaulted-ceiling.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-09a-scent-element.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-09b-no-scent.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-10a-cave-womb.jpg",
+    "/workspace/bp-meditation-room-1106/staged/med-10b-serene-zen.jpg"
+  ],
+  "ui_screenshots": false,
+  "bleed_mode": "flush-cream",
+  "title": "Meditation Room"
+}
