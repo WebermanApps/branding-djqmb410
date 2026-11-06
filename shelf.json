@@ -2,40 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "main-app-desktop-all-pages-deck-y80am0",
-   "name": "Main App Desktop All Pages",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-all-pages-deck-y80am0/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
-   "requested_at": "2026-11-05T22:28:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "7 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-05"
-  },
-  {
-   "id": "main-app-tablet-all-pages-deck-59m8zl",
-   "name": "Main App Tablet All Pages",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-tablet-all-pages-deck-59m8zl/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
-   "requested_at": "2026-11-05T22:28:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "7 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-05"
-  },
-  {
    "id": "member-app-desktop-tablet-pages-deck-njmw1m",
    "name": "Member App Desktop And Tablet Pages",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-app-desktop-tablet-pages-deck-njmw1m/",
@@ -49,23 +15,6 @@
    "pinned": true,
    "new": true,
    "blurb": "7 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-05"
-  },
-  {
-   "id": "tech-app-desktop-tablet-pages-deck-t6lim5",
-   "name": "Tech App Desktop And Tablet Pages",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-desktop-tablet-pages-deck-t6lim5/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
-   "requested_at": "2026-11-05T22:28:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-05"
   },
@@ -743,7 +692,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-05T22:34:30+07:00",
+ "updated": "2026-11-06T07:55:36+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3349,6 +3298,27 @@
    "name": "Flashlight Options Deck",
    "answered": 3,
    "total": 3
+  },
+  {
+   "id": "main-app-desktop-all-pages-deck-y80am0",
+   "at": "2026-11-05T23:47:02+07:00",
+   "name": "Main App Desktop All Pages",
+   "answered": 6,
+   "total": 7
+  },
+  {
+   "id": "main-app-tablet-all-pages-deck-59m8zl",
+   "at": "2026-11-05T23:49:49+07:00",
+   "name": "Main App Tablet All Pages",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "tech-app-desktop-tablet-pages-deck-t6lim5",
+   "at": "2026-11-05T23:52:46+07:00",
+   "name": "Tech App Desktop And Tablet Pages",
+   "answered": 6,
+   "total": 6
   }
  ],
  "pinned": [
@@ -3379,24 +3349,26 @@
    "name": "Main App Desktop All Pages",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-all-pages-deck-y80am0/",
    "total": 7,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-05T22:28:00+07:00",
    "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting."
+   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
+   "done_at": "2026-11-05T23:47:02+07:00"
   },
   {
    "id": "main-app-tablet-all-pages-deck-59m8zl",
    "name": "Main App Tablet All Pages",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-tablet-all-pages-deck-59m8zl/",
    "total": 7,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-05T22:28:00+07:00",
    "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting."
+   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
+   "done_at": "2026-11-05T23:49:49+07:00"
   },
   {
    "id": "member-app-desktop-tablet-pages-deck-njmw1m",
@@ -3415,12 +3387,13 @@
    "name": "Tech App Desktop And Tablet Pages",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-app-desktop-tablet-pages-deck-t6lim5/",
    "total": 6,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-05T22:28:00+07:00",
    "added": "2026-11-05T22:34:30+07:00",
-   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting."
+   "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
+   "done_at": "2026-11-05T23:52:46+07:00"
   },
   {
    "id": "new-prices-deck",
