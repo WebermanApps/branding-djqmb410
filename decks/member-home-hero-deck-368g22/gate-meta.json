@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-hero-1106/mocks/badge_toned.jpg",
+    "/workspace/su-member-hero-1106/mocks/badge_filled.jpg",
+    "/workspace/su-member-hero-1106/mocks/sample_chip.jpg",
+    "/workspace/su-member-hero-1106/mocks/sample_quiet.jpg",
+    "/workspace/su-member-hero-1106/mocks/fade_current.jpg",
+    "/workspace/su-member-hero-1106/mocks/fade_taller.jpg",
+    "/workspace/su-member-hero-1106/mocks/type_on_photo.jpg",
+    "/workspace/su-member-hero-1106/mocks/type_below.jpg",
+    "/workspace/su-member-hero-1106/mocks/photo_fill.jpg",
+    "/workspace/su-member-hero-1106/mocks/photo_room.jpg",
+    "/workspace/su-member-hero-1106/mocks/stack_current.jpg",
+    "/workspace/su-member-hero-1106/mocks/stack_airy.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Home Hero"
+}

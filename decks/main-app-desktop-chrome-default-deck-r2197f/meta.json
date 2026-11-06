@@ -1,0 +1,14 @@
+{
+  "category": "ui-desktop-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-desktop-chrome-1106/mocks/chrome_util.jpg",
+    "/workspace/su-desktop-chrome-1106/mocks/chrome_minimal.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "main-app-desktop-chrome-default-deck-r2197f",
+  "title": "Main App Desktop Chrome Default",
+  "short": "Desktop Chrome Default"
+}

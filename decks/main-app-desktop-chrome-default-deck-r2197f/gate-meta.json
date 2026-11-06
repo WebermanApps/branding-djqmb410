@@ -1,0 +1,10 @@
+{
+  "category": "ui-desktop-mockups",
+  "asset_paths": [
+    "/workspace/su-desktop-chrome-1106/mocks/chrome_util.jpg",
+    "/workspace/su-desktop-chrome-1106/mocks/chrome_minimal.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Main App Desktop Chrome Default"
+}

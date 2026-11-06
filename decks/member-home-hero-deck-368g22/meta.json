@@ -1,0 +1,32 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-hero-1106/mocks/badge_toned.jpg",
+    "/workspace/su-member-hero-1106/mocks/badge_filled.jpg",
+    "/workspace/su-member-hero-1106/mocks/sample_chip.jpg",
+    "/workspace/su-member-hero-1106/mocks/sample_quiet.jpg",
+    "/workspace/su-member-hero-1106/mocks/fade_current.jpg",
+    "/workspace/su-member-hero-1106/mocks/fade_taller.jpg",
+    "/workspace/su-member-hero-1106/mocks/type_on_photo.jpg",
+    "/workspace/su-member-hero-1106/mocks/type_below.jpg",
+    "/workspace/su-member-hero-1106/mocks/photo_fill.jpg",
+    "/workspace/su-member-hero-1106/mocks/photo_room.jpg",
+    "/workspace/su-member-hero-1106/mocks/stack_current.jpg",
+    "/workspace/su-member-hero-1106/mocks/stack_airy.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-home-hero-deck-368g22",
+  "title": "Member Home Hero",
+  "short": "Member Home Hero",
+  "header_lock": {
+    "logo_css_px": 58,
+    "share_css_px": 48,
+    "share_svg_css_px": 28,
+    "avatar_css_px": 40,
+    "source": "62a03c6 / 13ded09",
+    "note": "Identical locked header on both sides of every card. Sizing is not a choice."
+  }
+}

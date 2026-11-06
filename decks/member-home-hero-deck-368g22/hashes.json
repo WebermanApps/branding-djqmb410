@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Three-Tone Wash",
+      "sha12": "8692a4ed17c3"
+    },
+    "B": {
+      "label": "Filled Plan Badge",
+      "sha12": "2f9bbc9af74f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Current Corner Chip",
+      "sha12": "283adae177c4"
+    },
+    "B": {
+      "label": "Quiet Corner Label",
+      "sha12": "62c77403bf3f"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Current Mid Fade",
+      "sha12": "4118f2d29d2b"
+    },
+    "B": {
+      "label": "Taller Cream Fade",
+      "sha12": "c5276d0bbb65"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Type On The Photo",
+      "sha12": "6e5c56c42f63"
+    },
+    "B": {
+      "label": "Type On Cream Below",
+      "sha12": "40e29043a473"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Current Tall Crop",
+      "sha12": "a2b47435ff07"
+    },
+    "B": {
+      "label": "More Of The House",
+      "sha12": "04c1f3ea9c01"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Current Stack",
+      "sha12": "f234bc9c94fa"
+    },
+    "B": {
+      "label": "Airier Stack",
+      "sha12": "c6f6094e6039"
+    }
+  }
+}
