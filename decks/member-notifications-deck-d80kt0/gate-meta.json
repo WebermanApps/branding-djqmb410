@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-account-1106/mocks/nt_groups_two.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_groups_one.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_dense_comfy.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_dense_tight.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_reach_keep.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_reach_omit.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_save_button.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_save_sticky.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_tips_mixed.jpg",
+    "/workspace/su-member-account-1106/mocks/nt_tips_quiet.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Notifications"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "In-Page Accordion",
+      "sha12": "b06bcb047d63"
+    },
+    "B": {
+      "label": "Maximize Opens A Sheet",
+      "sha12": "a4348bfc8020"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "First Answer Open",
+      "sha12": "96ddf4ca3f0c"
+    },
+    "B": {
+      "label": "All Answers Closed",
+      "sha12": "92ca2c186dea"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Primary Button",
+      "sha12": "75aecdc2afed"
+    },
+    "B": {
+      "label": "Quiet Text Link",
+      "sha12": "a082b2e619bf"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep Cross-Links",
+      "sha12": "f890bc1b566b"
+    },
+    "B": {
+      "label": "No Extra Links",
+      "sha12": "8093ec2e67b0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "On-Page Card",
+      "sha12": "8fd40f20f1f1"
+    },
+    "B": {
+      "label": "Sticky Bottom Button",
+      "sha12": "ea8b72d52aec"
+    }
+  }
+}

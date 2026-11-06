@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-account-1106/mocks/bl_hero_big.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_hero_quiet.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_pay_card.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_pay_row.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_inv_stack.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_inv_dense.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_nav_extra.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_nav_header.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_q_card.jpg",
+    "/workspace/su-member-account-1106/mocks/bl_q_link.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Billing"
+}

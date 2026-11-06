@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Cards",
+      "sha12": "e0bd6428858d"
+    },
+    "B": {
+      "label": "One Continuous List",
+      "sha12": "003d7d1ef86b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Comfortable Rows",
+      "sha12": "c4b66c29bc25"
+    },
+    "B": {
+      "label": "Tighter Rows",
+      "sha12": "c9c8d05b16c9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep Reach Card",
+      "sha12": "c739bdd19d12"
+    },
+    "B": {
+      "label": "Leave On Profile",
+      "sha12": "071e6b000485"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "On-Page Button",
+      "sha12": "05353203d49e"
+    },
+    "B": {
+      "label": "Sticky Bottom Bar",
+      "sha12": "5ab4f26ec744"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "In The Main List",
+      "sha12": "7956fdafd419"
+    },
+    "B": {
+      "label": "Quieter Last Row",
+      "sha12": "f8af60e26e7f"
+    }
+  }
+}

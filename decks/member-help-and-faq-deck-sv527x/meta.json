@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-account-1106/mocks/hp_accordion.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_sheet.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_open_first.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_all_closed.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_faq_primary.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_faq_quiet.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_xlinks_on.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_xlinks_off.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_stuck_card.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_stuck_sticky.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "status": "LOCAL ONLY — not published; awaiting Machan authorization",
+  "id": "member-help-and-faq-deck-sv527x",
+  "title": "Member Help And FAQ",
+  "short": "Member Help"
+}

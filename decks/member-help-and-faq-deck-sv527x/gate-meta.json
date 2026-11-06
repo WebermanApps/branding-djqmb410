@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-account-1106/mocks/hp_accordion.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_sheet.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_open_first.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_all_closed.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_faq_primary.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_faq_quiet.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_xlinks_on.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_xlinks_off.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_stuck_card.jpg",
+    "/workspace/su-member-account-1106/mocks/hp_stuck_sticky.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Help And FAQ"
+}

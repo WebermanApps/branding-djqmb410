@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Large Amount Hero",
+      "sha12": "6b428eda9b5e"
+    },
+    "B": {
+      "label": "Quieter Charge Line",
+      "sha12": "573b8a134757"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Full Payment Card",
+      "sha12": "2dc2f9b2758c"
+    },
+    "B": {
+      "label": "Compact Payment Row",
+      "sha12": "284ff1f9470a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Stacked Invoices",
+      "sha12": "c693240594f8"
+    },
+    "B": {
+      "label": "Tighter Invoice List",
+      "sha12": "b75ecd0b6f88"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Home And Profile Buttons",
+      "sha12": "735405a6a2b1"
+    },
+    "B": {
+      "label": "Header Back Only",
+      "sha12": "aa72e1fdd772"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep Questions Card",
+      "sha12": "9d9f5802681b"
+    },
+    "B": {
+      "label": "Link To Help And FAQ",
+      "sha12": "9eaef0d58fac"
+    }
+  }
+}

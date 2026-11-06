@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-account-1106/mocks/pr_header_current.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_header_minimal.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_identity_fields.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_identity_avatar.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_address_card.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_address_sheet.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_plan_keep.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_plan_slim.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_hub_list.jpg",
+    "/workspace/su-member-account-1106/mocks/pr_hub_tiles.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Profile And Account"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Sticky Header",
+      "sha12": "f8026544a6e4"
+    },
+    "B": {
+      "label": "Quieter Header",
+      "sha12": "f0d67acddd4e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Stacked Fields",
+      "sha12": "796dc9bf2817"
+    },
+    "B": {
+      "label": "Compact Identity",
+      "sha12": "f5e1d31b0fa2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "In-Page Button",
+      "sha12": "1f71b6f10ae4"
+    },
+    "B": {
+      "label": "Home-Style Sheet",
+      "sha12": "2082472b53b4"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep Snapshot Card",
+      "sha12": "c68426f735a5"
+    },
+    "B": {
+      "label": "Slim Link To Billing",
+      "sha12": "6dee35ceab9c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Stacked Row Links",
+      "sha12": "83a9c197cd1f"
+    },
+    "B": {
+      "label": "Two-By-Two Tiles",
+      "sha12": "acb447e59d33"
+    }
+  }
+}
