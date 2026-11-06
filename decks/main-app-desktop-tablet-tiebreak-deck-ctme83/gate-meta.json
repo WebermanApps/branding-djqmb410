@@ -1,0 +1,14 @@
+{
+  "category": "ui-desktop-mockups",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_split_3up.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_compact_sticky.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_compact_3up.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_split_sticky.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_rail_3col.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_rail_snap.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Main App Desktop And Tablet Tiebreak"
+}

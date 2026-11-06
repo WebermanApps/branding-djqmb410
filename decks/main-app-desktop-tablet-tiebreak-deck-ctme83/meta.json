@@ -1,0 +1,18 @@
+{
+  "category": "ui-desktop-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_split_3up.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_compact_sticky.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_compact_3up.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_side_split_sticky.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_rail_3col.jpg",
+    "/workspace/su-desktop-1105/followup/mocks/fu_rail_snap.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "status": "LOCAL ONLY - not published, pending Max/Machan approval",
+  "id": "main-app-desktop-tablet-tiebreak-deck-ctme83",
+  "title": "Main App Desktop And Tablet Tiebreak"
+}

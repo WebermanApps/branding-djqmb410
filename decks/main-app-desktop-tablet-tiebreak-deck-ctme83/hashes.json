@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Split Media + Copy",
+      "sha12": "fdca15c7d33c"
+    },
+    "B": {
+      "label": "Compact Hero Band",
+      "sha12": "3373ebbf8b08"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "3-Up Grid",
+      "sha12": "f8a07d45827a"
+    },
+    "B": {
+      "label": "Large Cards + Sticky CTA",
+      "sha12": "d2ee7a29ec9d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "3-Column Grid",
+      "sha12": "d7f52aea4a12"
+    },
+    "B": {
+      "label": "Horizontal Carousel",
+      "sha12": "8d1fa5dc7cd8"
+    }
+  }
+}
