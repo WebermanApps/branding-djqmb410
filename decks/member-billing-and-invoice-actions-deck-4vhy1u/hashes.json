@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Select All Toolbar",
+      "sha12": "a6fe993a9ec1"
+    },
+    "B": {
+      "label": "Select Mode First",
+      "sha12": "59b81415a1a8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Icons On Every Row",
+      "sha12": "85440e297202"
+    },
+    "B": {
+      "label": "Select Only On Rows",
+      "sha12": "be642b9c4e90"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Edit And Add Side By Side",
+      "sha12": "83a777ee3a3f"
+    },
+    "B": {
+      "label": "One Update Card Button",
+      "sha12": "4945faf489e9"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Demo Card Form",
+      "sha12": "82ec23e919dc"
+    },
+    "B": {
+      "label": "Continue To Stripe",
+      "sha12": "e318ad9d8420"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/hp_jump_home.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_jump_ask.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_sticky_only.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_plus_composer.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_faq_text.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_faq_links.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Help And Contact Flow"
+}

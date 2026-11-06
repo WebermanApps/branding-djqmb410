@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/pr_edit_stacked.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_edit_row.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_save_close.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_save_stay.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_addr_note.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_addr_fields.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-profile-detail-sheets-deck-zlhuku",
+  "title": "Member Profile Detail Sheets",
+  "short": "Profile Detail Sheets",
+  "source_sha": "f4c9173",
+  "header_lock": {
+    "logo_css_px": 58,
+    "share_css_px": 48,
+    "share_svg_css_px": 28,
+    "avatar_css_px": 40,
+    "source": "f4c9173 / 62a03c6 / 13ded09",
+    "note": "Identical locked header on both sides of every card. Sizing is not a choice."
+  }
+}

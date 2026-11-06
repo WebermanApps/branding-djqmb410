@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/nt_edit_jump.jpg",
+    "/workspace/su-member-deep-1106/mocks/nt_edit_sheet.jpg",
+    "/workspace/su-member-deep-1106/mocks/nt_save_toast.jpg",
+    "/workspace/su-member-deep-1106/mocks/nt_save_label.jpg",
+    "/workspace/su-member-deep-1106/mocks/nt_save_batch.jpg",
+    "/workspace/su-member-deep-1106/mocks/nt_save_instant.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Notification Editing"
+}

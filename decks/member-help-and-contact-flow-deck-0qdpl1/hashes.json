@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Lands On Member Home",
+      "sha12": "dabf95f9f67f"
+    },
+    "B": {
+      "label": "Open Ask Anything Here",
+      "sha12": "39205c54a7e3"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sticky Button Only",
+      "sha12": "06a2b507f21e"
+    },
+    "B": {
+      "label": "Add Message The Office",
+      "sha12": "c1c2a29a4a19"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain Answers",
+      "sha12": "ad4c5159b23e"
+    },
+    "B": {
+      "label": "Answer With A Jump",
+      "sha12": "fc7a2036e4d8"
+    }
+  }
+}

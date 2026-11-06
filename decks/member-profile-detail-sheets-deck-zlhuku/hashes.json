@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Stacked Fields",
+      "sha12": "66759b09b9ff"
+    },
+    "B": {
+      "label": "First And Last On One Row",
+      "sha12": "fe7b515d14d0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Close And Confirm",
+      "sha12": "47e7e6e5d3d1"
+    },
+    "B": {
+      "label": "Stay Open With Saved",
+      "sha12": "2955a59afa4b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Note Only",
+      "sha12": "8da0c4b85992"
+    },
+    "B": {
+      "label": "Street, City, And Note",
+      "sha12": "2fe1664637f2"
+    }
+  }
+}

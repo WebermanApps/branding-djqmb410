@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Three Equal Actions",
+      "sha12": "6174a50be3f3"
+    },
+    "B": {
+      "label": "Share First",
+      "sha12": "67bb94b62a20"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Name, Address, City, And Note",
+      "sha12": "53afa77f7216"
+    },
+    "B": {
+      "label": "Name And Street Only",
+      "sha12": "4dd21c2682bd"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "What’s Included, Then Sample",
+      "sha12": "844587cdae06"
+    },
+    "B": {
+      "label": "Straight To The Sample",
+      "sha12": "591ea3bc304e"
+    }
+  }
+}

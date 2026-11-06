@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/rf_three_acts.jpg",
+    "/workspace/su-member-deep-1106/mocks/rf_share_primary.jpg",
+    "/workspace/su-member-deep-1106/mocks/rf_form_full.jpg",
+    "/workspace/su-member-deep-1106/mocks/rf_form_short.jpg",
+    "/workspace/su-member-deep-1106/mocks/vr_overview.jpg",
+    "/workspace/su-member-deep-1106/mocks/vr_straight_sample.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Referral And Visit Record"
+}

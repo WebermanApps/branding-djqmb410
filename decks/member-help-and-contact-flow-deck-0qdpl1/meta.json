@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/hp_jump_home.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_jump_ask.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_sticky_only.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_plus_composer.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_faq_text.jpg",
+    "/workspace/su-member-deep-1106/mocks/hp_faq_links.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-help-and-contact-flow-deck-0qdpl1",
+  "title": "Member Help And Contact Flow",
+  "short": "Help And Contact Flow",
+  "source_sha": "f4c9173",
+  "header_lock": {
+    "logo_css_px": 58,
+    "share_css_px": 48,
+    "share_svg_css_px": 28,
+    "avatar_css_px": 40,
+    "source": "f4c9173 / 62a03c6 / 13ded09",
+    "note": "Identical locked header on both sides of every card. Sizing is not a choice."
+  }
+}

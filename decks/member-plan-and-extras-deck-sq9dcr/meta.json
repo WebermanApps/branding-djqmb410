@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/cp_pick_cards.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_adjust_lead.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_review_step.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_confirm_on_card.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_keep_drop.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_toggles.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_review.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_instant.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-plan-and-extras-deck-sq9dcr",
+  "title": "Member Plan And Extras",
+  "short": "Plan And Extras",
+  "source_sha": "f4c9173",
+  "header_lock": {
+    "logo_css_px": 58,
+    "share_css_px": 48,
+    "share_svg_css_px": 28,
+    "avatar_css_px": 40,
+    "source": "f4c9173 / 62a03c6 / 13ded09",
+    "note": "Identical locked header on both sides of every card. Sizing is not a choice."
+  }
+}

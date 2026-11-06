@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Open Profile Edit Page",
+      "sha12": "22b90c3436ff"
+    },
+    "B": {
+      "label": "Edit Sheet On Notifications",
+      "sha12": "ee4f5646a3ec"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Toast After Save",
+      "sha12": "da6c6a49b18a"
+    },
+    "B": {
+      "label": "Button Reads Saved",
+      "sha12": "b447758d4eaf"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Save Preferences Button",
+      "sha12": "c03e50448dc7"
+    },
+    "B": {
+      "label": "Each Toggle Saves Immediately",
+      "sha12": "1797e795b040"
+    }
+  }
+}

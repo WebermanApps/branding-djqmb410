@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Collapsed Count",
+      "sha12": "6aa065bb4acd"
+    },
+    "B": {
+      "label": "List Open",
+      "sha12": "2748ef0329e9"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Full Detail Sheet",
+      "sha12": "8c864bc257b1"
+    },
+    "B": {
+      "label": "Ask First",
+      "sha12": "5d7341414da6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Suggested Slots First",
+      "sha12": "ff8c6da2e630"
+    },
+    "B": {
+      "label": "Calendar First",
+      "sha12": "b786597cbcf5"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Fresh Composer",
+      "sha12": "11b6288edbf2"
+    },
+    "B": {
+      "label": "Thread And Reply",
+      "sha12": "92bd793718ed"
+    }
+  }
+}

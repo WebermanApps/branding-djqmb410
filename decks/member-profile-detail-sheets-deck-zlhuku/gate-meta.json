@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/pr_edit_stacked.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_edit_row.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_save_close.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_save_stay.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_addr_note.jpg",
+    "/workspace/su-member-deep-1106/mocks/pr_addr_fields.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Profile Detail Sheets"
+}

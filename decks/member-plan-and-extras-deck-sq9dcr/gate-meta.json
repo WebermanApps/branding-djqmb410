@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/cp_pick_cards.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_adjust_lead.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_review_step.jpg",
+    "/workspace/su-member-deep-1106/mocks/cp_confirm_on_card.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_keep_drop.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_toggles.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_review.jpg",
+    "/workspace/su-member-deep-1106/mocks/me_instant.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Plan And Extras"
+}

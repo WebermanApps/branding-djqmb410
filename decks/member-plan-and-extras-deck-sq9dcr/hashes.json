@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Plan Pick Cards",
+      "sha12": "33635c7152d0"
+    },
+    "B": {
+      "label": "Stay On Plus And Adjust",
+      "sha12": "9113ed16b3e1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Review, Then Send Request",
+      "sha12": "3ac4fcd24824"
+    },
+    "B": {
+      "label": "Request On The Card",
+      "sha12": "63c4f1d3bfe2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep And Remove Buttons",
+      "sha12": "c541c75bb243"
+    },
+    "B": {
+      "label": "On Or Off Switches",
+      "sha12": "701f0bef30c3"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Review, Then Send Request",
+      "sha12": "781c09cac172"
+    },
+    "B": {
+      "label": "Immediate Request Sent",
+      "sha12": "3364265a0bfd"
+    }
+  }
+}

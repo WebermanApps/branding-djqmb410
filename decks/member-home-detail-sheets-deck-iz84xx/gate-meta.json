@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/wa_collapse.jpg",
+    "/workspace/su-member-deep-1106/mocks/wa_open.jpg",
+    "/workspace/su-member-deep-1106/mocks/wa_sheet_long.jpg",
+    "/workspace/su-member-deep-1106/mocks/wa_sheet_ask.jpg",
+    "/workspace/su-member-deep-1106/mocks/nv_slots_first.jpg",
+    "/workspace/su-member-deep-1106/mocks/nv_cal_first.jpg",
+    "/workspace/su-member-deep-1106/mocks/aa_compose.jpg",
+    "/workspace/su-member-deep-1106/mocks/aa_thread.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Home Detail Sheets"
+}

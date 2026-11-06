@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-deep-1106/mocks/bi_tools_bar.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_tools_mode.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_row_icons.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_row_select.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_card_two.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_card_one.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_sheet_form.jpg",
+    "/workspace/su-member-deep-1106/mocks/bi_sheet_stripe.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-billing-and-invoice-actions-deck-4vhy1u",
+  "title": "Member Billing And Invoice Actions",
+  "short": "Billing And Invoice Actions",
+  "source_sha": "f4c9173",
+  "header_lock": {
+    "logo_css_px": 58,
+    "share_css_px": 48,
+    "share_svg_css_px": 28,
+    "avatar_css_px": 40,
+    "source": "f4c9173 / 62a03c6 / 13ded09",
+    "note": "Identical locked header on both sides of every card. Sizing is not a choice."
+  }
+}
