@@ -709,7 +709,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-06T15:04:29+07:00",
+ "updated": "2026-11-06T20:22:55+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3364,6 +3364,62 @@
    "name": "Member Notifications",
    "answered": 5,
    "total": 5
+  },
+  {
+   "id": "member-profile-detail-sheets-deck-zlhuku",
+   "at": "2026-11-06T20:08:15+07:00",
+   "name": "Member Profile Detail Sheets",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "member-billing-and-invoice-actions-deck-4vhy1u",
+   "at": "2026-11-06T20:09:34+07:00",
+   "name": "Member Billing And Invoice Actions",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "member-help-and-contact-flow-deck-0qdpl1",
+   "at": "2026-11-06T20:10:46+07:00",
+   "name": "Member Help And Contact Flow",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "member-notification-editing-deck-r0roij",
+   "at": "2026-11-06T20:11:45+07:00",
+   "name": "Member Notification Editing",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "member-referral-and-visit-record-deck-sdhhis",
+   "at": "2026-11-06T20:12:56+07:00",
+   "name": "Member Referral And Visit Record",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "member-plan-and-extras-deck-sq9dcr",
+   "at": "2026-11-06T20:14:30+07:00",
+   "name": "Member Plan And Extras",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "member-home-detail-sheets-deck-iz84xx",
+   "at": "2026-11-06T20:15:56+07:00",
+   "name": "Member Home Detail Sheets",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "member-home-hero-deck-368g22",
+   "at": "2026-11-06T14:54:09+07:00",
+   "name": "Member Home Hero",
+   "answered": 6,
+   "total": 6
   }
  ],
  "pinned": [
@@ -3394,96 +3450,104 @@
    "name": "Member Profile Detail Sheets",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-profile-detail-sheets-deck-zlhuku/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:08:15+07:00"
   },
   {
    "id": "member-billing-and-invoice-actions-deck-4vhy1u",
    "name": "Member Billing And Invoice Actions",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-billing-and-invoice-actions-deck-4vhy1u/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:09:34+07:00"
   },
   {
    "id": "member-help-and-contact-flow-deck-0qdpl1",
    "name": "Member Help And Contact Flow",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-help-and-contact-flow-deck-0qdpl1/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:10:46+07:00"
   },
   {
    "id": "member-notification-editing-deck-r0roij",
    "name": "Member Notification Editing",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-notification-editing-deck-r0roij/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:11:45+07:00"
   },
   {
    "id": "member-referral-and-visit-record-deck-sdhhis",
    "name": "Member Referral And Visit Record",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-referral-and-visit-record-deck-sdhhis/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:12:56+07:00"
   },
   {
    "id": "member-plan-and-extras-deck-sq9dcr",
    "name": "Member Plan And Extras",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-plan-and-extras-deck-sq9dcr/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:14:30+07:00"
   },
   {
    "id": "member-home-detail-sheets-deck-iz84xx",
    "name": "Member Home Detail Sheets",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-detail-sheets-deck-iz84xx/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T15:05:00+07:00",
    "added": "2026-11-06T15:04:29+07:00",
-   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks."
+   "note": "Deep Member nested-page review from f4c9173. Phone only. Does not reopen settled account, hero, chrome, Pitch Flow, or desktop/tablet decks.",
+   "done_at": "2026-11-06T20:15:56+07:00"
   },
   {
    "id": "member-home-hero-deck-368g22",
    "name": "Member Home Hero",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-hero-deck-368g22/",
    "total": 6,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-06T14:16:00+07:00",
    "added": "2026-11-06T14:21:52+07:00",
-   "note": "Machan approved Nov 6 14:16 ICT: publish Member Home Hero and Desktop Chrome Default when ready. Hero uses 62a03c6 header lock (logo 58px, share 48px, avatar 40px). Desktop chrome is the skipped Nov 5 cross-page utility question, now next to the chosen sidebar. Preference only; no app bake. Dictionary held."
+   "note": "Machan approved Nov 6 14:16 ICT: publish Member Home Hero and Desktop Chrome Default when ready. Hero uses 62a03c6 header lock (logo 58px, share 48px, avatar 40px). Desktop chrome is the skipped Nov 5 cross-page utility question, now next to the chosen sidebar. Preference only; no app bake. Dictionary held.",
+   "done_at": "2026-11-06T14:54:09+07:00"
   },
   {
    "id": "main-app-desktop-chrome-default-deck-r2197f",
