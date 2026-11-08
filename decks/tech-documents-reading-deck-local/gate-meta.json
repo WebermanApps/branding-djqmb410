@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/01a_continuous_sheet.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/01b_paper_page.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/02a_labels_under_icons.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/02b_labels_beside_icons.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Documents Reading"
+}

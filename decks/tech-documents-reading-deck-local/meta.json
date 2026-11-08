@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/01a_continuous_sheet.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/01b_paper_page.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/02a_labels_under_icons.jpg",
+    "/workspace/su-app-opportunities-1108/tech-documents-reading/mocks/02b_labels_beside_icons.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tech-documents-reading-deck-local",
+  "title": "Tech Documents Reading",
+  "short": "Documents Reading",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

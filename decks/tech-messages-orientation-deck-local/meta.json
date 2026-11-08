@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/01a_comfortable_rows.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/01b_tighter_rows.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/02a_unread_trailing.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/02b_unread_leading.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/03a_date_right.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/03b_date_under_preview.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tech-messages-orientation-deck-local",
+  "title": "Tech Messages Orientation",
+  "short": "Messages List",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

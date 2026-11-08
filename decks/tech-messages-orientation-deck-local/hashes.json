@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Comfortable Rows",
+      "sha12": "1bd77c4dd070"
+    },
+    "B": {
+      "label": "Tighter Rows",
+      "sha12": "bbe437efad68"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Trailing Unread Mark",
+      "sha12": "a0904d47568b"
+    },
+    "B": {
+      "label": "Leading Unread Mark",
+      "sha12": "6dff365d40b1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Date On The Right",
+      "sha12": "d0759cb2fa81"
+    },
+    "B": {
+      "label": "Date Under The Preview",
+      "sha12": "b58c098ed5f2"
+    }
+  }
+}

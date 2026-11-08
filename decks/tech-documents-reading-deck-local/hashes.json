@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Continuous Sheet",
+      "sha12": "7b13a1d82b0a"
+    },
+    "B": {
+      "label": "Paper Page",
+      "sha12": "f105ddc2b3df"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Labels Under Icons",
+      "sha12": "768e5ba955a1"
+    },
+    "B": {
+      "label": "Labels Beside Icons",
+      "sha12": "8e9fc4259cb5"
+    }
+  }
+}

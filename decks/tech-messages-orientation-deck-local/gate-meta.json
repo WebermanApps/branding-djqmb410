@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/01a_comfortable_rows.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/01b_tighter_rows.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/02a_unread_trailing.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/02b_unread_leading.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/03a_date_right.jpg",
+    "/workspace/su-app-opportunities-1108/tech-messages-orientation/mocks/03b_date_under_preview.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Messages Orientation"
+}

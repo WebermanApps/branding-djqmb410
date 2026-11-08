@@ -1,0 +1,17 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/first-visit-preparation/mocks/01a_information_rows.jpg",
+    "/workspace/su-app-opportunities-1108/first-visit-preparation/mocks/01b_informational_circles.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "first-visit-preparation-deck-local",
+  "title": "First Visit Preparation",
+  "short": "First Visit Prep",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}
