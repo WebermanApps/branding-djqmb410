@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "What We Do And Before We Come",
+      "sha12": "59ffed494078"
+    },
+    "B": {
+      "label": "Sequential Walkthrough",
+      "sha12": "4b462ce499a7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Expanded Inline",
+      "sha12": "0685eb6e40da"
+    },
+    "B": {
+      "label": "Dedicated Detail Panel",
+      "sha12": "db3ace114402"
+    }
+  }
+}

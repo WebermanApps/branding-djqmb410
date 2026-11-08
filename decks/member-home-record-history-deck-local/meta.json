@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/member-home-record-history/mocks/01a_system_groups.jpg",
+    "/workspace/su-app-opportunities-1108/member-home-record-history/mocks/01b_chronological.jpg",
+    "/workspace/su-app-opportunities-1108/member-home-record-history/mocks/02a_last_serviced_inline.jpg",
+    "/workspace/su-app-opportunities-1108/member-home-record-history/mocks/02b_last_serviced_in_detail.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-home-record-history-deck-local",
+  "title": "Member Home Record History",
+  "short": "Home Record History",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

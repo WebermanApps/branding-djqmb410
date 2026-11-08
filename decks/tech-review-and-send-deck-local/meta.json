@@ -1,0 +1,17 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/tech-review-and-send/mocks/02a_summary_inline.jpg",
+    "/workspace/su-app-opportunities-1108/tech-review-and-send/mocks/02b_summary_expandable.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tech-review-and-send-deck-local",
+  "title": "Tech Review And Send",
+  "short": "Review And Send",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

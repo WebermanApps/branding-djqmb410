@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/public-service-explanation/mocks/01a_what_and_before.jpg",
+    "/workspace/su-app-opportunities-1108/public-service-explanation/mocks/01b_sequential_walkthrough.jpg",
+    "/workspace/su-app-opportunities-1108/public-service-explanation/mocks/02a_detail_inline.jpg",
+    "/workspace/su-app-opportunities-1108/public-service-explanation/mocks/02b_detail_panel.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "public-service-explanation-deck-local",
+  "title": "Public Service Explanation",
+  "short": "Service Explanation",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

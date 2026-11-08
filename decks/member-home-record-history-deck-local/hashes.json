@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "System Groups",
+      "sha12": "13a2c906fa24"
+    },
+    "B": {
+      "label": "Chronological List",
+      "sha12": "54fa07bfda23"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Inline On Each Row",
+      "sha12": "845fe2b4aae9"
+    },
+    "B": {
+      "label": "In The System Detail",
+      "sha12": "5753bfa58142"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "c1": {
+    "A": {
+      "label": "Inline Summary",
+      "sha12": "6d9e113d07b3"
+    },
+    "B": {
+      "label": "Expandable Summary",
+      "sha12": "998b437d1abe"
+    }
+  }
+}
