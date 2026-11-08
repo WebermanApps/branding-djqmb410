@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/extra-equipment-in-the-field/mocks/01a_inline_capture.jpg",
+    "/workspace/su-app-opportunities-1108/extra-equipment-in-the-field/mocks/01b_add_sheet.jpg",
+    "/workspace/su-app-opportunities-1108/extra-equipment-in-the-field/mocks/02a_single_sheet.jpg",
+    "/workspace/su-app-opportunities-1108/extra-equipment-in-the-field/mocks/02b_review_then_sign.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "extra-equipment-in-the-field-deck-local",
+  "title": "Extra Equipment In The Field",
+  "short": "Extra Equipment",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

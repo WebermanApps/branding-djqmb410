@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Inline Capture",
+      "sha12": "e20477f5b964"
+    },
+    "B": {
+      "label": "Add Sheet",
+      "sha12": "622a9e2bb909"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Single Sheet",
+      "sha12": "632d5c5e75ae"
+    },
+    "B": {
+      "label": "Review Then Sign",
+      "sha12": "b2a93dab616b"
+    }
+  }
+}
