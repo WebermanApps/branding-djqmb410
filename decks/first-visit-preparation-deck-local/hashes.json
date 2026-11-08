@@ -1,11 +1,11 @@
 {
   "c1": {
     "A": {
-      "label": "Information Rows",
+      "label": "Plain Rows",
       "sha12": "778a4e92299b"
     },
     "B": {
-      "label": "Informational Circles",
+      "label": "Circles",
       "sha12": "a9643a11e4fa"
     }
   }
