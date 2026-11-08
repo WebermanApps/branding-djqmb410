@@ -1,0 +1,25 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/01a_pill.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/01b_softer_rect.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/02a_compact.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/02b_larger.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/03a_regular_type.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/03b_stronger_type.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/04a_tight_gap.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/04b_roomier_gap.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/05a_separate.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/05b_grouped_plate.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-hero-badges-deck-local",
+  "title": "Member Hero Badges",
+  "short": "Hero Badges",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — HTTPS branding-site QA pending explicit upload approval"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-login-entry-1107/mocks/home_header_text.jpg",
+    "/workspace/su-login-entry-1107/mocks/home_menu_entry.jpg",
+    "/workspace/su-login-entry-1107/mocks/home_header_quiet.jpg",
+    "/workspace/su-login-entry-1107/mocks/home_header_button.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_card.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_open.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_identity_full.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_identity_quiet.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_fields_comfy.jpg",
+    "/workspace/su-login-entry-1107/mocks/login_fields_tight.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "login-entry-and-page-deck-local",
+  "title": "Log In Entry And Page",
+  "short": "Log In Entry",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "auth_evidence": [
+    "/workspace/smart-upkeep/su-auth.js",
+    "/workspace/su-local/login/index.html"
+  ]
+}

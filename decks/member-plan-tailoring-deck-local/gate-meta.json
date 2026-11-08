@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/01a_heading_add_and_drop.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/01b_heading_tailor_your_plan.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/02a_row_add_drop.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/02b_row_included_optional.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/03a_totals_delta.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/03b_totals_compact.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/04a_review_stacked.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/04b_review_change_first.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/05a_items_one_list.jpg",
+    "/workspace/su-member-plan-tailoring-1107/proposal-not-current-live/mocks/05b_items_grouped.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Plan Tailoring"
+}

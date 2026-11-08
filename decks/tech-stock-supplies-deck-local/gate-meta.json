@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-tech-stock-1107/mocks/01a_groups_short_and_target.jpg",
+    "/workspace/su-tech-stock-1107/mocks/01b_chips_one_list.jpg",
+    "/workspace/su-tech-stock-1107/mocks/02a_today_ready_card.jpg",
+    "/workspace/su-tech-stock-1107/mocks/02b_today_ready_chip.jpg",
+    "/workspace/su-tech-stock-1107/mocks/03a_confirm_transfer.jpg",
+    "/workspace/su-tech-stock-1107/mocks/03b_transfer_preview.jpg",
+    "/workspace/su-tech-stock-1107/mocks/04a_inline_requested.jpg",
+    "/workspace/su-tech-stock-1107/mocks/04b_request_status_panel.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Supplies And Stock"
+}

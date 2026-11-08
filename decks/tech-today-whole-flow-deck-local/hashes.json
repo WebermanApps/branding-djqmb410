@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Slider Then Cards",
+      "sha12": "4e597da03367"
+    },
+    "B": {
+      "label": "Cards Then Slider",
+      "sha12": "2718b626090a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Equal Action Row",
+      "sha12": "3fc16065ceef"
+    },
+    "B": {
+      "label": "Arrive Primary",
+      "sha12": "6c191f61b1d0"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Elapsed Example Time",
+      "sha12": "073a4768820a"
+    },
+    "B": {
+      "label": "Next Window Chip",
+      "sha12": "5d529bfd140d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Arrival Sheet",
+      "sha12": "2493507cb61a"
+    },
+    "B": {
+      "label": "Arrival Banner",
+      "sha12": "a7ef36bdeba5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Resume In The Main Slot",
+      "sha12": "0005b247c7d1"
+    },
+    "B": {
+      "label": "Paused Panel",
+      "sha12": "cdad3d28fa1c"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Short End Confirm",
+      "sha12": "7d6552ba06db"
+    },
+    "B": {
+      "label": "End Confirm With Remaining Stops",
+      "sha12": "bd13a62eff46"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Skip From Detail",
+      "sha12": "95bfb34e4ce4"
+    },
+    "B": {
+      "label": "Skip From The Card",
+      "sha12": "96231590ee4c"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Preview Sheet",
+      "sha12": "0cdd5df621fa"
+    },
+    "B": {
+      "label": "Pinned Active Plus Carousel Focus",
+      "sha12": "5b2c031d668f"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Insert After Active",
+      "sha12": "fe3664675001"
+    },
+    "B": {
+      "label": "Place In The Day",
+      "sha12": "9629b07310d0"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Plan And Changes Together",
+      "sha12": "73c87b644505"
+    },
+    "B": {
+      "label": "Optional Tap For Info",
+      "sha12": "ddcf936cb71d"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/01a_pill.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/01b_softer_rect.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/02a_compact.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/02b_larger.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/03a_regular_type.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/03b_stronger_type.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/04a_tight_gap.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/04b_roomier_gap.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/05a_separate.jpg",
+    "/workspace/su-member-hero-badges-1107/proposal-not-current-live/mocks/05b_grouped_plate.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Hero Badges"
+}

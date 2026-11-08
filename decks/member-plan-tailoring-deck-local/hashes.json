@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Add And Drop",
+      "sha12": "688ec34885a7"
+    },
+    "B": {
+      "label": "Tailor Your Plan",
+      "sha12": "d9d54c4db353"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Add And Drop Labels",
+      "sha12": "a0b14d0a1330"
+    },
+    "B": {
+      "label": "Included And Optional Labels",
+      "sha12": "4f8347485545"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Delta And New Total",
+      "sha12": "fb6e818184f5"
+    },
+    "B": {
+      "label": "Compact New Total",
+      "sha12": "b1167129d84e"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Stacked Current And Proposed",
+      "sha12": "f6ee75edc5d9"
+    },
+    "B": {
+      "label": "Change First",
+      "sha12": "f01afd27ebc5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "One Itemized List Plus Pending Quotes",
+      "sha12": "801220a68888"
+    },
+    "B": {
+      "label": "Grouped Adding And Dropping Plus Pending Quotes",
+      "sha12": "8b107251783a"
+    }
+  }
+}

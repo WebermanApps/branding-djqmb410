@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/01a_compact_targets.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/01b_taller_targets.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/02a_closer_spacing.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/02b_roomier_spacing.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/03a_edge_alignment.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/03b_content_alignment.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/04a_tight_bottom.jpg",
+    "/workspace/su-member-next-visit-actions-1107/proposal-not-current-live/mocks/04b_phone_safe_bottom.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Next Visit Actions"
+}

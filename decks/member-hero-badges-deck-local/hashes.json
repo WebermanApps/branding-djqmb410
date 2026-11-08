@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Pill",
+      "sha12": "871e8bafa627"
+    },
+    "B": {
+      "label": "Softer Rounded Rectangle",
+      "sha12": "8673814d9794"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Compact",
+      "sha12": "440194ee6712"
+    },
+    "B": {
+      "label": "Slightly Larger",
+      "sha12": "844b8c0225f5"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Regular Type",
+      "sha12": "9359a2be8dae"
+    },
+    "B": {
+      "label": "Slightly Stronger Type",
+      "sha12": "3ff9091f7188"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tight Gap",
+      "sha12": "63f509d9eb9d"
+    },
+    "B": {
+      "label": "Roomier Gap",
+      "sha12": "1e40a1828fb5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Separate Pills",
+      "sha12": "58c5650b9eb1"
+    },
+    "B": {
+      "label": "Grouped On A Quiet Plate",
+      "sha12": "817a3388277c"
+    }
+  }
+}

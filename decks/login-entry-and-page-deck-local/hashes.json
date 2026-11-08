@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Header Entry",
+      "sha12": "d4b915ca8efa"
+    },
+    "B": {
+      "label": "Menu Entry",
+      "sha12": "f50bfb52a425"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Quiet Text Link",
+      "sha12": "fb813b5da714"
+    },
+    "B": {
+      "label": "Outline Button",
+      "sha12": "06385745cd0b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Centered White Card",
+      "sha12": "93d7dce1bcf1"
+    },
+    "B": {
+      "label": "Open Cream Page",
+      "sha12": "46be2dd204f5"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Logo Above Sign In",
+      "sha12": "0abb46d11ad1"
+    },
+    "B": {
+      "label": "Quieter Sign In Heading",
+      "sha12": "ec9edf51de78"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Comfortable Stack",
+      "sha12": "edbdab108d25"
+    },
+    "B": {
+      "label": "Tighter Stack",
+      "sha12": "f4987b566861"
+    }
+  }
+}

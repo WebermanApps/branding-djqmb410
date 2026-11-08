@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Groups",
+      "sha12": "c6f2d86dc99b"
+    },
+    "B": {
+      "label": "One List With Chips",
+      "sha12": "122b6181a5ce"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today Ready Card",
+      "sha12": "133e2853464e"
+    },
+    "B": {
+      "label": "Matching Chip",
+      "sha12": "73edca5a1ef1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Confirm Transfer",
+      "sha12": "c8965f237118"
+    },
+    "B": {
+      "label": "Transfer Preview",
+      "sha12": "485e081b5b30"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Inline Requested Label",
+      "sha12": "2187585f60ec"
+    },
+    "B": {
+      "label": "Request Status Panel",
+      "sha12": "9af34181e631"
+    }
+  }
+}

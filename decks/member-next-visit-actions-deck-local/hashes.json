@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact Tap Targets",
+      "sha12": "59f5fea159f8"
+    },
+    "B": {
+      "label": "Taller Tap Targets",
+      "sha12": "cb72f02386b8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Closer Spacing",
+      "sha12": "031a2fbd5c7f"
+    },
+    "B": {
+      "label": "Roomier Spacing",
+      "sha12": "ef77b6810886"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Edge Alignment",
+      "sha12": "19cc2aef2fd2"
+    },
+    "B": {
+      "label": "Lined Up With Card Content",
+      "sha12": "560951d18906"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tight Bottom",
+      "sha12": "fd704c2f4ccf"
+    },
+    "B": {
+      "label": "Phone-Safe Extra Padding",
+      "sha12": "e6b77bced547"
+    }
+  }
+}
