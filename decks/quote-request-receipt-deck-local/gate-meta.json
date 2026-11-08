@@ -1,0 +1,10 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/quote-request-receipt/mocks/01a_status_strip.jpg",
+    "/workspace/su-app-opportunities-1108/quote-request-receipt/mocks/01b_status_card.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Quote Request Receipt"
+}

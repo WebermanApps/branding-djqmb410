@@ -1,0 +1,17 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/unable-to-complete-exception/mocks/01a_reason_first.jpg",
+    "/workspace/su-app-opportunities-1108/unable-to-complete-exception/mocks/01b_outcome_first.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "unable-to-complete-exception-deck-local",
+  "title": "Unable To Complete",
+  "short": "Task Exception",
+  "status": "LOCAL PREP ONLY — not published",
+  "provenance": "proposed-designs-not-current-live",
+  "browser_qa": "not_passed — parent will arrange protected HTTPS QA"
+}

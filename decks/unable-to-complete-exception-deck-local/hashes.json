@@ -1,0 +1,12 @@
+{
+  "c1": {
+    "A": {
+      "label": "Reason First",
+      "sha12": "9bc6f4b286f7"
+    },
+    "B": {
+      "label": "Outcome First",
+      "sha12": "165e0623b077"
+    }
+  }
+}

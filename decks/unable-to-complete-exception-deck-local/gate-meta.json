@@ -1,0 +1,10 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/unable-to-complete-exception/mocks/01a_reason_first.jpg",
+    "/workspace/su-app-opportunities-1108/unable-to-complete-exception/mocks/01b_outcome_first.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Unable To Complete"
+}
