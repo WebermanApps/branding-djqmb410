@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-tech-clockin-1109/mocks/stop-01a_step_bar.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-01b_bottom_sheet.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-02a_photos_in_task.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-02b_photo_step.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tech-stop-flow-deck",
+  "title": "Tech Stop Flow",
+  "short": "Tech Stop Flow",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "provenance": "Fresh standalone HTML mockups (mock.py) rendered in headless chromium at 390 css px dsf2; content fields learned from the live smart-upkeep tech page 84586c7 (unlocked scratch clone, never pushed, no app edits); tech app palette; logo = app assets/A-roof-chevron-transparent.svg. Not derived from the old Tech Today decks (n56qsp, w7m3nb, tech-today-whole-flow). Every screen carries a small running clock (checked in qa/mock-qa.json).",
+  "browser_qa": "headless 390x844 phone QA of unlocked local build passed: 2 cards, A/B labels visible, Notes open with textarea, enlarge opens and closes, no page errors; Finish/Send my picks not clicked"
+}

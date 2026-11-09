@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-tech-clockin-1109/mocks/stop-01a_step_bar.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-01b_bottom_sheet.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-02a_photos_in_task.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/stop-02b_photo_step.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Stop Flow"
+}

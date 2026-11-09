@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Summary Sheet",
+      "sha12": "f4a99ff77995"
+    },
+    "B": {
+      "label": "Inline Confirm",
+      "sha12": "d979206e623d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Auto Next Card",
+      "sha12": "6a9899b419c6"
+    },
+    "B": {
+      "label": "Back To Today",
+      "sha12": "131564478dc9"
+    }
+  }
+}

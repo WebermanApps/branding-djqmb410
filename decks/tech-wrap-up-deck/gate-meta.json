@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-tech-clockin-1109/mocks/wrap-01a_summary_sheet.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/wrap-01b_inline_confirm.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/wrap-02a_auto_next.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/wrap-02b_back_to_today.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Wrap Up"
+}

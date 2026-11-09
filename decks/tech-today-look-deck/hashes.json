@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Corner Pill",
+      "sha12": "efab0a02f6cb"
+    },
+    "B": {
+      "label": "Top Bar Strip",
+      "sha12": "21889fb69b1c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Tight List",
+      "sha12": "f31537fc6776"
+    },
+    "B": {
+      "label": "Now Card",
+      "sha12": "6d4d25a62d8a"
+    }
+  }
+}

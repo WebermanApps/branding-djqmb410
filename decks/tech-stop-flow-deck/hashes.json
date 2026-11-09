@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Step Bar",
+      "sha12": "4ac2af87084b"
+    },
+    "B": {
+      "label": "Bottom Sheet",
+      "sha12": "bb14393e9ab5"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Photos In Task",
+      "sha12": "a8ef93106239"
+    },
+    "B": {
+      "label": "Photo Step",
+      "sha12": "83705cb89e4a"
+    }
+  }
+}

@@ -2,6 +2,57 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "tech-today-look-deck",
+   "name": "Tech Today Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-look-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-09T20:40:00+07:00",
+   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Corner Pill / Top Bar Strip, Tight List / Now Card).",
+   "requested_at": "2026-11-09T20:24:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-09"
+  },
+  {
+   "id": "tech-stop-flow-deck",
+   "name": "Tech Stop Flow",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-stop-flow-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-09T20:40:00+07:00",
+   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Step Bar / Bottom Sheet, Photos In Task / Photo Step).",
+   "requested_at": "2026-11-09T20:24:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-09"
+  },
+  {
+   "id": "tech-wrap-up-deck",
+   "name": "Tech Wrap Up",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-wrap-up-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-09T20:40:00+07:00",
+   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Summary Sheet / Inline Confirm, Auto Next Card / Back To Today).",
+   "requested_at": "2026-11-09T20:24:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-09"
+  },
+  {
    "id": "refer-a-neighbor-deck",
    "name": "Refer A Neighbor Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-deck/",
@@ -240,7 +291,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-09T20:26:37+07:00",
+ "updated": "2026-11-09T20:40:00+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

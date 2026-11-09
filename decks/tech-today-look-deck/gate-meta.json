@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-tech-clockin-1109/mocks/today-01a_corner_pill.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/today-01b_top_bar.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/today-02a_tight_list.jpg",
+    "/workspace/su-tech-clockin-1109/mocks/today-02b_now_card.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Today Look"
+}
