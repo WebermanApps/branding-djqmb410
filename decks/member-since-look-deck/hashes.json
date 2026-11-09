@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Cream Badge",
+      "sha12": "849adeb67da7"
+    },
+    "B": {
+      "label": "Mini Mascot",
+      "sha12": "9eb35c6c8da2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Accent Line",
+      "sha12": "ae102b7c31b9"
+    },
+    "B": {
+      "label": "Tenure Seal",
+      "sha12": "065fdee7d27f"
+    }
+  }
+}

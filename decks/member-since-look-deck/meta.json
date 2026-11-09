@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-since-1109/mocks/01a_cream_badge.jpg",
+    "/workspace/su-member-since-1109/mocks/01b_mini_mascot.jpg",
+    "/workspace/su-member-since-1109/mocks/02a_accent_line.jpg",
+    "/workspace/su-member-since-1109/mocks/02b_tenure_seal.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-since-look-deck",
+  "title": "Member Since Look",
+  "short": "Member Since",
+  "status": "published pagelocked; on Ready To Swipe",
+  "provenance": "Headless chromium 390px dsf2 of live smart-upkeep member app (1d3f2b2, unlocked scratch clone, not pushed); Member since row swapped in the DOM only. UP mark = app icon-512.png; mascot = /workspace/su-mascot-1103/out/persimmon-wink-flat.png",
+  "browser_qa": "headless 390x844 phone QA of unlocked local build passed: 2 cards, A/B labels visible, Notes open with textarea, enlarge opens and closes, no page errors; Finish/Send my picks not clicked"
+}

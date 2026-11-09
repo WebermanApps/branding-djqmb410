@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "member-since-look-deck",
+      "name": "Member Since Look",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-since-look-deck/",
+      "total": 2,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-11-09T19:02:00+07:00",
+      "note": "Machan Nov 9 6:50 PM ICT (via Grok Bot): add a little character to Member since on Your Plan in the member app. 4 looks (Cream Badge, Mini Mascot, Accent Line, Tenure Seal) shot on the live app at 390 px; gate passed, pagelocked.",
+      "requested_at": "2026-11-09T19:02:00+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "2 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-11-09"
+    },
+    {
       "id": "extra-equipment-in-the-field-deck-local",
       "name": "Extra Equipment In The Field",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
@@ -223,7 +240,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-09T15:10:35+07:00",
+  "updated": "2026-11-09T19:02:00+07:00",
   "done": [
     {
       "id": "welcome-box-branded-items-deck",

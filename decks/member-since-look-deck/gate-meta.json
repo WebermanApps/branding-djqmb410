@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-since-1109/mocks/01a_cream_badge.jpg",
+    "/workspace/su-member-since-1109/mocks/01b_mini_mascot.jpg",
+    "/workspace/su-member-since-1109/mocks/02a_accent_line.jpg",
+    "/workspace/su-member-since-1109/mocks/02b_tenure_seal.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Since Look"
+}
