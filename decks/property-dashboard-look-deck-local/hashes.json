@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Timeline Strip",
+      "sha12": "0b8baae6f97a"
+    },
+    "B": {
+      "label": "Lease Dropdown",
+      "sha12": "6f718f74fe22"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Merged Chips",
+      "sha12": "695d703e931d"
+    },
+    "B": {
+      "label": "Next Up Line",
+      "sha12": "79bb1da831ce"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Outlined Tiles",
+      "sha12": "db21282e7601"
+    },
+    "B": {
+      "label": "Tinted Tiles",
+      "sha12": "af44149ad35b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Floating Popover",
+      "sha12": "774ad7d3d118"
+    },
+    "B": {
+      "label": "Inline Expand",
+      "sha12": "015055279c40"
+    }
+  }
+}

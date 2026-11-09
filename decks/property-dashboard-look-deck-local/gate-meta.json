@@ -1,0 +1,16 @@
+{
+  "category": "ui-desktop-mockups",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/01a_timeline_strip.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/01b_lease_dropdown.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/02a_merged_chips.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/02b_next_up_line.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/03a_outlined_tiles.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/03b_tinted_tiles.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/04a_floating_popover.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/04b_inline_expand.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Property Dashboard Look"
+}

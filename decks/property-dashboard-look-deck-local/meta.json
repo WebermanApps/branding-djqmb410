@@ -1,0 +1,23 @@
+{
+  "category": "ui-desktop-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/01a_timeline_strip.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/01b_lease_dropdown.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/02a_merged_chips.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/02b_next_up_line.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/03a_outlined_tiles.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/03b_tinted_tiles.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/04a_floating_popover.jpg",
+    "/workspace/su-app-opportunities-1108/property-dashboard-look/mocks/04b_inline_expand.jpg"
+  ],
+  "agent": "prop",
+  "submit_agent": "prop",
+  "id": "property-dashboard-look-deck-local",
+  "title": "Property Dashboard Look",
+  "short": "Dashboard Look",
+  "status": "ready to pagelock and publish, off-board",
+  "provenance": "mixed-current-and-proposed-looks",
+  "browser_qa": "local_unlocked_pass — 390 and desktop: caption endings visible, Notes editable, enlarge/close works; Finish and Send my picks not clicked"
+}
