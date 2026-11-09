@@ -1,0 +1,30 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-polish-1109/mocks/01a.jpg",
+    "/workspace/su-member-polish-1109/mocks/01b.jpg",
+    "/workspace/su-member-polish-1109/mocks/02a.jpg",
+    "/workspace/su-member-polish-1109/mocks/02b.jpg",
+    "/workspace/su-member-polish-1109/mocks/03a.jpg",
+    "/workspace/su-member-polish-1109/mocks/03b.jpg",
+    "/workspace/su-member-polish-1109/mocks/04a.jpg",
+    "/workspace/su-member-polish-1109/mocks/04b.jpg",
+    "/workspace/su-member-polish-1109/mocks/05a.jpg",
+    "/workspace/su-member-polish-1109/mocks/05b.jpg",
+    "/workspace/su-member-polish-1109/mocks/06a.jpg",
+    "/workspace/su-member-polish-1109/mocks/06b.jpg",
+    "/workspace/su-member-polish-1109/mocks/07a.jpg",
+    "/workspace/su-member-polish-1109/mocks/07b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-home-polish-deck",
+  "title": "Member Home Polish",
+  "short": "Home Polish",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Machan Nov 9 2026 10:35 PM ICT in UpKeep Develop's chat: 'have Swatch build the polish deck'; look only, content and layout locked",
+  "provenance": "Headless chromium 390 css px dsf2 of the live smart-upkeep member Home at 5711bbb (PR10 merge, Visit Reports header ~88px); unlocked scratch clone with push disabled, never pushed, no app edits. A = live page as is (card 3 A = flat white variant per brief); B = CSS/inline-style refinement injected in the DOM only. Crop QA: qa/mock-qa.json.",
+  "browser_qa": "pending"
+}

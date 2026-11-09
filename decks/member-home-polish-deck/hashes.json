@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "All Grey Bar",
+      "sha12": "2831476f5a1b"
+    },
+    "B": {
+      "label": "Terracotta Pill",
+      "sha12": "0b33a5931333"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One Grey Tone",
+      "sha12": "e37c1b8f4a97"
+    },
+    "B": {
+      "label": "Muted System Tints",
+      "sha12": "bc1b38bbbe5a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Flat On White",
+      "sha12": "69a91d84f5b8"
+    },
+    "B": {
+      "label": "Lifted On Cream",
+      "sha12": "1b680bd3ce11"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Current Sizes",
+      "sha12": "468aeacd88cb"
+    },
+    "B": {
+      "label": "Bold Greeting, Quiet Labels",
+      "sha12": "79bdd2e5cf5b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Mixed Weights",
+      "sha12": "a18f2e43a417"
+    },
+    "B": {
+      "label": "One Line Weight",
+      "sha12": "1cda1ce002c2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Blue Date Block",
+      "sha12": "d30946c585cd"
+    },
+    "B": {
+      "label": "Grey Date Block",
+      "sha12": "bcf4a219b676"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Two Boxes",
+      "sha12": "5ba3474d19a6"
+    },
+    "B": {
+      "label": "One Card",
+      "sha12": "f60dc6a867dd"
+    }
+  }
+}

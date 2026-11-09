@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-home-polish-deck",
+   "name": "Member Home Polish",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-polish-deck/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-09T22:55:00+07:00",
+   "note": "Machan Nov 9 10:35 PM ICT (in UpKeep Develop's chat): 'have Swatch build the polish deck'. Look-only polish of member Home (content and layout locked), shot on live smart-upkeep 5711bbb at 390 px; color only in Bottom Bar and System Thumbnails; gate passed, pagelocked. 7 cards (Bottom Bar, System Thumbnails, Card Surface, Type Rhythm, Icon Set, Next Visit, Dropdown Header).",
+   "requested_at": "2026-11-09T22:35:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-09"
+  },
+  {
    "id": "tech-today-look-deck",
    "name": "Tech Today Look",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-look-deck/",
@@ -291,7 +308,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-09T20:40:00+07:00",
+ "updated": "2026-11-09T22:55:00+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
