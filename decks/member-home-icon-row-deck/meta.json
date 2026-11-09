@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-member-icons-1109/mocks/01a_two_icon_row.jpg",
+    "/workspace/su-member-icons-1109/mocks/01b_unit_chip_strip.jpg",
+    "/workspace/su-member-icons-1109/mocks/02a_icon_grid_tiles.jpg",
+    "/workspace/su-member-icons-1109/mocks/02b_segmented_strip.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-home-icon-row-deck",
+  "title": "Member Home Icon Row",
+  "short": "Icon Row",
+  "status": "published pagelocked; on Ready To Swipe",
+  "provenance": "Headless chromium 390px dsf2 of live smart-upkeep member app (48e4016 incl. f0051e2, unlocked scratch clone, not pushed); Items To Watch + Systems dropdowns removed and option injected in the DOM only; icons = the app rendered icons + /workspace/handoff/next-update-icons/house-in-field.svg",
+  "browser_qa": "headless 390x844 phone QA of unlocked local build passed: 2 cards, A/B labels visible, Notes open with textarea, enlarge opens and closes, no page errors; Finish/Send my picks not clicked"
+}

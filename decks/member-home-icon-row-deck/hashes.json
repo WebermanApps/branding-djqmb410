@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Icon Row",
+      "sha12": "789b0a646a20"
+    },
+    "B": {
+      "label": "Unit Chip Strip",
+      "sha12": "294067a381b8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Icon Grid Tiles",
+      "sha12": "06469c25c181"
+    },
+    "B": {
+      "label": "Segmented Strip",
+      "sha12": "a5125126d11a"
+    }
+  }
+}

@@ -2,6 +2,23 @@
   "agent": "branding",
   "decks": [
     {
+      "id": "member-home-icon-row-deck",
+      "name": "Member Home Icon Row",
+      "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-icon-row-deck/",
+      "total": 2,
+      "answered": 0,
+      "tag": "Max's Picks",
+      "status": "open",
+      "added": "2026-11-09T19:22:00+07:00",
+      "note": "Machan Nov 9 (via Grok Bot): Items To Watch and Systems dropdowns on member Home take too much space, maybe an icon row. 4 layouts (Two Icon Row, Unit Chip Strip, Icon Grid Tiles, Segmented Strip) shot on the live app (f0051e2) at 390 px; gate passed, pagelocked.",
+      "requested_at": "2026-11-09T19:22:00+07:00",
+      "pinned": true,
+      "new": true,
+      "blurb": "2 cards, ready now, with Notes",
+      "agent": "branding",
+      "made": "2026-11-09"
+    },
+    {
       "id": "member-since-look-deck",
       "name": "Member Since Look",
       "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-since-look-deck/",
@@ -240,7 +257,7 @@
       "made": "2026-10-29"
     }
   ],
-  "updated": "2026-11-09T19:02:00+07:00",
+  "updated": "2026-11-09T19:22:00+07:00",
   "done": [
     {
       "id": "welcome-box-branded-items-deck",

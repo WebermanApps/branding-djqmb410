@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-member-icons-1109/mocks/01a_two_icon_row.jpg",
+    "/workspace/su-member-icons-1109/mocks/01b_unit_chip_strip.jpg",
+    "/workspace/su-member-icons-1109/mocks/02a_icon_grid_tiles.jpg",
+    "/workspace/su-member-icons-1109/mocks/02b_segmented_strip.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Home Icon Row"
+}
