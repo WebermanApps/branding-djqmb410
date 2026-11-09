@@ -19,40 +19,6 @@
    "made": "2026-11-09"
   },
   {
-   "id": "member-home-icon-row-deck",
-   "name": "Member Home Icon Row",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-icon-row-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T19:22:00+07:00",
-   "note": "Machan Nov 9 (via Grok Bot): Items To Watch and Systems dropdowns on member Home take too much space, maybe an icon row. 4 layouts (Two Icon Row, Unit Chip Strip, Icon Grid Tiles, Segmented Strip) shot on the live app (f0051e2) at 390 px; gate passed, pagelocked.",
-   "requested_at": "2026-11-09T19:22:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
-   "id": "member-since-look-deck",
-   "name": "Member Since Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-since-look-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T19:02:00+07:00",
-   "note": "Machan Nov 9 6:50 PM ICT (via Grok Bot): add a little character to Member since on Your Plan in the member app. 4 looks (Cream Badge, Mini Mascot, Accent Line, Tenure Seal) shot on the live app at 390 px; gate passed, pagelocked.",
-   "requested_at": "2026-11-09T19:02:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
    "id": "extra-equipment-in-the-field-deck-local",
    "name": "Extra Equipment In The Field",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
@@ -274,7 +240,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-09T20:30:00+07:00",
+ "updated": "2026-11-09T20:26:37+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3035,6 +3001,24 @@
    "answered": 5,
    "total": 5,
    "note": "Cleared Nov 9 2026 (Machan 2:59 PM ICT: check all decks). Already answered by receipt inbox/branding/door-hanger-and-mailer-deck-20261101-2103-5ff88981.json at 2026-11-01T21:03:11+07:00; the Nov 5 re-add was a price/scope refresh of the same questions, so his answers stand."
+  },
+  {
+   "id": "member-home-icon-row-deck",
+   "name": "Member Home Icon Row",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-icon-row-deck/",
+   "at": "2026-11-09T20:18:28+07:00",
+   "done_at": "2026-11-09T20:18:28+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "member-since-look-deck",
+   "name": "Member Since Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-since-look-deck/",
+   "at": "2026-11-09T20:17:48+07:00",
+   "done_at": "2026-11-09T20:17:48+07:00",
+   "answered": 2,
+   "total": 2
   }
  ],
  "pinned": [
