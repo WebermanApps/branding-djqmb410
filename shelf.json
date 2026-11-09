@@ -308,7 +308,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-09T22:55:00+07:00",
+ "updated": "2026-11-10T04:11:52+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3533,27 +3533,6 @@
    "added": "2026-11-05T22:34:30+07:00",
    "note": "Machan via UpKeep Develop Nov 5 ~10:28–10:30 PM ICT — Smart Upkeep tablet+computer optimization before app day. Phone left alone. All three apps, all pages. Decks only until he swipes then says implement. Prices $139/$209/$379; FAQs tab; no grass cutting.",
    "done_at": "2026-11-05T23:52:46+07:00"
-  },
-  {
-   "id": "flashlight-options-deck",
-   "name": "Flashlight Options Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/flashlight-options-deck/",
-   "total": 3,
-   "answered": 3,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-04T17:26:43+07:00",
-   "added": "2026-11-04T17:26:43+07:00",
-   "note": "Machan Nov 4 2026 (via UpKeep Develop): five charcoal flashlight styles (EDC, penlight, magnetic work light, keychain, headlamp) with the real UP mark and smartupkeep.ai. Nothing locked.",
-   "pinned": true,
-   "new": true,
-   "collapsible": true,
-   "collapsed": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "develop",
-   "made": "2026-11-04",
-   "updated": "2026-11-04T17:26:43+07:00",
-   "done_at": "2026-11-04T19:55:11+07:00"
   }
  ],
  "requested_note": "Max Oct 16 2026 12:36 ICT (R77): decks Max specifically asks for go in 'requested' and show in the board's Requested Decks section, not the header shelf. status open|done; on results set status done, answered, done_at (tools/requested.py). Order (R90, Max Oct 17 2026 10:59 ICT): newest request first by requested_at (when Max asked), open before done; requested.py add stamps requested_at and every write re-sorts.",
@@ -10709,6 +10688,28 @@
    "updated": "2026-11-02T21:13:41+07:00",
    "done_at": "2026-11-03T09:15:23+07:00",
    "cleared_at": "2026-11-09T04:04:14+07:00"
+  },
+  {
+   "id": "flashlight-options-deck",
+   "name": "Flashlight Options Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/flashlight-options-deck/",
+   "total": 3,
+   "answered": 3,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-04T17:26:43+07:00",
+   "added": "2026-11-04T17:26:43+07:00",
+   "note": "5-day auto clear",
+   "pinned": true,
+   "new": true,
+   "collapsible": true,
+   "collapsed": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "develop",
+   "made": "2026-11-04",
+   "updated": "2026-11-04T17:26:43+07:00",
+   "done_at": "2026-11-04T19:55:11+07:00",
+   "cleared_at": "2026-11-10T04:11:52+07:00"
   }
  ],
  "retired": [
