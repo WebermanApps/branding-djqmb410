@@ -1,0 +1,17 @@
+{
+  "category": "product-mockups",
+  "ui_screenshots": false,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-open-picks-1109/mocks/01a_pen_roof.jpg",
+    "/workspace/su-open-picks-1109/mocks/01b_pen_roof.jpg"
+  ],
+  "agent": "branding",
+  "submit_agent": "branding",
+  "id": "smart-upkeep-open-picks-deck",
+  "title": "Smart Upkeep Open Picks",
+  "short": "Open Picks",
+  "status": "published pagelocked; on Ready To Swipe",
+  "provenance": "Video & Photo studio renders 13-pen-roofA-current / 13-pen-roofB-muted (c-band-v2 base), cropped full pen + roof close-up",
+  "browser_qa": "static checks pass (Notes, Machan Decides, footer Built by Machan no link, no forbidden name); Finish/Send not clicked"
+}
