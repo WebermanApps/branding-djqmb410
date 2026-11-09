@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Share First",
+      "sha12": "b41acd45219c"
+    },
+    "B": {
+      "label": "Reward First",
+      "sha12": "a7596b4f2b85"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Link Actions",
+      "sha12": "c46275c0c8e6"
+    },
+    "B": {
+      "label": "Invite Form",
+      "sha12": "b959e0523a50"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Bold Offer",
+      "sha12": "36d4c6aef3c3"
+    },
+    "B": {
+      "label": "Soft Offer",
+      "sha12": "5c468bad9660"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Status List",
+      "sha12": "f647e8e520df"
+    },
+    "B": {
+      "label": "Step Tracker",
+      "sha12": "ab032b0b0476"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain Row",
+      "sha12": "1dda45fb6908"
+    },
+    "B": {
+      "label": "Reward Hint",
+      "sha12": "973c3c855748"
+    }
+  }
+}

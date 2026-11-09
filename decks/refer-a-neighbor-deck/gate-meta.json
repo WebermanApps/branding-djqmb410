@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-refer-neighbor-1109/mocks/01a_share_first.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/01b_reward_first.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/02a_link_actions.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/02b_invite_form.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/03a_bold_offer.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/03b_soft_offer.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/04a_status_list.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/04b_step_tracker.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/05a_plain_row.jpg",
+    "/workspace/su-refer-neighbor-1109/mocks/05b_reward_hint.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Refer A Neighbor Deck"
+}
