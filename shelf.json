@@ -2,23 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "visit-report-look-deck",
-   "name": "Visit Report Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-look-deck/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T08:25:00+07:00",
-   "note": "Machan Nov 10 8:01 AM ICT (in Grok Bot's chat): 'can we make a deck for what the visit report looks like'. Look-only polish of a single visit report opened from Visit Reports on member Home, shot on live smart-upkeep 5711bbb at 390 px; gate passed, pagelocked. 7 cards (Top Summary, Findings, Photos, Tasks Done, Tech Note, Next Steps, Bottom Bar).",
-   "requested_at": "2026-11-10T08:01:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "7 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-10"
-  },
-  {
    "id": "extra-equipment-in-the-field-deck-local",
    "name": "Extra Equipment In The Field",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
@@ -240,7 +223,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T08:25:00+07:00",
+ "updated": "2026-11-10T08:51:56+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
