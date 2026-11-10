@@ -2,40 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "extra-equipment-in-the-field-deck-local",
-   "name": "Extra Equipment In The Field",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T15:10:35+07:00",
-   "note": "Machan Nov 8 10:27 PM ICT: 'sounds good have it made'. Live since 569af77, phone QA passed; no receipt as of Nov 9 3:00 PM ICT.",
-   "requested_at": "2026-11-09T15:10:35+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-08"
-  },
-  {
-   "id": "smart-upkeep-open-picks-deck",
-   "name": "Smart Upkeep Open Picks",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-open-picks-deck/",
-   "total": 1,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T15:10:35+07:00",
-   "note": "Machan Nov 9 2:59 PM ICT (via Grok Bot): check all decks, make and publish all changes. One open question: pen roof brightness on Option C (Current vs Muted). Video & Photo renders, gate passed, pagelocked.",
-   "requested_at": "2026-11-09T15:10:35+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "1 card, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
    "id": "main-app-desktop-tablet-tiebreak-deck-ctme83",
    "name": "Main App Desktop And Tablet Tiebreak",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-tablet-tiebreak-deck-ctme83/",
@@ -223,7 +189,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T08:51:56+07:00",
+ "updated": "2026-11-10T11:31:50+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3047,6 +3013,20 @@
    "done_at": "2026-11-09T20:43:57+07:00",
    "answered": 5,
    "total": 5
+  },
+  {
+   "id": "extra-equipment-in-the-field-deck-local",
+   "at": "2026-11-10T11:29:25+07:00",
+   "name": "Extra Equipment In The Field",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "smart-upkeep-open-picks-deck",
+   "at": "2026-11-10T11:30:30+07:00",
+   "name": "Smart Upkeep Open Picks",
+   "answered": 1,
+   "total": 1
   }
  ],
  "pinned": [
@@ -3077,9 +3057,9 @@
    "name": "Extra Equipment In The Field",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
    "total": 2,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "added": "2026-11-09T15:10:35+07:00",
    "note": "Machan Nov 8 10:27 PM ICT: 'sounds good have it made'. Live since 569af77, phone QA passed; no receipt as of Nov 9 3:00 PM ICT.",
    "requested_at": "2026-11-09T15:10:35+07:00",
@@ -3087,16 +3067,17 @@
    "new": true,
    "blurb": "2 cards, ready now, with Notes",
    "agent": "branding",
-   "made": "2026-11-08"
+   "made": "2026-11-08",
+   "done_at": "2026-11-10T11:29:25+07:00"
   },
   {
    "id": "smart-upkeep-open-picks-deck",
    "name": "Smart Upkeep Open Picks",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/smart-upkeep-open-picks-deck/",
    "total": 1,
-   "answered": 0,
+   "answered": 1,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "added": "2026-11-09T15:10:35+07:00",
    "note": "Machan Nov 9 2:59 PM ICT (via Grok Bot): check all decks, make and publish all changes. One open question: pen roof brightness on Option C (Current vs Muted). Video & Photo renders, gate passed, pagelocked.",
    "requested_at": "2026-11-09T15:10:35+07:00",
@@ -3104,7 +3085,8 @@
    "new": true,
    "blurb": "1 card, ready now, with Notes",
    "agent": "branding",
-   "made": "2026-11-09"
+   "made": "2026-11-09",
+   "done_at": "2026-11-10T11:30:30+07:00"
   },
   {
    "id": "member-profile-detail-sheets-deck-zlhuku",
