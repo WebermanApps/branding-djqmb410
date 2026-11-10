@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "plus-tile-and-extras-deck",
+   "name": "Plus Tile And Extras Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plus-tile-and-extras-deck/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-10T12:42:00+07:00",
+   "note": "Machan Nov 10 12:21 PM ICT (in UpKeep Develop's chat): 'also can you send me a deck for the plus tile on the your plan page'. Plus tile and extras on Your Plan at smart-upkeep ca94d53, 390 px; gate passed, pagelocked. 7 cards (Price Or Name, Included Services, Accent, Tailor Your Plan, Extras Grouping, Extras Price, Monthly Total).",
+   "requested_at": "2026-11-10T12:21:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "7 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-10"
+  },
+  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -104,7 +121,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T12:11:16+07:00",
+ "updated": "2026-11-10T12:42:00+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Price First",
+      "sha12": "b909230e1bce"
+    },
+    "B": {
+      "label": "Name First",
+      "sha12": "3a0567a09051"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Three Line Summary",
+      "sha12": "c099bfe3d565"
+    },
+    "B": {
+      "label": "Icon Chips",
+      "sha12": "dee1e1fedc43"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Lagoon Edge",
+      "sha12": "929094fd9d5b"
+    },
+    "B": {
+      "label": "Neutral Tile",
+      "sha12": "b8ad7b2ad390"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Text Link",
+      "sha12": "8874de7412b1"
+    },
+    "B": {
+      "label": "Small Button",
+      "sha12": "4bd15b793152"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Grouped Rows",
+      "sha12": "5fd6d906e59e"
+    },
+    "B": {
+      "label": "Card Rows",
+      "sha12": "571a035d44f4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Price Beside Switch",
+      "sha12": "66297a472ae3"
+    },
+    "B": {
+      "label": "Price Under Name",
+      "sha12": "c96b108b889c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Sticky Total",
+      "sha12": "b257e3f240e0"
+    },
+    "B": {
+      "label": "Total At Top",
+      "sha12": "752182d20124"
+    }
+  }
+}

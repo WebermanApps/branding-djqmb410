@@ -1,0 +1,30 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-plus-extras-1110/mocks/01a_price_first.jpg",
+    "/workspace/su-plus-extras-1110/mocks/01b_name_first.jpg",
+    "/workspace/su-plus-extras-1110/mocks/02a_three_line_summary.jpg",
+    "/workspace/su-plus-extras-1110/mocks/02b_icon_chips.jpg",
+    "/workspace/su-plus-extras-1110/mocks/03a_lagoon_edge.jpg",
+    "/workspace/su-plus-extras-1110/mocks/03b_neutral_tile.jpg",
+    "/workspace/su-plus-extras-1110/mocks/04a_text_link.jpg",
+    "/workspace/su-plus-extras-1110/mocks/04b_small_button.jpg",
+    "/workspace/su-plus-extras-1110/mocks/05a_grouped_rows.jpg",
+    "/workspace/su-plus-extras-1110/mocks/05b_card_rows.jpg",
+    "/workspace/su-plus-extras-1110/mocks/06a_price_beside_switch.jpg",
+    "/workspace/su-plus-extras-1110/mocks/06b_price_under_name.jpg",
+    "/workspace/su-plus-extras-1110/mocks/07a_sticky_total.jpg",
+    "/workspace/su-plus-extras-1110/mocks/07b_total_at_top.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "plus-tile-and-extras-deck",
+  "title": "Plus Tile And Extras Deck",
+  "short": "Plus Tile",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Machan Nov 10 2026 12:21 PM ICT (in UpKeep Develop's chat): 'also can you send me a deck for the plus tile on the your plan page'. Follow-up: extras at the bottom of Your Plan too.",
+  "provenance": "Headless chromium 390 css px dsf2 of the live Your Plan sheet and Tailor Your Plan extras in smart-upkeep ca94d53 (origin/main, PR17). Scratch clone with push disabled, never pushed. Variants injected in the DOM only. Plus price shown as $209/mo. Scope-cut extras omitted. Quote items labeled Quote Pending with no invented prices.",
+  "browser_qa": "headless 390x844 phone QA of unlocked local build passed: 7 cards, A/B labels visible, Notes open with textarea, enlarge opens and closes, no page errors; Finish/Send my picks not clicked"
+}

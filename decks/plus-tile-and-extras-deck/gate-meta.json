@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-plus-extras-1110/mocks/01a_price_first.jpg",
+    "/workspace/su-plus-extras-1110/mocks/01b_name_first.jpg",
+    "/workspace/su-plus-extras-1110/mocks/02a_three_line_summary.jpg",
+    "/workspace/su-plus-extras-1110/mocks/02b_icon_chips.jpg",
+    "/workspace/su-plus-extras-1110/mocks/03a_lagoon_edge.jpg",
+    "/workspace/su-plus-extras-1110/mocks/03b_neutral_tile.jpg",
+    "/workspace/su-plus-extras-1110/mocks/04a_text_link.jpg",
+    "/workspace/su-plus-extras-1110/mocks/04b_small_button.jpg",
+    "/workspace/su-plus-extras-1110/mocks/05a_grouped_rows.jpg",
+    "/workspace/su-plus-extras-1110/mocks/05b_card_rows.jpg",
+    "/workspace/su-plus-extras-1110/mocks/06a_price_beside_switch.jpg",
+    "/workspace/su-plus-extras-1110/mocks/06b_price_under_name.jpg",
+    "/workspace/su-plus-extras-1110/mocks/07a_sticky_total.jpg",
+    "/workspace/su-plus-extras-1110/mocks/07b_total_at_top.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Plus Tile And Extras Deck"
+}
