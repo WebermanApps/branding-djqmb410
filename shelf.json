@@ -2,91 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "member-home-polish-deck",
-   "name": "Member Home Polish",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-polish-deck/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T22:55:00+07:00",
-   "note": "Machan Nov 9 10:35 PM ICT (in UpKeep Develop's chat): 'have Swatch build the polish deck'. Look-only polish of member Home (content and layout locked), shot on live smart-upkeep 5711bbb at 390 px; color only in Bottom Bar and System Thumbnails; gate passed, pagelocked. 7 cards (Bottom Bar, System Thumbnails, Card Surface, Type Rhythm, Icon Set, Next Visit, Dropdown Header).",
-   "requested_at": "2026-11-09T22:35:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "7 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
-   "id": "tech-today-look-deck",
-   "name": "Tech Today Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-look-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T20:40:00+07:00",
-   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Corner Pill / Top Bar Strip, Tight List / Now Card).",
-   "requested_at": "2026-11-09T20:24:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
-   "id": "tech-stop-flow-deck",
-   "name": "Tech Stop Flow",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-stop-flow-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T20:40:00+07:00",
-   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Step Bar / Bottom Sheet, Photos In Task / Photo Step).",
-   "requested_at": "2026-11-09T20:24:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
-   "id": "tech-wrap-up-deck",
-   "name": "Tech Wrap Up",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-wrap-up-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T20:40:00+07:00",
-   "note": "Machan Nov 9 8:24 PM ICT (via Grok Bot): fresh decks for every page the tech sees once clocked in (Today, next stop, arriving, visit + checklist, photos, review and send, next job, clock out); current one is bulky with bad flow; a small running clock must ALWAYS be on screen. Compact light layouts at 390 px, clock on every screen; not based on the old Tech Today decks; gate passed, pagelocked. 2 cards (Summary Sheet / Inline Confirm, Auto Next Card / Back To Today).",
-   "requested_at": "2026-11-09T20:24:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
-   "id": "refer-a-neighbor-deck",
-   "name": "Refer A Neighbor Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-09T20:30:00+07:00",
-   "note": "Machan Nov 9 8:15 PM ICT (via UpKeep Develop): deck on how the Refer a Neighbor page could look. 5 cards (Share First/Reward First, Link Actions/Invite Form, Bold Offer/Soft Offer, Status List/Step Tracker, Plain Row/Reward Hint) on member shell at 390 px; greyscale page brand; gate passed, pagelocked.",
-   "requested_at": "2026-11-09T20:30:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-09"
-  },
-  {
    "id": "extra-equipment-in-the-field-deck-local",
    "name": "Extra Equipment In The Field",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
@@ -308,7 +223,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T04:11:52+07:00",
+ "updated": "2026-11-10T08:00:47+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3087,6 +3002,51 @@
    "done_at": "2026-11-09T20:17:48+07:00",
    "answered": 2,
    "total": 2
+  },
+  {
+   "id": "member-home-polish-deck",
+   "name": "Member Home Polish",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-home-polish-deck/",
+   "at": "2026-11-10T07:59:39+07:00",
+   "done_at": "2026-11-10T07:59:39+07:00",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "tech-today-look-deck",
+   "name": "Tech Today Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-look-deck/",
+   "at": "2026-11-09T20:44:58+07:00",
+   "done_at": "2026-11-09T20:44:58+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "tech-stop-flow-deck",
+   "name": "Tech Stop Flow",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-stop-flow-deck/",
+   "at": "2026-11-09T20:47:16+07:00",
+   "done_at": "2026-11-09T20:47:16+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "tech-wrap-up-deck",
+   "name": "Tech Wrap Up",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-wrap-up-deck/",
+   "at": "2026-11-09T20:48:07+07:00",
+   "done_at": "2026-11-09T20:48:07+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "refer-a-neighbor-deck",
+   "name": "Refer A Neighbor Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-deck/",
+   "at": "2026-11-09T20:43:57+07:00",
+   "done_at": "2026-11-09T20:43:57+07:00",
+   "answered": 5,
+   "total": 5
   }
  ],
  "pinned": [
