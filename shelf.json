@@ -2,23 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "faq-ideas-deck",
-   "name": "FAQ Ideas Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-ideas-deck/",
-   "total": 13,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T11:50:00+07:00",
-   "note": "Machan Nov 10 11:37 AM ICT: 'can we make a deck for possible FAQ's we could include'. Keep-or-skip ideas for new site FAQ questions; live /faq/ stays locked. 13 cards (updated plan prices, First 50 offer, what a visit includes, Home Record, Ask Anything, urgent safety messages, outside the service area, extras you can book, services not offered, tech licenses and insurance, visit photos, if something breaks, adding extras later).",
-   "requested_at": "2026-11-10T11:37:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "13 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-10"
-  },
-  {
    "id": "main-app-desktop-tablet-tiebreak-deck-ctme83",
    "name": "Main App Desktop And Tablet Tiebreak",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/main-app-desktop-tablet-tiebreak-deck-ctme83/",
@@ -206,7 +189,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T12:10:02+07:00",
+ "updated": "2026-11-10T12:11:16+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3062,6 +3045,15 @@
    "done_at": "2026-11-10T12:06:32+07:00",
    "answered": 6,
    "total": 6
+  },
+  {
+   "id": "faq-ideas-deck",
+   "name": "FAQ Ideas Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-ideas-deck/",
+   "at": "2026-11-10T12:10:16+07:00",
+   "done_at": "2026-11-10T12:10:16+07:00",
+   "answered": 13,
+   "total": 13
   }
  ],
  "pinned": [
