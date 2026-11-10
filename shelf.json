@@ -2,40 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "member-notifications-look-deck",
-   "name": "Member Notifications Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-notifications-look-deck/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T11:51:00+07:00",
-   "note": "Machan Nov 10 11:36 AM ICT (in UpKeep Develop's chat): 'i think this page also looks a LOT better, but can we prepare a deck for it as well'. Look-and-flow of the live member Notifications page (how should we reach you, optional per-type overrides) at smart-upkeep 787fda46, 390 px; gate passed, pagelocked. 6 cards (Choice Layout, Override Reveal, Switch Style, Quiet Hours, Header And Copy, Accent Color).",
-   "requested_at": "2026-11-10T11:36:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-10"
-  },
-  {
-   "id": "refer-a-neighbor-refine-deck",
-   "name": "Refer A Neighbor Refine Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-refine-deck/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T11:51:00+07:00",
-   "note": "Machan Nov 10 11:36 AM ICT (in UpKeep Develop's chat): 'the refer a neighbor page is improved, but can we please prepare a deck for this'. Look-and-flow refine of the live Refer a Neighbor sheet (reward first, personal code, local QR, Share, status list) at smart-upkeep 787fda46, 390 px; gate passed, pagelocked. 6 cards (Reward Hero, Code And QR, Share Actions, Status List, Page Length, Accent Color).",
-   "requested_at": "2026-11-10T11:36:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-10"
-  },
-  {
    "id": "faq-ideas-deck",
    "name": "FAQ Ideas Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-ideas-deck/",
@@ -240,7 +206,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T11:51:00+07:00",
+ "updated": "2026-11-10T12:10:02+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3078,6 +3044,24 @@
    "name": "Smart Upkeep Open Picks",
    "answered": 1,
    "total": 1
+  },
+  {
+   "id": "member-notifications-look-deck",
+   "name": "Member Notifications Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-notifications-look-deck/",
+   "at": "2026-11-10T12:08:10+07:00",
+   "done_at": "2026-11-10T12:08:10+07:00",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "refer-a-neighbor-refine-deck",
+   "name": "Refer A Neighbor Refine Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-a-neighbor-refine-deck/",
+   "at": "2026-11-10T12:06:32+07:00",
+   "done_at": "2026-11-10T12:06:32+07:00",
+   "answered": 6,
+   "total": 6
   }
  ],
  "pinned": [
