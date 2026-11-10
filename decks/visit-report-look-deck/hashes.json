@@ -1,52 +1,72 @@
 {
   "c1": {
     "A": {
-      "label": "Photo First",
-      "sha12": "811cbe954396"
+      "label": "Today's Opening",
+      "sha12": "eebb2f9a938a"
     },
     "B": {
-      "label": "Checklist Summary First",
-      "sha12": "60fbae72037f"
+      "label": "Date And Verdict",
+      "sha12": "3e0f6a9b65f0"
     }
   },
   "c2": {
     "A": {
-      "label": "Before And After Slider",
-      "sha12": "b1ce940fc66f"
+      "label": "Today's List",
+      "sha12": "e30a45d27a62"
     },
     "B": {
-      "label": "Photo Grid",
-      "sha12": "9c369ba39f3a"
+      "label": "Grouped By System",
+      "sha12": "4d22063b274e"
     }
   },
   "c3": {
     "A": {
-      "label": "Simple Green Ticks",
-      "sha12": "618bd5b7b752"
+      "label": "Photo With The Item",
+      "sha12": "d37c3ef47312"
     },
     "B": {
-      "label": "Status Chips",
-      "sha12": "22cd645be099"
+      "label": "Photo Strip At The End",
+      "sha12": "be32e7b57ecf"
     }
   },
   "c4": {
     "A": {
-      "label": "Typed Note Card",
-      "sha12": "975efb9b6b8e"
+      "label": "Checklist Line",
+      "sha12": "8f9d771e7540"
     },
     "B": {
-      "label": "Handwritten-Style Note",
-      "sha12": "1fd300397660"
+      "label": "Done Count",
+      "sha12": "bfe8000e86bf"
     }
   },
   "c5": {
     "A": {
-      "label": "Card At The Bottom",
-      "sha12": "7a32ee4d6f79"
+      "label": "No Separate Note",
+      "sha12": "57e9055e28b1"
     },
     "B": {
-      "label": "Sticky Bottom Bar",
-      "sha12": "0102e08b3bb7"
+      "label": "Quote Card",
+      "sha12": "5267411cd5c1"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "No Next Steps Block",
+      "sha12": "e801a72360d7"
+    },
+    "B": {
+      "label": "What's Next",
+      "sha12": "61885cea3ece"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Today's Bar",
+      "sha12": "128c6345325f"
+    },
+    "B": {
+      "label": "Terracotta Bar",
+      "sha12": "99debc7d1d58"
     }
   }
 }
