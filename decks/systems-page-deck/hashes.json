@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Column",
+      "sha12": "dff630da84a4"
+    },
+    "B": {
+      "label": "Three Column",
+      "sha12": "bae1e128ecb2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Grey Plate",
+      "sha12": "cf3afb1a9cb8"
+    },
+    "B": {
+      "label": "Open Icon",
+      "sha12": "bd0f0ed5159a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Label Under",
+      "sha12": "c97f2b0bdaa6"
+    },
+    "B": {
+      "label": "Label Beside",
+      "sha12": "0b1292e6b1c8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Status Dot",
+      "sha12": "dc411109821e"
+    },
+    "B": {
+      "label": "Tinted Plate",
+      "sha12": "3241d064b793"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Name Only",
+      "sha12": "840a1888368d"
+    },
+    "B": {
+      "label": "Name And Meta",
+      "sha12": "913590402160"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Detail Sheet",
+      "sha12": "035861cbc761"
+    },
+    "B": {
+      "label": "Inline Expand",
+      "sha12": "a84e92b37b5a"
+    }
+  }
+}

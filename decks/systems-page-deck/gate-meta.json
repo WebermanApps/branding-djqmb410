@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-systems-page-1110/mocks/01a_two_column.jpg",
+    "/workspace/su-systems-page-1110/mocks/01b_three_column.jpg",
+    "/workspace/su-systems-page-1110/mocks/02a_grey_plate.jpg",
+    "/workspace/su-systems-page-1110/mocks/02b_open_icon.jpg",
+    "/workspace/su-systems-page-1110/mocks/03a_label_under.jpg",
+    "/workspace/su-systems-page-1110/mocks/03b_label_beside.jpg",
+    "/workspace/su-systems-page-1110/mocks/04a_status_dot.jpg",
+    "/workspace/su-systems-page-1110/mocks/04b_tinted_plate.jpg",
+    "/workspace/su-systems-page-1110/mocks/05a_name_only.jpg",
+    "/workspace/su-systems-page-1110/mocks/05b_name_and_meta.jpg",
+    "/workspace/su-systems-page-1110/mocks/06a_detail_sheet.jpg",
+    "/workspace/su-systems-page-1110/mocks/06b_inline_expand.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Systems Page Deck"
+}
