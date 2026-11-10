@@ -2,23 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "systems-page-deck",
-   "name": "Systems Page Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/systems-page-deck/",
-   "total": 6,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T13:00:32+07:00",
-   "note": "Machan Nov 10 12:45 PM ICT (in UpKeep Develop's chat): 'lets have the new deck cover the way the systems page looks'. Look of the live member Systems page (More > Systems, a grid of icon tiles) at smart-upkeep 3ae9abe, 390 px; tiles are icons only (two photo tiles swapped for the app's own line icons; an icons-only Systems PR was not yet on main). Gate passed, pagelocked. 6 cards (Grid, Icon Treatment, Label, Status, Name Line, Details).",
-   "requested_at": "2026-11-10T12:45:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "6 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-10"
-  },
-  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -121,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-10T13:04:27+07:00",
+ "updated": "2026-11-10T13:11:50+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -2995,6 +2978,15 @@
    "done_at": "2026-11-10T12:56:53+07:00",
    "answered": 6,
    "total": 7
+  },
+  {
+   "id": "systems-page-deck",
+   "name": "Systems Page Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/systems-page-deck/",
+   "at": "2026-11-10T13:11:08+07:00",
+   "done_at": "2026-11-10T13:11:08+07:00",
+   "answered": 6,
+   "total": 6
   }
  ],
  "pinned": [
