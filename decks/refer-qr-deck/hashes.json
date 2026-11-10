@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "QR First",
+      "sha12": "8e36535a367e"
+    },
+    "B": {
+      "label": "Show QR Code",
+      "sha12": "0c53963ff37f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Share And Copy Link",
+      "sha12": "36936b88631c"
+    },
+    "B": {
+      "label": "One Share Button",
+      "sha12": "cc52cf4c1472"
+    }
+  }
+}

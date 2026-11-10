@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-refer-qr-1110/mocks/01a.jpg",
+    "/workspace/su-refer-qr-1110/mocks/01b.jpg",
+    "/workspace/su-refer-qr-1110/mocks/02a.jpg",
+    "/workspace/su-refer-qr-1110/mocks/02b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Refer QR Deck"
+}

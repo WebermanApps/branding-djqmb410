@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-refer-qr-1110/mocks/01a.jpg",
+    "/workspace/su-refer-qr-1110/mocks/01b.jpg",
+    "/workspace/su-refer-qr-1110/mocks/02a.jpg",
+    "/workspace/su-refer-qr-1110/mocks/02b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "refer-qr-deck",
+  "title": "Refer QR Deck",
+  "short": "Refer QR",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Machan Nov 10 2026 2:26 PM ICT via Grok: \"Ship the 5 fixes and make the QR deck.\"",
+  "provenance": "Headless chromium 390 css px dsf2. Develop's five refer fixes were not on smart-upkeep main (HEAD 79f2421, FAQ merge) at capture time. Renders used the unlocked local build of 6fc60f06 plus CSS/DOM injection of those five shipped fixes (Title Case title, hide Back from the bar, drop the middle reward sentence, tap-to-copy code chip with the small Copy pill removed, and a \"No referrals yet.\" empty state). Scratch clone with push disabled, never pushed. Card 1A and 2A are that post-fix page; 1B tucks the QR behind a Show QR Code row with an inset of the opened QR sheet (no edge); 2B is one full-width Share button. Crop QA: qa/mock-qa.json and qa/deck-qa.json.",
+  "browser_qa": "390 css px dsf2: 2 cards side by side, docW 390, Notes textarea on every card, Machan Decides on every card, enlarge does not pick, no JS errors, no clipped text, no Finish/Send clicked."
+}
