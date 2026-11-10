@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-refer-refine-1110/mocks/01a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/01b.jpg",
+    "/workspace/su-refer-refine-1110/mocks/02a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/02b.jpg",
+    "/workspace/su-refer-refine-1110/mocks/03a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/03b.jpg",
+    "/workspace/su-refer-refine-1110/mocks/04a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/04b.jpg",
+    "/workspace/su-refer-refine-1110/mocks/05a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/05b.jpg",
+    "/workspace/su-refer-refine-1110/mocks/06a.jpg",
+    "/workspace/su-refer-refine-1110/mocks/06b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Refer A Neighbor Refine Deck"
+}

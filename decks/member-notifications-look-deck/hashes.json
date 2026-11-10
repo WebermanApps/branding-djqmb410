@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Cards",
+      "sha12": "24cba22957c1"
+    },
+    "B": {
+      "label": "Settings List",
+      "sha12": "1c549248f29d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Tucked Away",
+      "sha12": "6a0e1122e65e"
+    },
+    "B": {
+      "label": "Always Visible",
+      "sha12": "fdbebff5e207"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Same And Custom",
+      "sha12": "4f4ae1b97b17"
+    },
+    "B": {
+      "label": "Switches",
+      "sha12": "57673f87d72b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "No Quiet Hours",
+      "sha12": "b972e0a3a55b"
+    },
+    "B": {
+      "label": "Quiet Hours Row",
+      "sha12": "19dfb3dd432a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Today's Header",
+      "sha12": "ce7560bdf4eb"
+    },
+    "B": {
+      "label": "Direct Question",
+      "sha12": "4ecc966d28d2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Black Selection",
+      "sha12": "19ea71a42439"
+    },
+    "B": {
+      "label": "Terracotta Selection",
+      "sha12": "6947037951af"
+    }
+  }
+}

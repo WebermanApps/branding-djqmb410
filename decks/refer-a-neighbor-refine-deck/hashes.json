@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Card",
+      "sha12": "19ae3ddd2681"
+    },
+    "B": {
+      "label": "Tight Hero",
+      "sha12": "6da6c74f0293"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Code First",
+      "sha12": "aafb2966561e"
+    },
+    "B": {
+      "label": "QR First",
+      "sha12": "0b54cfd05311"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "One Share Button",
+      "sha12": "786d350c6e71"
+    },
+    "B": {
+      "label": "Share And Copy Link",
+      "sha12": "4729f6750d32"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today's Rows",
+      "sha12": "7eb6cbf2afae"
+    },
+    "B": {
+      "label": "Glanceable Stats",
+      "sha12": "5be6cf43aad5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Today's Length",
+      "sha12": "ec786a4a03b9"
+    },
+    "B": {
+      "label": "One Screen",
+      "sha12": "d7ff1c683b18"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Today's Cream",
+      "sha12": "82da1b916777"
+    },
+    "B": {
+      "label": "Jungle Reward",
+      "sha12": "0742a6c3c6f3"
+    }
+  }
+}
