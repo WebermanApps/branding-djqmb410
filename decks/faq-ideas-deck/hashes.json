@@ -1,0 +1,132 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep",
+      "sha12": "a861049bad03"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "3b71c79783b1"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep",
+      "sha12": "f77ad8455e8b"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "5751687ff170"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Keep",
+      "sha12": "64fd49a289fa"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "effab63aa30d"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep",
+      "sha12": "e49fd1fb5720"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "6c7758c35ee7"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep",
+      "sha12": "e15c34a14fe9"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "b2b1247ad469"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep",
+      "sha12": "1226733dc9b7"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "08ea700b82db"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Keep",
+      "sha12": "117074a02c52"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "75350cd970f9"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Keep",
+      "sha12": "77e05b781cbc"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "d645ebbaa377"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Keep",
+      "sha12": "86e6d876bc62"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "3ed822b6f732"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep",
+      "sha12": "763302508310"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "76ef8d8ebcef"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Keep",
+      "sha12": "a4c2b56c7ccd"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "9252b67681eb"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Keep",
+      "sha12": "fa099f0a6f57"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "2a821877b166"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Keep",
+      "sha12": "dbef221d1c98"
+    },
+    "B": {
+      "label": "Skip",
+      "sha12": "f18a2ef05555"
+    }
+  }
+}
