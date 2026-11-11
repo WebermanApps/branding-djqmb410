@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/open-decks-1111/mocks/pt-total-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-total-b.jpg",
+    "/workspace/open-decks-1111/mocks/pt-credit-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-credit-b.jpg",
+    "/workspace/open-decks-1111/mocks/pt-gutter-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-gutter-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "plan-tailoring-totals-deck",
+  "title": "Plan Tailoring Totals",
+  "short": "Plan Tailoring Totals",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 11 2026, via Grok, after the taste-call decks were submitted and cleared: build the two open follow-up decks, short and focused, through the full publish gate. Unique visuals; crop QA at 390 and 360; hashes.json, meta.json and gate-meta.json beside each deck; mw-pagelock; Notes and Machan Decides on every card; descriptive Title Case names; plan colors Essentials #0B6E4F, Plus #A8431F, Complete #05668D; light backgrounds. 1. Next Visit Actions Pills, 2–3 cards on small pill styles for the Next Visit actions, per his Nov 8 note that they should be small pills, not large icons. Cover pill style, alignment, and bottom padding. Keep the Next Visit tile itself as a clickable tile; do not re-deck it. 2. Plan Tailoring Totals, 2–3 cards on how the running total and credits show, using fewer words, per his Nov 8 note. Heading, row labels and review grouping are settled; reuse B Tailor Your Plan, B Included And Optional, and Grouped Adding And Dropping Plus Pending Quotes. Use Machan’s 6:08 PM ICT catalog (7 monthly, 19 one-time). Removing an included item shows its credit: Sump Pump and Humidifier −$6/mo; Gutter Cleaning shows — . Base prices $139/$209/$379. Do not invent other add-on prices; show — for any not given. Pin both on Max’s Picks and the UpKeep board.",
+  "spec": "spec.md (beside index.html) and /workspace/open-decks-1111/out/plan-tailoring-totals-deck/spec.md",
+  "provenance": "Headless Chromium, crop QA at 390×844 and 360×844 css px, deviceScaleFactor 2, prefers-reduced-motion, color-scheme light. Deck images are 780×1688 JPEGs at quality 92, from /workspace/open-decks-1111/mocks.html. Read-only local checkouts; no login; no password files read or printed; never pushed to smart-upkeep. Member chrome from /workspace/member-final-1111/app51 (Brett Malbin, Complete, 3612 Shoreview Ct., Bloomfield Hills). Next Visit uses Brett’s official NEXT: Tuesday, November 17, 2026, 9:00 to 11:00 AM (short window 9–11 AM), in 6 days from Nov 11, 2026. Complete visit label is November 2026. The Next Visit tile stays a clickable tile in the dimmed home peek and is not a swipe question. Actions in the sheet bar keep the live labels and order: Reschedule, Ask A Question, Add To Calendar. Pills are small (~30px), not large stacked icons. Notification copy is the existing line: We will notify you when the technician is on the way. No technician name is shown, because none is on file. Plan tailoring reuses the settled treatments: B Tailor Your Plan, B Included And Optional, and Grouped Adding And Dropping Plus Pending Quotes. Catalog is Machan’s Nov 11 2026 6:08 PM ICT list: 7 monthly and 19 one-time items, used by name. Included items turned off: Sump Pump and Whole-House Humidifier show a −$6/mo credit; Gutter Cleaning shows — because it has no price set. Optional monthly and one-time items with no price on file show —. Chimney Sweep sits in Pending Quotes. Brett is on Complete, base $379/mo. Turning off the two priced included items changes the plan by −$12/mo, to $367/mo. The Gutter — credit is not added into that number. One-time names beyond the first two sit below the fold in the source catalog; every one-time price is —. Plan colors: Essentials jungle #0B6E4F, Plus terracotta #A8431F, Complete lagoon #05668D. The Complete chip and on-toggle use lagoon. Light only, sheets #FCF9F4, Home #F8F2E9, white cards, 2px strokes, Khand and Hind, Title Case headings, English only.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped labels on final frames, including Add To Calendar at 360; mid-row clips under the total bar removed"
+}

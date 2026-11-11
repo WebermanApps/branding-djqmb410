@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Outline Pills",
+      "sha12": "f37199dfecad"
+    },
+    "B": {
+      "label": "Soft Tint Pills",
+      "sha12": "ee7a5e76f677"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Edge",
+      "sha12": "7111d544f09d"
+    },
+    "B": {
+      "label": "Inset",
+      "sha12": "4524595fdfbd"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Tight",
+      "sha12": "0839fad6d0dd"
+    },
+    "B": {
+      "label": "Extra Safe",
+      "sha12": "522dbb51ef2a"
+    }
+  }
+}

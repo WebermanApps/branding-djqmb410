@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/open-decks-1111/mocks/nv-style-a.jpg",
+    "/workspace/open-decks-1111/mocks/nv-style-b.jpg",
+    "/workspace/open-decks-1111/mocks/nv-align-a.jpg",
+    "/workspace/open-decks-1111/mocks/nv-align-b.jpg",
+    "/workspace/open-decks-1111/mocks/nv-pad-a.jpg",
+    "/workspace/open-decks-1111/mocks/nv-pad-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Next Visit Actions Pills"
+}

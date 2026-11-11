@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/open-decks-1111/mocks/pt-total-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-total-b.jpg",
+    "/workspace/open-decks-1111/mocks/pt-credit-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-credit-b.jpg",
+    "/workspace/open-decks-1111/mocks/pt-gutter-a.jpg",
+    "/workspace/open-decks-1111/mocks/pt-gutter-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Plan Tailoring Totals"
+}

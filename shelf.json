@@ -2,6 +2,40 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "next-visit-actions-pills-deck",
+   "name": "Next Visit Actions Pills",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/next-visit-actions-pills-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T18:35:32+07:00",
+   "note": "Nov 11 2026: Next Visit Actions Pills. Three cards on small pills, not large icons — outline vs soft tint; edge vs inset; tight vs extra-safe bottom padding. Live labels and order kept: Reschedule, Ask A Question, Add To Calendar. The Next Visit tile stays a clickable tile and is not re-asked. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T18:35:32+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "plan-tailoring-totals-deck",
+   "name": "Plan Tailoring Totals",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-tailoring-totals-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T18:35:32+07:00",
+   "note": "Nov 11 2026: Plan Tailoring Totals. Three cards on fewer words for the running total and credits — two lines vs one line; credits on the rows vs only in the review; whether Gutter — is repeated in the total. Reuses Tailor Your Plan, Included and Optional, and grouped Dropping plus Pending Quotes. Sump Pump and Humidifier −$6/mo; Gutter Cleaning — ; Complete $379 to $367. No invented add-on prices. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T18:35:32+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -104,7 +138,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T18:20:59+07:00",
+ "updated": "2026-11-11T18:35:32+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

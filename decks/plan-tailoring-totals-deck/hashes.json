@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Lines",
+      "sha12": "647439b0038e"
+    },
+    "B": {
+      "label": "One Line",
+      "sha12": "2de65f334d50"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Credits On The Rows",
+      "sha12": "a938c5b69e00"
+    },
+    "B": {
+      "label": "Credits In The Review",
+      "sha12": "275ad22fcfef"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Total Without Gutter",
+      "sha12": "bd5bf091a9d0"
+    },
+    "B": {
+      "label": "Total Repeats Gutter",
+      "sha12": "ed724960ec45"
+    }
+  }
+}
