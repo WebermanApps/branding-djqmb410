@@ -19,23 +19,6 @@
    "made": "2026-11-11"
   },
   {
-   "id": "member-billing-look-deck",
-   "name": "Member Billing Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-billing-look-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T13:12:42+07:00",
-   "note": "Machan via Develop Nov 11 2026: Billing too airy, small persimmon mascot; founding member line (first 50 get 2-for-1; one line by status, no 10% note for now). Real 390px renders of the live Billing sheet (Menu > Profile & Account > Billing, main 8f9438b5) plus CSS/DOM injection. All amounts masked ($ —) until the price is confirmed. Gate passed, pagelocked. 4 cards (Layout Density, Founding Member Line, Mascot Placement And Size, Header Read).",
-   "requested_at": "2026-11-11T13:01:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "4 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -138,7 +121,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T13:57:46+07:00",
+ "updated": "2026-11-11T14:02:22+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3046,6 +3029,15 @@
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-mascot-look-deck/",
    "at": "2026-11-11T13:42:34+07:00",
    "done_at": "2026-11-11T13:42:34+07:00",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "member-billing-look-deck",
+   "name": "Member Billing Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-billing-look-deck/",
+   "at": "2026-11-11T13:57:30+07:00",
+   "done_at": "2026-11-11T13:57:30+07:00",
    "answered": 4,
    "total": 4
   }
