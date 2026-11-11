@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/taste-calls-1111/mocks/extras-a.jpg",
+    "/workspace/taste-calls-1111/mocks/extras-b.jpg",
+    "/workspace/taste-calls-1111/mocks/change-a.jpg",
+    "/workspace/taste-calls-1111/mocks/change-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Taste Calls"
+}

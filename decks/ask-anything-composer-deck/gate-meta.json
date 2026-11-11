@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/taste-calls-1111/mocks/ask-chips.jpg",
+    "/workspace/taste-calls-1111/mocks/ask-current.jpg",
+    "/workspace/taste-calls-1111/mocks/chips-out.jpg",
+    "/workspace/taste-calls-1111/mocks/chips-tint.jpg",
+    "/workspace/taste-calls-1111/mocks/safety-banner.jpg",
+    "/workspace/taste-calls-1111/mocks/safety-chip.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Ask Anything Composer"
+}

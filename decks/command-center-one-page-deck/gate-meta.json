@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/taste-calls-1111/mocks/cc-onepage.jpg",
+    "/workspace/taste-calls-1111/mocks/cc-separate.jpg",
+    "/workspace/taste-calls-1111/mocks/cc-members.jpg",
+    "/workspace/taste-calls-1111/mocks/cc-techs.jpg",
+    "/workspace/taste-calls-1111/mocks/cc-row.jpg",
+    "/workspace/taste-calls-1111/mocks/cc-mini.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Command Center One Page"
+}

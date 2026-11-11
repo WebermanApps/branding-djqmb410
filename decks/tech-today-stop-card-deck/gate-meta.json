@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/taste-calls-1111/mocks/stop-simple.jpg",
+    "/workspace/taste-calls-1111/mocks/stop-details.jpg",
+    "/workspace/taste-calls-1111/mocks/stop-edge.jpg",
+    "/workspace/taste-calls-1111/mocks/stop-chip.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tech Today Stop Card"
+}

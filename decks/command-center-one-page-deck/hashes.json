@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "One Page",
+      "sha12": "9a40efd0e346"
+    },
+    "B": {
+      "label": "Separate Dashboards",
+      "sha12": "17ddaaa84599"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Members First",
+      "sha12": "7d4e31a58cc0"
+    },
+    "B": {
+      "label": "Technicians First",
+      "sha12": "18362ecf4241"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Compact Row",
+      "sha12": "962d46d56ea7"
+    },
+    "B": {
+      "label": "Mini Summary Card",
+      "sha12": "0c2d2927cc08"
+    }
+  }
+}

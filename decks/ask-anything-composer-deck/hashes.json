@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Quick-Reply Chips",
+      "sha12": "57215f468236"
+    },
+    "B": {
+      "label": "Current Composer",
+      "sha12": "9aba496c79fb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Outline Chips",
+      "sha12": "0bec3c9b9712"
+    },
+    "B": {
+      "label": "Soft-Tint Chips",
+      "sha12": "2fbdffb55b71"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Pinned Banner",
+      "sha12": "783e5d34dab7"
+    },
+    "B": {
+      "label": "Inline Chip",
+      "sha12": "90ea9d30af04"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Home And Plan",
+      "sha12": "6b9074a22076"
+    },
+    "B": {
+      "label": "Home, Plan, And Details",
+      "sha12": "f2879b4c621c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Color Left Edge",
+      "sha12": "ddb720718322"
+    },
+    "B": {
+      "label": "Color Top Chip",
+      "sha12": "06ee831904be"
+    }
+  }
+}

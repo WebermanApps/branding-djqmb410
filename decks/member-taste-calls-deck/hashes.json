@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Trim Outline",
+      "sha12": "5abb63a04d01"
+    },
+    "B": {
+      "label": "Extra Line Detail",
+      "sha12": "82d03ff16223"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Outline Button",
+      "sha12": "1d7e07c16eaf"
+    },
+    "B": {
+      "label": "Text Link",
+      "sha12": "a99a92fa6f41"
+    }
+  }
+}

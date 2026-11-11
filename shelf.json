@@ -2,6 +2,74 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-taste-calls-deck",
+   "name": "Member Taste Calls",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-taste-calls-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T17:54:54+07:00",
+   "note": "Nov 11 2026 5:40 PM ICT: Member Taste Calls. Two cards — Extras Look (trim outline vs extra line detail; furnace as one tile, no ×N count) and Change Card Placement (outline button vs a Change text link). Brett’s Systems and Billing at 390px. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T17:54:54+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "command-center-one-page-deck",
+   "name": "Command Center One Page",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-one-page-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T17:54:54+07:00",
+   "note": "Nov 11 2026 5:40 PM ICT: Command Center One Page. Three cards — one page with expandable sections vs separate dashboards; Members first vs Technicians first; compact count-and-dot row vs a mini summary card. From the current Command Center checkout at 390px. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T17:54:54+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "ask-anything-composer-deck",
+   "name": "Ask Anything Composer",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-composer-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T17:54:54+07:00",
+   "note": "Nov 11 2026 5:40 PM ICT: Ask Anything Composer. Three cards — quick-reply chips vs the current composer; outline chips vs soft-tint chips; pinned Smell gas? banner vs an inline Smell Gas? Call 911 chip. Existing safety copy only; no invented numbers. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T17:54:54+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "tech-today-stop-card-deck",
+   "name": "Tech Today Stop Card",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-stop-card-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T17:54:54+07:00",
+   "note": "Nov 11 2026 5:40 PM ICT: Tech Today Stop Card. Two cards on the compact bottom stop carousel — home and plan only vs home, plan, and the visit window; white card with a plan-color left edge vs a plan-color top chip. Brett’s next Complete stop at 390px. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T17:54:54+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "upkeep",
+   "made": "2026-11-11"
+  },
+  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -104,7 +172,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T16:53:10+07:00",
+ "updated": "2026-11-11T17:54:54+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
