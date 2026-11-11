@@ -2,78 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "member-taste-calls-deck",
-   "name": "Member Taste Calls",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-taste-calls-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T17:54:54+07:00",
-   "note": "Nov 11 2026 5:58 PM ICT: Member Taste Calls, color-corrected. Two cards — Extras Look (lagoon Complete trim outline vs extra line detail; furnace as one tile, no ×N count) and Change Card Placement (outline button vs a Change text link). Plan colors: Essentials #0B6E4F, Plus #A8431F, Complete #05668D. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T17:54:54+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-11",
-   "updated": "2026-11-11T18:05:22+07:00"
-  },
-  {
-   "id": "command-center-one-page-deck",
-   "name": "Command Center One Page",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-one-page-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T17:54:54+07:00",
-   "note": "Nov 11 2026 5:58 PM ICT: Command Center One Page. Three cards — one page with expandable sections vs separate dashboards; Members first vs Technicians first; compact count-and-dot row vs a mini summary card. No plan-to-color assignments in these frames. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T17:54:54+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-11",
-   "updated": "2026-11-11T18:05:22+07:00"
-  },
-  {
-   "id": "ask-anything-composer-deck",
-   "name": "Ask Anything Composer",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-composer-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T17:54:54+07:00",
-   "note": "Nov 11 2026 5:58 PM ICT: Ask Anything Composer. Three cards — quick-reply chips vs the current composer; outline chips vs soft-tint chips; pinned Smell gas? banner vs an inline Smell Gas? Call 911 chip. Existing safety copy only; chips use jungle as an action color, not a plan assignment. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T17:54:54+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-11",
-   "updated": "2026-11-11T18:05:22+07:00"
-  },
-  {
-   "id": "tech-today-stop-card-deck",
-   "name": "Tech Today Stop Card",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-stop-card-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T17:54:54+07:00",
-   "note": "Nov 11 2026 5:58 PM ICT: Tech Today Stop Card, color-corrected. Two cards on the compact bottom stop carousel — home and plan only vs home, plan, and the visit window; white card with a lagoon left edge vs a lagoon top chip. Complete uses lagoon #05668D (Essentials jungle #0B6E4F, Plus terracotta #A8431F). Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T17:54:54+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "upkeep",
-   "made": "2026-11-11",
-   "updated": "2026-11-11T18:05:22+07:00"
-  },
-  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -176,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T18:05:22+07:00",
+ "updated": "2026-11-11T18:20:59+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3173,6 +3101,42 @@
    "at": "2026-11-11T16:51:29+07:00",
    "done_at": "2026-11-11T16:51:29+07:00",
    "answered": 1,
+   "total": 2
+  },
+  {
+   "id": "member-taste-calls-deck",
+   "name": "Member Taste Calls",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-taste-calls-deck/",
+   "at": "2026-11-11T18:14:35+07:00",
+   "done_at": "2026-11-11T18:14:35+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "command-center-one-page-deck",
+   "name": "Command Center One Page",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/command-center-one-page-deck/",
+   "at": "2026-11-11T18:15:37+07:00",
+   "done_at": "2026-11-11T18:15:37+07:00",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "ask-anything-composer-deck",
+   "name": "Ask Anything Composer",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/ask-anything-composer-deck/",
+   "at": "2026-11-11T18:16:06+07:00",
+   "done_at": "2026-11-11T18:16:06+07:00",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "tech-today-stop-card-deck",
+   "name": "Tech Today Stop Card",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tech-today-stop-card-deck/",
+   "at": "2026-11-11T18:17:09+07:00",
+   "done_at": "2026-11-11T18:17:09+07:00",
+   "answered": 2,
    "total": 2
   }
  ],
