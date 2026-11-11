@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-billing-look-deck",
+   "name": "Member Billing Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-billing-look-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T13:12:42+07:00",
+   "note": "Machan via Develop Nov 11 2026: Billing too airy, add savings note, small persimmon mascot. Real 390px renders of the live Billing sheet (Menu > Profile & Account > Billing, main 8f9438b5) plus CSS/DOM injection. All amounts masked ($ —) until the price is confirmed; 10% pending verification. Gate passed, pagelocked. 4 cards (Layout Density, Savings Note Placement, Mascot Placement And Size, Header Read).",
+   "requested_at": "2026-11-11T13:01:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "4 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "member-sheets-icons-deck",
    "name": "Member Sheets And Icons Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-sheets-icons-deck/",
@@ -121,7 +138,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T12:53:14+07:00",
+ "updated": "2026-11-11T13:12:42+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
