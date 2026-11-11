@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Mixed Like Now",
+      "sha12": "6c9cbf584d9d"
+    },
+    "B": {
+      "label": "All Sheets Cream",
+      "sha12": "7bd09c434e24"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Plus Q4 + …",
+      "sha12": "13918c9755e8"
+    },
+    "B": {
+      "label": "Fall Visit + …",
+      "sha12": "565d7ddda135"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain Icons",
+      "sha12": "381798734c8b"
+    },
+    "B": {
+      "label": "Grey Plates",
+      "sha12": "0355bc6a6af6"
+    }
+  }
+}

@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "member-sheets-icons-deck",
+   "name": "Member Sheets And Icons Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-sheets-icons-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T12:53:14+07:00",
+   "note": "Machan Nov 11 2026: the three visual member-review questions he skipped. Real 390px renders of live smartupkeep.ai/member/ (main 8f9438b5, index 697bc775) plus CSS/text injection. Gate passed, pagelocked. 3 cards (Sheet Color, Report Title Line, Menu Icons).",
+   "requested_at": "2026-11-11T12:48:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -104,7 +121,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T11:35:40+07:00",
+ "updated": "2026-11-11T12:53:14+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

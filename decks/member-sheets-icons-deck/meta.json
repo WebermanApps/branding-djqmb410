@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-sheets-icons-1111/mocks/01a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/01b.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/02a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/02b.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/03a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/03b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-sheets-icons-deck",
+  "title": "Member Sheets And Icons Deck",
+  "short": "Sheets And Icons",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Machan Nov 11 2026 ICT, via the parent agent: short deck for the three visual review questions he skipped (sheet color, report title line, menu icons).",
+  "provenance": "Headless chromium, 390x844 css px at dsf2, on smart-upkeep main 8f9438b5 (PR33 merge). member/index.html sha256 697bc775, byte-identical to live https://smartupkeep.ai/member/. Unlocked local scratch clone, push disabled, never pushed. Sheets were opened by clicking the UI. 1A, 2A and 3B are the live renders (3B only has the icon stroke set to 2.0 from 2.1). 1B injects #sheet.vr-on{background:#FAF6EE}. 2B swaps the leading Plus Q4 in .rp-type text for Fall Visit (the report is the Fall 2026 visit, Oct 6 2026). 3A sets .mm-ic background to transparent. Crop QA: qa/mock-qa.json and qa/deck-qa.json.",
+  "browser_qa": "pending"
+}

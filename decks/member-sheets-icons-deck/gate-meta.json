@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-sheets-icons-1111/mocks/01a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/01b.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/02a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/02b.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/03a.jpg",
+    "/workspace/su-sheets-icons-1111/mocks/03b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Sheets And Icons Deck"
+}
