@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "plan-tile-edge-deck",
+   "name": "Plan Tile Edge",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-tile-edge-deck/",
+   "total": 1,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T14:02:35+07:00",
+   "note": "Develop, Nov 11 2026 1:58 PM ICT: should the lagoon left edge go on every plan tile or Plus only (QA 69f48980 Q1). Real 390px renders of the live Your Plan sheet (69f48980): Plus tile (standard member) + Brett's Complete tile, same two tiles in A and B; B hides the Complete edge via injected CSS. Tiles shown white (F2 not live yet). Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T13:58:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "1 card, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "onboarding-flow-deck",
    "name": "Onboarding Flow Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
@@ -121,7 +138,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T14:02:22+07:00",
+ "updated": "2026-11-11T14:02:35+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

@@ -1,0 +1,10 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-plan-tile-edge-1111/mocks/01a.jpg",
+    "/workspace/su-plan-tile-edge-1111/mocks/01b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Plan Tile Edge"
+}

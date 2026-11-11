@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-plan-tile-edge-1111/mocks/01a.jpg",
+    "/workspace/su-plan-tile-edge-1111/mocks/01b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "plan-tile-edge-deck",
+  "title": "Plan Tile Edge",
+  "short": "Plan Tile Edge",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Develop, Nov 11 2026 1:58 PM ICT: 1-card deck on whether the lagoon left edge goes on every plan tile or Plus only (QA 69f48980 Q1; Machan answer B said \"Plus tile\").",
+  "spec": "spec.md (beside index.html) and /workspace/su-plan-tile-edge-1111/spec.md",
+  "tile_color": "F2 (white cards in sheets) is not live at 69f48980 (.ps-hero is #FAF6EE). Both options render tiles white (#FFF) via injected #sheet .ps-hero{background:#fff} so color does not distract.",
+  "provenance": "Headless chromium 390x844 css px dsf2 on smart-upkeep 69f48980 (member/index.html sha256 83eb53a1, byte-identical to live /member/). Unlocked local worktree, push disabled, never pushed; no login. Your Plan opened from the Home plan tile for /member/ (Elena, Plus) and /member/brett/ (Brett, Complete). Tile element screenshots, composed on a #FCF9F4 390px canvas with Khand/Hind captions. B hides .ps-hero:before on the Complete tile only (injected CSS). Crop QA: qa/mock-qa.json and qa/deck-qa.json.",
+  "browser_qa": "pending"
+}
