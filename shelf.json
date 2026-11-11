@@ -2,74 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "visit-report-pdf-look-deck",
-   "name": "Visit Report PDF Look",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-pdf-look-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T16:38:57+07:00",
-   "note": "Nov 11 2026 4:28 PM ICT: Visit Report PDF Look. Five US Letter PDF mockups from Brett’s latest Complete visit (October 14, 2026), titled October 2026. Cover vs compact header; numbered list vs task cards; photo grid vs photos by task; systems table vs tiles; two closings. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T16:38:57+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "plan-colors-deck",
-   "name": "Plan Colors",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-colors-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T16:10:11+07:00",
-   "note": "Nov 11 2026 4:10 PM ICT: follow-up to Plan Tile Edge. Each plan gets its own color — Classic Brand vs Warm Lead palettes for Essentials $139, Plus $209, Complete $379, then left edge vs soft tint. Real 390px Your Plan tiles from unlocked 30dd16fd. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T16:10:11+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "empty-field-wording-deck",
-   "name": "Empty Field Wording",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/empty-field-wording-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T16:10:11+07:00",
-   "note": "Nov 11 2026 4:10 PM ICT: follow-up wording for empty fields before the first visit, in the quiet text chip already picked. Added At First Visit vs Set At First Visit, and Coming After Your First Visit vs Filled In At Your First Visit. Real 390px Jane & Ed Systems frames from unlocked 30dd16fd. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T16:10:11+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "system-icons-deck",
-   "name": "System Icons",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/system-icons-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T14:28:09+07:00",
-   "note": "Develop, Nov 11 2026 2:03 PM ICT: original icons for Brett's six extra systems that show a generic gear today, and how they sit on Systems vs Visit Report rows. Line vs filled duotone; same size vs context size. Real 390px from unlocked 69f48980. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T14:03:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -172,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T16:38:57+07:00",
+ "updated": "2026-11-11T16:53:10+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3134,6 +3066,42 @@
    "done_at": "2026-11-11T15:58:08+07:00",
    "answered": 0,
    "total": 1
+  },
+  {
+   "id": "visit-report-pdf-look-deck",
+   "name": "Visit Report PDF Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-pdf-look-deck/",
+   "at": "2026-11-11T16:49:34+07:00",
+   "done_at": "2026-11-11T16:49:34+07:00",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "plan-colors-deck",
+   "name": "Plan Colors",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-colors-deck/",
+   "at": "2026-11-11T16:50:14+07:00",
+   "done_at": "2026-11-11T16:50:14+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "empty-field-wording-deck",
+   "name": "Empty Field Wording",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/empty-field-wording-deck/",
+   "at": "2026-11-11T16:50:43+07:00",
+   "done_at": "2026-11-11T16:50:43+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "system-icons-deck",
+   "name": "System Icons",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/system-icons-deck/",
+   "at": "2026-11-11T16:51:29+07:00",
+   "done_at": "2026-11-11T16:51:29+07:00",
+   "answered": 1,
+   "total": 2
   }
  ],
  "pinned": [
