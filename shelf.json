@@ -2,6 +2,40 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "plan-colors-deck",
+   "name": "Plan Colors",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-colors-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T16:10:11+07:00",
+   "note": "Nov 11 2026 4:10 PM ICT: follow-up to Plan Tile Edge. Each plan gets its own color — Classic Brand vs Warm Lead palettes for Essentials $139, Plus $209, Complete $379, then left edge vs soft tint. Real 390px Your Plan tiles from unlocked 30dd16fd. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T16:10:11+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "empty-field-wording-deck",
+   "name": "Empty Field Wording",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/empty-field-wording-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T16:10:11+07:00",
+   "note": "Nov 11 2026 4:10 PM ICT: follow-up wording for empty fields before the first visit, in the quiet text chip already picked. Added At First Visit vs Set At First Visit, and Coming After Your First Visit vs Filled In At Your First Visit. Real 390px Jane & Ed Systems frames from unlocked 30dd16fd. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T16:10:11+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "system-icons-deck",
    "name": "System Icons",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/system-icons-deck/",
@@ -121,7 +155,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T16:01:28+07:00",
+ "updated": "2026-11-11T16:10:11+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

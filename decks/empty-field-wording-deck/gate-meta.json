@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/followup-decks-1111/mocks/word-short-a.jpg",
+    "/workspace/followup-decks-1111/mocks/word-short-b.jpg",
+    "/workspace/followup-decks-1111/mocks/word-long-a.jpg",
+    "/workspace/followup-decks-1111/mocks/word-long-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Empty Field Wording"
+}

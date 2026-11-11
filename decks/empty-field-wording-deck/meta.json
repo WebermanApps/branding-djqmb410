@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/followup-decks-1111/mocks/word-short-a.jpg",
+    "/workspace/followup-decks-1111/mocks/word-short-b.jpg",
+    "/workspace/followup-decks-1111/mocks/word-long-a.jpg",
+    "/workspace/followup-decks-1111/mocks/word-long-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "empty-field-wording-deck",
+  "title": "Empty Field Wording",
+  "short": "Empty Field Wording",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Nov 11 2026: follow-up wording for empty profile and system fields before the first visit, in the quiet text chip already picked. Fresh short Title Case options, rendered in place on the live empty-state field at 390px. Two cards: short label and a slightly longer line.",
+  "spec": "spec.md (beside index.html) and /workspace/followup-decks-1111/out/empty-field-wording-deck/spec.md",
+  "provenance": "Headless Chromium 390x844 css px, deviceScaleFactor 2, prefers-reduced-motion, color-scheme light. Rendered from a local unlocked scratch of smart-upkeep main 30dd16fd (/workspace/followup-decks-1111/scratch, member/index.html sha256 prefix 3bb5148c97bb; remote.origin.pushurl DISABLED; never pushed; no login; no password files read or printed). Plus tile chrome from /member/, Complete chrome from /member/brett/, Essentials from the same live Your Plan tile with official Essentials label, $139, Seasonal Care, and 2 visits. Official plan prices used: Essentials $139, Plus $209, Complete $379. Jane & Ed empty-field frames from /member/weberman/ (founding Plus, White Lake). Sheet surfaces #FCF9F4, Home #F8F2E9, white cards, injected when needed. Khand/Hind. Light only. Quiet text chip treatment already picked for empty fields. Did not restage Home badge order/colors. Settled treatments left as live: Menu grey icon plates, no grey plates on the Systems detail header, Visit Reports box-in-box, report title Plus Q4 + …, Your Plan collapsibles closed, report swipe dots, Refer Share+Copy side by side, Title Case headings. Wording frames use Jane & Ed on Furnace detail (quiet chip in empty fields) and on the Systems grid (banner plus per-tile lines).",
+  "browser_qa": "headless chromium 390x844 css px dsf2, prefers-reduced-motion; crop QA visual + size 780x1688; no clipped labels on final frames"
+}

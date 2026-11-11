@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Classic Brand",
+      "sha12": "47daaddc5531"
+    },
+    "B": {
+      "label": "Warm Lead",
+      "sha12": "19d047dd4a7d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Left Edge",
+      "sha12": "a6915b69876f"
+    },
+    "B": {
+      "label": "Soft Tints",
+      "sha12": "8b396df0ba66"
+    }
+  }
+}

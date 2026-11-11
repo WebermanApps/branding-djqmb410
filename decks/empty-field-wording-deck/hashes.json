@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Added At First Visit",
+      "sha12": "23f6827cfefe"
+    },
+    "B": {
+      "label": "Set At First Visit",
+      "sha12": "badfe0ce764d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Coming After Your First Visit",
+      "sha12": "85d50ee3d7e3"
+    },
+    "B": {
+      "label": "Filled In At Your First Visit",
+      "sha12": "0f79194e01dc"
+    }
+  }
+}
