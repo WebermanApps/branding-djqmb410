@@ -2,31 +2,31 @@
   "c1": {
     "A": {
       "label": "Quick-Reply Chips",
-      "sha12": "57215f468236"
+      "sha12": "ae9ddd2efa0f"
     },
     "B": {
       "label": "Current Composer",
-      "sha12": "9aba496c79fb"
+      "sha12": "cc0f9b263897"
     }
   },
   "c2": {
     "A": {
       "label": "Outline Chips",
-      "sha12": "0bec3c9b9712"
+      "sha12": "a1255135b2fc"
     },
     "B": {
       "label": "Soft-Tint Chips",
-      "sha12": "2fbdffb55b71"
+      "sha12": "8133101d2f93"
     }
   },
   "c3": {
     "A": {
       "label": "Pinned Banner",
-      "sha12": "783e5d34dab7"
+      "sha12": "8bf9b40eea44"
     },
     "B": {
       "label": "Inline Chip",
-      "sha12": "90ea9d30af04"
+      "sha12": "92adcba6ddc4"
     }
   }
 }

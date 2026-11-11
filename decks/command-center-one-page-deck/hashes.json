@@ -2,31 +2,31 @@
   "c1": {
     "A": {
       "label": "One Page",
-      "sha12": "9a40efd0e346"
+      "sha12": "fe5ef09235db"
     },
     "B": {
       "label": "Separate Dashboards",
-      "sha12": "17ddaaa84599"
+      "sha12": "272567c979aa"
     }
   },
   "c2": {
     "A": {
       "label": "Members First",
-      "sha12": "7d4e31a58cc0"
+      "sha12": "c8e7730ee572"
     },
     "B": {
       "label": "Technicians First",
-      "sha12": "18362ecf4241"
+      "sha12": "b4954d766129"
     }
   },
   "c3": {
     "A": {
       "label": "Compact Row",
-      "sha12": "962d46d56ea7"
+      "sha12": "0889778739b5"
     },
     "B": {
       "label": "Mini Summary Card",
-      "sha12": "0c2d2927cc08"
+      "sha12": "7c6d68966c6e"
     }
   }
 }
