@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-home-accents-1111/mocks/01a.jpg",
+    "/workspace/su-home-accents-1111/mocks/01b.jpg",
+    "/workspace/su-home-accents-1111/mocks/02a.jpg",
+    "/workspace/su-home-accents-1111/mocks/02b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-accents-deck",
+  "title": "Home Accents Deck",
+  "short": "Home Accents",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Develop, Nov 11 2026 2:29 PM ICT: Home Accents Deck. Card 1 Next Visit Bar (.nv::before), card 2 Header Line (#mhTop border-bottom); from QA 30dd16fd Home edge notes.",
+  "spec": "spec.md (beside index.html) and /workspace/su-home-accents-1111/spec.md",
+  "toast": "The simulated Push: Fall Visit report is ready toast is hidden in every render (injected #toast{display:none}) so it does not cover the plan tile.",
+  "provenance": "Headless chromium 390x844 css px dsf2 on smart-upkeep 30dd16fd (member/index.html sha256 1442dccb, byte-identical to live /member/). Unlocked local worktree, push disabled, never pushed; no login. Standard member Elena (Plus). Card 1 frame: Home scrolled 300px (viewport crop css y 250-600), zoom css x 8-128 y 470-580. Card 2 frame: Home top css y 0-330, zoom css x 120-270 y 52-102. Variants by injected CSS only: B1 .nv::before{display:none}; B2 #mhTop{border-bottom:0}. Crop QA: qa/mock-qa.json and qa/deck-qa.json.",
+  "browser_qa": "pending"
+}

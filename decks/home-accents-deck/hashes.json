@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep The Bar",
+      "sha12": "f63e021eea12"
+    },
+    "B": {
+      "label": "No Bar",
+      "sha12": "ee1c8e9d5e8d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep The Line",
+      "sha12": "747fac45aed4"
+    },
+    "B": {
+      "label": "No Line",
+      "sha12": "e70b7b126d4c"
+    }
+  }
+}

@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "home-accents-deck",
+   "name": "Home Accents Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-accents-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T14:32:32+07:00",
+   "note": "Develop, Nov 11 2026 2:29 PM ICT: two Home accents from QA 30dd16fd. Card 1 Next Visit Bar (keep lagoon .nv::before vs remove), card 2 Header Line (keep 3px terracotta #mhTop line vs remove). Real 390px renders of live member Home at 30dd16fd (standard member), same frame + zoom inset both sides; push toast hidden. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T14:29:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "new-member-empty-state-deck",
    "name": "New Member Empty State",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-member-empty-state-deck/",
@@ -189,7 +206,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T14:28:09+07:00",
+ "updated": "2026-11-11T14:32:32+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
