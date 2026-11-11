@@ -2,23 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "refer-qr-deck",
-   "name": "Refer QR Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-qr-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-10T14:38:57+07:00",
-   "note": "Machan Nov 10 2026 2:26 PM ICT via Grok: \"Ship the 5 fixes and make the QR deck.\" Two cards on the post-fix Refer A Neighbor page (QR first vs Show QR Code row; Share And Copy Link vs one Share). Renders used unlocked local 6fc60f06 plus CSS/DOM injection of the five shipped fixes (not yet on main; HEAD was 79f2421). Gate passed, pagelocked. 2 cards (QR Placement, Share Buttons).",
-   "requested_at": "2026-11-10T14:26:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-10"
-  },
-  {
    "id": "moats-and-agents-deck",
    "name": "Moats & Agents Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/moats-and-agents-deck/",
@@ -121,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T03:51:55+07:00",
+ "updated": "2026-11-11T11:35:40+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3004,6 +2987,15 @@
    "done_at": "2026-11-10T13:11:08+07:00",
    "answered": 6,
    "total": 6
+  },
+  {
+   "id": "refer-qr-deck",
+   "name": "Refer QR Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-qr-deck/",
+   "at": "2026-11-11T11:13:15+07:00",
+   "done_at": "2026-11-11T11:13:15+07:00",
+   "answered": 1,
+   "total": 2
   }
  ],
  "pinned": [
