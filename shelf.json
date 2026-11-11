@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "onboarding-flow-deck",
+   "name": "Onboarding Flow Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T13:45:23+07:00",
+   "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T13:32:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "refer-mascot-look-deck",
    "name": "Refer Mascot Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-mascot-look-deck/",
@@ -138,7 +155,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T13:38:12+07:00",
+ "updated": "2026-11-11T13:45:23+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3065,6 +3082,39 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "onboarding-flow-deck",
+   "name": "Onboarding Flow Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-11T13:32:00+07:00",
+   "added": "2026-11-11T13:45:23+07:00",
+   "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "team-improvement-deck-round-four",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
+   "total": 10,
+   "permanent": true,
+   "added": "2026-10-17T21:07:54+07:00",
+   "tag": "Max's Picks",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
+   "answered": 0,
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three",
+   "status": "open",
+   "requested_at": "2026-10-17T21:07:54+07:00",
+   "made": "2026-10-17"
+  },
+  {
    "id": "extra-equipment-in-the-field-deck-local",
    "name": "Extra Equipment In The Field",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/extra-equipment-in-the-field-deck-local/",
@@ -3203,22 +3253,6 @@
    "added": "2026-11-06T14:21:52+07:00",
    "note": "Machan approved Nov 6 14:16 ICT: publish Member Home Hero and Desktop Chrome Default when ready. Hero uses 62a03c6 header lock (logo 58px, share 48px, avatar 40px). Desktop chrome is the skipped Nov 5 cross-page utility question, now next to the chosen sidebar. Preference only; no app bake. Dictionary held.",
    "done_at": "2026-11-06T14:54:09+07:00"
-  },
-  {
-   "id": "team-improvement-deck-round-four",
-   "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
-   "total": 10,
-   "permanent": true,
-   "added": "2026-10-17T21:07:54+07:00",
-   "tag": "Max's Picks",
-   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
-   "answered": 0,
-   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
-   "previous_round": "team-improvement-deck-round-three",
-   "status": "open",
-   "requested_at": "2026-10-17T21:07:54+07:00",
-   "made": "2026-10-17"
   },
   {
    "id": "member-profile-and-account-deck-rhhg7b",

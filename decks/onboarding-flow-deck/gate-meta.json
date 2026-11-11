@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/onboarding-deck-1111/mocks/01a.jpg",
+    "/workspace/onboarding-deck-1111/mocks/01b.jpg",
+    "/workspace/onboarding-deck-1111/mocks/02a.jpg",
+    "/workspace/onboarding-deck-1111/mocks/02b.jpg",
+    "/workspace/onboarding-deck-1111/mocks/03a.jpg",
+    "/workspace/onboarding-deck-1111/mocks/03b.jpg",
+    "/workspace/onboarding-deck-1111/mocks/04a.jpg",
+    "/workspace/onboarding-deck-1111/mocks/04b.jpg",
+    "/workspace/onboarding-deck-1111/mocks/05a.jpg",
+    "/workspace/onboarding-deck-1111/mocks/05b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Onboarding Flow Deck"
+}

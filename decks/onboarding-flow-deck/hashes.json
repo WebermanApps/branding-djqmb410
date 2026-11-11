@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Inline Pill Stepper",
+      "sha12": "acd0fb3e4fdb"
+    },
+    "B": {
+      "label": "Large − / + Buttons",
+      "sha12": "42b44d2581e7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Tag Chips",
+      "sha12": "5e6dd92d1e00"
+    },
+    "B": {
+      "label": "Checklist With Tags",
+      "sha12": "5dcd63fb6f94"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Segmented Control",
+      "sha12": "e487d7f1b464"
+    },
+    "B": {
+      "label": "Stacked Option Cards",
+      "sha12": "eca091b191d8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Compact Summary",
+      "sha12": "a853406e2d5d"
+    },
+    "B": {
+      "label": "Itemized Summary",
+      "sha12": "20287f007bcb"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Chips",
+      "sha12": "f48a0135ceef"
+    },
+    "B": {
+      "label": "Steppers",
+      "sha12": "434195d0ec26"
+    }
+  }
+}
