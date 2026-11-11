@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Mascot Placeholder",
+      "sha12": "d085ddf95890"
+    },
+    "B": {
+      "label": "Quiet Text Chip",
+      "sha12": "802b6300c562"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Mascot Card",
+      "sha12": "6b227badbc0a"
+    },
+    "B": {
+      "label": "Quiet Line",
+      "sha12": "f4a64d819427"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Logged At Your First Visit",
+      "sha12": "35634bdbfda6"
+    },
+    "B": {
+      "label": "We'll Log This On Your First Visit",
+      "sha12": "fff8787601c1"
+    }
+  }
+}

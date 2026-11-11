@@ -2,6 +2,57 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "new-member-empty-state-deck",
+   "name": "New Member Empty State",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-member-empty-state-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T14:28:09+07:00",
+   "note": "Develop, Nov 11 2026 2:03 PM ICT: new-member empty state for a household such as Jane & Ed, before the first visit. Real 390px Home, Systems, and Furnace detail from unlocked 69f48980. Cards: mascot placeholder vs quiet chip, Home empty hero, and wording. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T14:03:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "3 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "system-icons-deck",
+   "name": "System Icons",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/system-icons-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T14:28:09+07:00",
+   "note": "Develop, Nov 11 2026 2:03 PM ICT: original icons for Brett's six extra systems that show a generic gear today, and how they sit on Systems vs Visit Report rows. Line vs filled duotone; same size vs context size. Real 390px from unlocked 69f48980. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T14:03:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
+   "id": "visit-report-rows-deck",
+   "name": "Visit Report Rows",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-rows-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T14:28:09+07:00",
+   "note": "Nov 11 2026 2:03 PM ICT: Visit Report item rows and the problem indicator. Terracotta dot+label vs tinted row; compact vs roomy. Keeps box-in-box and Plus Q4 + … title. Real 390px Fall 2026 Plus report from unlocked 69f48980. Gate passed, pagelocked.",
+   "requested_at": "2026-11-11T14:03:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "2 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "plan-tile-edge-deck",
    "name": "Plan Tile Edge",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-tile-edge-deck/",
@@ -138,7 +189,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T14:02:35+07:00",
+ "updated": "2026-11-11T14:28:09+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

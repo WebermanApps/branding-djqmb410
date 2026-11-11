@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/break-decks-1111/mocks/rows-problem-a.jpg",
+    "/workspace/break-decks-1111/mocks/rows-problem-b.jpg",
+    "/workspace/break-decks-1111/mocks/rows-density-a.jpg",
+    "/workspace/break-decks-1111/mocks/rows-density-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "visit-report-rows-deck",
+  "title": "Visit Report Rows",
+  "short": "Visit Report Rows",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Nov 11 2026: Visit Report item rows and the problem indicator (terracotta dot+label vs a tinted row/pill; compact vs roomy row). Keep box-in-box and the Plus Q4 + … title.",
+  "spec": "spec.md (beside index.html) and /workspace/break-decks-1111/out/visit-report-rows-deck/spec.md",
+  "provenance": "Headless Chromium 390x844 css px, deviceScaleFactor 2, prefers-reduced-motion, color-scheme light. Rendered from a local unlocked scratch of smart-upkeep main 69f48980 (/workspace/break-decks-1111/scratch, member/index.html sha256 prefix d6a326c539b5; remote.origin.pushurl DISABLED; never pushed; no login; no password files read or printed). Jane & Ed built from the unlocked Elena index into /member/weberman/ (official household: 9399 Mandon Rd., White Lake, founding Plus). Brett from /member/brett/. A standard Plus member report from /member/. Sheet surfaces #FCF9F4, Home #F8F2E9, white cards, injected when needed. Khand/Hind. Light only. Mascot from assets/persimmon-wink.svg. Did not restage Home badge order/colors or the plan tile lagoon edge. Settled treatments left as live: Menu grey icon plates, no grey plates on the Systems detail header, Visit Reports box-in-box, report title Plus Q4 + …, report swipe dots, Title Case headings. Report frames use the live Fall 2026 Plus visit (Plus Q4 + Exterior Window Washing) from /member/. Mid ok rows were hidden so the title card, the finding row, and the swipe dots fit in one 390px frame. Home behind the sheet is blurred so no household name is readable.",
+  "browser_qa": "headless chromium 390x844 css px dsf2, prefers-reduced-motion; crop QA visual + size 780x1688; no clipped labels on final frames"
+}

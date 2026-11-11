@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Line Icons",
+      "sha12": "5dfb1c60e54a"
+    },
+    "B": {
+      "label": "Filled Duotone",
+      "sha12": "df77da14d825"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Same Size",
+      "sha12": "45bbfb428b1a"
+    },
+    "B": {
+      "label": "Context Size",
+      "sha12": "5451c33ae776"
+    }
+  }
+}

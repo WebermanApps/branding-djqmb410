@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/break-decks-1111/mocks/empty-fields-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-fields-b.jpg",
+    "/workspace/break-decks-1111/mocks/empty-hero-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-hero-b.jpg",
+    "/workspace/break-decks-1111/mocks/empty-wording-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-wording-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "new-member-empty-state-deck",
+  "title": "New Member Empty State",
+  "short": "New Member Empty State",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Develop, Nov 11 2026: new-member empty state on Home and Systems before the first visit, for a household such as Jane & Ed. Instead of blank brand, serial, and age, show Logged At Your First Visit with a friendly mascot placeholder. Cards: empty-field treatment (mascot vs quiet text chip), Home empty hero, and wording.",
+  "spec": "spec.md (beside index.html) and /workspace/break-decks-1111/out/new-member-empty-state-deck/spec.md",
+  "provenance": "Headless Chromium 390x844 css px, deviceScaleFactor 2, prefers-reduced-motion, color-scheme light. Rendered from a local unlocked scratch of smart-upkeep main 69f48980 (/workspace/break-decks-1111/scratch, member/index.html sha256 prefix d6a326c539b5; remote.origin.pushurl DISABLED; never pushed; no login; no password files read or printed). Jane & Ed built from the unlocked Elena index into /member/weberman/ (official household: 9399 Mandon Rd., White Lake, founding Plus). Brett from /member/brett/. A standard Plus member report from /member/. Sheet surfaces #FCF9F4, Home #F8F2E9, white cards, injected when needed. Khand/Hind. Light only. Mascot from assets/persimmon-wink.svg. Did not restage Home badge order/colors or the plan tile lagoon edge. Settled treatments left as live: Menu grey icon plates, no grey plates on the Systems detail header, Visit Reports box-in-box, report title Plus Q4 + …, report swipe dots, Title Case headings. Empty-state frames use Jane & Ed on Home and Systems / Furnace detail, presented before the first visit (empty brand, serial, age, and last-serviced fields; first visit Tue, Nov 17).",
+  "browser_qa": "headless chromium 390x844 css px dsf2, prefers-reduced-motion; crop QA visual + size 780x1688; no clipped labels on final frames"
+}

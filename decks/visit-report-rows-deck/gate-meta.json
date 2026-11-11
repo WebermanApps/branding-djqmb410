@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/break-decks-1111/mocks/rows-problem-a.jpg",
+    "/workspace/break-decks-1111/mocks/rows-problem-b.jpg",
+    "/workspace/break-decks-1111/mocks/rows-density-a.jpg",
+    "/workspace/break-decks-1111/mocks/rows-density-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Visit Report Rows"
+}

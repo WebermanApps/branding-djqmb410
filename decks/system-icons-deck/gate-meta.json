@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/break-decks-1111/mocks/icons-style-a.jpg",
+    "/workspace/break-decks-1111/mocks/icons-style-b.jpg",
+    "/workspace/break-decks-1111/mocks/icons-place-a.jpg",
+    "/workspace/break-decks-1111/mocks/icons-place-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "System Icons"
+}

@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/break-decks-1111/mocks/empty-fields-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-fields-b.jpg",
+    "/workspace/break-decks-1111/mocks/empty-hero-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-hero-b.jpg",
+    "/workspace/break-decks-1111/mocks/empty-wording-a.jpg",
+    "/workspace/break-decks-1111/mocks/empty-wording-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "New Member Empty State"
+}

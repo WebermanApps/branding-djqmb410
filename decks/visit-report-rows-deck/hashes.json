@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Terracotta Dot And Label",
+      "sha12": "667c5728a3cc"
+    },
+    "B": {
+      "label": "Tinted Row",
+      "sha12": "d245be4e706f"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Compact",
+      "sha12": "59f962bc22f4"
+    },
+    "B": {
+      "label": "Roomy",
+      "sha12": "d5b08b5669b2"
+    }
+  }
+}
