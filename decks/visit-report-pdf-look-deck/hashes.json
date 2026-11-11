@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Full Cover",
+      "sha12": "aea8b72e76a9"
+    },
+    "B": {
+      "label": "Compact Header",
+      "sha12": "133d358de0e6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Numbered List",
+      "sha12": "887f5ab69b05"
+    },
+    "B": {
+      "label": "Task Cards",
+      "sha12": "f4299cb95d5e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Before And After Grid",
+      "sha12": "22a95d83025a"
+    },
+    "B": {
+      "label": "Photos By Task",
+      "sha12": "d0794cd08f5f"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Systems Table",
+      "sha12": "e2cdc06ab6e1"
+    },
+    "B": {
+      "label": "System Tiles",
+      "sha12": "7752e9ffedf7"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Quiet Closing",
+      "sha12": "b35616e7bf82"
+    },
+    "B": {
+      "label": "Accent Closing",
+      "sha12": "3d95d6cfcfd9"
+    }
+  }
+}

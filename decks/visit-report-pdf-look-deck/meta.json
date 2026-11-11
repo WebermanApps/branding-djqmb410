@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/visit-report-pdf-look-1111/mocks/cover-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/cover-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/tasks-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/tasks-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/photos-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/photos-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/systems-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/systems-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/closing-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/closing-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "visit-report-pdf-look-deck",
+  "title": "Visit Report PDF Look",
+  "short": "Visit Report PDF Look",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Develop, Nov 11 2026 4:28 PM ICT: Visit Report PDF Look Deck. Real US Letter portrait PDF mockups of the Download/Share visit-report PDF, using Brett’s latest visit from the live member app. Five cards: header/cover, task list, photo layout, systems snapshot, closing. Complete accent #A8431F. Visit label rule: Complete uses month and year (October 2026).",
+  "spec": "spec.md (beside index.html) and /workspace/visit-report-pdf-look-1111/out/visit-report-pdf-look-deck/spec.md",
+  "provenance": "Headless Chromium printed US Letter portrait PDFs, then rasterized with pdftoppm at 200 dpi and placed on 390×844 css-px (780×1688) cream frames for the deck. Data from a local unlocked scratch of smart-upkeep main 30dd16fd (/workspace/followup-decks-1111/scratch, member/index.html sha256 prefix 3bb5148c97bb; remote.origin.pushurl DISABLED; never pushed; no login; no password files read or printed). Brett Malbin, Complete (platinum), 3612 Shoreview Ct., Bloomfield Hills, MI 48302, from /member/brett/. Latest visit VISITS v12, Fall visit dated 2026-10-14, 9:30 AM, 108 minutes. Complete visit label is month and year: October 2026, applied on every page and card. Tasks from seasonTasks(\"Fall\") for the Complete tier, including unit expansion for two furnaces and three garage door openers. Steps from SU_TASK_STEPS (did tense), with unit-numbered names matched back to the authored entry; Sprinkler System Winterize has no authored steps, so steps read —. Finding and moisture readings from the visit record. Systems from SYS(); brand and condition are not in the file, shown as —. Visit photos array is empty; the three visit JPGs in assets are not attached to this visit and were not used. Technician is not a real name in the file (placeholder only), shown as —. Prices omitted. No Built-by footer on the PDF. What’s Next from NEXT: 2026-11-17, 9:00 to 11:00 AM, labeled November 2026, plus the three official prep lines. Contact line uses smartupkeep.ai from the app; reserved 555 numbers were not used. Logo from assets/A-roof-chevron-transparent.svg. Light cream #FCF9F4, Complete accent #A8431F, Khand and Hind, Title Case headings, English only.",
+  "browser_qa": "US Letter PDFs printed in headless Chromium, rasterized at 200 dpi, composed on 390x844 css px dsf2 frames; crop QA visual; no clipped labels on card faces; enlarge via mw-imgpeek"
+}

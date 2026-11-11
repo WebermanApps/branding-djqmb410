@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/visit-report-pdf-look-1111/mocks/cover-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/cover-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/tasks-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/tasks-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/photos-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/photos-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/systems-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/systems-b.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/closing-a.jpg",
+    "/workspace/visit-report-pdf-look-1111/mocks/closing-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Visit Report PDF Look"
+}
