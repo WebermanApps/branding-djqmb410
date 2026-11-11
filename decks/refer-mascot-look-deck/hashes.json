@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Wave And Wink",
+      "sha12": "4d40b678ddba"
+    },
+    "B": {
+      "label": "Between Two Houses",
+      "sha12": "cc7defb18ecc"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One-Time Entrance",
+      "sha12": "5c24620509aa"
+    },
+    "B": {
+      "label": "Subtle Idle Loop",
+      "sha12": "6cbf2d50ee94"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Mascot Bounce",
+      "sha12": "fdb700883fa3"
+    },
+    "B": {
+      "label": "Heart Pop On The Chip",
+      "sha12": "0c9c065a951c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Small",
+      "sha12": "7dbf70b018fc"
+    },
+    "B": {
+      "label": "Medium",
+      "sha12": "55c7ebf261a0"
+    }
+  }
+}

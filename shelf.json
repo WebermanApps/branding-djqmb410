@@ -2,6 +2,23 @@
  "agent": "branding",
  "decks": [
   {
+   "id": "refer-mascot-look-deck",
+   "name": "Refer Mascot Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/refer-mascot-look-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "added": "2026-11-11T13:38:12+07:00",
+   "note": "Machan via Develop Nov 11 2026 1:27-1:28 PM ICT: mascot branding on Refer A Neighbor, expandable QR, use the space for a graphic. Real 390px renders of live Refer (main 8f9438b5) plus CSS/DOM injection with the real persimmon-wink.svg; animated WebP previews with static frames for Reduce Motion; QR-open still in the intro. Gate passed, pagelocked. 4 cards (Mascot Hero, Motion Level, Copy Feedback, Mascot Size).",
+   "requested_at": "2026-11-11T13:29:00+07:00",
+   "pinned": true,
+   "new": true,
+   "blurb": "4 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11"
+  },
+  {
    "id": "member-billing-look-deck",
    "name": "Member Billing Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-billing-look-deck/",
@@ -121,7 +138,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T13:18:42+07:00",
+ "updated": "2026-11-11T13:38:12+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",

@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/su-refer-mascot-1111/mocks/01a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/01b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/02a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/02b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/03a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/03b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/04a.jpg",
+    "/workspace/su-refer-mascot-1111/mocks/04b.jpg",
+    "/workspace/su-refer-mascot-1111/mocks/qr-open.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "refer-mascot-look-deck",
+  "title": "Refer Mascot Look Deck",
+  "short": "Refer Mascot",
+  "status": "published pagelocked; pinned open on Max's Picks",
+  "requested": "Machan via Develop, Nov 11 2026 1:27 PM ICT: \"get with swatch and try to aesthetically improve the refer a neighbor page, we could use some custom branding with the mascot, maybe even a kawaii animated graphic.\" 1:28 PM: \"we can do the expandable qr\" and \"use this space to show a graphic.\" (supersedes QR First)",
+  "mascot_asset": "/workspace/member-final-1111/app/assets/persimmon-wink.svg (smart-upkeep main 8f9438b5 assets/persimmon-wink.svg, live https://smartupkeep.ai/assets/persimmon-wink.svg), inlined with the arm and open eye grouped for motion; geometry unchanged. /workspace/su-mascot-1103 only holds flat bumper-sticker exports of the same persimmon, not used.",
+  "spec": "spec.md (beside index.html) and /workspace/su-refer-mascot-1111/spec.md",
+  "reduced_motion": "All CSS motion is wrapped by prefers-reduced-motion: reduce (animation:none). In the deck, the animated WebP previews swap to the static 390 frame when Reduce Motion is on.",
+  "provenance": "Headless chromium 390x844 css px dsf2 on smart-upkeep main 8f9438b5 (member/index.html sha256 697bc775, identical to live). Unlocked local scratch clone, push disabled, never pushed. Refer opened from the bottom-bar Refer button; Share never tapped. Math.random seeded in the test browser so the generated referral code (SU-ELEN-8783) is the same across renders; the QR is the page's own. Variants are CSS/DOM injection only: the green reward card is replaced by a hero card (headline \"1 Free Month For Both\"), the Scan To Join QR is folded into a Show QR Code row, code chip, Share + Copy Link and the empty state are live and unchanged. Animated previews are WebP from paused-and-stepped Web Animations frames (80ms). Crop QA: qa/mock-qa.json and qa/deck-qa.json.",
+  "browser_qa": "pending"
+}

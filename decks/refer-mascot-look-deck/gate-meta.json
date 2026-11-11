@@ -1,0 +1,17 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/su-refer-mascot-1111/mocks/01a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/01b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/02a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/02b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/03a.webp",
+    "/workspace/su-refer-mascot-1111/mocks/03b.webp",
+    "/workspace/su-refer-mascot-1111/mocks/04a.jpg",
+    "/workspace/su-refer-mascot-1111/mocks/04b.jpg",
+    "/workspace/su-refer-mascot-1111/mocks/qr-open.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Refer Mascot Look Deck"
+}
