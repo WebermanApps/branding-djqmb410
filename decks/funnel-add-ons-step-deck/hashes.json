@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Ask Once On Your Systems",
+      "sha12": "5ed2d4ce4138"
+    },
+    "B": {
+      "label": "Show In Both, Synced",
+      "sha12": "8edd506e4a83"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One List With Headers",
+      "sha12": "abde7455ecc5"
+    },
+    "B": {
+      "label": "Monthly And One-Time Tabs",
+      "sha12": "97c8f6cfb7d7"
+    }
+  }
+}

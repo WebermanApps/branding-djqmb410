@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-addons-deck-1111/mocks/fa-place-a.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-place-b.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-list-a.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-list-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Add-Ons Step"
+}

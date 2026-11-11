@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-addons-deck-1111/mocks/fa-place-a.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-place-b.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-list-a.jpg",
+    "/workspace/funnel-addons-deck-1111/mocks/fa-list-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "funnel-add-ons-step-deck",
+  "title": "Funnel Add-Ons Step",
+  "short": "Add-Ons Step",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 11 2026 10:14 PM ICT via Grok: talk with team members, discuss edits, publish changes, and make decks for anything on the UpKeep member and funnel apps; short swipe decks for every open taste call, through the full publish gate, live and pinned on Max’s Picks, collapsed by default. Skip anything already answered. Funnel review of main 8f24da1 found Step 4 Add-Ons repeats Irrigation, Sump Pump and Humidifier from Step 3 Your Systems, and lists 26 add-ons in one flat list (Chimney Sweep appears twice, once monthly and once one-time). The state bug (Step 4 toggles do not change the price and do not match Step 3) goes to Develop as a fix; where the rows live and how the long list is laid out are taste calls.",
+  "spec": "spec.md (beside index.html) and /workspace/funnel-addons-deck-1111/out/funnel-add-ons-step-deck/spec.md",
+  "provenance": "Real funnel UI, not drawn mocks: unlocked git-archive copy of smart-upkeep main 8f24da1 (checksum-matched to head, 63/63 html/js/css), served on 127.0.0.1 only, with every external request aborted (no analytics, no Supabase). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q92) and 360x844 (crop QA). Path: Home, Get Started, 123 Main St, Novi 48375, Under 2,000 sq ft, 1 Story, then Step 4 of 9 Add-Ons. Nothing was submitted; no sign-up, no Finish. Card 1 A removes the three rows that Your Systems already asks (Irrigation System, Sump Pump, Whole-House Humidifier) in the DOM only. Card 1 B is the live Add-Ons step with Sump Pump picked on Your Systems and switched on here. Card 2 A splits the live list into the two existing catalog groups with the step’s own Khand label style: Monthly Add-Ons (7) and One-Time Add-Ons (19). Card 2 B reuses the funnel’s own segmented control style (Billing step) for Monthly and One-Time, showing the 7 monthly rows. Names and prices are the live catalog (Machan’s Nov 11 2026 6:08 PM ICT list): Irrigation +$19/mo, Sump Pump and Humidifier +$6/mo, others Quote or Needs A Site Visit. No prices invented. Light only, Khand and Hind, Title Case, no gold added. Plan prices untouched ($139/$209/$379).",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

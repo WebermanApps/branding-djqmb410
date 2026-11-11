@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T21:24:14+07:00",
+ "updated": "2026-11-11T22:31:24+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3182,22 +3182,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "onboarding-flow-deck",
-   "name": "Onboarding Flow Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
-   "total": 5,
-   "answered": 5,
+   "id": "funnel-add-ons-step-deck",
+   "name": "Funnel Add-Ons Step",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-add-ons-step-deck/",
+   "total": 2,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-11T13:32:00+07:00",
-   "added": "2026-11-11T13:45:23+07:00",
-   "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
+   "status": "open",
+   "requested_at": "2026-11-11T22:14:00+07:00",
+   "added": "2026-11-11T22:31:24+07:00",
+   "note": "Nov 11 2026 overnight: Funnel Add-Ons Step. Two cards on Step 4 of the sign-up — ask Irrigation, Sump Pump and Humidifier once on Your Systems vs show them in both synced; one list with Monthly / One-Time headers vs Monthly | One-Time tabs. Real funnel screens from main 8f24da1. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
    "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
-   "agent": "branding",
+   "agent": "upkeep",
    "made": "2026-11-11",
-   "done_at": "2026-11-11T15:58:18+07:00"
+   "blurb": "2 cards, ready now, with Notes"
   },
   {
    "id": "team-improvement-deck-round-four",
@@ -3214,6 +3214,24 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "onboarding-flow-deck",
+   "name": "Onboarding Flow Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
+   "total": 5,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-11T13:32:00+07:00",
+   "added": "2026-11-11T13:45:23+07:00",
+   "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
+   "pinned": true,
+   "new": true,
+   "blurb": "5 cards, ready now, with Notes",
+   "agent": "branding",
+   "made": "2026-11-11",
+   "done_at": "2026-11-11T15:58:18+07:00"
   },
   {
    "id": "extra-equipment-in-the-field-deck-local",
