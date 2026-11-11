@@ -20,7 +20,7 @@
   "title": "Onboarding Flow Deck",
   "short": "Onboarding Flow",
   "status": "published pagelocked; pinned open on Max's Picks",
-  "requested": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: Onboarding Flow Deck for the member sign-up redo. No photo screen; no separate free price visit. Screens: Address, Home Basics (size + stories, both priced), Systems (furnace/AC/water heater −/+ steppers, base 1 each, extras tagged +1, no panel or sensors, labels like AC 1), Add-Ons, Plan with tags (single Tailor Your Plan, no Change link), Billing (founding 2-for-1 shown automatically while spots last, annual 2-for-1 selected by default, monthly the alternative, no 30% and no 24+6), Access, Start Date, Accept (literal [price-confirm line] placeholder). Keep Did You Know. Out-of-area waitlist says Coming Soon with no date. Title Case, no test/demo wording, light mode.",
+  "requested": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: Onboarding Flow Deck for the member sign-up redo. No photo screen; no separate free price visit. Screens: Address, Home Basics (size + stories, both priced), Systems (furnace/AC/water heater −/+ steppers, base 1 each, extras tagged +1, no panel or sensors, labels like AC 1), Add-Ons, Plan with tags (single Tailor Your Plan, no Change link), Billing (founding 2-for-1 shown automatically while spots last, annual 2-for-1 selected by default, monthly the alternative, no 30% and no 24+6), Access, Start Date, Accept (price-confirm line now uses the approved copy). Keep Did You Know. Out-of-area waitlist says Coming Soon with no date. Title Case, no test/demo wording, light mode.",
   "prices": {
     "real_locked_plan": {
       "Essentials": "$139/mo",
@@ -35,7 +35,7 @@
     "not_shown_placeholders_if_needed": "Per-size, per-story, per-system and add-on dollar amounts were not invented and are not shown on the mocks. pricing-config.js does have annual per-unit and extras figures (furnace $184, AC $178, tank water heater $140, gutters by stories, etc.); they are not converted into monthly add-on prices here. If a figure had been required on a stepper, it would have been $ —."
   },
   "copy_rules": {
-    "placeholder": "[price-confirm line] is shown literally; Legal is writing the line.",
+    "price_confirm_line": "Your price is based on your answers. At your first visit, your tech confirms your home's systems. If anything changes your price, you'll see the new price before it applies and can accept it or cancel with no fee.",
     "founding": "Founding Member: 2 Years For The Price Of 1 (annual, default). Monthly is the alternative.",
     "no_offers": "No 30% and no 24+6.",
     "tailor": "Single Tailor Your Plan; no Change link.",
