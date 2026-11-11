@@ -2,40 +2,6 @@
  "agent": "branding",
  "decks": [
   {
-   "id": "home-accents-deck",
-   "name": "Home Accents Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-accents-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T14:32:32+07:00",
-   "note": "Develop, Nov 11 2026 2:29 PM ICT: two Home accents from QA 30dd16fd. Card 1 Next Visit Bar (keep lagoon .nv::before vs remove), card 2 Header Line (keep 3px terracotta #mhTop line vs remove). Real 390px renders of live member Home at 30dd16fd (standard member), same frame + zoom inset both sides; push toast hidden. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T14:29:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "new-member-empty-state-deck",
-   "name": "New Member Empty State",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-member-empty-state-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T14:28:09+07:00",
-   "note": "Develop, Nov 11 2026 2:03 PM ICT: new-member empty state for a household such as Jane & Ed, before the first visit. Real 390px Home, Systems, and Furnace detail from unlocked 69f48980. Cards: mascot placeholder vs quiet chip, Home empty hero, and wording. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T14:03:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "3 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
    "id": "system-icons-deck",
    "name": "System Icons",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/system-icons-deck/",
@@ -49,57 +15,6 @@
    "pinned": true,
    "new": true,
    "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "visit-report-rows-deck",
-   "name": "Visit Report Rows",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-rows-deck/",
-   "total": 2,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T14:28:09+07:00",
-   "note": "Nov 11 2026 2:03 PM ICT: Visit Report item rows and the problem indicator. Terracotta dot+label vs tinted row; compact vs roomy. Keeps box-in-box and Plus Q4 + … title. Real 390px Fall 2026 Plus report from unlocked 69f48980. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T14:03:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "2 cards, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "plan-tile-edge-deck",
-   "name": "Plan Tile Edge",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-tile-edge-deck/",
-   "total": 1,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T14:02:35+07:00",
-   "note": "Develop, Nov 11 2026 1:58 PM ICT: should the lagoon left edge go on every plan tile or Plus only (QA 69f48980 Q1). Real 390px renders of the live Your Plan sheet (69f48980): Plus tile (standard member) + Brett's Complete tile, same two tiles in A and B; B hides the Complete edge via injected CSS. Tiles shown white (F2 not live yet). Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T13:58:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "1 card, ready now, with Notes",
-   "agent": "branding",
-   "made": "2026-11-11"
-  },
-  {
-   "id": "onboarding-flow-deck",
-   "name": "Onboarding Flow Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
-   "total": 5,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "added": "2026-11-11T13:45:23+07:00",
-   "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
-   "requested_at": "2026-11-11T13:32:00+07:00",
-   "pinned": true,
-   "new": true,
-   "blurb": "5 cards, ready now, with Notes",
    "agent": "branding",
    "made": "2026-11-11"
   },
@@ -206,7 +121,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T14:32:32+07:00",
+ "updated": "2026-11-11T16:01:28+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3125,6 +3040,49 @@
    "done_at": "2026-11-11T13:57:30+07:00",
    "answered": 4,
    "total": 4
+  },
+  {
+   "id": "onboarding-flow-deck",
+   "at": "2026-11-11T15:58:18+07:00",
+   "name": "Onboarding Flow Deck",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "home-accents-deck",
+   "name": "Home Accents Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-accents-deck/",
+   "at": "2026-11-11T15:58:59+07:00",
+   "done_at": "2026-11-11T15:58:59+07:00",
+   "answered": 1,
+   "total": 2
+  },
+  {
+   "id": "new-member-empty-state-deck",
+   "name": "New Member Empty State",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/new-member-empty-state-deck/",
+   "at": "2026-11-11T15:53:25+07:00",
+   "done_at": "2026-11-11T15:53:25+07:00",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "visit-report-rows-deck",
+   "name": "Visit Report Rows",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/visit-report-rows-deck/",
+   "at": "2026-11-11T15:57:43+07:00",
+   "done_at": "2026-11-11T15:57:43+07:00",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "plan-tile-edge-deck",
+   "name": "Plan Tile Edge",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plan-tile-edge-deck/",
+   "at": "2026-11-11T15:58:08+07:00",
+   "done_at": "2026-11-11T15:58:08+07:00",
+   "answered": 0,
+   "total": 1
   }
  ],
  "pinned": [
@@ -3155,9 +3113,9 @@
    "name": "Onboarding Flow Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-flow-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-11T13:32:00+07:00",
    "added": "2026-11-11T13:45:23+07:00",
    "note": "Machan via Develop, Nov 11 2026 1:32–1:35 PM ICT: look decisions for the 9-screen sign-up (no photo screen, no free price visit). 5 cards at 390px: systems stepper style, plan card with tags, billing toggle, accept recap, home basics pickers. Locked plan prices $139 / $209 / $379; Due Today $2,508 is 12 × $209. Per-size/story/system amounts not shown. Gate passed, pagelocked.",
@@ -3165,7 +3123,8 @@
    "new": true,
    "blurb": "5 cards, ready now, with Notes",
    "agent": "branding",
-   "made": "2026-11-11"
+   "made": "2026-11-11",
+   "done_at": "2026-11-11T15:58:18+07:00"
   },
   {
    "id": "team-improvement-deck-round-four",
