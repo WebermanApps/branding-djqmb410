@@ -10,7 +10,7 @@
    "tag": "Max's Picks",
    "status": "open",
    "added": "2026-11-11T13:12:42+07:00",
-   "note": "Machan via Develop Nov 11 2026: Billing too airy, add savings note, small persimmon mascot. Real 390px renders of the live Billing sheet (Menu > Profile & Account > Billing, main 8f9438b5) plus CSS/DOM injection. All amounts masked ($ —) until the price is confirmed; 10% pending verification. Gate passed, pagelocked. 4 cards (Layout Density, Savings Note Placement, Mascot Placement And Size, Header Read).",
+   "note": "Machan via Develop Nov 11 2026: Billing too airy, small persimmon mascot; founding member line (first 50 get 2-for-1; one line by status, no 10% note for now). Real 390px renders of the live Billing sheet (Menu > Profile & Account > Billing, main 8f9438b5) plus CSS/DOM injection. All amounts masked ($ —) until the price is confirmed. Gate passed, pagelocked. 4 cards (Layout Density, Founding Member Line, Mascot Placement And Size, Header Read).",
    "requested_at": "2026-11-11T13:01:00+07:00",
    "pinned": true,
    "new": true,

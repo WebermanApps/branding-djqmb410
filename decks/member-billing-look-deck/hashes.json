@@ -11,32 +11,32 @@
   },
   "c2": {
     "A": {
-      "label": "Under The Header",
-      "sha12": "316228d4cde9"
+      "label": "Founding, Pays Annually",
+      "sha12": "b471bae2b89a"
     },
     "B": {
-      "label": "Strip Above Payment",
-      "sha12": "8d53223cf03a"
+      "label": "Founding, Pays Monthly",
+      "sha12": "ed93c1a2e6a6"
     }
   },
   "c3": {
     "A": {
       "label": "Header Corner",
-      "sha12": "126c25b4c911"
+      "sha12": "0987f3576cad"
     },
     "B": {
-      "label": "Beside The Savings Note",
-      "sha12": "83ddd57e04ce"
+      "label": "Beside The Member Line",
+      "sha12": "02a15db1b4ca"
     }
   },
   "c4": {
     "A": {
       "label": "Plan Name Big",
-      "sha12": "13150389cc0c"
+      "sha12": "b3dc862c9eee"
     },
     "B": {
       "label": "Amount Big",
-      "sha12": "5c13e608503e"
+      "sha12": "458bc67f720e"
     }
   }
 }

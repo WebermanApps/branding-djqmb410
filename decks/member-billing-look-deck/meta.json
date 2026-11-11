@@ -18,13 +18,16 @@
   "title": "Member Billing Look Deck",
   "short": "Billing Look",
   "status": "published pagelocked; pinned open on Max's Picks",
-  "requested": "Machan via Develop, Nov 11 2026 ICT: Billing icons too airy (tighter); add savings note (annual: You are saving 10% by paying annually; monthly: Save 10% by paying annually); small branded persimmon mascot on Billing.",
+  "requested": "Machan via Develop, Nov 11 2026 ICT: Billing icons too airy (tighter); small branded persimmon mascot on Billing. Update 1:14 PM ICT: no 10% note for now; founding members (first 50) get 2-for-1 (pay 1 year at full price, get 2 years); each member sees ONE line by status. Later members will see the 10% lines.",
   "pending_verification": {
-    "savings_pct": "10% is pending verification by Develop (pricing-config annualDiscount default 0.10); do not treat as confirmed.",
     "amounts": "Billing $2,670 Annual Care vs Your Plan Plus $209/mo Quarterly conflict; Develop checking. All dollar amounts are masked as $ — in every render. Plus $209/mo is the locked price, still masked here."
   },
-  "payer_type_shown": "annual (this account); monthly wording given in card text only, not rendered",
+  "status_lines": {
+    "founding_annual": "Founding Member: 2 Years For The Price Of 1",
+    "founding_monthly": "Switch to annual: get 2 years for the price of 1 (founding members)",
+    "later_members": "10% lines (not shown in this deck)"
+  },
   "mascot_asset": "/workspace/member-final-1111/app/assets/persimmon-wink.svg (smart-upkeep main 8f9438b5, assets/persimmon-wink.svg, sha256 58eba820..., live https://smartupkeep.ai/assets/persimmon-wink.svg); same asset and 26x22 size as the Member Since mini mascot (commit 26bcd06).",
-  "provenance": "Headless chromium 390x844 css px dsf2 on smart-upkeep main 8f9438b5 (member/index.html sha256 697bc775, identical to live). Unlocked local scratch clone, push disabled, never pushed. Billing reached by clicking Menu > Profile & Account > Billing (iframe in the dock sheet). Every dollar text node masked to $ — (mock asserts none left). Variants are CSS/DOM injection into the billing iframe only: 1A/1B spacing CSS; 2A/2B savings note element (live in-card save line hidden); 3A the real persimmon-wink.svg img at 32x27 in the header corner, 3B at 26x22 beside the savings line; 4A/4B rearranged existing header text. The billing page shows its own Back/logo header and dark left card edges because that is how it renders live today (Profile & Account in-flight PR); left unchanged. Crop QA: qa/mock-qa.json, qa/deck-qa.json.",
+  "provenance": "Headless chromium 390x844 css px dsf2 on smart-upkeep main 8f9438b5 (member/index.html sha256 697bc775, identical to live). Unlocked local scratch clone, push disabled, never pushed. Billing reached by clicking Menu > Profile & Account > Billing (iframe in the dock sheet). Every dollar text node masked to $ — (mock asserts none left). Variants are CSS/DOM injection into the billing iframe only: 1A/1B spacing CSS; 2A/2B replace the live in-card save line text with the founding line plus the real mascot at 26x22 (same spot both sides; 2B is the founding-monthly wording on this annual account screen, clearly labeled); the live 10% line is replaced by the founding annual line in cards 3 and 4 too; 3A the real persimmon-wink.svg img at 32x27 in the header corner, 3B at 26x22 beside the savings line; 4A/4B rearranged existing header text. The billing page shows its own Back/logo header and dark left card edges because that is how it renders live today (Profile & Account in-flight PR); left unchanged. Crop QA: qa/mock-qa.json, qa/deck-qa.json.",
   "browser_qa": "pending"
 }
