@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T22:42:39+07:00",
+ "updated": "2026-11-12T23:05:04+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3254,6 +3254,27 @@
    "name": "What's Included Redo",
    "answered": 7,
    "total": 7
+  },
+  {
+   "id": "floating-bottom-bar-deck",
+   "at": "2026-11-12T23:04:13+07:00",
+   "name": "Floating Bottom Bar Deck",
+   "answered": 6,
+   "total": 6
+  },
+  {
+   "id": "login-button-deck",
+   "at": "2026-11-12T23:04:23+07:00",
+   "name": "Log In Button Deck",
+   "answered": 1,
+   "total": 1
+  },
+  {
+   "id": "fill-the-sections-deck",
+   "at": "2026-11-12T23:00:36+07:00",
+   "name": "Fill The Sections Deck",
+   "answered": 0,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3320,9 +3341,9 @@
    "name": "Floating Bottom Bar Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/floating-bottom-bar-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 6,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:11:00+07:00",
    "added": "2026-11-12T22:21:45+07:00",
    "note": "Nov 12 2026: Floating Bottom Bar. A Reels-like light or cream pill for the Home section bar. Four tabs, labeled Home, Plans, What's Included and Details, plus Get My Quote. Arrow guard on every option. Built from the latest Home stack (boxless Share, no See What's Included on the plan tiles, one-screen phone fit, Home Care, On Schedule). Gate passed, pagelocked.",
@@ -3331,16 +3352,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-12T23:04:13+07:00"
   },
   {
    "id": "login-button-deck",
    "name": "Log In Button Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/login-button-deck/",
    "total": 1,
-   "answered": 0,
+   "answered": 1,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:05:00+07:00",
    "added": "2026-11-12T22:13:49+07:00",
    "note": "Nov 12 2026 10:05 PM ICT: Log In Button. One card on whether Log In keeps its box or becomes plain text like the boxless Share. Real Home header shots at 390 and 1280, with 360 crop QA. Share is boxless in both options. Gate passed, pagelocked.",
@@ -3349,7 +3371,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "1 cards, ready now, with Notes"
+   "blurb": "1 cards, ready now, with Notes",
+   "done_at": "2026-11-12T23:04:23+07:00"
   },
   {
    "id": "fill-the-sections-deck",
@@ -3358,7 +3381,7 @@
    "total": 4,
    "answered": 0,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:01:00+07:00",
    "added": "2026-11-12T22:31:12+07:00",
    "note": "Nov 12 2026: Fill The Sections. Four cards, one per Home section (Top, Plans, What We Take Care Of, Details). A vs B on how big and how long, showing more of the existing content to fill each screen without going past it. New line Home Care, On Schedule. See What's Included off the plan tiles. Boxless Share. Real screens from smart-upkeep main 3a02155f at 390 and 1280, also fitted at 360×640. Gate passed, pagelocked.",
@@ -3367,7 +3390,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "4 cards, ready now, with Notes and Machan Decides"
+   "blurb": "4 cards, ready now, with Notes and Machan Decides",
+   "done_at": "2026-11-12T23:00:36+07:00"
   },
   {
    "id": "daniel-carly-photo-crop-deck",
