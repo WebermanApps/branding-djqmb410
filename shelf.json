@@ -3189,6 +3189,24 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "member-dashboard-look-deck",
+   "name": "Member Dashboard Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-dashboard-look-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T11:31:00+07:00",
+   "added": "2026-11-12T11:44:33+07:00",
+   "note": "Nov 12 2026: Member Dashboard Look. Six bolder directions for member Home on real /member/ screens: hero with stats strip; plan color bands; colored icon chips; plan color top edge; display headers; overall Calm vs Rich. Real screens from smart-upkeep PR67 01d5c37. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "6 cards, ready now, with Notes"
+  },
+  {
    "id": "funnel-finish-deck",
    "name": "Funnel Finish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-finish-deck/",

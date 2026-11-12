@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/mdl-deck-1112/mocks/hero-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/hero-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/bands-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/bands-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/chips-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/chips-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/edge-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/edge-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/heads-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/heads-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/rich-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/rich-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-dashboard-look-deck",
+  "title": "Member Dashboard Look",
+  "short": "Dashboard Look",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 11:31 AM ICT: \"your systems look deck finished. i feel like we still didn't find the look for the dashboard. i think its too plain right now\". Scope (11:35 AM ICT): /member/ screens only. Already answered and not re-asked: one row per type with a grey xN count, trim outline for extras, bigger text at the same tile size, Name Only, Open Icon, Unit Chip Strip with Label Under, Lifted On Cream. Still open in the Your Systems Look deck and not re-asked: one vs two rows, where Items To Watch sits, unit split style.",
+  "spec": "spec.md (beside index.html) and /workspace/mdl-deck-1112/out/member-dashboard-look-deck/spec.md",
+  "provenance": "Real member UI, not drawn mocks: /member/ (Elena, Plus) only, per Machan 11:35 AM ICT. Unlocked git-archive copy of smart-upkeep PR #67 head 01d5c37 (open, latest Your Systems: bigger text and icons at the same tile size), blob-matched to the commit (146/146 files), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted. smart-upkeep main at build time: 99ab403 (PR72 merged); /member/ Home there differs from PR67 only in the Your Systems sizes, so PR67 is used. Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA). Every A is the live screen; every B is a CSS or DOM restyle of the same live content in the browser only. Card 1 Hero: taller photo, stronger cream fade, 40px greeting, stats strip read from the live page at render time (plan ring 2/4, Next Visit Dec 8, 6 systems from the Your Systems tiles). Card 2 Bands: terracotta 14% wash band behind Your Plan and Next Visit, white band behind Visit Reports and Your Systems. Card 3 Chips: Your Systems icons on round chips, lagoon, jungle and terracotta in turn, 2px tinted ring plus tint fill. Card 4 Accent: plan color (Plus terracotta) 5px top edge on every Home card instead of the lagoon left bar on two cards; cards stay lifted on cream. Card 5 Headers: Your Plan, Next Visit, Your Systems and Items To Watch as 19px Khand headers with a small 2px-line icon in a tinted circle and a 2px rule. Card 6 Rich vs Calm: all five B treatments together vs live. No Your Systems Look deck receipt was in the submit inbox, so its three open calls stay as live. No member data, prices, dates or numbers invented or changed; nothing was submitted or written to smart-upkeep.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

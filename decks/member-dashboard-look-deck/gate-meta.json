@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/mdl-deck-1112/mocks/hero-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/hero-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/bands-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/bands-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/chips-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/chips-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/edge-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/edge-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/heads-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/heads-b.jpg",
+    "/workspace/mdl-deck-1112/mocks/rich-a.jpg",
+    "/workspace/mdl-deck-1112/mocks/rich-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Dashboard Look"
+}

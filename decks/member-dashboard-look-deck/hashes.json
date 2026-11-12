@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Hero",
+      "sha12": "195761709273"
+    },
+    "B": {
+      "label": "Big Photo With Stats",
+      "sha12": "143b0676cc5c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Plain Cream",
+      "sha12": "921f836a5c1b"
+    },
+    "B": {
+      "label": "Plan Color Bands",
+      "sha12": "20e883db258b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain Line Icons",
+      "sha12": "a25175964503"
+    },
+    "B": {
+      "label": "Colored Circle Chips",
+      "sha12": "dad3baf0e0af"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Left Bar On Two Cards",
+      "sha12": "3eb80a0af117"
+    },
+    "B": {
+      "label": "Plan Color Top Edge",
+      "sha12": "9dfd8f6af11b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Small Quiet Labels",
+      "sha12": "6ce034f95a91"
+    },
+    "B": {
+      "label": "Display Headers With Icon",
+      "sha12": "1a739bdb7524"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Calm",
+      "sha12": "51acbf42fef0"
+    },
+    "B": {
+      "label": "Rich",
+      "sha12": "7b63d74df7c5"
+    }
+  }
+}
