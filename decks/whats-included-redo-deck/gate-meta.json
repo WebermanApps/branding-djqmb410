@@ -7,10 +7,14 @@
     "/workspace/whats-included-redo-1112/mocks/diff-stack.jpg",
     "/workspace/whats-included-redo-1112/mocks/not-yes.jpg",
     "/workspace/whats-included-redo-1112/mocks/not-no.jpg",
-    "/workspace/whats-included-redo-1112/mocks/add-inside.jpg",
-    "/workspace/whats-included-redo-1112/mocks/add-link.jpg",
+    "/workspace/whats-included-redo-1112/mocks/sump-remove-addon.jpg",
+    "/workspace/whats-included-redo-1112/mocks/sump-remove-included.jpg",
     "/workspace/whats-included-redo-1112/mocks/start-yes.jpg",
-    "/workspace/whats-included-redo-1112/mocks/start-no.jpg"
+    "/workspace/whats-included-redo-1112/mocks/start-no.jpg",
+    "/workspace/whats-included-redo-1112/mocks/ac-hide.jpg",
+    "/workspace/whats-included-redo-1112/mocks/ac-extra.jpg",
+    "/workspace/whats-included-redo-1112/mocks/quote-price.jpg",
+    "/workspace/whats-included-redo-1112/mocks/quote-keep.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",

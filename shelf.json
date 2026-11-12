@@ -3310,19 +3310,19 @@
    "id": "whats-included-redo-deck",
    "name": "What's Included Redo",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/whats-included-redo-deck/",
-   "total": 5,
+   "total": 7,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-11-12T19:14:00+07:00",
    "added": "2026-11-12T19:34:11+07:00",
-   "note": "Nov 12 2026: What's Included Redo. Five cards on the Home Details > What's Included dropdown: plan comparison table vs grouped by system; checklist tabs vs Plus Adds And Complete Adds; a short Not Included list or plans only; paid add-ons inside the section or a link to À La Carte; Starter Visit line or not. Real Home screens from smart-upkeep main 65220fc, facts from Develop audit Section 0. Gate passed, pagelocked.",
+   "note": "Nov 12 2026: What's Included Redo. Seven cards on Home Details: plan comparison table vs grouped by system; checklist tabs vs Plus Adds And Complete Adds; Legal's Not Included list or plans only; sump and humidifier launch blocker (remove the add-on vs remove from included); Starter Visit line or not; À La Carte overlap launch blocker (hide vs label as extra); Radon and Extra Gutter Quote vs real price. Real Home screens from smart-upkeep main 65220fc. Facts from AUDIT.md Section 7 and Legal FINAL filter copy. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "7 cards, ready now, with Notes"
   },
   {
    "id": "funnel-extras-deck",

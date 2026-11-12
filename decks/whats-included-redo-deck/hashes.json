@@ -2,51 +2,71 @@
   "c1": {
     "A": {
       "label": "Plan Comparison Table",
-      "sha12": "a2c19c323f53"
+      "sha12": "440f7bd3f129"
     },
     "B": {
       "label": "Grouped By System",
-      "sha12": "5af7b59c0cbd"
+      "sha12": "5cda991a5246"
     }
   },
   "c2": {
     "A": {
       "label": "Checklist Cards With Tabs",
-      "sha12": "c08b47ec48fd"
+      "sha12": "20a69e834861"
     },
     "B": {
       "label": "Plus Adds And Complete Adds",
-      "sha12": "d6da2435d01b"
+      "sha12": "bb6442f53f1b"
     }
   },
   "c3": {
     "A": {
       "label": "Show Not Included",
-      "sha12": "70f7e1462cf8"
+      "sha12": "a7eef7fd8c3b"
     },
     "B": {
       "label": "Plans Only",
-      "sha12": "27f223032027"
+      "sha12": "f910c038960a"
     }
   },
   "c4": {
     "A": {
-      "label": "Add-Ons Inside The Section",
-      "sha12": "798767dff702"
+      "label": "Remove The Add-On",
+      "sha12": "ccee582651cd"
     },
     "B": {
-      "label": "Link To À La Carte",
-      "sha12": "7ddc93427d87"
+      "label": "Remove From Included, Keep As +$6 Add-On",
+      "sha12": "2454ac5461f3"
     }
   },
   "c5": {
     "A": {
       "label": "Show The Starter Visit Line",
-      "sha12": "0e93ba30dcfe"
+      "sha12": "b4a4c7262bbb"
     },
     "B": {
       "label": "Do Not Show It",
-      "sha12": "e4296ec573ee"
+      "sha12": "12a6c2c0ce4e"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Hide On Plans That Include It",
+      "sha12": "147d78de6160"
+    },
+    "B": {
+      "label": "Label It As Extra",
+      "sha12": "59ccafaa2eb6"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Show Real Price",
+      "sha12": "b5e0603d337d"
+    },
+    "B": {
+      "label": "Keep Quote",
+      "sha12": "e14e5a0b520d"
     }
   }
 }
