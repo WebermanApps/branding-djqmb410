@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T12:03:47+07:00",
+ "updated": "2026-11-12T13:14:55+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3163,6 +3163,34 @@
    "name": "Funnel Add-Ons Step",
    "answered": 2,
    "total": 2
+  },
+  {
+   "id": "funnel-flow-deck",
+   "at": "2026-11-12T13:13:29+07:00",
+   "name": "Funnel Flow",
+   "answered": 3,
+   "total": 6
+  },
+  {
+   "id": "funnel-systems-step-deck",
+   "at": "2026-11-12T13:04:42+07:00",
+   "name": "Funnel Systems Step",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "funnel-home-details-deck",
+   "at": "2026-11-12T12:56:58+07:00",
+   "name": "Funnel Home Details",
+   "answered": 10,
+   "total": 10
+  },
+  {
+   "id": "funnel-finish-deck",
+   "at": "2026-11-12T11:44:40+07:00",
+   "name": "Funnel Finish",
+   "answered": 3,
+   "total": 2
   }
  ],
  "pinned": [
@@ -3229,9 +3257,9 @@
    "name": "Funnel Flow",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-flow-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T11:27:00+07:00",
    "added": "2026-11-12T12:03:47+07:00",
    "note": "Nov 12 2026: Funnel Flow. Six cards: Member Log In spot, Quote-only One-Time rows, progress bar, Back spot, step footer, /watch/ heading. Real screens from smart-upkeep main b26c832. Gate passed, pagelocked.",
@@ -3240,7 +3268,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-12T13:13:29+07:00"
   },
   {
    "id": "funnel-contact-and-sign-up-deck",
@@ -3265,9 +3294,9 @@
    "name": "Funnel Systems Step",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-systems-step-deck/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T11:27:00+07:00",
    "added": "2026-11-12T12:03:47+07:00",
    "note": "Nov 12 2026: Funnel Systems Step. Ten cards on Step 3: one screen or two, step count, water heater type, priced vs included extras, prices on tiles, grouped cards, sticky Next, picked look, grid, row icons. Real screens from smart-upkeep main b26c832. Gate passed, pagelocked.",
@@ -3276,16 +3305,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "10 cards, ready now, with Notes"
+   "blurb": "10 cards, ready now, with Notes",
+   "done_at": "2026-11-12T13:04:42+07:00"
   },
   {
    "id": "funnel-home-details-deck",
    "name": "Funnel Home Details",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-home-details-deck/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T11:27:00+07:00",
    "added": "2026-11-12T12:03:47+07:00",
    "note": "Nov 12 2026: Funnel Home Details. Ten cards on Steps 1 and 2: one screen or two, field order, labels, start values, step icon, tip, service area line, Next state, ZIP width, grouped cards. Real screens from smart-upkeep main b26c832. Gate passed, pagelocked.",
@@ -3294,7 +3324,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "10 cards, ready now, with Notes"
+   "blurb": "10 cards, ready now, with Notes",
+   "done_at": "2026-11-12T12:56:58+07:00"
   },
   {
    "id": "member-and-tech-polish-deck",
@@ -3319,9 +3350,9 @@
    "name": "Funnel Finish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-finish-deck/",
    "total": 2,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T11:24:00+07:00",
    "added": "2026-11-12T11:38:13+07:00",
    "note": "Nov 12 2026: Funnel Finish. Two cards from the full funnel QA walk: picked billing card edge (jungle vs plan color); Annual badges (both vs Limited Offer only). Payment box card removed (settled by Legal copy). Real screens from smart-upkeep main 093ff83. Gate passed, pagelocked.",
@@ -3330,7 +3361,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "2 cards, ready now, with Notes"
+   "blurb": "2 cards, ready now, with Notes",
+   "done_at": "2026-11-12T11:44:40+07:00"
   },
   {
    "id": "your-systems-look-deck",
