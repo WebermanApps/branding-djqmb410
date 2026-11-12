@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current 3-Scene Loop",
+      "sha12": "d822c9570d4d"
+    },
+    "B": {
+      "label": "4-Scene · Still Bucket",
+      "sha12": "7edbab711737"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "4-Scene · Still Bucket",
+      "sha12": "a5ec6581e38f"
+    },
+    "B": {
+      "label": "4-Scene · Filling Bucket",
+      "sha12": "4ad57075cb62"
+    }
+  }
+}

@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T00:27:19+07:00",
+ "updated": "2026-11-13T00:41:55+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3317,6 +3317,24 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "3 cards, ready now, with Notes"
+  },
+  {
+   "id": "hero-loop-deck",
+   "name": "Hero Loop Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/hero-loop-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:30:00+07:00",
+   "added": "2026-11-13T00:41:55+07:00",
+   "note": "Nov 12 2026: Hero Loop. Two cards for the Home top-section 3:4 loop. Current 3-scene (PR99) vs 4-scene still-bucket r2 vs 4-scene filling-bucket r2. Real 335×447 crop at 390, 309.6×384.8 at 360. Loops play in the deck. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "2 cards, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",

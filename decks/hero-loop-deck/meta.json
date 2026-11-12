@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/hero/three.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/still.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/still-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/fill.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "hero-loop-deck",
+  "title": "Hero Loop Deck",
+  "short": "Hero Loop",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Short deck so Machan can pick the Home top-section loop: the current 3-scene (teaser-v7-phone-5svc-3x4.mp4 in PR99) vs the 4-scene still-bucket r2 vs the 4-scene filling-bucket r2. Show each loop playing inside a 390 phone frame at the real crop (object-fit cover 335×447) and check the 360 crop (309.6×384.8). No subject clipped. Notes and Machan Decides on every card. Prefer *-r2.mp4 reframes. Use the r2 poster for both 4-scene options.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/hero-loop-deck/spec.md",
+  "provenance": "Loops from /ops/photos/fill-the-sections/hero-3x4/: teaser-v7-phone-5svc-3x4.mp4 (current 3-scene, also in PR99), teaser-v7-phone-4svc-3x4-r2.mp4 (still bucket), teaser-v7-phone-4svc-3x4-alt-labelmask-r2.mp4 (filling bucket). Poster teaser-v7-phone-4svc-3x4-r2-poster.jpg is used for both 4-scene options; 3-scene uses teaser-v7-phone-3x4-poster.jpg. Own crop QA at 390 (335×447 cover) and 360 (309.6×384.8 cover), plus Video & Photo r2 QA sheets. The 4-scene stills on card 2 use a different frame of the same still-bucket loop so every option hash is unique. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "own crop QA at 390 (335x447 cover) and 360 (309.6x384.8 cover); no subject clipped; r2 bucket in frame"
+}

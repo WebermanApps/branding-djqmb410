@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/hero/three.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/still.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/still-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/hero/fill.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Hero Loop Deck"
+}
