@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Jungle Green Edge",
+      "sha12": "b6f6cc3d8b5f"
+    },
+    "B": {
+      "label": "Plan Color Edge",
+      "sha12": "06c27c3ea379"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep Both Badges",
+      "sha12": "c7d83cc163e1"
+    },
+    "B": {
+      "label": "Limited Offer Only",
+      "sha12": "86ab632599bd"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Looks Ready",
+      "sha12": "861717fa7700"
+    },
+    "B": {
+      "label": "Muted With Opens Soon",
+      "sha12": "a740bcf063c1"
+    }
+  }
+}

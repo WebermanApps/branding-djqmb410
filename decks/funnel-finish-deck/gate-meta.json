@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-finish-deck-1112/mocks/bill-edge-a.jpg",
+    "/workspace/funnel-finish-deck-1112/mocks/bill-edge-b.jpg",
+    "/workspace/funnel-finish-deck-1112/mocks/bill-badge-a.jpg",
+    "/workspace/funnel-finish-deck-1112/mocks/bill-badge-b.jpg",
+    "/workspace/funnel-finish-deck-1112/mocks/pay-box-a.jpg",
+    "/workspace/funnel-finish-deck-1112/mocks/pay-box-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Finish"
+}
