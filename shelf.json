@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T11:38:13+07:00",
+ "updated": "2026-11-12T11:44:03+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3192,19 +3192,19 @@
    "id": "funnel-finish-deck",
    "name": "Funnel Finish",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-finish-deck/",
-   "total": 3,
+   "total": 2,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-11-12T11:24:00+07:00",
    "added": "2026-11-12T11:38:13+07:00",
-   "note": "Nov 12 2026: Funnel Finish. Three cards from the full funnel QA walk: picked billing card edge (jungle vs plan color); Annual badges (both vs Limited Offer only); Payment box before launch (as is vs muted with Opens Soon). Real screens from smart-upkeep main 093ff83. Gate passed, pagelocked.",
+   "note": "Nov 12 2026: Funnel Finish. Two cards from the full funnel QA walk: picked billing card edge (jungle vs plan color); Annual badges (both vs Limited Offer only). Payment box card removed (settled by Legal copy). Real screens from smart-upkeep main 093ff83. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "3 cards, ready now, with Notes"
+   "blurb": "2 cards, ready now, with Notes"
   },
   {
    "id": "your-systems-look-deck",
