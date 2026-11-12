@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/whats-included-redo-1112/mocks/org-table.jpg",
+    "/workspace/whats-included-redo-1112/mocks/org-grouped.jpg",
+    "/workspace/whats-included-redo-1112/mocks/diff-tabs.jpg",
+    "/workspace/whats-included-redo-1112/mocks/diff-stack.jpg",
+    "/workspace/whats-included-redo-1112/mocks/not-yes.jpg",
+    "/workspace/whats-included-redo-1112/mocks/not-no.jpg",
+    "/workspace/whats-included-redo-1112/mocks/add-inside.jpg",
+    "/workspace/whats-included-redo-1112/mocks/add-link.jpg",
+    "/workspace/whats-included-redo-1112/mocks/start-yes.jpg",
+    "/workspace/whats-included-redo-1112/mocks/start-no.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "What's Included Redo"
+}

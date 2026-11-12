@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/whats-included-redo-1112/mocks/org-table.jpg",
+    "/workspace/whats-included-redo-1112/mocks/org-grouped.jpg",
+    "/workspace/whats-included-redo-1112/mocks/diff-tabs.jpg",
+    "/workspace/whats-included-redo-1112/mocks/diff-stack.jpg",
+    "/workspace/whats-included-redo-1112/mocks/not-yes.jpg",
+    "/workspace/whats-included-redo-1112/mocks/not-no.jpg",
+    "/workspace/whats-included-redo-1112/mocks/add-inside.jpg",
+    "/workspace/whats-included-redo-1112/mocks/add-link.jpg",
+    "/workspace/whats-included-redo-1112/mocks/start-yes.jpg",
+    "/workspace/whats-included-redo-1112/mocks/start-no.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "whats-included-redo-deck",
+  "title": "What's Included Redo",
+  "short": "What's Included",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 7:14 PM ICT via Grok: the Home Details > What's Included dropdown on smartupkeep.ai is a \"very weird presentation\" with inaccurate info; redo content and presentation. Facts are from Develop's audit (AUDIT.md Section 0 only). Section 6 Needs Machan is not treated as settled: Starter Visit is a this-or-that card; drone frequency is not stated; mold scan has no frequency and must say Not A Lab Mold Test.",
+  "spec": "spec.md (beside index.html) and /workspace/whats-included-redo-1112/out/whats-included-redo-deck/spec.md",
+  "provenance": "Real Home page UI with What's Included replaced in the open Details accordion: unlocked git-archive copy of smart-upkeep main 65220fcfe24c39a686337ea2e0956c955fced566, checksum-matched 63/63 html/js/css, unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Plan facts are from Develop AUDIT.md Section 0 only (visits 2 / 4 / 12, tune-ups once a year per unit, Winter Freeze Prep, water shut-off under Water, softener salt only if the home has a softener, gutters on Plus spring and fall priced by stories, mold scan not a lab mold test). Section 6 items are not shown as settled. Drone frequency is not stated. Each presentation is a single view, each item once, short list, one CTA (the existing Get Started). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA). Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Plan Comparison Table",
+      "sha12": "a2c19c323f53"
+    },
+    "B": {
+      "label": "Grouped By System",
+      "sha12": "5af7b59c0cbd"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Checklist Cards With Tabs",
+      "sha12": "c08b47ec48fd"
+    },
+    "B": {
+      "label": "Plus Adds And Complete Adds",
+      "sha12": "d6da2435d01b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Show Not Included",
+      "sha12": "70f7e1462cf8"
+    },
+    "B": {
+      "label": "Plans Only",
+      "sha12": "27f223032027"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Add-Ons Inside The Section",
+      "sha12": "798767dff702"
+    },
+    "B": {
+      "label": "Link To À La Carte",
+      "sha12": "7ddc93427d87"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Show The Starter Visit Line",
+      "sha12": "0e93ba30dcfe"
+    },
+    "B": {
+      "label": "Do Not Show It",
+      "sha12": "e4296ec573ee"
+    }
+  }
+}
