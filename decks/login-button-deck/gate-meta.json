@@ -1,0 +1,10 @@
+{
+  "category": "ui-screenshots",
+  "asset_paths": [
+    "/workspace/login-button-deck-1112/mocks/login-a.jpg",
+    "/workspace/login-button-deck-1112/mocks/login-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Log In Button Deck"
+}

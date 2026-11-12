@@ -1,0 +1,19 @@
+{
+  "category": "ui-screenshots",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/login-button-deck-1112/mocks/login-a.jpg",
+    "/workspace/login-button-deck-1112/mocks/login-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "login-button-deck",
+  "title": "Log In Button Deck",
+  "short": "Log In Button",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 10:05 PM ICT, his words: \"i don't like the box around the share and log in button. i def don't like it around the share, the log in i'm 50/50\". Develop is removing the box around Share now. This very short one-card deck asks whether Log In should keep its box, or drop it so Log In is plain text like the boxless Share. Every picture is the real Home header with the boxless Share. A third subtle treatment (a thin underline or a light tint with no border) was considered and left out, because it was not distinct enough from plain text to earn its own side, and the deck is a This-or-That pair. Use Notes if you want a tint or an underline.",
+  "spec": "spec.md (beside index.html) and /workspace/login-button-deck-1112/out/login-button-deck/spec.md",
+  "provenance": "Real Home header, not drawn mocks: unlocked git-archive copy of smart-upkeep main 3a02155ffacb (3a02155, after #90, #93 and #94), official pagelock unlock on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Share is boxless in every option, matching what Develop is shipping; only the Log In treatment differs. The visible lead line was injected to “Home Care, On Schedule”. Captured in the post-van state (Share top left, Log In top right) at 390x844, 360x640 and 1280x800, device-scale 2, prefers-reduced-motion. Each option’s card art is the 390 header-plus-hero crop stacked over the 1280 header-plus-hero crop. 360 frames were crop-checked and kept as reference. Nothing was submitted, paid, finished or sent. Log In, Share, Finish and Send were never clicked.",
+  "browser_qa": "headless chromium crop QA of the real Home header at 390x844, 360x640 and 1280x800 css px dsf2, prefers-reduced-motion, outside traffic blocked; Share boxless and on screen in every option; Log In on screen; no clipped or off-screen app UI text (measured), docW equals viewport; deck HTML crop QA at 390 and 360 with no clipped UI text, docW equals viewport; Begin opens card 1 at 1280 and 390 on decrypted local HTML with no page errors; Finish and Send my picks were never clicked"
+}

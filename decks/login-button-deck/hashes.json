@@ -1,0 +1,12 @@
+{
+  "c1": {
+    "A": {
+      "label": "Keep The Box",
+      "sha12": "6185cc364959"
+    },
+    "B": {
+      "label": "No Box, Plain Text",
+      "sha12": "347ab315540d"
+    }
+  }
+}
