@@ -1,0 +1,575 @@
+{
+ "category": "ui-screenshots",
+ "asset_paths": [
+  "/workspace/signup-fit-1112/mocks/start-a.jpg",
+  "/workspace/signup-fit-1112/mocks/start-b.jpg",
+  "/workspace/signup-fit-1112/mocks/accept-a.jpg",
+  "/workspace/signup-fit-1112/mocks/accept-b.jpg"
+ ],
+ "ui_screenshots": true,
+ "bleed_mode": "edge-safe",
+ "title": "Sign-Up Fit Deck",
+ "measurements": {
+  "start-a@360x640": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 617,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "start-a@360x640-open": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 617,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": [
+    383,
+    557,
+    174,
+    172
+   ]
+  },
+  "start-a@390x844": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 769,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "start-a@390x844-open": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 617,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": [
+    587,
+    761,
+    174,
+    172
+   ]
+  },
+  "start-a@1280x800": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 778,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "start-a@1280x800-open": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 645,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": [
+    599,
+    715,
+    116,
+    114
+   ]
+  },
+  "start-b@360x640": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 613,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "start-b@390x844": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 769,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "start-b@1280x800": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 778,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x640-p1": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 541,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x640-p2": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 462,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x640-p3": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 604,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x640-p4": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 449,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x640-p5": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 372,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@390x844-p1": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 541,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@390x844-p2": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 441,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@390x844-p3": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 561,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@390x844-p4": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 449,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@390x844-p5": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 372,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@1280x800-p1": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 551,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@1280x800-p2": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 486,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@1280x800-p3": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 609,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@1280x800-p4": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 537,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@1280x800-p5": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 412,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-a@360x340-kb-signature": {
+   "page_height": 422,
+   "viewport_height": 340,
+   "viewport_width": 360,
+   "overflow": 82,
+   "content_stack": 401,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": true,
+   "sheet": null
+  },
+  "accept-a@390x500-kb-signature": {
+   "page_height": 500,
+   "viewport_height": 500,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 401,
+   "next_visible": true,
+   "next_label": "Next",
+   "focused_field_visible": true,
+   "sheet": null
+  },
+  "accept-b@360x640": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-b@360x640-recap": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    213,
+    557,
+    344,
+    342,
+    342
+   ]
+  },
+  "accept-b@360x640-agree": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    327,
+    557,
+    230,
+    228,
+    228
+   ]
+  },
+  "accept-b@360x640-charge": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    147,
+    557,
+    410,
+    408,
+    408
+   ]
+  },
+  "accept-b@360x640-sig": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    295,
+    557,
+    262,
+    260,
+    260
+   ]
+  },
+  "accept-b@390x844": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-b@390x844-recap": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    417,
+    761,
+    344,
+    342,
+    342
+   ]
+  },
+  "accept-b@390x844-agree": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    553,
+    761,
+    208,
+    206,
+    206
+   ]
+  },
+  "accept-b@390x844-charge": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    373,
+    761,
+    388,
+    386,
+    386
+   ]
+  },
+  "accept-b@390x844-sig": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    499,
+    761,
+    262,
+    260,
+    260
+   ]
+  },
+  "accept-b@1280x800": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 628,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "accept-b@1280x800-recap": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 628,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    388,
+    715,
+    327,
+    325,
+    325
+   ]
+  },
+  "accept-b@1280x800-agree": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 628,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    507,
+    715,
+    207,
+    205,
+    205
+   ]
+  },
+  "accept-b@1280x800-charge": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 628,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    397,
+    715,
+    318,
+    316,
+    316
+   ]
+  },
+  "accept-b@1280x800-sig": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": 628,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": null,
+   "sheet": [
+    392,
+    715,
+    323,
+    321,
+    321
+   ]
+  },
+  "accept-b@360x340-kb-signature": {
+   "page_height": 619,
+   "viewport_height": 340,
+   "viewport_width": 360,
+   "overflow": 279,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": true,
+   "sheet": null
+  },
+  "accept-b@390x500-kb-signature": {
+   "page_height": 619,
+   "viewport_height": 500,
+   "viewport_width": 390,
+   "overflow": 119,
+   "content_stack": 598,
+   "next_visible": true,
+   "next_label": "Join Now",
+   "focused_field_visible": true,
+   "sheet": null
+  }
+ },
+ "fit_rule": "page height must equal viewport height (no scroll) at 360x640, 390x844 and 1280x800"
+}

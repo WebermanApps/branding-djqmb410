@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T22:34:43+07:00",
+ "updated": "2026-11-12T22:42:39+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3279,6 +3279,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "signup-fit-deck",
+   "name": "Sign-Up Fit Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/signup-fit-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:42:00+07:00",
+   "added": "2026-11-12T22:42:26+07:00",
+   "note": "Nov 12 2026 ICT: Sign-Up Fit. Two cards for the two PR97 sign-up steps that cannot fit one phone screen without cutting content: Start Date on a small phone, and Accept. Real PR97 screens at 360, 390 and 1280, every option measured to fit. Legal text word for word. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "2 cards, ready now, with Notes"
+  },
   {
    "id": "funnel-drop-off-deck",
    "name": "Funnel Drop-Off Deck",

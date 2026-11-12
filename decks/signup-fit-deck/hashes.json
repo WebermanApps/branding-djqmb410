@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Your First Visit Behind A Tap",
+      "sha12": "f498a13684d0"
+    },
+    "B": {
+      "label": "Two-Week Strip, Box Open",
+      "sha12": "07de677f2ad6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One Block Per Screen",
+      "sha12": "1c866a1157d9"
+    },
+    "B": {
+      "label": "Tap-To-Open Boxes",
+      "sha12": "7f5831045e97"
+    }
+  }
+}
