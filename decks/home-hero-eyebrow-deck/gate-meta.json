@@ -1,14 +1,14 @@
 {
   "category": "ui-phone-mockups",
   "asset_paths": [
-    "/workspace/hero-popup-badge-1112/mocks/he-size-a.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-size-b.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-weight-a.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-weight-b.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-gap-a.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-gap-b.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-badge-a.jpg",
-    "/workspace/hero-popup-badge-1112/mocks/he-badge-b.jpg"
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-size-a.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-size-b.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-weight-a.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-weight-b.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-gap-a.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-gap-b.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-badge-a.jpg",
+    "/workspace/hero-eyebrow-remake-1112/mocks/he-badge-b.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",

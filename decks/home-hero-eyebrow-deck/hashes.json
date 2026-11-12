@@ -2,41 +2,41 @@
   "c1": {
     "A": {
       "label": "Small Title Case",
-      "sha12": "c58e41593d99"
+      "sha12": "61c2592ce739"
     },
     "B": {
       "label": "Larger Title Case",
-      "sha12": "79ec2f29be9b"
+      "sha12": "7e58c4d209e6"
     }
   },
   "c2": {
     "A": {
-      "label": "Regular",
-      "sha12": "d4ecac171772"
+      "label": "Full Headline, Bold",
+      "sha12": "ac2ed7828371"
     },
     "B": {
-      "label": "Bold",
-      "sha12": "dc30abcf2b5a"
+      "label": "Slightly Smaller",
+      "sha12": "610cfa1911e4"
     }
   },
   "c3": {
     "A": {
       "label": "Tight",
-      "sha12": "f7e5245e2e8f"
+      "sha12": "30e3c72548df"
     },
     "B": {
       "label": "Roomier",
-      "sha12": "6c023cb6318f"
+      "sha12": "65e2b16c12e2"
     }
   },
   "c4": {
     "A": {
       "label": "Keep As Is",
-      "sha12": "f2247827ceeb"
+      "sha12": "4ef3b93222e6"
     },
     "B": {
-      "label": "Match The Hero",
-      "sha12": "6ad18b35396e"
+      "label": "Match The New Hero",
+      "sha12": "84fd9179e1a5"
     }
   }
 }
