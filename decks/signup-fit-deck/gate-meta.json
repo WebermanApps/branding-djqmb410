@@ -4,7 +4,9 @@
   "/workspace/signup-fit-1112/mocks/start-a.jpg",
   "/workspace/signup-fit-1112/mocks/start-b.jpg",
   "/workspace/signup-fit-1112/mocks/accept-a.jpg",
-  "/workspace/signup-fit-1112/mocks/accept-b.jpg"
+  "/workspace/signup-fit-1112/mocks/accept-b.jpg",
+  "/workspace/signup-fit-1112/mocks/onetime-a.jpg",
+  "/workspace/signup-fit-1112/mocks/onetime-b.jpg"
  ],
  "ui_screenshots": true,
  "bleed_mode": "edge-safe",
@@ -568,6 +570,72 @@
    "next_visible": true,
    "next_label": "Join Now",
    "focused_field_visible": true,
+   "sheet": null
+  },
+  "onetime-base@360x640": {
+   "page_height": 688,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 48,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "onetime-base@390x844": {
+   "page_height": 844,
+   "viewport_height": 844,
+   "viewport_width": 390,
+   "overflow": 0,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "onetime-base@1280x800": {
+   "page_height": 800,
+   "viewport_height": 800,
+   "viewport_width": 1280,
+   "overflow": 0,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "onetime-a@360x640": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "onetime-a@360x640-scrolled": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
+   "sheet": null
+  },
+  "onetime-b@360x640": {
+   "page_height": 640,
+   "viewport_height": 640,
+   "viewport_width": 360,
+   "overflow": 0,
+   "content_stack": null,
+   "next_visible": true,
+   "next_label": "SKIP FOR NOW",
+   "focused_field_visible": null,
    "sheet": null
   }
  },

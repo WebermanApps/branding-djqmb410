@@ -6,7 +6,9 @@
     "/workspace/signup-fit-1112/mocks/start-a.jpg",
     "/workspace/signup-fit-1112/mocks/start-b.jpg",
     "/workspace/signup-fit-1112/mocks/accept-a.jpg",
-    "/workspace/signup-fit-1112/mocks/accept-b.jpg"
+    "/workspace/signup-fit-1112/mocks/accept-b.jpg",
+    "/workspace/signup-fit-1112/mocks/onetime-a.jpg",
+    "/workspace/signup-fit-1112/mocks/onetime-b.jpg"
   ],
   "agent": "upkeep",
   "submit_agent": "upkeep",
@@ -16,7 +18,7 @@
   "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
   "requested": "Machan, Nov 12 2026 10:07 PM ICT: on phone, \"everything to fit on one screen at a time\" and \"avoid scrolling unless they click something\". Anything that can't fit without cutting content comes to him as a deck. Develop's smart-upkeep PR97 (one-screen sign-up, head 27afbc58) fits every step except two: Start Date at 360x640 (779 vs 640 px) and Accept (about 1,690 px at every size). This two-card deck shows two real ways to fit each one, on the PR97 build. Legal's First Visit text and all consent and checkbox text stay word for word (tucked behind a tap at most, never cut). Prices unchanged.",
   "spec": "spec.md (beside index.html) and /workspace/signup-fit-1112/out/signup-fit-deck/spec.md",
-  "provenance": "Real PR97 screens, not drawn mocks: git archive of smart-upkeep PR97 head 27afbc58fa84 into a mode-700 folder, official pagelock unlock on that copy only (hashes match Develop: app.js 560ca6c5, onboarding.css 80442fbf, locked index 98511595), served on 127.0.0.1 with every outside request aborted (Google Fonts CSS answered locally with the same Khand and Hind files). Each option is CSS and DOM overrides injected at runtime: blocks move, resize or tuck behind a tap; no words are written, edited or cut (verified per option by comparing every First Visit, price, consent, checkbox, Member Agreement, beta-payment and payment string to the untouched step). Share is shown boxless, matching #96 on Home. Captured at 360x640, 390x844 (device-scale 2) and 1280x800, prefers-reduced-motion, sample answers Plus, Annual Founding 2-For-1, first visit Fri, Nov 20, 2026. Keyboard checks: Type signature field focused at 360x340 and 390x500 visible area. Join Now stayed disabled and was never clicked; nothing was submitted, paid, finished or sent.",
+  "provenance": "Real PR97 screens, not drawn mocks: git archive of smart-upkeep PR97 head 27afbc58fa84 into a mode-700 folder, official pagelock unlock on that copy only (hashes match Develop: app.js 560ca6c5, onboarding.css 80442fbf, locked index 98511595), served on 127.0.0.1 with every outside request aborted (Google Fonts CSS answered locally with the same Khand and Hind files). Each option is CSS and DOM overrides injected at runtime: blocks move, resize or tuck behind a tap; no words are written, edited or cut (verified per option by comparing every First Visit, price, consent, checkbox, Member Agreement, beta-payment and payment string to the untouched step). Share is shown boxless, matching #96 on Home. Captured at 360x640, 390x844 (device-scale 2) and 1280x800, prefers-reduced-motion, sample answers Plus, Annual Founding 2-For-1, first visit Fri, Nov 20, 2026. Keyboard checks: Type signature field focused at 360x340 and 390x500 visible area. Join Now stayed disabled and was never clicked; nothing was submitted, paid, finished or sent. Card 3 (Add-Ons One-Time) was recaptured from a git archive of origin/main 27e48b1b (pagelock check exit 0; locked index 36f58481, app.js 9135458c, onboarding.css de3a3684) on the existing unlocked copy, same local-serve method. Options are CSS/DOM only; Legal Need More and Did You Know lines were verified word for word.",
   "browser_qa": "headless chromium on the unlocked PR97 copy at 360x640, 390x844 (dsf2) and 1280x800, prefers-reduced-motion, outside traffic blocked; every option and every open/sub-screen state measured: page height equals the screen (no scroll), Next or Join Now on screen, no clipped or off-screen text; keyboard on the Type signature field at 360x340 and 390x500 keeps Next/Join Now and the field visible; legal strings word for word (verify.json); deck HTML crop QA at 390 and 360, Begin opens card 1 at 1280 and 390; Join Now, Finish and Send my picks were never clicked",
   "measurements": {
     "start-a@360x640": {
@@ -577,6 +579,72 @@
       "next_visible": true,
       "next_label": "Join Now",
       "focused_field_visible": true,
+      "sheet": null
+    },
+    "onetime-base@360x640": {
+      "page_height": 688,
+      "viewport_height": 640,
+      "viewport_width": 360,
+      "overflow": 48,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
+      "sheet": null
+    },
+    "onetime-base@390x844": {
+      "page_height": 844,
+      "viewport_height": 844,
+      "viewport_width": 390,
+      "overflow": 0,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
+      "sheet": null
+    },
+    "onetime-base@1280x800": {
+      "page_height": 800,
+      "viewport_height": 800,
+      "viewport_width": 1280,
+      "overflow": 0,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
+      "sheet": null
+    },
+    "onetime-a@360x640": {
+      "page_height": 640,
+      "viewport_height": 640,
+      "viewport_width": 360,
+      "overflow": 0,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
+      "sheet": null
+    },
+    "onetime-a@360x640-scrolled": {
+      "page_height": 640,
+      "viewport_height": 640,
+      "viewport_width": 360,
+      "overflow": 0,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
+      "sheet": null
+    },
+    "onetime-b@360x640": {
+      "page_height": 640,
+      "viewport_height": 640,
+      "viewport_width": 360,
+      "overflow": 0,
+      "content_stack": null,
+      "next_visible": true,
+      "next_label": "SKIP FOR NOW",
+      "focused_field_visible": null,
       "sheet": null
     }
   }

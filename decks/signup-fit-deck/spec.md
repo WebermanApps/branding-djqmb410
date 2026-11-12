@@ -1,6 +1,6 @@
 # Sign-Up Fit Deck
 
-Develop’s one-screen sign-up fits every step except two. Each card shows two real ways to fit one of them on one screen, built on that update. Legal’s text stays word for word, with nothing cut, and prices are unchanged. Pick one per card, or tap Machan Decides, and use Notes for anything to tweak.
+Develop’s one-screen sign-up fits every step except two, plus a leftover on Add-Ons One-Time at 360. Each card shows two real ways to fit one of them on one screen. Legal’s text stays word for word, with nothing cut, and prices are unchanged. Pick one per card, or tap Machan Decides, and use Notes for anything to tweak.
 
 Requested: Machan, Nov 12 2026 10:07 PM ICT: on phone, "everything to fit on one screen at a time" and "avoid scrolling unless they click something". Anything that can't fit without cutting content comes to him as a deck. Develop's smart-upkeep PR97 (one-screen sign-up, head 27afbc58) fits every step except two: Start Date at 360x640 (779 vs 640 px) and Accept (about 1,690 px at every size). This two-card deck shows two real ways to fit each one, on the PR97 build. Legal's First Visit text and all consent and checkbox text stay word for word (tucked behind a tap at most, never cut). Prices unchanged.
 
@@ -17,6 +17,12 @@ The Accept step is about 1,000 px too tall on every screen. Which way should it 
 Today Accept stacks the summary, the Payments During Beta box, both consent checkboxes, the signature pad and the Payment box, about 1,690 px tall. Nothing is cut in either option, and Join Now stays off until sign-up opens.
 - A · One Block Per Screen: Five short screens with Next: summary, Member Agreement, Payments During Beta, Signature, then Payment with Join Now.
 - B · Tap-To-Open Boxes: One screen of rows: Due Today, Member Agreement, Payments During Beta and Signature. Each opens its full text over the page. Join Now sits in the bottom bar.
+
+### Add-Ons One-Time On A Small Phone
+On a small phone, the Add-Ons One-Time tab runs about 48 px past the screen and clips Did You Know. Which way should it fit?
+Today on a small phone (360 x 640), the four priced items, Legal's Need More line, and Did You Know stack to about 688 px on a 640 px screen, so Did You Know sits under the bar. Monthly already fits, and One-Time already fits on regular phones and desktop. Legal's Need More line stays word for word in both options.
+- A · List Scrolls, Tip Stays: Today's typography stays. The One-Time items scroll, with Legal's Need More line a short scroll away. Did You Know stays in view above the bar, word for word.
+- B · Tighter Spacing, Everything On Screen: Slightly tighter rows and type so the items, Legal's Need More line, and Did You Know all fit on one small-phone screen, with nothing tucked away.
 
 ## Facts
 Source: real smart-upkeep PR97 head 27afbc58fa84, unlocked git-archive copy, local serve, outside traffic blocked.
@@ -64,5 +70,11 @@ Every option fits one screen at 360x640 and 390x844, and at 1280x800. Measured p
 - accept-b@1280x800-sig: 800 of 800 px, Next visible True
 - accept-b@360x340-kb-signature: 619 of 340 px, Next visible True, focused field visible True
 - accept-b@390x500-kb-signature: 619 of 500 px, Next visible True, focused field visible True
+- onetime-base@360x640: 688 of 640 px, Next visible True
+- onetime-base@390x844: 844 of 844 px, Next visible True
+- onetime-base@1280x800: 800 of 800 px, Next visible True
+- onetime-a@360x640: 640 of 640 px, Next visible True
+- onetime-a@360x640-scrolled: 640 of 640 px, Next visible True
+- onetime-b@360x640: 640 of 640 px, Next visible True
 Legal First Visit, consent, checkbox and price text verified word for word in every option (verify.json).
 

@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T23:05:04+07:00",
+ "updated": "2026-11-12T23:37:09+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3304,7 +3304,7 @@
    "id": "signup-fit-deck",
    "name": "Sign-Up Fit Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/signup-fit-deck/",
-   "total": 2,
+   "total": 3,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
@@ -3316,7 +3316,7 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "2 cards, ready now, with Notes"
+   "blurb": "3 cards, ready now, with Notes"
   },
   {
    "id": "funnel-drop-off-deck",

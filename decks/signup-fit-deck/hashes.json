@@ -18,5 +18,15 @@
       "label": "Tap-To-Open Boxes",
       "sha12": "7f5831045e97"
     }
+  },
+  "c3": {
+    "A": {
+      "label": "List Scrolls, Tip Stays",
+      "sha12": "84cfdf4d433f"
+    },
+    "B": {
+      "label": "Tighter Spacing, Everything On Screen",
+      "sha12": "2e24754f722c"
+    }
   }
 }
