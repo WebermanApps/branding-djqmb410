@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Set From The Filter Type",
+      "sha12": "dd55870bec98"
+    },
+    "B": {
+      "label": "Tech Sets A Custom Interval",
+      "sha12": "03dee1d06c1c"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Chip On The Furnace Row",
+      "sha12": "2fdb4ca41aa2"
+    },
+    "B": {
+      "label": "Dot And Line Under Next Visit",
+      "sha12": "97b83079c1cc"
+    }
+  }
+}

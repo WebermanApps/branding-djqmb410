@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/filter-reminder-reask-1112/mocks/int-type.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/int-custom.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/look-chip.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/look-dot.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "filter-reminder-reask-deck",
+  "title": "Filter Reminder Re-Ask Deck",
+  "short": "Filter Reminder Re-Ask",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026, via the Member Reminders deck: skipped Filter Reminder Interval (note: \"we will customize is based on their filter\") and Filter Change Due Card Look (note: \"maybe like a small attachment somewhere, nothing too loud\"). Develop asked for a short re-ask of those two skipped cards. Interval ranges follow Legal's FAQ: about every 1 to 3 months for standard 1-inch filters, and about every 6 to 12 months for 4- to 5-inch media filters. Legal's FINAL filter copy (7:39 PM, revised) is used word for word.",
+  "spec": "spec.md (beside index.html) and /workspace/filter-reminder-reask-1112/out/filter-reminder-reask-deck/spec.md",
+  "provenance": "Real /member/ dashboard UI with proposed quiet reminder attachments injected: unlocked git-archive copy of smart-upkeep main 74f4de348d24825a3e8e754b78f40cc82e2abef0, checksum-matched 64/64 html/js/css (mismatch 0), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Only /member/ was used (brett, weberman and kugel copies ignored). Filter wording is Legal's FINAL filter and reminder copy (7:39 PM, revised), word for word, including “We check your furnace filter every visit and change it when it's due.” and the card title “Filter Change Due”. Interval ranges match Legal's FAQ (1-inch about every 1–3 months; 4–5 inch about every 6–12 months), not single 2-month or 9-month numbers. Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA). Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport; quiet attachments stay on the /member/ home"
+}

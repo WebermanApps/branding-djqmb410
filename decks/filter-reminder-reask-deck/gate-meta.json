@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/filter-reminder-reask-1112/mocks/int-type.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/int-custom.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/look-chip.jpg",
+    "/workspace/filter-reminder-reask-1112/mocks/look-dot.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Filter Reminder Re-Ask Deck"
+}
