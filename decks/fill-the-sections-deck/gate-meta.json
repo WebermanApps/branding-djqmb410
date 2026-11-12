@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/fill-sections-1112/mocks/top-a.jpg",
+    "/workspace/fill-sections-1112/mocks/top-b.jpg",
+    "/workspace/fill-sections-1112/mocks/plans-a.jpg",
+    "/workspace/fill-sections-1112/mocks/plans-b.jpg",
+    "/workspace/fill-sections-1112/mocks/ww-a.jpg",
+    "/workspace/fill-sections-1112/mocks/ww-b.jpg",
+    "/workspace/fill-sections-1112/mocks/details-a.jpg",
+    "/workspace/fill-sections-1112/mocks/details-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Fill The Sections Deck"
+}

@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Larger Type, Short Line",
+      "sha12": "acf944cc57b1"
+    },
+    "B": {
+      "label": "Bigger Photo, Longer Line",
+      "sha12": "69e9068856e8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Larger Type, Shorter List",
+      "sha12": "d392ba72e376"
+    },
+    "B": {
+      "label": "Longer List, Full Cards",
+      "sha12": "e9ecae19e202"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Bigger Tiles, One Extra Line",
+      "sha12": "1cd91539e1ca"
+    },
+    "B": {
+      "label": "Bigger Tiles, Longer Lists",
+      "sha12": "ae53b4c67356"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Larger Rows, À La Carte Open",
+      "sha12": "3505ddaa0eeb"
+    },
+    "B": {
+      "label": "Larger Rows, À La Carte And Refund Open",
+      "sha12": "f5eeee91f5ff"
+    }
+  }
+}

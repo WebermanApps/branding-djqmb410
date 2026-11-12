@@ -1,0 +1,389 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/fill-sections-1112/mocks/top-a.jpg",
+    "/workspace/fill-sections-1112/mocks/top-b.jpg",
+    "/workspace/fill-sections-1112/mocks/plans-a.jpg",
+    "/workspace/fill-sections-1112/mocks/plans-b.jpg",
+    "/workspace/fill-sections-1112/mocks/ww-a.jpg",
+    "/workspace/fill-sections-1112/mocks/ww-b.jpg",
+    "/workspace/fill-sections-1112/mocks/details-a.jpg",
+    "/workspace/fill-sections-1112/mocks/details-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "fill-the-sections-deck",
+  "title": "Fill The Sections Deck",
+  "short": "Fill The Sections",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 10:01–10:06 PM ICT, his words: \"now that we separated it into sections, we should fill the space the section gives us. we have wasted space in every section now\"; \"we want to keep the same info, we can just show more of it\"; \"in what we take care of, we can have bigger tiles\" / \"with longer list\"; \"don't go beyond the size of the screen but use the space\"; \"each section could be optimized for space\"; \"Catch Small Problems Early\" becomes \"Home Care, On Schedule\"; remove \"See What's Included\" from the plan tiles, since \"See What We Take Care Of\" sits just below them. Top priority deck, ahead of the other funnel improvement decks. Four cards, one per Home section, A vs B on how big and how long. Real screenshots of the live four-section Home at 390 and 1280. Notes and Machan Decides on every card.",
+  "spec": "spec.md (beside index.html) and /workspace/fill-sections-1112/out/fill-the-sections-deck/spec.md",
+  "provenance": "Real Home UI, not drawn mocks: unlocked git-archive copy of smart-upkeep main 3a02155f (live Home from the #90/#93/#89/#94 stack; later main 1800ae2 only hides the You're In Your Home card and does not change Home). Checksum-matched to that commit, unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Options are CSS or DOM overrides on the local unlocked copy only: one-viewport section height, larger existing content, longer existing lists, boxless Share, no See What's Included on plan tiles, and the new short lead Home Care, On Schedule. Plan lines are from the Legal-approved Home key points and existing What We Take Care Of / feature labels; And More is kept. No Street View. Headless Chromium at 390×844 (deck images, dsf 2, JPEG q90) and 360×640 plus 1280×800 (fit and crop QA). Section height vs viewport is recorded for every option at all three sizes. Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x640 css px dsf2, plus 1280x800; prefers-reduced-motion; deck images are cream-stacked 390 phone + 1280 desktop (JPEG q90); no clipped or off-screen deck or Home UI text at 390 or 360 (measured), docW equals viewport; every option section height equals the usable viewport (vh − header) at 360x640, 390x844 and 1280x800; arrows stay clear of the sticky Get Started bar and tab bar; À La Carte is the only inner scroll",
+  "section_measurements": {
+    "today_from_develop_MEASUREMENTS_md": {
+      "commit": "3a02155f",
+      "measured_at": "2026-11-12T22:10:00+07:00",
+      "usable": {
+        "360x640": 568,
+        "390x844": 772,
+        "1280x800": 720
+      },
+      "today": {
+        "hs-top": {
+          "360x640": {
+            "sectionH": 608.7,
+            "overflow": 40.7
+          },
+          "390x844": {
+            "sectionH": 772,
+            "empty_under_badges": 136
+          },
+          "1280x800": {
+            "sectionH": 720
+          }
+        },
+        "hs-plans": {
+          "360x640": {
+            "sectionH": 653.1,
+            "overflow": 85.1
+          },
+          "390x844": {
+            "sectionH": 772,
+            "empty_under_dots": 122
+          },
+          "1280x800": {
+            "sectionH": 720
+          }
+        },
+        "hs-ww": {
+          "tiles_today": "260x140 with 3 lines; room for about 4 more",
+          "360x640": {
+            "sectionH": 568
+          },
+          "390x844": {
+            "sectionH": 772
+          },
+          "1280x800": {
+            "sectionH": 720
+          }
+        },
+        "hs-details": {
+          "empty_under_accordions": {
+            "360x640": 286,
+            "390x844": 490,
+            "1280x800": 270
+          }
+        }
+      }
+    },
+    "options": [
+      {
+        "option": "top-a",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 379,
+            "gap": 4.6,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 585,
+            "gap": 2.6,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 531,
+            "gap": -10,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "top-b",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 379,
+            "gap": 4.6,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 585,
+            "gap": 2.6,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 531,
+            "gap": -10,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "plans-a",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 379,
+            "gap": 0,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 583,
+            "gap": 0,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 537.7,
+            "gap": -10,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "plans-b",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 379,
+            "gap": 0,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 583,
+            "gap": 0,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 567.5,
+            "gap": -10,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "ww-a",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 381.3,
+            "gap": 1.1,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 585.3,
+            "gap": 1.1,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 537,
+            "gap": -8.7,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "ww-b",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 381.3,
+            "gap": 1.1,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 585.3,
+            "gap": 1.1,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 537,
+            "gap": -8.7,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "details-a",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 421.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 625.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 569.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      },
+      {
+        "option": "details-b",
+        "sizes": {
+          "360x640": {
+            "sectionH": 568,
+            "avail": 568,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 421.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 72
+          },
+          "390x844": {
+            "sectionH": 772,
+            "avail": 772,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 625.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 72
+          },
+          "1280x800": {
+            "sectionH": 720,
+            "avail": 720,
+            "fits": true,
+            "fill": 100,
+            "overflow": 0,
+            "contentH": 569.6,
+            "gap": null,
+            "clear": true,
+            "hdrH": 80
+          }
+        }
+      }
+    ]
+  }
+}
