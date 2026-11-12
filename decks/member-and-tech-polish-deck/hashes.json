@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Sentence Case",
+      "sha12": "53df09b4550a"
+    },
+    "B": {
+      "label": "Title Case Rows",
+      "sha12": "9445fa2f7c10"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Charcoal",
+      "sha12": "5339b996302c"
+    },
+    "B": {
+      "label": "Terracotta",
+      "sha12": "df15a7969e42"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Typewriter Font",
+      "sha12": "c5abfbf461cf"
+    },
+    "B": {
+      "label": "Khand",
+      "sha12": "16fcefce3ecb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Lowercase Captions",
+      "sha12": "b14f0833a3c2"
+    },
+    "B": {
+      "label": "Title Case Captions",
+      "sha12": "5e0ab4b4c726"
+    }
+  }
+}

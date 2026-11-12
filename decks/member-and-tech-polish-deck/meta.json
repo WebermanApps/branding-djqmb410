@@ -1,0 +1,25 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/mtp-deck-1112/mocks/rows-a.jpg",
+    "/workspace/mtp-deck-1112/mocks/rows-b.jpg",
+    "/workspace/mtp-deck-1112/mocks/send-a.jpg",
+    "/workspace/mtp-deck-1112/mocks/send-b.jpg",
+    "/workspace/mtp-deck-1112/mocks/code-a.jpg",
+    "/workspace/mtp-deck-1112/mocks/code-b.jpg",
+    "/workspace/mtp-deck-1112/mocks/cap-a.jpg",
+    "/workspace/mtp-deck-1112/mocks/cap-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-and-tech-polish-deck",
+  "title": "Member And Tech Polish",
+  "short": "Member Polish",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 11:24 AM ICT via Grok: review the member app and the tech app for outdated info, branding and anything else to update; taste questions become short decks. Scope narrowed 11:35 AM ICT: member app means /member/ only; tech and the other member pages wait for \"send out across all apps\". Already answered and not re-asked: Current Composer (Ask Anything, Nov 11); Done Count and Terracotta Dot And Label for report rows; Soft Tint Pills, Edge, Extra Safe for Next Visit pills; Glanceable Stats, One Share Button and Mascot hero for Refer; Title Case for headings, buttons and labels (standing rule); plan colors; empty-field wording.",
+  "spec": "spec.md (beside index.html) and /workspace/mtp-deck-1112/out/member-and-tech-polish-deck/spec.md",
+  "provenance": "Real member UI, not drawn mocks: unlocked git-archive copy of smart-upkeep main 0d961ab (includes PR68, PR70, PR71, PR72), checksum-matched to the commit (63/63 html/js/css), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted. Every frame is /member/ (Elena) only, per Machan Nov 12 11:35 AM ICT. Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q92) and 360x844 (crop QA). Card 1: Next Visit sheet, What We Will Do. A is live (sentence case); B recases the same seven live rows to Title Case in the DOM, no words changed. Card 2: Tailor Your Plan, One-Time Add-Ons opened, Exterior Window Washing already added on the live record. A is live (charcoal Added pill); B is CSS only (terracotta #C1502E). Nothing was tapped to add or remove. Card 3: Refer A Neighbor sheet. A is live (code in ui-monospace); B is CSS only (same code set in Khand). Card 4: member Home. A is live (\"this year\", \"15 reports\"); B recases those two live captions in the DOM (\"This Year\", \"15 Reports\"). No member data or prices invented or changed; nothing was submitted or written.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

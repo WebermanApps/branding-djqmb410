@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T11:49:08+07:00",
+ "updated": "2026-11-12T11:49:48+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3188,6 +3188,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "member-and-tech-polish-deck",
+   "name": "Member And Tech Polish",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-and-tech-polish-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T11:24:00+07:00",
+   "added": "2026-11-12T11:49:48+07:00",
+   "note": "Nov 12 2026: Member And Tech Polish. Four cards from the member app audit, /member/ screens only: checklist rows case; Added button color; referral code font; small captions case. Real screens from smart-upkeep main 0d961ab. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "4 cards, ready now, with Notes"
+  },
   {
    "id": "your-systems-trim-deck",
    "name": "Your Systems Trim",
