@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/ys-trim-1112/mocks/ys-trim-none.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-extras.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "your-systems-trim-deck",
+  "title": "Your Systems Trim",
+  "short": "Your Systems Trim",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 11:38 to 11:39 AM ICT via Grok, on the Your Systems tile on /member/: \"maybe the way to fix the 'your systems' section is a very very subtle gold trim around the box, but i think that might be off brand\" ... \"and i still do think there is too much space\" ... \"and that the text is too small\". Gold is retired, so the deck tests brand-tone trims. Tightening the empty space and making system names, counts, and the Your Systems heading match other section headings ship in every picture and are not taste calls.",
+  "spec": "spec.md (beside index.html) and /workspace/ys-trim-1112/out/your-systems-trim-deck/spec.md",
+  "provenance": "Real member UI, not drawn mocks: unlocked git-archive copy of smart-upkeep main b26c832 (Merge pull request #73 from WebermanApps/home-details-icons-1112), checksum-matched to the commit (63/63 html/js/css), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files). /member/ Home only (Elena). Every frame already uses the tightened tile (less padding and gaps), larger system names (13.5px) and counts (13px), and a Your Systems heading matched to other member section titles (700 1.15rem/1.2 Khand, #3a352e). The only difference between A and B is the trim. Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q92) and 360x844 (crop QA). The house-hero photograph on /member/ was hidden in every frame (it is being removed) and does not appear in the mocks. CSS-only restyles in Chromium; no member data or prices invented or changed; nothing was submitted or written.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

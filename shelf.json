@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T11:44:03+07:00",
+ "updated": "2026-11-12T11:49:08+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3188,6 +3188,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "your-systems-trim-deck",
+   "name": "Your Systems Trim",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/your-systems-trim-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T11:38:00+07:00",
+   "added": "2026-11-12T11:49:08+07:00",
+   "note": "Nov 12 2026: Your Systems Trim. Two cards on a trim around the Your Systems card on member Home: no trim vs a very faint warm sand line; faint sand vs the extras trim line. Every picture already uses the tighter spacing, larger system names and counts, and a heading that matches the other section titles. Real screens from smart-upkeep main b26c832. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "2 cards, ready now, with Notes"
+  },
   {
    "id": "member-dashboard-look-deck",
    "name": "Member Dashboard Look",

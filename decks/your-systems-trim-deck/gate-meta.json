@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/ys-trim-1112/mocks/ys-trim-none.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
+    "/workspace/ys-trim-1112/mocks/ys-trim-extras.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Your Systems Trim"
+}
