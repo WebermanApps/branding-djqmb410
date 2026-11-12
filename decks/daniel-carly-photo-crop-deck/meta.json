@@ -1,0 +1,19 @@
+{
+  "category": "ui-screenshots",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/daniel-carly-photo-crop-1112/mocks/crop-a-letterbox.jpg",
+    "/workspace/daniel-carly-photo-crop-1112/mocks/crop-b-cover-top.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "daniel-carly-photo-crop-deck",
+  "title": "Daniel And Carly Photo Crop Deck",
+  "short": "Photo Crop",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Develop, Nov 12 2026, during QA of the Daniel and Carly member page: if the desktop house-photo crop needs a choice, make it a deck. This one-card deck asks whether the house photo should keep the full picture with cream bands on the sides, or fill the width and trim the top and bottom. Phones aren't affected. The 1280 frames are the main visual; 1440 frames were checked to match.",
+  "spec": "spec.md (beside index.html) and /workspace/daniel-carly-photo-crop-1112/out/daniel-carly-photo-crop-deck/spec.md",
+  "provenance": "Already-rendered desktop member-home screens from the PR91 QA shot folder (/workspace/qa-pr91-92/shots/): crop-A-letterbox-home-1280.png and crop-B-cover-top-home-1280.png are the source frames (2560×1600, 1280 CSS px at device-scale 2). Each was cropped from the bottom only, to 2560×1180, so the house photo and cream side bands stay full-width on the card; the visit-report and dock area below the greeting was cut. Saved as JPEG q90. Matching 1440 frames (crop-A-letterbox-home-1440.png and crop-B-cover-top-home-1440.png) were kept as reference only and are not in the deck. Full width is preserved so the cream side bands stay visible. No new browser capture was run for this deck. Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; Begin opens card 1 at 1280 and 390 on decrypted local HTML with no page errors; deck images are full-width 2560x1180 crops of the 1280 desktop frames (dsf2) so cream side bands stay visible; no clipped or off-screen deck UI text at 390 or 360 (measured), docW equals viewport; phones are not affected"
+}

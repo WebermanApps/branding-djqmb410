@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T20:30:48+07:00",
+ "updated": "2026-11-12T20:58:30+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3280,6 +3280,24 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "daniel-carly-photo-crop-deck",
+   "name": "Daniel And Carly Photo Crop Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/daniel-carly-photo-crop-deck/",
+   "total": 1,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T20:52:00+07:00",
+   "added": "2026-11-12T20:58:30+07:00",
+   "note": "Nov 12 2026: Daniel And Carly Photo Crop. One card on how the house photo fills the wide desktop member home: keep the full photo with cream sides, or fill the width and trim the top and bottom. 1280 desktop frames. Phones are not affected. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "1 card, ready now, with Notes"
+  },
+  {
    "id": "filter-reminder-reask-deck",
    "name": "Filter Reminder Re-Ask Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/filter-reminder-reask-deck/",
@@ -3296,25 +3314,6 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "2 cards, ready now, with Notes"
-  },
-  {
-   "id": "home-hero-eyebrow-deck",
-   "name": "Home Hero Eyebrow",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-hero-eyebrow-deck/",
-   "total": 4,
-   "answered": 2,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-12T19:15:00+07:00",
-   "added": "2026-11-12T20:15:41+07:00",
-   "note": "Nov 12 2026 remake: Home Hero Eyebrow, rebuilt around Machan’s skip note on card 1 (\"your home taken care of is replaced with starting at $\"). Four cards from real smart-upkeep main 664f224 Home screens: eyebrow size above the price headline, price headline weight and size, eyebrow-to-price gap, and Video Pop-Up Badge (Keep As Is vs Match The New Hero; remove the badge via Notes). Gate passed, pagelocked. Reopened on Max’s Picks so the 7:59 PM submit does not mark this remake done.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-12",
-   "blurb": "4 cards, ready now, with Notes",
-   "done_at": "2026-11-12T20:30:23+07:00"
   },
   {
    "id": "your-systems-trim-deck",
@@ -3422,6 +3421,25 @@
    "made": "2026-11-12",
    "blurb": "7 cards, ready now, with Notes",
    "done_at": "2026-11-12T20:06:25+07:00"
+  },
+  {
+   "id": "home-hero-eyebrow-deck",
+   "name": "Home Hero Eyebrow",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-hero-eyebrow-deck/",
+   "total": 4,
+   "answered": 2,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-12T19:15:00+07:00",
+   "added": "2026-11-12T20:15:41+07:00",
+   "note": "Nov 12 2026 remake: Home Hero Eyebrow, rebuilt around Machan’s skip note on card 1 (\"your home taken care of is replaced with starting at $\"). Four cards from real smart-upkeep main 664f224 Home screens: eyebrow size above the price headline, price headline weight and size, eyebrow-to-price gap, and Video Pop-Up Badge (Keep As Is vs Match The New Hero; remove the badge via Notes). Gate passed, pagelocked. Reopened on Max’s Picks so the 7:59 PM submit does not mark this remake done.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:30:23+07:00"
   },
   {
    "id": "faq-density-deck",

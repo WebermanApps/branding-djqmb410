@@ -1,0 +1,10 @@
+{
+  "category": "ui-screenshots",
+  "asset_paths": [
+    "/workspace/daniel-carly-photo-crop-1112/mocks/crop-a-letterbox.jpg",
+    "/workspace/daniel-carly-photo-crop-1112/mocks/crop-b-cover-top.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Daniel And Carly Photo Crop Deck"
+}
