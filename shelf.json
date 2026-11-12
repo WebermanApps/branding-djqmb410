@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-11T22:31:24+07:00",
+ "updated": "2026-11-12T11:14:54+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3156,6 +3156,13 @@
    "done_at": "2026-11-11T21:20:04+07:00",
    "answered": 3,
    "total": 3
+  },
+  {
+   "id": "funnel-add-ons-step-deck",
+   "at": "2026-11-12T11:11:21+07:00",
+   "name": "Funnel Add-Ons Step",
+   "answered": 2,
+   "total": 2
   }
  ],
  "pinned": [
@@ -3186,9 +3193,9 @@
    "name": "Funnel Add-Ons Step",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-add-ons-step-deck/",
    "total": 2,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-11T22:14:00+07:00",
    "added": "2026-11-11T22:31:24+07:00",
    "note": "Nov 11 2026 overnight: Funnel Add-Ons Step. Two cards on Step 4 of the sign-up — ask Irrigation, Sump Pump and Humidifier once on Your Systems vs show them in both synced; one list with Monthly / One-Time headers vs Monthly | One-Time tabs. Real funnel screens from main 8f24da1. Gate passed, pagelocked.",
@@ -3197,7 +3204,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-11",
-   "blurb": "2 cards, ready now, with Notes"
+   "blurb": "2 cards, ready now, with Notes",
+   "done_at": "2026-11-12T11:11:21+07:00"
   },
   {
    "id": "team-improvement-deck-round-four",
