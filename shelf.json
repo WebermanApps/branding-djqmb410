@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T22:25:31+07:00",
+ "updated": "2026-11-12T22:30:42+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3296,24 +3296,6 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "6 cards, ready now, with Notes"
-  },
-  {
-   "id": "wheres-your-home-deck",
-   "name": "Where's Your Home Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/wheres-your-home-deck/",
-   "total": 1,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-12T22:08:00+07:00",
-   "added": "2026-11-12T22:25:31+07:00",
-   "note": "Nov 12 2026: Where's Your Home. One card on how step 1 (the address) fits one phone screen: smaller house picture with every line showing, or fields first with hints behind info icons. Same words, no new copy. Gate passed, pagelocked.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-12",
-   "blurb": "1 cards, ready now, with Notes"
   },
   {
    "id": "login-button-deck",
@@ -11357,6 +11339,25 @@
    "note": "5-day auto clear",
    "done_at": "2026-11-05T23:52:46+07:00",
    "cleared_at": "2026-11-11T03:51:55+07:00"
+  },
+  {
+   "id": "wheres-your-home-deck",
+   "name": "Where's Your Home Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/wheres-your-home-deck/",
+   "total": 1,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "cleared",
+   "requested_at": "2026-11-12T22:08:00+07:00",
+   "added": "2026-11-12T22:25:31+07:00",
+   "note": "Nov 12 2026: Where's Your Home. One card on how step 1 (the address) fits one phone screen: smaller house picture with every line showing, or fields first with hints behind info icons. Same words, no new copy. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "1 cards, ready now, with Notes",
+   "cleared_at": "2026-11-12T22:30:42+07:00"
   }
  ],
  "retired": [
