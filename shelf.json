@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T22:31:12+07:00",
+ "updated": "2026-11-12T22:34:43+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3280,22 +3280,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "fill-the-sections-deck",
-   "name": "Fill The Sections Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fill-the-sections-deck/",
+   "id": "funnel-drop-off-deck",
+   "name": "Funnel Drop-Off Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-drop-off-deck/",
    "total": 4,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
-   "requested_at": "2026-11-12T22:01:00+07:00",
-   "added": "2026-11-12T22:31:12+07:00",
-   "note": "Nov 12 2026: Fill The Sections. Four cards, one per Home section (Top, Plans, What We Take Care Of, Details). A vs B on how big and how long, showing more of the existing content to fill each screen without going past it. New line Home Care, On Schedule. See What's Included off the plan tiles. Boxless Share. Real screens from smart-upkeep main 3a02155f at 390 and 1280, also fitted at 360×640. Gate passed, pagelocked.",
+   "requested_at": "2026-11-12T22:30:00+07:00",
+   "added": "2026-11-12T22:34:43+07:00",
+   "note": "Nov 12 2026: Funnel Drop-Off. Four function cards on sign-up friction: browser Back mid-funnel, Your Details validation, autofill hints, and the Your Plan default. Real post-#94 funnel screens on the latest stack (PR96 + PR97). Legal-approved error lines. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "4 cards, ready now, with Notes and Machan Decides"
+   "blurb": "4 cards, ready now, with Notes"
   },
   {
    "id": "floating-bottom-bar-deck",
@@ -3332,6 +3332,24 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "1 cards, ready now, with Notes"
+  },
+  {
+   "id": "fill-the-sections-deck",
+   "name": "Fill The Sections Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/fill-the-sections-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:01:00+07:00",
+   "added": "2026-11-12T22:31:12+07:00",
+   "note": "Nov 12 2026: Fill The Sections. Four cards, one per Home section (Top, Plans, What We Take Care Of, Details). A vs B on how big and how long, showing more of the existing content to fill each screen without going past it. New line Home Care, On Schedule. See What's Included off the plan tiles. Boxless Share. Real screens from smart-upkeep main 3a02155f at 390 and 1280, also fitted at 360×640. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "4 cards, ready now, with Notes and Machan Decides"
   },
   {
    "id": "daniel-carly-photo-crop-deck",

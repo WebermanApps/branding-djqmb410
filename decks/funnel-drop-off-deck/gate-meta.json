@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-back-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-back-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-val-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-val-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-af-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-af-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-plan-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-plan-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Drop-Off Deck"
+}

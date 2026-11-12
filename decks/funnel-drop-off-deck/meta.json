@@ -1,0 +1,25 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-back-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-back-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-val-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-val-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-af-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-af-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-plan-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dropoff/do-plan-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "funnel-drop-off-deck",
+  "title": "Funnel Drop-Off Deck",
+  "short": "Funnel Drop-Off",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Sign-up friction that can lose people mid-flow. Built from real post-#94 funnel screens (Your Plan, Your Details, and a mid-funnel step plus the browser chrome), on the latest Home and funnel stack (PR96 four-tab bar plus Get Started, boxless Share, no See What's Included on plan tiles, one-screen phone fit, Home Care, On Schedule; PR97 one-screen funnel). Not a 10-card Your Details redo, and not a remake of Where's Your Home or Sign-Up Fit. Validation errors are Legal-approved: “Enter a 10-digit U.S. phone number.” and “Enter an email address, like name@example.com.” Legal: the tagline is not paired with a promise of timing or a set arrival time.",
+  "spec": "spec.md (beside index.html) and /workspace/funnel-improve-decks-1112/out/funnel-drop-off-deck/spec.md",
+  "provenance": "Real funnel and Home screens from a local unlocked merge of Develop PR96 (428f746, Home section bar) and PR97 (27afbc5, one-screen funnel), served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with Khand and Hind; no analytics). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA), prefers-reduced-motion. Fictional sample person: Jordan Lee, 142 Maple Street, Novi, 48375. Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; PR96+PR97 stack"
+}

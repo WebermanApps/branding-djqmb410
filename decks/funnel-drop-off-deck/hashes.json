@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Previous Step, Picks Kept",
+      "sha12": "08a76032a953"
+    },
+    "B": {
+      "label": "Leave The Funnel (Today)",
+      "sha12": "db41556edabb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Check On Blur",
+      "sha12": "fb976912baa3"
+    },
+    "B": {
+      "label": "Check On Next, Errors At The Top",
+      "sha12": "b322b70f5b09"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Use Autofill (Today)",
+      "sha12": "1eb5853d276b"
+    },
+    "B": {
+      "label": "Plain Fields",
+      "sha12": "3293f57f1435"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plus Is Pre-Selected (Today)",
+      "sha12": "156e8ed1887f"
+    },
+    "B": {
+      "label": "Nothing Selected",
+      "sha12": "d47a0c8c139b"
+    }
+  }
+}
