@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-extras-deck-1112/mocks/fe-why-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-why-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-reach-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-reach-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-recap-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-recap-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-watch-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-watch-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-foot-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-foot-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "funnel-extras-deck",
+  "title": "Funnel Extras",
+  "short": "Funnel Extras",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026, 1:13 PM ICT (standing, via Grok): the Oct 18 picks (why-we-ask info icon, Text/Call/Email chips, Home Card Recap with Edit) are decided by his swipes in the new funnel decks; do not hand-build them. 1:14 PM ICT: crop questions go in a deck. After he finished the Funnel Home Details, Systems Step, Flow and Finish decks (~1:19 PM ICT), Swatch was asked to put the three Oct 18 items, two new /watch/ heading options (he had passed on both earlier options), and a clearer Step Footer card into a Funnel Extras Deck. 7:06 PM ICT via Grok: publish the Funnel Extras Deck so the live URL returns 200; Machan Decides cards count as delegated (his Oct 20 You decide definition).",
+  "spec": "spec.md (beside index.html) and /workspace/funnel-extras-deck-1112/out/funnel-extras-deck/spec.md",
+  "provenance": "Real funnel UI, not drawn mocks: unlocked git-archive copy of smart-upkeep main 65220fc, checksum-matched 63/63 html/js/css, unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Path: Home, Get Started, 123 Main St, Novi 48375, 2,000 to 3,000 sq ft, 1 Story, Irrigation on, Plus, Founding annual, Lockbox, start date 4 days out. Why We Ask and Home Card Recap use Step 2 and the post-Systems recap (or today's Add-Ons). Contact Preference is Step 9 Your Details. Watch headings are CSS/DOM text swaps on the real /watch/ page. Step Footer A fills the existing site footer slot on a funnel step with Home, FAQ and Watch links plus the real Built by Machan mark (no link). Step Footer B is a CSS/DOM sticky Back and Next bar with a small Built by Machan line; Home and Start Over are removed from that bar. Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA). Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

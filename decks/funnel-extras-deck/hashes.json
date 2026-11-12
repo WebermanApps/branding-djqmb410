@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Hint Lines",
+      "sha12": "e830fd3bcbac"
+    },
+    "B": {
+      "label": "Info Icon",
+      "sha12": "dfbcf470f589"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Text, Call, And Email Chips",
+      "sha12": "f22a363db02e"
+    },
+    "B": {
+      "label": "No Chips",
+      "sha12": "f2d06e7c3b11"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Recap With Edit",
+      "sha12": "25c82e7be5ac"
+    },
+    "B": {
+      "label": "No Recap",
+      "sha12": "abf4f52f1832"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Now Welcoming Founding Members In Metro Detroit",
+      "sha12": "616c441be01e"
+    },
+    "B": {
+      "label": "Smart Upkeep Is Coming To Metro Detroit",
+      "sha12": "ee20f01a597d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Full Site Footer",
+      "sha12": "95341620f275"
+    },
+    "B": {
+      "label": "Sticky Back And Next",
+      "sha12": "8d90aa2965b3"
+    }
+  }
+}

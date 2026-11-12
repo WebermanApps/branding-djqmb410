@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-extras-deck-1112/mocks/fe-why-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-why-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-reach-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-reach-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-recap-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-recap-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-watch-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-watch-b.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-foot-a.jpg",
+    "/workspace/funnel-extras-deck-1112/mocks/fe-foot-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Extras"
+}
