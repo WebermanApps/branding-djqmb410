@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-inset-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-inset-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-frost-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-solid-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-icons-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-labels-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-merged-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-stacked-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-always-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-hide-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-clash-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-clash-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "floating-bottom-bar-deck",
+  "title": "Floating Bottom Bar Deck",
+  "short": "Floating Bottom Bar",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026, 9:39 PM ICT, via Grok: he likes the floating sticky bar on Instagram scrolls. Tabs are exactly Home, Plans, What's Included, Details (10:03 PM); What's Included jumps to What We Take Care Of. Get Started is the bar CTA. Boxless Share, no See What's Included on plan tiles, one-screen phone fit, and the tagline Home Care, On Schedule are already on the latest stack. PR90 F2 arrow guard is required on every option, not a swipe: hide Get Started when it would cover a section arrow, especially at 360x640. Both show-or-hide options stay off while the hero inline CTA is on screen. Card 6 asks only about the Details dropdown name if it clashes with the What's Included tab; the four tab labels do not change. Legal: the tagline is not paired with a promise of timing or a set arrival time.",
+  "spec": "spec.md (beside index.html) and /workspace/funnel-improve-decks-1112/out/floating-bottom-bar-deck/spec.md",
+  "provenance": "Real Home screens from a local unlocked copy of the latest Home stack (4 section tabs plus a quote CTA, boxless Share, plan-tile See What's Included removed, one-screen phone fit, tagline Home Care, On Schedule), served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with Khand and Hind; no analytics). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 plus 360x640 (crop QA), prefers-reduced-motion. The live full-bleed bar was hidden and a floating dock overlay was injected. Get Started is the CTA in these mocks. See What's Included was not shown on any plan tile. Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844, 360x844 and 360x640 css px dsf2, prefers-reduced-motion; deck images 780x1688; latest Home stack; floating dock injected; Get Started CTA; 4 tab labels; no See What's Included on plan tiles"
+}

@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Deeper Inset, Fuller Pill",
+      "sha12": "218e973c8739"
+    },
+    "B": {
+      "label": "Shallower Inset, Softer Round",
+      "sha12": "d9010f48ea17"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Frosted Cream",
+      "sha12": "b918f2c288e4"
+    },
+    "B": {
+      "label": "Solid Cream Or White",
+      "sha12": "11eb56c9920d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Icons Only",
+      "sha12": "39fec568c4e1"
+    },
+    "B": {
+      "label": "Icons And Labels",
+      "sha12": "c0f6f3237ddc"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "One Merged Pill",
+      "sha12": "6ebf450ac64a"
+    },
+    "B": {
+      "label": "Two Pills, Cta Above Nav",
+      "sha12": "1fff2f0bd3a4"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Always Shown",
+      "sha12": "efc34cdb72b3"
+    },
+    "B": {
+      "label": "Hide On Scroll Down, Show On Scroll Up",
+      "sha12": "f862b3b4ca82"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep Both Names",
+      "sha12": "d95db90337e4"
+    },
+    "B": {
+      "label": "Rename The Details Dropdown To In Each Plan",
+      "sha12": "1d1cf8204857"
+    }
+  }
+}

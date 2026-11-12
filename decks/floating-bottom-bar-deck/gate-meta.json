@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-inset-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-inset-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-frost-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-solid-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-icons-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-labels-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-merged-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-stacked-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-always-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-hide-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-clash-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/floating/fb-clash-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Floating Bottom Bar Deck"
+}
