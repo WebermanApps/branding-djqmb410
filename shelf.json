@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T20:07:41+07:00",
+ "updated": "2026-11-12T20:15:41+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3286,8 +3286,8 @@
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-11-12T19:15:00+07:00",
-   "added": "2026-11-12T20:07:41+07:00",
-   "note": "Nov 12 2026 remake: Home Hero Eyebrow, rebuilt around Machan’s skip note on card 1 (\"your home taken care of is replaced with starting at $\"). Four cards from real smart-upkeep main abae37b Home screens: eyebrow size above the price headline, price headline weight and size, eyebrow-to-price gap, and Video Pop-Up Badge (Keep As Is vs Match The New Hero; remove the badge via Notes). Gate passed, pagelocked. Reopened on Max’s Picks so the 7:59 PM submit does not mark this remake done.",
+   "added": "2026-11-12T20:15:41+07:00",
+   "note": "Nov 12 2026 remake: Home Hero Eyebrow, rebuilt around Machan’s skip note on card 1 (\"your home taken care of is replaced with starting at $\"). Four cards from real smart-upkeep main 664f224 Home screens: eyebrow size above the price headline, price headline weight and size, eyebrow-to-price gap, and Video Pop-Up Badge (Keep As Is vs Match The New Hero; remove the badge via Notes). Gate passed, pagelocked. Reopened on Max’s Picks so the 7:59 PM submit does not mark this remake done.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
