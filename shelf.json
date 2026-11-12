@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T23:39:48+07:00",
+ "updated": "2026-11-12T23:54:01+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3317,6 +3317,24 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "3 cards, ready now, with Notes"
+  },
+  {
+   "id": "home-size-control-deck",
+   "name": "Home Size Control Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-size-control-deck/",
+   "total": 2,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:30:00+07:00",
+   "added": "2026-11-12T23:54:01+07:00",
+   "note": "Nov 12 2026: Home Size Control. Two cards from his note that +/- for sqft felt odd. Real Your Home step on origin/main 27e48b1b. Live range labels stay. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "2 cards, ready now, with Notes"
   },
   {
    "id": "did-you-know-lines-deck",

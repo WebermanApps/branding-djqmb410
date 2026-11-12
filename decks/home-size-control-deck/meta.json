@@ -1,0 +1,21 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/size-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/size-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/stories-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/stories-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-size-control-deck",
+  "title": "Home Size Control Deck",
+  "short": "Home Size Control",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Short re-ask from the Home Details note: “+/- for sqft is kind of weird way of doing it.” Do not re-ask ZIP first, one screen, Title Case labels, start on the first option, or one card with a divider. Same SIZE_OPTS and STORY_OPTS. No new service copy. Latest origin/main 27e48b1b.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/home-size-control-deck/spec.md",
+  "provenance": "Real Your Home step from a git archive of origin/main 27e48b1b (pagelock check exit 0; locked index 36f58481, app.js 9135458c, onboarding.css de3a3684) on the existing unlocked copy, served on 127.0.0.1 with every external request aborted (Khand and Hind served locally). Headless Chromium 390x844 dsf2 (780x1688 JPEG q90) and 360/1280 crop QA, prefers-reduced-motion. Chip options use the live range and story labels, word for word. The cream highlight marks the control in question. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium 390/360/1280, origin/main 27e48b1b, overflow 0, Next visible, no clipped UI text"
+}

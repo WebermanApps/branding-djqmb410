@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/size-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/size-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/stories-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homesize/stories-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Size Control Deck"
+}

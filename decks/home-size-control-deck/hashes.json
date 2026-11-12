@@ -1,0 +1,22 @@
+{
+  "c1": {
+    "A": {
+      "label": "Range And +/- (Today)",
+      "sha12": "91cf63016445"
+    },
+    "B": {
+      "label": "Range Chips",
+      "sha12": "d190bb9d9eed"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Stories And +/- (Today)",
+      "sha12": "2dcdd6b24f62"
+    },
+    "B": {
+      "label": "Story Chips",
+      "sha12": "2eb58649b288"
+    }
+  }
+}
