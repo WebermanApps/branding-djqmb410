@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T11:14:54+07:00",
+ "updated": "2026-11-12T11:19:23+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3189,6 +3189,40 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "your-systems-look-deck",
+   "name": "Your Systems Look",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/your-systems-look-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T11:09:00+07:00",
+   "added": "2026-11-12T11:19:23+07:00",
+   "note": "Nov 12 2026: Your Systems Look. Three cards on the Your Systems section of member Home: one row vs two rows for big homes; Items To Watch inside the systems card vs its own card; unit split as two cards vs one card with a divider. Real screens from smart-upkeep PR67 01d5c37. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "3 cards, ready now, with Notes"
+  },
+  {
+   "id": "team-improvement-deck-round-four",
+   "name": "Team Improvement Deck",
+   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
+   "total": 10,
+   "permanent": true,
+   "added": "2026-10-17T21:07:54+07:00",
+   "tag": "Max's Picks",
+   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
+   "answered": 0,
+   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
+   "previous_round": "team-improvement-deck-round-three",
+   "status": "open",
+   "requested_at": "2026-10-17T21:07:54+07:00",
+   "made": "2026-10-17"
+  },
+  {
    "id": "funnel-add-ons-step-deck",
    "name": "Funnel Add-Ons Step",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-add-ons-step-deck/",
@@ -3206,22 +3240,6 @@
    "made": "2026-11-11",
    "blurb": "2 cards, ready now, with Notes",
    "done_at": "2026-11-12T11:11:21+07:00"
-  },
-  {
-   "id": "team-improvement-deck-round-four",
-   "name": "Team Improvement Deck",
-   "url": "https://webermanapps.github.io/style-swipe/team-improvement-6908cr/",
-   "total": 10,
-   "permanent": true,
-   "added": "2026-10-17T21:07:54+07:00",
-   "tag": "Max's Picks",
-   "blurb": "10 cards, ready now. Permanent (R75): team workflow and the deck and board look",
-   "answered": 0,
-   "note": "Permanently pinned (R75); round four, 10 picks. Round three results applied Oct 17 (R112-R116)",
-   "previous_round": "team-improvement-deck-round-three",
-   "status": "open",
-   "requested_at": "2026-10-17T21:07:54+07:00",
-   "made": "2026-10-17"
   },
   {
    "id": "onboarding-flow-deck",

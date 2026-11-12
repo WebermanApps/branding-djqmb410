@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/ysl-deck-1112/mocks/ys-rows-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-rows-b.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-watch-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-watch-b.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-split-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-split-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "your-systems-look-deck",
+  "title": "Your Systems Look",
+  "short": "Your Systems",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 11:09 AM ICT via Grok: \"can we have some decks prepared for the way your systems looks at the bottom of the member page\". Already answered and not re-asked: one row per system type with a subtle grey xN count that opens into its units; Extra Line Detail for extras; bigger text and thumb at the same tile size (PR67); Unit Chip Strip (Nov 9); Lifted On Cream cards, Muted System Tints, Quiet Labels, One Line Weight (Nov 10); Open Icon, Label Under, Name Only (Systems Page, Nov 10).",
+  "spec": "spec.md (beside index.html) and /workspace/ysl-deck-1112/out/your-systems-look-deck/spec.md",
+  "provenance": "Real member UI, not drawn mocks: unlocked git-archive copy of smart-upkeep PR #67 head 01d5c37 (open, branch member-multi-unit-split-1111; includes main 291270b with PR65 and PR66), checksum-matched to the commit (63/63 html/js/css), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted. PR67 sizes in every frame: 13px tile text, 44px thumbs, same tile height (measured). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q92) and 360x844 (crop QA). Card 1: /member/brett/ Home, Your Systems (14 system types). A is live; B restyles the same strip as two rows with CSS only (grid, column flow). Card 2: /member/ (Elena) Home. A is live (Items To Watch inside the Your Systems card); B moves the same live Items To Watch node into its own white card above, DOM only. Card 3: /member/brett/ Furnace sheet opened from the Your Systems tile (Furnace 1 and Furnace 2, PR67 split). A is live PR67 (two cards); B is CSS only (one card with a center divider). Main 291270b reference renders of /member/, brett, weberman and kugel are in /workspace/ysl-deck-1112/raw/. No member data or prices invented or changed; nothing was submitted or written.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport"
+}

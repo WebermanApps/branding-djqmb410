@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/ysl-deck-1112/mocks/ys-rows-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-rows-b.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-watch-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-watch-b.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-split-a.jpg",
+    "/workspace/ysl-deck-1112/mocks/ys-split-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Your Systems Look"
+}

@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "One Scrolling Row",
+      "sha12": "9da2ed622bbe"
+    },
+    "B": {
+      "label": "Two Scrolling Rows",
+      "sha12": "35b142cb33fb"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Inside Your Systems",
+      "sha12": "2af45d00af15"
+    },
+    "B": {
+      "label": "Its Own Card Above",
+      "sha12": "f31f675099e1"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Two Cards Side By Side",
+      "sha12": "3cd179258e5c"
+    },
+    "B": {
+      "label": "One Card With A Divider",
+      "sha12": "af3f8c6e2798"
+    }
+  }
+}
