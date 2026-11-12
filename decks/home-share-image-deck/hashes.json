@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Sage Cottage",
+      "sha12": "e0e2efb31640"
+    },
+    "B": {
+      "label": "Gabled Farmhouse",
+      "sha12": "805be2eb68c3"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Text Left",
+      "sha12": "fccc681dec64"
+    },
+    "B": {
+      "label": "Text Right",
+      "sha12": "c6909f7b4d94"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Type Safe",
+      "sha12": "f95979316c2c"
+    },
+    "B": {
+      "label": "Type And Art Safe",
+      "sha12": "b5d450d497e5"
+    }
+  }
+}

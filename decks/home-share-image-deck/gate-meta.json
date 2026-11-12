@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/share/photo-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/photo-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/ranch-l.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/ranch-r.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/crop-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/crop-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Share Image Deck"
+}

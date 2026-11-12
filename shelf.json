@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T00:10:58+07:00",
+ "updated": "2026-11-13T00:27:19+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3311,6 +3311,24 @@
    "requested_at": "2026-11-12T22:42:00+07:00",
    "added": "2026-11-12T22:42:26+07:00",
    "note": "Nov 12 2026 ICT: Sign-Up Fit. Two cards for the two PR97 sign-up steps that cannot fit one phone screen without cutting content: Start Date on a small phone, and Accept. Real PR97 screens at 360, 390 and 1280, every option measured to fit. Legal text word for word. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "3 cards, ready now, with Notes"
+  },
+  {
+   "id": "home-share-image-deck",
+   "name": "Home Share Image Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-share-image-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:30:00+07:00",
+   "added": "2026-11-13T00:27:19+07:00",
+   "note": "Nov 12 2026: Home Share Image. Three cards to replace the live OG still (old headline and $99-era art). Locked type on Video & Photo house photos, light scrim behind Starting At $139/mo. No van. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,

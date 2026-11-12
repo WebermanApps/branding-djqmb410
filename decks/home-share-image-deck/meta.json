@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/share/photo-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/photo-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/ranch-l.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/ranch-r.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/crop-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/share/crop-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-share-image-deck",
+  "title": "Home Share Image Deck",
+  "short": "Home Share Image",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Update the 1200×630 share picture to match the locked words: “Preventive Home Maintenance” over “Starting At $139/mo”, plus the share line “Preventive home maintenance for Metro Detroit. Starting at $139/mo.” Machan picks the photo and the text side, with a light scrim behind the price. Crop choices in the deck. No van card (no clean van photo). Do not caption the photos as Detroit. Do not re-ask eyebrow size, 1280 wrap, gap, or the video badge.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/home-share-image-deck/spec.md",
+  "provenance": "Share cards composed at 1200×630 with the live logo (A-roof-chevron-transparent.svg) and Khand / Hind, on Pexels photos from /ops/photos/fill-the-sections/og/: sage cottage (A), gabled farmhouse (B), Ohio ranch (C). None of the photos is Metro Detroit; the Metro Detroit line is service-area text, not a photo caption. Light cream scrim behind the type. Shown in an iMessage-style share preview at 390×844 dsf2 (780×1688 JPEG q90), with a center 1:1 crop under each, and crop QA at 360. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium 390/360, 1200x630 compositions, no clipped UI text, center 1:1 crop shown"
+}
