@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-section-decks-1112/mocks/hh-appear-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-appear-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-mark-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-mark-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-fill-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-fill-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-login-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hh-login-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Header"
+}

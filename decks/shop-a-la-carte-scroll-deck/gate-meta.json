@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-section-decks-1112/mocks/alc-rows-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/alc-rows-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/alc-hint-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/alc-hint-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/alc-rowstyle-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/alc-rowstyle-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Shop \u00c0 La Carte Scroll"
+}

@@ -1,0 +1,152 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Spacing",
+      "sha12": "a41daddc2af5"
+    },
+    "B": {
+      "label": "Tighter",
+      "sha12": "d547226eea58"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today's Spacing",
+      "sha12": "a41daddc2af5"
+    },
+    "B": {
+      "label": "Compact",
+      "sha12": "0fdcebfc9781"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today's Size",
+      "sha12": "a41daddc2af5"
+    },
+    "B": {
+      "label": "Smaller",
+      "sha12": "a5d91457b4b4"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today's Padding",
+      "sha12": "a41daddc2af5"
+    },
+    "B": {
+      "label": "Compact Rows",
+      "sha12": "fdf4f15600b0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "e1a8890cfb01"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "39eedb825ec2"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "b6e6547830fa"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "a5e4d2b5734c"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "a7bb30f75010"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "4d016aed4bbf"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "a7bb30f75010"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "a93b29f6af32"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "bd0f88220c39"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "f1d89f787359"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Leave Out",
+      "sha12": "39440cbfdb10"
+    },
+    "B": {
+      "label": "Add",
+      "sha12": "fe34dcc02f0a"
+    }
+  },
+  "c11": {
+    "A": {
+      "label": "Keep Both As-Is",
+      "sha12": "d0677930ccd3"
+    },
+    "B": {
+      "label": "Merge Into One",
+      "sha12": "08212ff9cf72"
+    }
+  },
+  "c12": {
+    "A": {
+      "label": "Keep Both As-Is",
+      "sha12": "7c86d9a4086c"
+    },
+    "B": {
+      "label": "Merge Into One",
+      "sha12": "f8f71045e025"
+    }
+  },
+  "c13": {
+    "A": {
+      "label": "Keep Both As-Is",
+      "sha12": "840e16841f03"
+    },
+    "B": {
+      "label": "Merge Into One",
+      "sha12": "eaf3016b627b"
+    }
+  },
+  "c14": {
+    "A": {
+      "label": "Keep Both As-Is",
+      "sha12": "d0677930ccd3"
+    },
+    "B": {
+      "label": "Merge Into One",
+      "sha12": "ebf5294fe4d3"
+    }
+  },
+  "c15": {
+    "A": {
+      "label": "Keep Both As-Is",
+      "sha12": "d0677930ccd3"
+    },
+    "B": {
+      "label": "Merge Into One",
+      "sha12": "dad9acd2b478"
+    }
+  }
+}

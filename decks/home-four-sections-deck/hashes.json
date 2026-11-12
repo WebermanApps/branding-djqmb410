@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Simple Chevron",
+      "sha12": "71fc4a12bc72"
+    },
+    "B": {
+      "label": "Circle Button",
+      "sha12": "f1b4120e77e8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Icon Only",
+      "sha12": "68750dc82267"
+    },
+    "B": {
+      "label": "Text And Arrow",
+      "sha12": "7b5d677a664d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Bottom Center Of The Section",
+      "sha12": "71fc4a12bc72"
+    },
+    "B": {
+      "label": "Just Above The Next Heading",
+      "sha12": "42f539dc8294"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Full Screen",
+      "sha12": "6c6db64682ad"
+    },
+    "B": {
+      "label": "Hug Content",
+      "sha12": "71fc4a12bc72"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Airy",
+      "sha12": "71fc4a12bc72"
+    },
+    "B": {
+      "label": "Extra Airy",
+      "sha12": "0341bca85ba2"
+    }
+  }
+}

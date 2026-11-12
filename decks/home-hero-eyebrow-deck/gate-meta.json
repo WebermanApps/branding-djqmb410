@@ -1,0 +1,14 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-section-decks-1112/mocks/he-size-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/he-size-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/he-weight-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/he-weight-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/he-gap-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/he-gap-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Hero Eyebrow"
+}

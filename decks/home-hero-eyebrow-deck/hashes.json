@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Small Title Case",
+      "sha12": "c58e41593d99"
+    },
+    "B": {
+      "label": "Larger Title Case",
+      "sha12": "79ec2f29be9b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Regular",
+      "sha12": "d4ecac171772"
+    },
+    "B": {
+      "label": "Bold",
+      "sha12": "dc30abcf2b5a"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Tight",
+      "sha12": "f7e5245e2e8f"
+    },
+    "B": {
+      "label": "Roomier",
+      "sha12": "6c023cb6318f"
+    }
+  }
+}

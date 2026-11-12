@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-section-decks-1112/mocks/hf-arrow-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-arrow-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-label-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-label-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-place-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-place-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-height-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-height-b.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-space-a.jpg",
+    "/workspace/home-section-decks-1112/mocks/hf-space-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Four Sections"
+}

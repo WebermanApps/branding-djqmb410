@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Fade In",
+      "sha12": "ecfe998e9482"
+    },
+    "B": {
+      "label": "Slide In",
+      "sha12": "7a8ba3ea46df"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Icon Only",
+      "sha12": "e1d3fedac4a6"
+    },
+    "B": {
+      "label": "Icon And Label",
+      "sha12": "712f0675eaec"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Outline",
+      "sha12": "8b236a672620"
+    },
+    "B": {
+      "label": "Filled",
+      "sha12": "e2d2154cd31b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Text Link",
+      "sha12": "97555ecde189"
+    },
+    "B": {
+      "label": "Small Outline Button",
+      "sha12": "dc6450952673"
+    }
+  }
+}

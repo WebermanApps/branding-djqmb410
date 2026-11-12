@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "About 4 Rows",
+      "sha12": "3bd7eede6b92"
+    },
+    "B": {
+      "label": "About 6 Rows",
+      "sha12": "2b3d23020ac0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Fade At The Bottom",
+      "sha12": "3bd7eede6b92"
+    },
+    "B": {
+      "label": "Visible Scrollbar",
+      "sha12": "b926f178b518"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Divided Rows",
+      "sha12": "3bd7eede6b92"
+    },
+    "B": {
+      "label": "Mini Cards",
+      "sha12": "adcc230fb941"
+    }
+  }
+}
