@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/member-reminders-deck-1112/mocks/int-everyone.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/int-pick.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/cal-ics.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/cal-app.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/filter-card.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/filter-banner.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/smoke-card.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/smoke-banner.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/act-both.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/act-done.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/drone-once.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/drone-current.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/storm-2.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/storm-4.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Member Reminders Deck"
+}

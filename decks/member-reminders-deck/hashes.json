@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Every 3 Months For Everyone",
+      "sha12": "e8b71465a5b8"
+    },
+    "B": {
+      "label": "Members Pick 1, 2 Or 3 Months",
+      "sha12": "591285c55ee6"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Add Reminders To My Calendar",
+      "sha12": "9b8ca46b1e15"
+    },
+    "B": {
+      "label": "App Only",
+      "sha12": "a6e05aa110f5"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Due Card In The Dashboard Flow",
+      "sha12": "b20a12603d61"
+    },
+    "B": {
+      "label": "Slim Top Banner",
+      "sha12": "b87379ff4746"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Due Card In The Dashboard Flow",
+      "sha12": "0ed9164eab80"
+    },
+    "B": {
+      "label": "Slim Top Banner",
+      "sha12": "d2da5d4a5bb3"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Mark Done And Remind Me Later",
+      "sha12": "9afce89da7d8"
+    },
+    "B": {
+      "label": "Mark Done Only",
+      "sha12": "58b83ce02192"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "One A Year On Every Plan",
+      "sha12": "702dde828d39"
+    },
+    "B": {
+      "label": "Keep The Current Setup",
+      "sha12": "fcf70425cf36"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "2 A Year",
+      "sha12": "bcc28f3e5809"
+    },
+    "B": {
+      "label": "4 A Year",
+      "sha12": "538c8b72ebbd"
+    }
+  }
+}

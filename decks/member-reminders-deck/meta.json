@@ -1,0 +1,31 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/member-reminders-deck-1112/mocks/int-everyone.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/int-pick.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/cal-ics.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/cal-app.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/filter-card.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/filter-banner.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/smoke-card.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/smoke-banner.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/act-both.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/act-done.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/drone-once.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/drone-current.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/storm-2.jpg",
+    "/workspace/member-reminders-deck-1112/mocks/storm-4.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "member-reminders-deck",
+  "title": "Member Reminders Deck",
+  "short": "Member Reminders",
+  "status": "published pagelocked; pinned open on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026 7:37 PM ICT, via Grok and Develop: in-app filter and monthly smoke reminders on the /member/ dashboard for Essentials and Plus between visits; a Reminder Card deck for placement, actions, and an optional Add Reminders To My Calendar link (PLAN.md). Also re-ask drone frequency (one a year on every plan vs the current config) and Complete's after-storm yearly cap (2, 3 or 4). Legal's FINAL filter and reminder copy (7:39 PM, revised) is used word for word.",
+  "spec": "spec.md (beside index.html) and /workspace/member-reminders-deck-1112/out/member-reminders-deck/spec.md",
+  "provenance": "Real /member/ dashboard UI with proposed reminder cards injected: unlocked git-archive copy of smart-upkeep main c462c1b89cf87e5b3bfe4efd16dd25f690a614ad, checksum-matched 63/63 html/js/css (mismatch 0), unlocked with the official pagelock tool on the copy only, served on 127.0.0.1 with every external request aborted (Google Fonts CSS answered locally with the same Khand and Hind files; no analytics, no Supabase). Only /member/ was used (brett, weberman and kugel copies ignored). Card titles, bodies, buttons, the next-open snooze line, the footer, the tile label “Furnace Filter Check and Change”, and the Essentials and Plus reminder lines are Legal's FINAL filter and reminder copy (7:39 PM, revised), word for word. Remind Me Later is a next-open snooze; no number of days is shown. Drone and storm-cap cards are clean plan-row mocks in the What's Included style; current drone frequencies are taken from pricing-config.js (Essentials once a year, Plus twice a year, Complete twice a year and after major storms; marked as a DEFAULT, not decided yet). Headless Chromium at 390x844 (deck images, dsf 2, 780x1688 JPEG q90) and 360x844 (crop QA). Nothing was submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; deck images 780x1688; no clipped or off-screen text on any frame at 390 or 360 (measured), docW equals viewport; reminder cards sit above the member bottom bar"
+}

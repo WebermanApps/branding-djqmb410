@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T19:34:11+07:00",
+ "updated": "2026-11-12T19:54:43+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3317,6 +3317,24 @@
    "requested_at": "2026-11-12T19:14:00+07:00",
    "added": "2026-11-12T19:34:11+07:00",
    "note": "Nov 12 2026: What's Included Redo. Seven cards on Home Details: plan comparison table vs grouped by system; checklist tabs vs Plus Adds And Complete Adds; Legal's Not Included list or plans only; sump and humidifier launch blocker (remove the add-on vs remove from included); Starter Visit line or not; À La Carte overlap launch blocker (hide vs label as extra); Radon and Extra Gutter Quote vs real price. Real Home screens from smart-upkeep main 65220fc. Facts from AUDIT.md Section 7 and Legal FINAL filter copy. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "7 cards, ready now, with Notes"
+  },
+  {
+   "id": "member-reminders-deck",
+   "name": "Member Reminders Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-reminders-deck/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T19:37:00+07:00",
+   "added": "2026-11-12T19:54:43+07:00",
+   "note": "Nov 12 2026: Member Reminders. Seven cards: filter reminder interval (every 3 months vs member picks 1, 2 or 3); Add Reminders To My Calendar vs app only; Filter Change Due look (due card vs slim top banner); Test Your Smoke Alarms look; Mark Done And Remind Me Later vs Mark Done Only; drone flights (one a year on every plan vs the current config); Complete storm-check yearly cap (2 vs 4; leave a Note for 3). Real /member/ screens from smart-upkeep main c462c1b, Legal FINAL copy word for word. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
