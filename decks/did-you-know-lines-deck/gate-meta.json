@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-1-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-1-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-2-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-2-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-3-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-3-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-4-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-4-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-5-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-5-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-7-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-7-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-9-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-9-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Did You Know Lines Deck"
+}

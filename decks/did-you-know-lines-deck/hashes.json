@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Line",
+      "sha12": "dcd85d0b23be"
+    },
+    "B": {
+      "label": "Report With Photos",
+      "sha12": "68945b4e2de8"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today's Filter Line",
+      "sha12": "6345d6b2ee63"
+    },
+    "B": {
+      "label": "Equipment And Price",
+      "sha12": "7eefd3824ab3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today's Gutter Line",
+      "sha12": "5f500b853510"
+    },
+    "B": {
+      "label": "Irrigation And Included Care",
+      "sha12": "566c95c338cd"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today's Moisture Scan Line",
+      "sha12": "7ef9f8010797"
+    },
+    "B": {
+      "label": "À La Carte Line",
+      "sha12": "594769ea981b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "No Tip (Today)",
+      "sha12": "f04b00d491e9"
+    },
+    "B": {
+      "label": "Starting Prices",
+      "sha12": "3415217b2d17"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "No Tip (Today)",
+      "sha12": "9a4136828b18"
+    },
+    "B": {
+      "label": "Confirm The Time",
+      "sha12": "98163bfb5c3b"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "No Tip (Today)",
+      "sha12": "6e33fe399c94"
+    },
+    "B": {
+      "label": "Why We Ask",
+      "sha12": "de0aa8f23f45"
+    }
+  }
+}

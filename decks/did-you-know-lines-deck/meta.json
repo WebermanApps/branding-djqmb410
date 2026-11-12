@@ -1,0 +1,31 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-1-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-1-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-2-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-2-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-3-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-3-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-4-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-4-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-5-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-5-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-7-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-7-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-9-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/dyk/dyk-9-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "did-you-know-lines-deck",
+  "title": "Did You Know Lines Deck",
+  "short": "Did You Know Lines",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Info-gathering deck: work on what the Did You Know lines are, not whether the tip box stays. Legal 9:26–9:28 PM wins. Ship the 9-card planned set as 8 swipes (drop old #10; card 8 is A-only and is not published as a swipe). Card 6 is concept only. Latest stack: PR96 + PR97. Legal: the tagline is not paired with a promise of timing or a set arrival time. Not a remake of Where's Your Home or Sign-Up Fit.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/did-you-know-lines-deck/spec.md",
+  "provenance": "Real funnel screens from a local unlocked merge of Develop PR96 (428f746) and PR97 (27afbc5), served on 127.0.0.1 with every external request aborted (Khand and Hind served locally). Headless Chromium 390x844 dsf2 (780x1688 JPEG q90) and 360x844 crop QA, prefers-reduced-motion. Tip box typography is today's. Card 6 is a labeled Concept frame. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium 390/360 dsf2, origin/main 27e48b1b, card 6 founding line cut"
+}
