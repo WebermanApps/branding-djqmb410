@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Two Screens",
+      "sha12": "60c87a53eb9c"
+    },
+    "B": {
+      "label": "One Screen",
+      "sha12": "3ac7bb0ff11b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Street First",
+      "sha12": "72cf8fd4ab4d"
+    },
+    "B": {
+      "label": "ZIP First",
+      "sha12": "422cec8e6636"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Small Spaced Capitals",
+      "sha12": "06584e6cac97"
+    },
+    "B": {
+      "label": "Title Case Labels",
+      "sha12": "74706a342276"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Start Empty",
+      "sha12": "ccfdafd2557b"
+    },
+    "B": {
+      "label": "Start On The First Option",
+      "sha12": "af096652e45a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Keep The Icon",
+      "sha12": "9cc6a3e3fb2d"
+    },
+    "B": {
+      "label": "No Icon",
+      "sha12": "24e79aa18398"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Keep The Tip",
+      "sha12": "2859ab1e452e"
+    },
+    "B": {
+      "label": "No Tip Box",
+      "sha12": "7732de42166e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "In The Intro",
+      "sha12": "b068e3ce0130"
+    },
+    "B": {
+      "label": "Under ZIP Code",
+      "sha12": "37043a33f3f5"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Faded Until Ready",
+      "sha12": "6fe351bcf7e6"
+    },
+    "B": {
+      "label": "Always Solid",
+      "sha12": "a5ae69c0d37a"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Full Width",
+      "sha12": "e796ed1294eb"
+    },
+    "B": {
+      "label": "Short ZIP Box",
+      "sha12": "83ca923d7834"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Two Cards",
+      "sha12": "e830fd3bcbac"
+    },
+    "B": {
+      "label": "One Card With A Divider",
+      "sha12": "606ada7a6b2c"
+    }
+  }
+}

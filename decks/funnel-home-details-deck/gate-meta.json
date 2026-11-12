@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-info-deck-1112/mocks/hd-combine-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-combine-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-zipfirst-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-zipfirst-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-labels-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-labels-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-default-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-default-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-hero-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-hero-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-tip-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-tip-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-area-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-area-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-next-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-next-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-zipwidth-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-zipwidth-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-group-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/hd-group-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Home Details"
+}

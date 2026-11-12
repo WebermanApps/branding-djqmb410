@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Header Next To Share",
+      "sha12": "90a32ada8523"
+    },
+    "B": {
+      "label": "Footer Above Built By Machan",
+      "sha12": "3878cb70e82b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Keep All Rows",
+      "sha12": "d410bb74a63f"
+    },
+    "B": {
+      "label": "Priced Rows Only",
+      "sha12": "48d31577cd68"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Nine Segments",
+      "sha12": "abf4f52f1832"
+    },
+    "B": {
+      "label": "One Thin Bar",
+      "sha12": "3b0267dd4c4c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Bottom Of The Step",
+      "sha12": "944cff937fc1"
+    },
+    "B": {
+      "label": "Top By The Progress",
+      "sha12": "b002dd1bff6c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Full Footer",
+      "sha12": "170926f3e900"
+    },
+    "B": {
+      "label": "Back Only",
+      "sha12": "a8eea2d743b4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Coming Soon To Metro Detroit",
+      "sha12": "d64bf4514d84"
+    },
+    "B": {
+      "label": "Founding Spots Open In Metro Detroit",
+      "sha12": "00653a5c47bb"
+    }
+  }
+}

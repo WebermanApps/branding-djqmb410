@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-info-deck-1112/mocks/cf-own-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-own-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-name-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-name-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-order-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-order-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-address-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-address-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-code-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-code-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-sig-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-sig-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-note-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-note-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-inputs-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-inputs-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-photo-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-photo-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-refer-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/cf-refer-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Contact And Sign-Up"
+}

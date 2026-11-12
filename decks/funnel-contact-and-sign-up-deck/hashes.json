@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Inside Accept",
+      "sha12": "2a932e3f7540"
+    },
+    "B": {
+      "label": "Its Own Step",
+      "sha12": "383f77cd3d41"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "All Three Together",
+      "sha12": "c0835f388703"
+    },
+    "B": {
+      "label": "Name First, Then Phone And Email",
+      "sha12": "2ee2b98cb5de"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Phone, Then Email",
+      "sha12": "c3375a346992"
+    },
+    "B": {
+      "label": "Email, Then Phone",
+      "sha12": "0d91220e4a4b"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Small Line At The End",
+      "sha12": "c66cb39b40c1"
+    },
+    "B": {
+      "label": "Highlighted At The Top",
+      "sha12": "5755ee162797"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Hidden Behind A Link",
+      "sha12": "7db2d2563eda"
+    },
+    "B": {
+      "label": "Field Shown Open",
+      "sha12": "b5e465894295"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Draw First",
+      "sha12": "32589c9745cd"
+    },
+    "B": {
+      "label": "Type First",
+      "sha12": "b9459f10169e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Boxed Note",
+      "sha12": "38f34ea96ef3"
+    },
+    "B": {
+      "label": "Plain Small Text",
+      "sha12": "d45abb447633"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Standard Fields",
+      "sha12": "650ba1f5aa67"
+    },
+    "B": {
+      "label": "Compact Fields",
+      "sha12": "ef0572c526d7"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Street View Photo",
+      "sha12": "e7e944d88d6e"
+    },
+    "B": {
+      "label": "House Illustration Only",
+      "sha12": "2122de0974b1"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Before Your Home",
+      "sha12": "0f7587b41643"
+    },
+    "B": {
+      "label": "After Your Home",
+      "sha12": "85e655682c60"
+    }
+  }
+}

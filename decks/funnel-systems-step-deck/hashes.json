@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "One Screen",
+      "sha12": "e59a91d214ca"
+    },
+    "B": {
+      "label": "Two Short Screens",
+      "sha12": "1ba4b39c52a7"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Still Step 3 Of 9",
+      "sha12": "eee8e96de8ea"
+    },
+    "B": {
+      "label": "Count Every Screen",
+      "sha12": "384c3acbb8c3"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Inside The Row",
+      "sha12": "cd029ffc60ae"
+    },
+    "B": {
+      "label": "On Its Own Line",
+      "sha12": "21a3cf189866"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "One Mixed Grid",
+      "sha12": "6a7d14349cf3"
+    },
+    "B": {
+      "label": "Priced First, Included Below",
+      "sha12": "998ac7698094"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Show The Price",
+      "sha12": "5d41e642ec21"
+    },
+    "B": {
+      "label": "Names Only",
+      "sha12": "ba7e31726134"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Separate Row Cards",
+      "sha12": "6feaa29848ac"
+    },
+    "B": {
+      "label": "Two Grouped Cards",
+      "sha12": "0ccec3fc125e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Next At The End",
+      "sha12": "dd556e899667"
+    },
+    "B": {
+      "label": "Sticky Next",
+      "sha12": "05dcbb295b2a"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Green Outline And Check",
+      "sha12": "947fdf2cbd2f"
+    },
+    "B": {
+      "label": "Soft Green Fill",
+      "sha12": "91946fd88e4f"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Two Per Row",
+      "sha12": "7e60ff11df01"
+    },
+    "B": {
+      "label": "Three Per Row",
+      "sha12": "7b580b6a532c"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Keep The Icons",
+      "sha12": "db721904aa43"
+    },
+    "B": {
+      "label": "Names Only",
+      "sha12": "918becda31c5"
+    }
+  }
+}

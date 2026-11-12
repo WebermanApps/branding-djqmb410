@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-info-deck-1112/mocks/sy-split-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-split-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-prog-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-prog-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-whtype-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-whtype-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-group-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-group-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-price-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-price-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-cards-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-cards-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-sticky-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-sticky-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-selected-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-selected-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-cols-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-cols-b.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-icons-a.jpg",
+    "/workspace/funnel-info-deck-1112/mocks/sy-icons-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Funnel Systems Step"
+}
