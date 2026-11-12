@@ -1,0 +1,19 @@
+{
+  "category": "ui-screenshots",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/wheres-your-home-1112/mocks/wyh-A.jpg",
+    "/workspace/wheres-your-home-1112/mocks/wyh-B.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "wheres-your-home-deck",
+  "title": "Where's Your Home Deck",
+  "short": "Where's Your Home",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Machan, Nov 12 2026, 10:07 to 10:08 PM ICT (relayed by Grok): the Where's Your Home sign-up step is really poorly laid out; we're optimizing for phone, everything to fit on one screen at a time, and avoid scrolling unless they click something. This one-card deck asks how the address step should fit one phone screen: keep a smaller house picture with every line showing, or put the fields first and tuck the small hints behind info icons. Same words in both, no new copy.",
+  "spec": "spec.md (beside index.html) and /workspace/wheres-your-home-1112/out/wheres-your-home-deck/spec.md",
+  "provenance": "Fresh clone of smart-upkeep main 3a02155f (Nov 12 2026), unlocked local copy served on 127.0.0.1 with all outside traffic blocked (headless Chromium, dsf 2, light scheme, reduced motion). Step 1 opened through the real Get Started button; nothing was typed in the shots, nothing submitted, finished or sent. Each option is a runtime CSS/DOM override of the real step (no repo edits). Keyboard Open frames shrink the viewport by 300px (390x544) with Street Address focused, which is how the step behaves once the page opts into resizing with the keyboard; the grey keyboard block is drawn in. Both options were measured to fit one screen with no scroll at 360x640 and 390x844, with the focused field and Next visible at 360x340 and 390x544.",
+  "browser_qa": "headless chromium crop QA at 390x844 and 360x844 css px dsf2, prefers-reduced-motion; Begin opens card 1 at 1280 and 390 on decrypted local HTML with no page errors; no clipped or off-screen deck UI text at 390 or 360 (measured), docW equals viewport; app mocks measured one-screen at 360x640 and 390x844 and field plus Next visible at 360x340 and 390x544"
+}

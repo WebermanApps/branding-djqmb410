@@ -1,0 +1,10 @@
+{
+  "category": "ui-screenshots",
+  "asset_paths": [
+    "/workspace/wheres-your-home-1112/mocks/wyh-A.jpg",
+    "/workspace/wheres-your-home-1112/mocks/wyh-B.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Where's Your Home Deck"
+}
