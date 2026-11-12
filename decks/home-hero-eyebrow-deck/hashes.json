@@ -28,5 +28,15 @@
       "label": "Roomier",
       "sha12": "6c023cb6318f"
     }
+  },
+  "c4": {
+    "A": {
+      "label": "Keep As Is",
+      "sha12": "f2247827ceeb"
+    },
+    "B": {
+      "label": "Match The Hero",
+      "sha12": "6ad18b35396e"
+    }
   }
 }

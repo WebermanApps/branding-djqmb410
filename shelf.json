@@ -3274,19 +3274,19 @@
    "id": "home-hero-eyebrow-deck",
    "name": "Home Hero Eyebrow",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-hero-eyebrow-deck/",
-   "total": 3,
+   "total": 4,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
    "requested_at": "2026-11-12T19:15:00+07:00",
    "added": "2026-11-12T19:30:48+07:00",
-   "note": "Nov 12 2026: Home Hero Eyebrow. Three cards from real smart-upkeep main 65220fc Home screens: small vs larger Title Case eyebrow, regular vs bold price line, tight vs roomier stack gap. Gate passed, pagelocked.",
+   "note": "Nov 12 2026: Home Hero Eyebrow. Four cards. Cards 1-3 from real smart-upkeep main 65220fc Home screens: small vs larger Title Case eyebrow, regular vs bold price line, tight vs roomier stack gap. Card 4 Video Pop-Up Badge from real smart-upkeep main c462c1b first-visit pop-up: Keep As Is vs Match The Hero; remove the badge via Notes. Gate passed, pagelocked.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "3 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes"
   },
   {
    "id": "home-header-deck",
