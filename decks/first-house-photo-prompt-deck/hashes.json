@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "In The Funnel, With Skip For Now",
+      "sha12": "f1952eb41b7c"
+    },
+    "B": {
+      "label": "After Sign-Up, On You're In",
+      "sha12": "708307642b21"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Good And Bad Thumbnails",
+      "sha12": "50fd3e1c0668"
+    },
+    "B": {
+      "label": "Guidance Line Only",
+      "sha12": "c4e7612ab4de"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "House Outline And Horizon",
+      "sha12": "672748a458e8"
+    },
+    "B": {
+      "label": "Open Viewfinder",
+      "sha12": "cc09e2229286"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Nudge And Three Actions",
+      "sha12": "1b9319f8eeb7"
+    },
+    "B": {
+      "label": "Preview Only",
+      "sha12": "3e6d1ee6600d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Drawing And Short Line",
+      "sha12": "af1301ad4d20"
+    },
+    "B": {
+      "label": "Drawing Only",
+      "sha12": "b3b0053601a9"
+    }
+  }
+}

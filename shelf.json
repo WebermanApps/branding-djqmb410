@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T23:54:01+07:00",
+ "updated": "2026-11-13T00:10:58+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3317,6 +3317,24 @@
    "agent": "upkeep",
    "made": "2026-11-12",
    "blurb": "3 cards, ready now, with Notes"
+  },
+  {
+   "id": "first-house-photo-prompt-deck",
+   "name": "First House Photo Prompt Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/first-house-photo-prompt-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-12T22:30:00+07:00",
+   "added": "2026-11-13T00:10:58+07:00",
+   "note": "Nov 12 2026: First House Photo Prompt. Five cards for a new, optional front-of-house photo. Overlays on real post-#94 funnel and You're In chrome from origin/main 27e48b1b. Legal heading, privacy line, and short skip line word for word. No Street View. Gate passed, pagelocked.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "5 cards, ready now, with Notes"
   },
   {
    "id": "home-size-control-deck",

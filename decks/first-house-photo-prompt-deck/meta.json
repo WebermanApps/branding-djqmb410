@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/when-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/when-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/layout-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/layout-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/cam-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/cam-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/weak-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/weak-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/skip-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/skip-b.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "first-house-photo-prompt-deck",
+  "title": "First House Photo Prompt Deck",
+  "short": "First House Photo Prompt",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "New-feature deck: there is no photo step in the funnel today, and the You're In Your Home card is off. When to ask, prompt layout, camera overlay, after a weak shot, and if they skip. Legal heading “Add A Photo Of Your Home (Optional)” and “Photos are handled as described in our Privacy Policy.” Short skip line only. No Street View, no long skip, no member-app later path. Use fp-a, fp-b, and cropped fp-d from Video & Photo. Drawn thumbs only.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/first-house-photo-prompt-deck/spec.md",
+  "provenance": "New-feature overlays on a git archive of origin/main 27e48b1b (pagelock check exit 0; locked index 36f58481, app.js 9135458c, onboarding.css de3a3684) on the existing unlocked copy, served on 127.0.0.1 with every external request aborted (Khand and Hind served locally). Headless Chromium 390x844 dsf2 (780x1688 JPEG q90) and 360 crop QA, prefers-reduced-motion. Layout referenced Video & Photo concept mockups 01–03, then redrawn on the real funnel and You're In chrome. Viewfinder uses fp-a (two-story siding); weak-shot preview uses cropped fp-d (white brick ranch, neighbor brick cropped out). fp-b (Ohio ranch) was inspected at the same 2:1 cover and 390/360 crops; it is not in these frames. Photos are Pexels License stand-ins, not Metro Detroit and not a member house. Fictional address 142 Maple Street. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "headless chromium 390/360, origin/main 27e48b1b, overflow 0, no clipped UI text, fp-d neighbor brick cropped"
+}

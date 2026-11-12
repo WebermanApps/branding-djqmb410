@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/when-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/when-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/layout-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/layout-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/cam-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/cam-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/weak-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/weak-b.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/skip-a.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/firstphoto/skip-b.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "First House Photo Prompt Deck"
+}
