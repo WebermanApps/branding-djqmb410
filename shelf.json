@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-12T20:15:41+07:00",
+ "updated": "2026-11-12T20:16:45+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3198,6 +3198,55 @@
    "name": "Home Hero Eyebrow",
    "answered": 0,
    "total": 4
+  },
+  {
+   "id": "faq-density-deck",
+   "at": "2026-11-12T20:13:56+07:00",
+   "name": "FAQ Density",
+   "answered": 15,
+   "total": 15
+  },
+  {
+   "id": "shop-a-la-carte-scroll-deck",
+   "at": "2026-11-12T20:02:42+07:00",
+   "name": "Shop À La Carte Scroll",
+   "answered": 2,
+   "total": 3
+  },
+  {
+   "id": "home-four-sections-deck",
+   "at": "2026-11-12T20:07:26+07:00",
+   "name": "Home Four Sections",
+   "answered": 4,
+   "total": 5
+  },
+  {
+   "id": "home-header-deck",
+   "at": "2026-11-12T20:08:26+07:00",
+   "name": "Home Header",
+   "answered": 4,
+   "total": 4
+  },
+  {
+   "id": "member-reminders-deck",
+   "at": "2026-11-12T20:06:25+07:00",
+   "name": "Member Reminders Deck",
+   "answered": 4,
+   "total": 7
+  },
+  {
+   "id": "funnel-extras-deck",
+   "at": "2026-11-12T20:16:10+07:00",
+   "name": "Funnel Extras",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "funnel-contact-and-sign-up-deck",
+   "at": "2026-11-12T20:16:19+07:00",
+   "name": "Funnel Contact And Sign-Up",
+   "answered": 10,
+   "total": 10
   }
  ],
  "pinned": [
@@ -3228,9 +3277,9 @@
    "name": "FAQ Density",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-density-deck/",
    "total": 15,
-   "answered": 0,
+   "answered": 15,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T19:15:00+07:00",
    "added": "2026-11-12T19:30:48+07:00",
    "note": "Nov 12 2026: FAQ Density. Density options (today vs tighter vs compact, category header size, row padding) plus six Add vs Leave Out cards for Legal’s new questions and five Keep Both vs Merge cards (questions 14+16, 20+21, 24+25, 26+27, 28+29 in today’s /faq/ order). Real /faq/ from smart-upkeep main 65220fc. Gate passed, pagelocked.",
@@ -3239,16 +3288,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "15 cards, ready now, with Notes"
+   "blurb": "15 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:13:56+07:00"
   },
   {
    "id": "shop-a-la-carte-scroll-deck",
    "name": "Shop À La Carte Scroll",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/shop-a-la-carte-scroll-deck/",
    "total": 3,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T19:15:00+07:00",
    "added": "2026-11-12T19:30:48+07:00",
    "note": "Nov 12 2026: Shop À La Carte Scroll. Three cards from real smart-upkeep main 65220fc Home screens: about 4 vs 6 visible rows, fade hint vs visible scrollbar, divided rows vs mini cards. Gate passed, pagelocked.",
@@ -3257,16 +3307,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "3 cards, ready now, with Notes"
+   "blurb": "3 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:02:42+07:00"
   },
   {
    "id": "home-four-sections-deck",
    "name": "Home Four Sections",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-four-sections-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T19:15:00+07:00",
    "added": "2026-11-12T19:30:48+07:00",
    "note": "Nov 12 2026: Home Four Sections. Five cards from real smart-upkeep main 65220fc Home screens: chevron vs circle arrow, icon only vs text and arrow, arrow placement, full-screen vs hug-content height, airy vs extra airy spacing. Gate passed, pagelocked.",
@@ -3275,7 +3326,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:07:26+07:00"
   },
   {
    "id": "home-hero-eyebrow-deck",
@@ -3300,9 +3352,9 @@
    "name": "Home Header",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-header-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T19:15:00+07:00",
    "added": "2026-11-12T19:30:48+07:00",
    "note": "Nov 12 2026: Home Header. Four cards from real smart-upkeep main 65220fc Home screens: how Share appears (fade vs slide), icon only vs icon and label, outline vs filled, Log In text link vs small outline button. Gate passed, pagelocked.",
@@ -3311,7 +3363,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "4 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:08:26+07:00"
   },
   {
    "id": "whats-included-redo-deck",
@@ -3336,9 +3389,9 @@
    "name": "Member Reminders Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/member-reminders-deck/",
    "total": 7,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T19:37:00+07:00",
    "added": "2026-11-12T19:54:43+07:00",
    "note": "Nov 12 2026: Member Reminders. Seven cards: filter reminder interval (every 3 months vs member picks 1, 2 or 3); Add Reminders To My Calendar vs app only; Filter Change Due look (due card vs slim top banner); Test Your Smoke Alarms look; Mark Done And Remind Me Later vs Mark Done Only; drone flights (one a year on every plan vs the current config); Complete storm-check yearly cap (2 vs 4; leave a Note for 3). Real /member/ screens from smart-upkeep main c462c1b, Legal FINAL copy word for word. Gate passed, pagelocked.",
@@ -3347,16 +3400,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "7 cards, ready now, with Notes"
+   "blurb": "7 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:06:25+07:00"
   },
   {
    "id": "funnel-extras-deck",
    "name": "Funnel Extras",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-extras-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T13:13:00+07:00",
    "added": "2026-11-12T19:19:26+07:00",
    "note": "Nov 12 2026: Funnel Extras. Five cards from real smart-upkeep main 65220fc screens: Why We Ask, Contact Preference, Home Card Recap, Watch Page Heading, Step Footer. Gate passed, pagelocked.",
@@ -3365,7 +3419,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:16:10+07:00"
   },
   {
    "id": "your-systems-trim-deck",
@@ -3408,9 +3463,9 @@
    "name": "Funnel Contact And Sign-Up",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-contact-and-sign-up-deck/",
    "total": 10,
-   "answered": 0,
+   "answered": 10,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T11:27:00+07:00",
    "added": "2026-11-12T12:03:47+07:00",
    "note": "Nov 12 2026: Funnel Contact And Sign-Up. Ten cards: Your Details own step, name first, field order, address line, code field, signature start, price note, field height, Your Home photo, Refer A Neighbor spot. Real screens from smart-upkeep main b26c832. Gate passed, pagelocked.",
@@ -3419,7 +3474,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "10 cards, ready now, with Notes"
+   "blurb": "10 cards, ready now, with Notes",
+   "done_at": "2026-11-12T20:16:19+07:00"
   },
   {
    "id": "member-and-tech-polish-deck",
