@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T16:47:34+07:00",
+ "updated": "2026-11-13T18:24:17+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3342,6 +3342,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "header-color-deck",
+   "name": "Header Color Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/header-color-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-13T18:13:00+07:00",
+   "added": "2026-11-13T18:24:17+07:00",
+   "note": "4 cards. Header band color (Cream, Warm White, Sand), logo and icon color on Cream, and a warm shadow vs a thin hairline after scroll. Green is kept off the band only.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "4 cards, ready now, with Notes"
+  },
   {
    "id": "resume-indicator-placement-deck",
    "name": "Resume Indicator Placement Deck",

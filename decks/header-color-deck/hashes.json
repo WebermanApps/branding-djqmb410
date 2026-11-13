@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Cream",
+      "sha12": "50164ff91179"
+    },
+    "B": {
+      "label": "Warm White",
+      "sha12": "dbb78e533bfa"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Sand",
+      "sha12": "03e5a547bdf8"
+    },
+    "B": {
+      "label": "Cream",
+      "sha12": "50164ff91179"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Brand-Color Logo",
+      "sha12": "39f4be782345"
+    },
+    "B": {
+      "label": "All Warm-Dark Ink",
+      "sha12": "a67624b88692"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Warm Shadow",
+      "sha12": "7d4874041d69"
+    },
+    "B": {
+      "label": "Thin Hairline",
+      "sha12": "ea40eea5bdb9"
+    }
+  }
+}

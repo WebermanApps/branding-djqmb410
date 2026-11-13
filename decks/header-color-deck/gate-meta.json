@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/header-color-1113/mocks/hdrcolor/cream.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/warm-white.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/sand.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/cream.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/logo-color.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/logo-ink.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/scroll-shadow.jpg",
+    "/workspace/header-color-1113/mocks/hdrcolor/scroll-line.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Header Color Deck"
+}
