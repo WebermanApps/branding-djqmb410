@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T20:01:59+07:00",
+ "updated": "2026-11-13T20:38:49+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3331,6 +3331,20 @@
    "name": "Sign-Up First Steps Deck",
    "answered": 10,
    "total": 10
+  },
+  {
+   "id": "plans-expand-deck",
+   "at": "2026-11-13T20:25:04+07:00",
+   "name": "Plans Expand Deck",
+   "answered": 2,
+   "total": 4
+  },
+  {
+   "id": "hero-look-deck",
+   "at": "2026-11-13T20:22:38+07:00",
+   "name": "Hero Look Deck",
+   "answered": 4,
+   "total": 6
   }
  ],
  "pinned": [
@@ -3415,9 +3429,9 @@
    "name": "Plans Expand Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/plans-expand-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T19:38:00+07:00",
    "added": "2026-11-13T19:50:05+07:00",
    "note": "4 cards. Essentials first with Plus peeking (22% or 32%), how the And More sheet opens (grow from the tile or rise from the bottom), how it closes (X only or X plus a Close pill), and 6 vs 8 lines on the closed tile. 8 lines are marked: they hold at 390 but trim to 7 at 360. Every option shows unexpanded, expanded, and an open-and-close clip.",
@@ -3426,16 +3440,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T20:25:04+07:00"
   },
   {
    "id": "hero-look-deck",
    "name": "Hero Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/hero-look-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T19:34:00+07:00",
    "added": "2026-11-13T19:47:09+07:00",
    "note": "6 cards. Home hero look: type hierarchy, tagline placement, tagline in the video, always-on vs opening service checks (both states plus an open-and-close clip), badge wrap, and type on the video floor vs below it.",
@@ -3444,7 +3459,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-13T20:22:38+07:00"
   },
   {
    "id": "resume-indicator-placement-deck",
