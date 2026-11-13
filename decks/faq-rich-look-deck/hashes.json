@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Look",
+      "sha12": "2f9c194e1366"
+    },
+    "B": {
+      "label": "Member Style",
+      "sha12": "3b0b3d24a292"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Roomy",
+      "sha12": "705925ac6f65"
+    },
+    "B": {
+      "label": "Tight",
+      "sha12": "737ef14734c8"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "On The Chips",
+      "sha12": "13ed0b307521"
+    },
+    "B": {
+      "label": "On Each Question",
+      "sha12": "0b9b6beaec28"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Lagoon Edge",
+      "sha12": "12d9a47ba367"
+    },
+    "B": {
+      "label": "Warm Tint",
+      "sha12": "a2de29975bfd"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Intro Line",
+      "sha12": "46c0b1197a84"
+    },
+    "B": {
+      "label": "Contact Panel",
+      "sha12": "be070bbb3ab5"
+    }
+  }
+}

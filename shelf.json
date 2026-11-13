@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T19:59:45+07:00",
+ "updated": "2026-11-13T20:01:59+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3375,10 +3375,28 @@
    "blurb": "5 cards, ready now, with Notes"
   },
   {
+   "id": "faq-rich-look-deck",
+   "name": "FAQ Rich Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-rich-look-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-13T19:39:00+07:00",
+   "added": "2026-11-13T20:01:54+07:00",
+   "note": "5 cards. Member-style port of the Home FAQ (cream card, corner chevron, typography) vs today's look, then density, topic icons, open-answer accent, and an intro or contact panel. Chips and the one-screen budget stay. Each option is shown closed and open, with a short clip.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes"
+  },
+  {
    "id": "a-la-carte-rich-look-deck",
    "name": "À La Carte Rich Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-rich-look-deck/",
-   "total": 5,
+   "total": 4,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
@@ -3390,7 +3408,7 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes"
   },
   {
    "id": "plans-expand-deck",

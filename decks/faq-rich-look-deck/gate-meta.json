@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/today.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/member.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/density-comfort.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/density-tight.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/icons-on.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/icons-off.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/accent-edge.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/accent-tint.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/intro.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/contact.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "FAQ Rich Look Deck"
+}

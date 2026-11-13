@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/today.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/member.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/density-comfort.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/density-tight.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/icons-on.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/icons-off.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/accent-edge.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/accent-tint.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/intro.jpg",
+    "/workspace/faq-rich-look-1113/mocks/faqrich/stacks/contact.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "faq-rich-look-deck",
+  "title": "FAQ Rich Look Deck",
+  "short": "FAQ Rich Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13, 7:39–7:40 PM ICT: the public FAQ is black and white and plain, with wasted space, the same problem as À La Carte. No carousel and no tabs. Keep the accordion and its motion. Use the member app FAQ style as the baseline. Variants: warmth, icons, accent on open answers, density, and an intro or contact panel to use the empty space. Every option shown closed and open, with a short open and close clip.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of a git archive of smart-upkeep main 08c9fa56690eb99ba4f1d5debfef2b951ebf0c74 (PR #108), pagelock check exit 0, unlocked only in a local QA copy and served on 127.0.0.1 with outside traffic blocked and fonts served locally. Nothing was submitted, paid, finished or sent. Nothing was pushed to smart-upkeep. The live FAQ Look deck was not edited. Variants inject CSS and DOM only; account-shared.css is not loaded on Home. Chips and saFit stay. The 8px corner chevron, 16px card, #ECE5DA hairlines, Hind/Khand type, terracotta Emergency, cream #FCF9F4 ground, and white fade follow the member /member/help/ FAQ style map. Motion is the existing one-open accordion; only the chevron animates (200ms ease). Question wording is the live public FAQ copy. Crop QA at 390×844 and 360×640. The header is shown as that archive renders it and is not the question on this deck. Built Nov 13, 2026.",
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen section with preview header and flush Get Started bar"
+}
