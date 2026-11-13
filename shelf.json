@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T21:01:35+07:00",
+ "updated": "2026-11-13T21:09:25+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3412,24 +3412,6 @@
    "agent": "upkeep",
    "made": "2026-11-13",
    "blurb": "5 cards, ready now, with Notes"
-  },
-  {
-   "id": "a-la-carte-rich-look-deck",
-   "name": "À La Carte Rich Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-rich-look-deck/",
-   "total": 4,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-13T19:39:00+07:00",
-   "added": "2026-11-13T19:54:36+07:00",
-   "note": "4 cards. Filling the wasted space and adding life on Shop À La Carte: comfortable vs tight density, cream list box vs cream service cards, icons vs accent stripes, and a real photo band vs an icon header. No carousel.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes"
   },
   {
    "id": "resume-indicator-placement-deck",
@@ -7381,6 +7363,30 @@
    "removed_at": "2026-11-13T21:01:35+07:00",
    "removed_from": "requested",
    "removed_by": "Swatch (Machan 8:43 PM, too green)",
+   "board": "branding-djqmb410#picks"
+  },
+  {
+   "id": "a-la-carte-rich-look-deck",
+   "name": "À La Carte Rich Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-rich-look-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-11-13T19:39:00+07:00",
+   "added": "2026-11-13T19:54:36+07:00",
+   "note": "Replaced by À La Carte Warm Look Deck; Rich used green icons/price pills, Machan rejected the green look 8:43 PM",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": false,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "4 cards, ready now, with Notes",
+   "removed_at": "2026-11-13T21:09:25+07:00",
+   "removed_from": "requested",
+   "removed_by": "Swatch (retire À La Carte Rich Look Deck; replaced by À La Carte Warm Look Deck)",
+   "archived": true,
+   "archive_note": "Deck files kept under decks/a-la-carte-rich-look-deck/ so it can be restored",
    "board": "branding-djqmb410#picks"
   }
  ],
@@ -12009,6 +12015,31 @@
    "status": "retired",
    "retired_at": "2026-11-13T21:01:35+07:00",
    "note": "Replaced by À La Carte Warm Look Deck per Machan 8:43 PM (too green)"
+  },
+  {
+   "id": "a-la-carte-rich-look-deck",
+   "name": "À La Carte Rich Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-rich-look-deck/",
+   "total": 4,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "retired",
+   "requested_at": "2026-11-13T19:39:00+07:00",
+   "added": "2026-11-13T19:54:36+07:00",
+   "note": "Replaced by À La Carte Warm Look Deck; Rich used green icons/price pills, Machan rejected the green look 8:43 PM",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": false,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "4 cards, ready now, with Notes",
+   "removed_at": "2026-11-13T21:09:25+07:00",
+   "removed_from": "requested",
+   "removed_by": "Swatch (retire À La Carte Rich Look Deck; replaced by À La Carte Warm Look Deck)",
+   "archived": true,
+   "archive_note": "Deck files kept under decks/a-la-carte-rich-look-deck/ so it can be restored",
+   "board": "branding-djqmb410#picks",
+   "retired_at": "2026-11-13T21:09:25+07:00"
   }
  ]
 }
