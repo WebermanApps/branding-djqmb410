@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T11:27:19+07:00",
+ "updated": "2026-11-13T11:59:46+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3339,7 +3339,7 @@
    "id": "home-first-section-deck",
    "name": "Home First Section Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-first-section-deck/",
-   "total": 7,
+   "total": 8,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
@@ -3351,7 +3351,7 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "7 cards on the Home first section and the first sign-up screen, ready now, with Notes"
+   "blurb": "8 cards on the Home first section and the first sign-up screen, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",

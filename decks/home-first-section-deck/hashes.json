@@ -41,15 +41,25 @@
   },
   "c5": {
     "A": {
-      "label": "Grouped",
-      "sha12": "b919ac29c02f"
+      "label": "Section Headers",
+      "sha12": "cb35b6d3620b"
     },
     "B": {
-      "label": "Inner Scroll",
-      "sha12": "eb60cc628cea"
+      "label": "Headers Plus Icons",
+      "sha12": "b7c89924398e"
     }
   },
   "c6": {
+    "A": {
+      "label": "Grouped",
+      "sha12": "3089fcbadddf"
+    },
+    "B": {
+      "label": "Inner Scroll",
+      "sha12": "0dd1083b85e1"
+    }
+  },
+  "c7": {
     "A": {
       "label": "Off",
       "sha12": "d9d5e3322510"
@@ -59,7 +69,7 @@
       "sha12": "dc98b6f09667"
     }
   },
-  "c7": {
+  "c8": {
     "A": {
       "label": "One Screen",
       "sha12": "d9d5e3322510"

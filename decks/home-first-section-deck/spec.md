@@ -2,10 +2,10 @@
 
 Style Swipe · Smart Upkeep · Made Nov 13, 2026
 
-Seven questions about the top of Home and the first screen after Get Started. Today is the live site from this morning's picks. The À La Carte card also stands for the FAQ section: one pick covers both. The expanded plan-list grouping card will follow once Develop pushes the final section names on PR #105. Pick one per card, or tap Machan Decides, and use Notes for anything to tweak.
+Eight questions about the top of Home and the first screen after Get Started. Today is the live site from this morning's picks, plus the grouped And More list from Develop's Plans update. The À La Carte card also stands for the FAQ section: one pick covers both. Pick one per card, or tap Machan Decides, and use Notes for anything to tweak.
 
 ## Request
-Short deck on how the first section of Home looks, plus the first sign-up screen. Today is live main e8df4a21 (PR104). Cards: video pace (today vs about 0.75x), text sizing (eyebrow, headline, price), badge carousel, Get Started bar, À La Carte and FAQ layout (grouped vs inner scroll), Did You Know on step 1, and address-and-size as one screen or split. Notes and Machan Decides on every card. The expanded And More grouping card waits for PR #105.
+Short deck on how the first section of Home looks, plus the first sign-up screen. Hero, type, badges and Get Started are from live PR104 (e8df4a21). And More lists and the À La Carte stills are from PR #105 head 9f33bbe. Cards: video pace (today vs about 0.75x), text sizing (eyebrow, headline, price), badge carousel, Get Started bar, And More lists (section headers vs headers plus icons), À La Carte and FAQ layout (grouped vs inner scroll), Did You Know on step 1, and address-and-size as one screen or split. Notes and Machan Decides on every card.
 
 ## Cards
 
@@ -45,16 +45,25 @@ Notes: Today is the 52px stacked Get Started pill in the Plus terracotta #A8431F
 
 Machan Decides sits on the card.
 
-### Card 5 — À La Carte And FAQ Layout
-How should every À La Carte item (and the FAQ) show in place on Home?
-- A · Grouped: Always-visible section headers, rows of name plus price, tap to expand. This is the default sent to Develop. The FAQ follows the same pick. Layout choice only. Section names and which items go where follow Develop's final build.
-- B · Inner Scroll: The same rows and headers, in a fixed-height box that scrolls inside the section, with a fade at the bottom. Layout choice only. Section names and which items go where follow Develop's final build.
+### Card 5 — And More Lists
+Should the expanded And More list use section headers only, or add a small icon beside each one?
+- A · Section Headers: The And More list is grouped under short titles: Visits, Heating And Cooling, Water And Plumbing, Roof And Outside (Drone), Inside The Home, and Records And Perks. This is what PR #105 builds. Empty groups are left out. Shown on Essentials.
+- B · Headers Plus Icons: The same groups, with a simple line icon in Essentials green beside each header.
 
-Notes: Both options show every À La Carte item in place, with no Shop À La Carte link out, and a row expands on tap. Grouped is the default already sent to Develop. The FAQ section follows this same pick: every question in place, no See All FAQs link, one open at a time. Section names used here are Develop's working names and may shift slightly when PR #105 lands: Heating And Cooling, Water And Plumbing, Roof And Outside (Drone), Inside The Home, and Records And Perks (Records And Perks has no À La Carte items today, so it is hidden). Items and prices are from the live e8df4a21 catalogs, deduped by label. PR #105 did not yet include the À La Carte build when this was rendered (head still f6a011da). Layout choice only. Section names and which items go where follow Develop's final build.
+Notes: A is the real PR #105 Essentials tile with And More expanded, captured from git archive 9f33bbe at 390. The groups, in order, are Visits; Heating And Cooling; Water And Plumbing; Roof And Outside (Drone); Inside The Home; and Records And Perks. Empty groups are left out, and each plan only shows the sections it has items in. B is the same list with a simple 16px line icon in Essentials green #0B6E4F beside each header. No gold, light background, Khand and Hind. Crop QA also at 360x640; on the smaller phone the lower groups sit under the dock, the same as A.
 
 Machan Decides sits on the card.
 
-### Card 6 — Did You Know On Step 1
+### Card 6 — À La Carte And FAQ Layout
+How should every À La Carte item (and the FAQ) show in place on Home?
+- A · Grouped: Always-visible section headers, rows of name plus price, tap to expand. This is the default sent to Develop. The FAQ follows the same pick. À La Carte in PR #105 uses 5 groups (Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, Seasonal Equipment). Layout choice only. Section names and which items go where follow Develop's final build.
+- B · Inner Scroll: The same rows and headers, in a fixed-height box that scrolls inside the section, with a fade at the bottom. Layout choice only. Section names and which items go where follow Develop's final build.
+
+Notes: Both options show every À La Carte item in place, with no Shop À La Carte link out, and a row expands on tap. Grouped is the default already sent to Develop. The FAQ section follows this same pick: every question in place, no See All FAQs link, one open at a time. These stills were recaptured from PR #105 head 9f33bbe. À La Carte in PR #105 uses 5 groups (Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, Seasonal Equipment). All 24 rows from the live catalogs are in place. Layout choice only. Section names and which items go where follow Develop's final build.
+
+Machan Decides sits on the card.
+
+### Card 7 — Did You Know On Step 1
 Should the simplified first sign-up screen keep Did You Know off, or show the tip?
 - A · Off: The simplified Where's Your Home screen with no Did You Know. This is the default sent to Develop.
 - B · With The Tip: The same simplified screen, plus the live Your Home line: Every visit ends with a written report saved to your Home Record.
@@ -63,7 +72,7 @@ Notes: Both options use the simplified first screen: Share top left, logo center
 
 Machan Decides sits on the card.
 
-### Card 7 — Address And Size
+### Card 8 — Address And Size
 Should address, home size, and stories stay on one screen, or split into two steps?
 - A · One Screen: Address, ZIP, Home Size chips, and Stories all on Step 1 Of 10. This is the default sent to Develop. At 360 the one-screen option scrolls in this mock. Develop's PR #106 fits at 360 by tightening the gaps.
 - B · Split Into Two Steps: This screen is Step 1 Of 11 and only asks for the address. Home Size and Stories follow on the next step.
@@ -78,5 +87,5 @@ Rebalanced at 390: headline 32px, eyebrow 20px, price 16px. At 360x640: 28 / 18 
 See Plans to dock gap stays 12px on both. The slimmer Get Started pill measures 44px, and the gap becomes 20px.
 
 ## Provenance
-Rendered from a local unlocked archive of smart-upkeep e8df4a21, served on 127.0.0.1 with outside traffic blocked. Variants injected as CSS or overlays. Video loops retimed with ffmpeg setpts (no fps drop) from the live 4-scene filling-bucket r2 loop (video/teaser-v7-phone-4svc-fill-3x4.mp4). À La Carte rows and prices come from the live catalogs (monthlyAddonCatalog + onceAddonCatalog). Section names for that card are Develop's working names (Heating And Cooling, Water And Plumbing, Roof And Outside (Drone), Inside The Home, Records And Perks) and may shift when PR #105 lands. Step 1 mocks use live labels, the live service-area helper, and the live priced line 'Size and stories are both priced into your plan.' Crop QA at 390x844 and 360x640. Nothing submitted, paid, finished or sent.
+Hero, type, badges, Get Started and the step 1 mocks were rendered from a local unlocked archive of smart-upkeep e8df4a21 (PR104). The And More list card and the À La Carte stills were recaptured from a git archive of PR #105 head 9f33bbe006a8da3820e7e9245c326d4c2fc60186, served on 127.0.0.1 with outside traffic blocked. Variants injected as CSS or overlays. Video loops retimed with ffmpeg setpts (no fps drop) from the live 4-scene filling-bucket r2 loop (video/teaser-v7-phone-4svc-fill-3x4.mp4). And More A is the real PR #105 Essentials tile with And More expanded, grouped under Visits; Heating And Cooling; Water And Plumbing; Roof And Outside (Drone); Inside The Home; and Records And Perks. And More B adds simple line icons in Essentials green #0B6E4F beside each header. No gold. À La Carte uses the real PR #105 five groups: Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, and Seasonal Equipment (24 rows). Inner Scroll is the same list in a short in-section box. Step 1 mocks use live labels, the live service-area helper, and the live priced line 'Size and stories are both priced into your plan.' Crop QA at 390x844 and 360x640. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep.
 
