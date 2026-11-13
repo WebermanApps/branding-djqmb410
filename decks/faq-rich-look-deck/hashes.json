@@ -2,51 +2,51 @@
   "c1": {
     "A": {
       "label": "Today's Look",
-      "sha12": "2f9c194e1366"
+      "sha12": "5c53d938bbc1"
     },
     "B": {
       "label": "Member Style",
-      "sha12": "3b0b3d24a292"
+      "sha12": "9c58dcd48273"
     }
   },
   "c2": {
     "A": {
       "label": "Roomy",
-      "sha12": "705925ac6f65"
+      "sha12": "afa311181c35"
     },
     "B": {
       "label": "Tight",
-      "sha12": "737ef14734c8"
+      "sha12": "c8894a3bccd3"
     }
   },
   "c3": {
     "A": {
       "label": "On The Chips",
-      "sha12": "13ed0b307521"
+      "sha12": "ecbe3eed8322"
     },
     "B": {
       "label": "On Each Question",
-      "sha12": "0b9b6beaec28"
+      "sha12": "3f01a05378d2"
     }
   },
   "c4": {
     "A": {
       "label": "Lagoon Edge",
-      "sha12": "12d9a47ba367"
+      "sha12": "582b14c93f95"
     },
     "B": {
       "label": "Warm Tint",
-      "sha12": "a2de29975bfd"
+      "sha12": "9023ec0f1518"
     }
   },
   "c5": {
     "A": {
       "label": "Intro Line",
-      "sha12": "46c0b1197a84"
+      "sha12": "5e78a7ea7451"
     },
     "B": {
       "label": "Contact Panel",
-      "sha12": "be070bbb3ab5"
+      "sha12": "af7a00dda42c"
     }
   }
 }
