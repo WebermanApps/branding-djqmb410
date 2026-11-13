@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/onboarding-home-build-1113/mocks/scene-filter.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/scene-inhouse.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/appear-pop.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/appear-draw.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/story-morph.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/story-swap.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/finish-settle.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/finish-reveal.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/motion-instant.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/motion-fade.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "onboarding-home-build-deck",
+  "title": "Onboarding Home Build Deck",
+  "short": "Home Build",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, 7:44 PM ICT, 13 Nov 2026: for the onboarding I love the idea of building the home with a graphic as we go; when they go to one story or two story it shows the graphic as they go, and if they add stuff it shows it on the screen, and we carry the home with them until they finish. Folded with Sign-Up First Steps picks (flat illustration, Filter Change, still on step 1, band above the title, small caption, Home That Reacts, What's Included hint, light motion). Team plan with Develop: one inline SVG, transform and opacity only, 200–300ms, no loops, no confetti, green only as a tiny plant accent, centered Warm White header with Share top left and the menu top right. 7:49–7:50 PM: every step fits the iPhone 14/15 Safari visible area of about 390×660; keep the house band consistent, tighten questions first, then drop Did You Know, and shrink the house only as a last resort.",
+  "spec": "spec.md and /workspace/onboarding-home-build-1113/out/onboarding-home-build-deck/spec.md",
+  "provenance": "Original flat SVG illustrations drawn for this deck (no AI photos, no member houses). Funnel steps and answers mapped from live smart-upkeep main 08c9fa56 (app.js and pricing-config.js). The header is a mock of the coming Warm White #FFFCF7 88px band with the logo centered at all times, Share top left and the menu top right (header PR in progress; logo size matches the live 12% larger mark). The house-build graphic is not live. One inline SVG, 10,680 bytes, with a layer group per item. Motion in the product is a one-shot 200–300ms transform or opacity change, no loops; the deck clips loop so you can see it. Mocks are the 390×660 Safari visible area (and 360×640), not the full 390×844 phone. Real prices only (Essentials $139/mo, Plus $209/mo, Complete $379/mo). Crop QA at 390×660 and 360×640. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep.",
+  "browser_qa": "crop QA at 390x660 (iPhone 14/15 Safari visible area) and 360x640; 88px Warm White centered-logo header; 120px consistent house band"
+}

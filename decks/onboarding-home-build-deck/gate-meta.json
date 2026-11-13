@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/onboarding-home-build-1113/mocks/scene-filter.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/scene-inhouse.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/appear-pop.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/appear-draw.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/story-morph.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/story-swap.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/finish-settle.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/finish-reveal.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/motion-instant.jpg",
+    "/workspace/onboarding-home-build-1113/mocks/motion-fade.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Onboarding Home Build Deck"
+}

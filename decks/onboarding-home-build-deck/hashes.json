@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Its Own Picture",
+      "sha12": "a8b53f6b1759"
+    },
+    "B": {
+      "label": "Inside The Empty House",
+      "sha12": "7a4c6ee5b0c0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Pop",
+      "sha12": "29ef153d4808"
+    },
+    "B": {
+      "label": "Draw-In",
+      "sha12": "6f8ef0920078"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Morph",
+      "sha12": "6f02f28ab3ea"
+    },
+    "B": {
+      "label": "Swap",
+      "sha12": "ca3541100386"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Settle",
+      "sha12": "9f8b8acaddd1"
+    },
+    "B": {
+      "label": "Reveal",
+      "sha12": "838863282bf8"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Instant Swap",
+      "sha12": "d204dad0c332"
+    },
+    "B": {
+      "label": "A Quick Fade",
+      "sha12": "b8b9b897239a"
+    }
+  }
+}

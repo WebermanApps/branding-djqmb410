@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T19:54:36+07:00",
+ "updated": "2026-11-13T19:59:45+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3356,6 +3356,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "onboarding-home-build-deck",
+   "name": "Onboarding Home Build Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-home-build-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-13T19:44:00+07:00",
+   "added": "2026-11-13T19:59:45+07:00",
+   "note": "5 cards. How the house builds through sign-up: step 1 scene, how items appear, how stories change, the finish reveal, and reduced motion. Style and placement are settled from Sign-Up First Steps. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes"
+  },
   {
    "id": "a-la-carte-rich-look-deck",
    "name": "À La Carte Rich Look Deck",
