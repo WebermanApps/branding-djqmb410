@@ -3,14 +3,14 @@
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",
   "asset_paths": [
-    "/workspace/alacarte-rich-1113/mocks/alcrich/density-comfy.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/density-tight.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-box.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-cards.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-only.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-accent.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/photo-band.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icon-header.jpg"
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/density-comfy.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/density-tight.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/tint-box.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/tint-cards.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icons-only.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icons-accent.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/photo-band.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icon-header.jpg"
   ],
   "agent": "upkeep",
   "submit_agent": "upkeep",
@@ -20,7 +20,7 @@
   "status": "published pagelocked; pinned closed on Max's Picks",
   "requested": "Machan, Nov 13, 7:39–7:40 PM ICT: Shop À La Carte feels just black and white and plain, with so much wasted space. The fix is not a carousel, so this deck has no carousel card, even for comparison. Focus the deck on filling the screen and adding life, within one screen and crisp and clean: warm tinted cards or backgrounds from the light/cream palette (no dark, no green header band), icons, real imagery (real photos only, otherwise Needs Photo), color accents, price pills, better density and hierarchy, and using the empty space well. Use only the real live items and live prices or Quote as shown on live main 08c9fa56. Separate follow-up deck because the À La Carte Look Deck is already live.",
   "spec": "spec.md and /workspace/alacarte-rich-1113/out/a-la-carte-rich-look-deck/spec.md",
-  "provenance": "Rendered from a local unlocked copy of smart-upkeep main 08c9fa56690eb99ba4f1d5debfef2b951ebf0c74 (live on smartupkeep.ai), served on 127.0.0.1 with outside traffic blocked and fonts local, Playwright headless. Variants were injected as CSS or DOM into that local copy. The live Warm White header band was left as it is; green was not added to the header. Live catalog, live prices, and the live word Quote are used throughout (Quote Required was not substituted). Group names are the live À La Carte groups in app.js: Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, and Seasonal Equipment. The live home section lists the full monthly and one-time catalogs (5 monthly and 19 one-time rows), not a 13-item subset. Real photos: visit-sink-trap.jpg for Water And Plumbing and visit-window-caulk.jpg for Roof And Outside, both already in the smart-upkeep repo. Heating And Cooling, Inside The Home, and Seasonal Equipment have no fitting real photo in the repo or the branding photo library, so card 4 is marked Needs Photo for those groups. No AI images and no member house photos were used. A carousel comparison card was removed before this publish, because the fix is not a carousel. Crop QA at 390×844 and 360×640. One phone screen. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep. Updated Nov 13, 2026.",
+  "provenance": "Rendered from a local unlocked copy of smart-upkeep main 08c9fa56690eb99ba4f1d5debfef2b951ebf0c74 (live on smartupkeep.ai), served on 127.0.0.1 with outside traffic blocked and fonts local, Playwright headless. Variants were injected as CSS or DOM into that local copy. The live Warm White header band was left as it is; green was not added to the header. Live catalog, live prices, and the live word Quote are used throughout (Quote Required was not substituted). Group names are the live À La Carte groups in app.js: Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, and Seasonal Equipment. The live home section lists the full monthly and one-time catalogs (5 monthly and 19 one-time rows), not a 13-item subset. Real photos: visit-sink-trap.jpg for Water And Plumbing and visit-window-caulk.jpg for Roof And Outside, both already in the smart-upkeep repo. Heating And Cooling, Inside The Home, and Seasonal Equipment have no fitting real photo in the repo or the branding photo library, so card 4 is marked Needs Photo for those groups. No AI images and no member house photos were used. A carousel comparison card was removed before this publish, because the fix is not a carousel. Crop QA at 390×844 and 360×640. One phone screen. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep. Updated Nov 13, 2026. Photo pass Nov 13, 2026, 8:40 PM ICT: stills were recropped or reframed so each A/B pair is easy to tell apart at phone size, and so the same art is not reused across cards unless it is the same option carried forward.",
   "needs_photo": [
     {
       "card": "c4",

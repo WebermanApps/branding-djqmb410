@@ -2,41 +2,41 @@
   "c1": {
     "A": {
       "label": "Comfortable Rich List",
-      "sha12": "1c2e5c03c0c4"
+      "sha12": "ec0ee46a2c05"
     },
     "B": {
       "label": "Tight Rich List",
-      "sha12": "2a6583d5e914"
+      "sha12": "cc9f576820e5"
     }
   },
   "c2": {
     "A": {
       "label": "Tinted List Box",
-      "sha12": "1c2e5c03c0c4"
+      "sha12": "1dc28e4185ed"
     },
     "B": {
       "label": "Tinted Service Cards",
-      "sha12": "9ea7171e6f11"
+      "sha12": "e2a0958c9f2e"
     }
   },
   "c3": {
     "A": {
       "label": "Line Icons",
-      "sha12": "9ea7171e6f11"
+      "sha12": "6f320523e4b7"
     },
     "B": {
       "label": "Accent Stripes",
-      "sha12": "932c4707fc35"
+      "sha12": "d53be974cc02"
     }
   },
   "c4": {
     "A": {
       "label": "Real Photo Band",
-      "sha12": "530dc2640396"
+      "sha12": "b74a3ddb09d6"
     },
     "B": {
       "label": "Icon Header",
-      "sha12": "ed860369777c"
+      "sha12": "3462190f51eb"
     }
   }
 }

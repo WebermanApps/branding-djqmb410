@@ -1,14 +1,14 @@
 {
   "category": "ui-phone-mockups",
   "asset_paths": [
-    "/workspace/alacarte-rich-1113/mocks/alcrich/density-comfy.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/density-tight.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-box.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-cards.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-only.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-accent.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/photo-band.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icon-header.jpg"
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/density-comfy.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/density-tight.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/tint-box.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/tint-cards.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icons-only.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icons-accent.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/photo-band.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/a-la-carte-rich-look-deck/icon-header.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",
