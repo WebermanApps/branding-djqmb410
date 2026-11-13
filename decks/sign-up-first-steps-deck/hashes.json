@@ -1,0 +1,111 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat Illustration",
+      "sha12": "409fb9cfbd2d"
+    },
+    "B": {
+      "label": "Real Photo (Needs Photo)",
+      "sha12": "bd082a492a51"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Roof Inspection",
+      "sha12": "0d46f87b9923"
+    },
+    "B": {
+      "label": "Filter Change",
+      "sha12": "b59698148d61"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Still",
+      "sha12": "409fb9cfbd2d"
+    },
+    "B": {
+      "label": "Slow Pan Loop",
+      "sha12": "8aa7ed11c805",
+      "video": "media/s1-pan.mp4",
+      "video_sha12": "e2cf26f0af80",
+      "poster_sha12": "87822f7b51ca"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Band Above The Title",
+      "sha12": "2486bc3d7fc6"
+    },
+    "B": {
+      "label": "Small Tile Beside The Title",
+      "sha12": "45444e14496e"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "No Caption",
+      "sha12": "409fb9cfbd2d"
+    },
+    "B": {
+      "label": "Small Caption Line",
+      "sha12": "4d47cf20f464"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Home That Reacts",
+      "sha12": "26b61157287d",
+      "video": "media/s2-react.mp4",
+      "video_sha12": "ebc995746432",
+      "poster_sha12": "a1501ed0f278"
+    },
+    "B": {
+      "label": "Service Graphic",
+      "sha12": "1791c7e8102e"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "No Hint",
+      "sha12": "75118b6820a7"
+    },
+    "B": {
+      "label": "What's Included Hint",
+      "sha12": "f59be63c55de"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Static",
+      "sha12": "bc7d206d0398"
+    },
+    "B": {
+      "label": "Light Motion",
+      "sha12": "e82a422d4094",
+      "video": "media/s2-ease.mp4",
+      "video_sha12": "52040708130e",
+      "poster_sha12": "c257509fb3ce"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "Band Above The Title",
+      "sha12": "9003455078b5"
+    },
+    "B": {
+      "label": "Small Tile Beside The Title",
+      "sha12": "a0ae89a91729"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Tight On The Technician",
+      "sha12": "3779f4fa2449"
+    },
+    "B": {
+      "label": "Wider Scene",
+      "sha12": "bb5392ba8981"
+    }
+  }
+}

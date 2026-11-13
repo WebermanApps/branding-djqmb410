@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-needs.jpg",
+    "/workspace/sufs-1113/mocks/s1-roof-f.jpg",
+    "/workspace/sufs-1113/mocks/s1-filter-f.jpg",
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-pan.jpg",
+    "/workspace/sufs-1113/qa/s1-band-360.jpg",
+    "/workspace/sufs-1113/qa/s1-side-360.jpg",
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-cap.jpg",
+    "/workspace/sufs-1113/mocks/s2-react.jpg",
+    "/workspace/sufs-1113/mocks/s2-gutter.jpg",
+    "/workspace/sufs-1113/mocks/s2-nohint.jpg",
+    "/workspace/sufs-1113/mocks/s2-hint.jpg",
+    "/workspace/sufs-1113/mocks/s2-static.jpg",
+    "/workspace/sufs-1113/mocks/s2-ease.jpg",
+    "/workspace/sufs-1113/qa/s2-band-360.jpg",
+    "/workspace/sufs-1113/qa/s2-side-360.jpg",
+    "/workspace/sufs-1113/mocks/crop-tight.jpg",
+    "/workspace/sufs-1113/mocks/crop-wide.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Sign-Up First Steps Deck"
+}

@@ -1,0 +1,59 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-needs.jpg",
+    "/workspace/sufs-1113/mocks/s1-roof-f.jpg",
+    "/workspace/sufs-1113/mocks/s1-filter-f.jpg",
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-pan.jpg",
+    "/workspace/sufs-1113/qa/s1-band-360.jpg",
+    "/workspace/sufs-1113/qa/s1-side-360.jpg",
+    "/workspace/sufs-1113/mocks/s1-illus.jpg",
+    "/workspace/sufs-1113/mocks/s1-cap.jpg",
+    "/workspace/sufs-1113/mocks/s2-react.jpg",
+    "/workspace/sufs-1113/mocks/s2-gutter.jpg",
+    "/workspace/sufs-1113/mocks/s2-nohint.jpg",
+    "/workspace/sufs-1113/mocks/s2-hint.jpg",
+    "/workspace/sufs-1113/mocks/s2-static.jpg",
+    "/workspace/sufs-1113/mocks/s2-ease.jpg",
+    "/workspace/sufs-1113/qa/s2-band-360.jpg",
+    "/workspace/sufs-1113/qa/s2-side-360.jpg",
+    "/workspace/sufs-1113/mocks/crop-tight.jpg",
+    "/workspace/sufs-1113/mocks/crop-wide.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "sign-up-first-steps-deck",
+  "title": "Sign-Up First Steps Deck",
+  "short": "Sign-Up First Steps",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13, 4:20 PM ICT, widened at 4:21 PM: sign-up steps 1 and 2 are simpler now but look nearly blank. Fill both with a graphic that sells the service (a technician on a roof, a filter change) while staying calm and simple; still or very light motion only. Step 2 ideas: a home visual that reacts to size and stories, a service graphic, a small What's Included For A Home Like Yours hint from real plan content, light motion vs static. One phone screen at 360x640 and 390x844, light only, Title Case, no house-photo asks, crop questions in the deck. 10 cards.",
+  "spec": "spec.md and /workspace/sufs-1113/out/sign-up-first-steps-deck/spec.md",
+  "provenance": "Every frame is the real live sign-up step rendered from a git archive of smart-upkeep main 79f5d57 (PR #107 merge), pagelock check exit 0, unlocked only in a mode-700 QA copy, served on 127.0.0.1 with all outside traffic blocked and fonts served locally. Graphics, caption, hint, header band and flush bar were injected as DOM and CSS. Illustrations (roof inspection, filter change, gutters) were generated for this deck: flat, cream, Essentials green, no text, no logos; they are illustrations, not photos. The step 2 home is a coded vector drawing that reads the selected size and stories. No real technician roof or filter photo or clip exists on the box (the live site's visit photos are close-ups of findings, and the brand videos are animation), so the real photo option is marked Needs Photo. Clips: frame-stepped screenshots at 20 fps encoded with ffmpeg H.264, muted, looping, playsinline, with poster frames. The hint uses real Essentials lines from live app.js buildLines (2 seasonal visits, furnace filter checked every visit, yearly roof drone inspection with gutter check), no prices. Crop QA at 390x844 and 360x640. Nothing submitted, finished or sent; nothing pushed to smart-upkeep.",
+  "needs_photo": [
+    {
+      "card": "c1",
+      "side": "B",
+      "label": "Real Photo (Needs Photo)",
+      "need": "Real photo of a technician inspecting a roof; no source labels, no member homes"
+    }
+  ],
+  "illustration_assets": [
+    "art/roof.jpg",
+    "art/filter.jpg",
+    "art/gutter.jpg",
+    "step 2 coded vector home"
+  ],
+  "real_assets": [
+    "live sign-up steps 1 and 2 from smart-upkeep main 79f5d57"
+  ],
+  "videos": {
+    "s1-pan": "media/s1-pan.mp4",
+    "s2-react": "media/s2-react.mp4",
+    "s2-ease": "media/s2-ease.mp4"
+  },
+  "browser_qa": "crop QA at 390x844 and 360x640; every frame fits one screen above the flush bar; no clipped text"
+}
