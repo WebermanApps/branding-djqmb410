@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/pace-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/pace-075.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/type-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/type-rebal.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/badge-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/badge-slow.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/dock-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/dock-slim.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/alc-grouped.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/alc-scroll.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-odyk.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-dyk.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-one.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-split.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home First Section Deck"
+}

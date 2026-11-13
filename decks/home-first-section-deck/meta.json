@@ -1,0 +1,31 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/pace-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/pace-075.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/type-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/type-rebal.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/badge-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/badge-slow.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/dock-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/dock-slim.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/alc-grouped.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/alc-scroll.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-odyk.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-dyk.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-one.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/homefirst/step1-split.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-first-section-deck",
+  "title": "Home First Section Deck",
+  "short": "Home First Section",
+  "status": "published pagelocked; pinned closed on Max's Picks and the UpKeep board",
+  "requested": "Short deck on how the first section of Home looks, plus the first sign-up screen. Today is live main e8df4a21 (PR104). Cards: video pace (today vs about 0.75x), text sizing (eyebrow, headline, price), badge carousel, Get Started bar, À La Carte and FAQ layout (grouped vs inner scroll), Did You Know on step 1, and address-and-size as one screen or split. Notes and Machan Decides on every card. The expanded And More grouping card waits for PR #105.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/home-first-section-deck/spec.md",
+  "provenance": "Rendered from a local unlocked archive of smart-upkeep e8df4a21, served on 127.0.0.1 with outside traffic blocked. Variants injected as CSS or overlays. Video loops retimed with ffmpeg setpts (no fps drop) from the live 4-scene filling-bucket r2 loop (video/teaser-v7-phone-4svc-fill-3x4.mp4). À La Carte rows and prices come from the live catalogs (monthlyAddonCatalog + onceAddonCatalog). Section names for that card are Develop's working names (Heating And Cooling, Water And Plumbing, Roof And Outside (Drone), Inside The Home, Records And Perks) and may shift when PR #105 lands. Step 1 mocks use live labels, the live service-area helper, and the live priced line 'Size and stories are both priced into your plan.' Crop QA at 390x844 and 360x640. Nothing submitted, paid, finished or sent.",
+  "browser_qa": "crop QA at 390x844 and 360x640; typography and dock fit one screen with a 12px See Plans gap"
+}

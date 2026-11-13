@@ -1,0 +1,72 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Speed",
+      "sha12": "1af1bc565d23"
+    },
+    "B": {
+      "label": "About 0.75× Speed",
+      "sha12": "123364b0d51a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today's Sizing",
+      "sha12": "603ea9975356"
+    },
+    "B": {
+      "label": "Rebalanced Hierarchy",
+      "sha12": "d5e198acb9e0"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today's Marquee",
+      "sha12": "95a5dd884d17"
+    },
+    "B": {
+      "label": "Slower, Larger Pills",
+      "sha12": "acd81b1d9e89"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today's 52px Pill",
+      "sha12": "887aeb7c3d15"
+    },
+    "B": {
+      "label": "Slimmer 44px With Arrow",
+      "sha12": "8b62ffb6d3e5"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Grouped",
+      "sha12": "b919ac29c02f"
+    },
+    "B": {
+      "label": "Inner Scroll",
+      "sha12": "eb60cc628cea"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Off",
+      "sha12": "d9d5e3322510"
+    },
+    "B": {
+      "label": "With The Tip",
+      "sha12": "dc98b6f09667"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "One Screen",
+      "sha12": "d9d5e3322510"
+    },
+    "B": {
+      "label": "Split Into Two Steps",
+      "sha12": "dd6513600b7c"
+    }
+  }
+}
