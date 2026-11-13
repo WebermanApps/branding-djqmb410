@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T09:01:58+07:00",
+ "updated": "2026-11-13T09:02:34+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3275,6 +3275,41 @@
    "name": "Fill The Sections Deck",
    "answered": 0,
    "total": 4
+  },
+  {
+   "id": "signup-fit-deck",
+   "at": "2026-11-13T08:49:56+07:00",
+   "name": "Sign-Up Fit Deck",
+   "answered": 3,
+   "total": 3
+  },
+  {
+   "id": "hero-loop-deck",
+   "at": "2026-11-13T09:02:08+07:00",
+   "name": "Hero Loop Deck",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "home-size-control-deck",
+   "at": "2026-11-13T09:00:38+07:00",
+   "name": "Home Size Control Deck",
+   "answered": 2,
+   "total": 2
+  },
+  {
+   "id": "did-you-know-lines-deck",
+   "at": "2026-11-13T09:00:14+07:00",
+   "name": "Did You Know Lines Deck",
+   "answered": 7,
+   "total": 7
+  },
+  {
+   "id": "funnel-drop-off-deck",
+   "at": "2026-11-13T08:57:42+07:00",
+   "name": "Funnel Drop-Off Deck",
+   "answered": 4,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3305,9 +3340,9 @@
    "name": "Sign-Up Fit Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/signup-fit-deck/",
    "total": 3,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:42:00+07:00",
    "added": "2026-11-12T22:42:26+07:00",
    "note": "Nov 12 2026 ICT: Sign-Up Fit. Two cards for the two PR97 sign-up steps that cannot fit one phone screen without cutting content: Start Date on a small phone, and Accept. Real PR97 screens at 360, 390 and 1280, every option measured to fit. Legal text word for word. Gate passed, pagelocked.",
@@ -3316,16 +3351,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "3 cards, ready now, with Notes"
+   "blurb": "3 cards, ready now, with Notes",
+   "done_at": "2026-11-13T08:49:56+07:00"
   },
   {
    "id": "hero-loop-deck",
    "name": "Hero Loop Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/hero-loop-deck/",
    "total": 2,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:30:00+07:00",
    "added": "2026-11-13T00:41:55+07:00",
    "note": "Nov 12 2026: Hero Loop. Two cards for the Home top-section 3:4 loop. Current 3-scene (PR99) vs 4-scene still-bucket r2 vs 4-scene filling-bucket r2. Real 335×447 crop at 390, 309.6×384.8 at 360. Loops play in the deck. Gate passed, pagelocked.",
@@ -3334,7 +3370,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "2 cards, ready now, with Notes"
+   "blurb": "2 cards, ready now, with Notes",
+   "done_at": "2026-11-13T09:02:08+07:00"
   },
   {
    "id": "home-share-image-deck",
@@ -3359,9 +3396,9 @@
    "name": "Home Size Control Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-size-control-deck/",
    "total": 2,
-   "answered": 0,
+   "answered": 2,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:30:00+07:00",
    "added": "2026-11-12T23:54:01+07:00",
    "note": "Nov 12 2026: Home Size Control. Two cards from his note that +/- for sqft felt odd. Real Your Home step on origin/main 27e48b1b. Live range labels stay. Gate passed, pagelocked.",
@@ -3370,16 +3407,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "2 cards, ready now, with Notes"
+   "blurb": "2 cards, ready now, with Notes",
+   "done_at": "2026-11-13T09:00:38+07:00"
   },
   {
    "id": "did-you-know-lines-deck",
    "name": "Did You Know Lines Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/did-you-know-lines-deck/",
    "total": 7,
-   "answered": 0,
+   "answered": 7,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:30:00+07:00",
    "added": "2026-11-12T23:39:48+07:00",
    "note": "Nov 12 2026: Did You Know Lines. Eight swipe cards (1–7 and 9) on the post-#94 funnel steps, Legal FINAL lines. Card 6 is labeled Concept and is not a live payments-on screen. Card 8 is A-only and is not in this swipe set. PR96+PR97 stack. Gate passed, pagelocked.",
@@ -3388,16 +3426,17 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "7 cards, ready now, with Notes"
+   "blurb": "7 cards, ready now, with Notes",
+   "done_at": "2026-11-13T09:00:14+07:00"
   },
   {
    "id": "funnel-drop-off-deck",
    "name": "Funnel Drop-Off Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/funnel-drop-off-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-12T22:30:00+07:00",
    "added": "2026-11-12T22:34:43+07:00",
    "note": "Nov 12 2026: Funnel Drop-Off. Four function cards on sign-up friction: browser Back mid-funnel, Your Details validation, autofill hints, and the Your Plan default. Real post-#94 funnel screens on the latest stack (PR96 + PR97). Legal-approved error lines. Gate passed, pagelocked.",
@@ -3406,7 +3445,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "4 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T08:57:42+07:00"
   },
   {
    "id": "daniel-carly-photo-crop-deck",
