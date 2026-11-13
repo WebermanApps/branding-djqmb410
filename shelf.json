@@ -3345,7 +3345,7 @@
    "status": "open",
    "requested_at": "2026-11-13T11:20:00+07:00",
    "added": "2026-11-13T11:27:19+07:00",
-   "note": "Nov 13 2026: Home First Section. Seven cards from live PR104 (e8df4a21): hero video pace, text sizing, badge carousel, Get Started bar, À La Carte and FAQ layout, and the first sign-up screen (Did You Know, one screen or split). The expanded plan-list card is held pending Develop's PR #105 grouping. Pinned on Max's Picks, collapsed by default.",
+   "note": "Nov 13 2026: Home First Section. Eight cards: hero video pace, text sizing, badge carousel, Get Started bar, And More lists (section headers vs headers plus icons, from PR #105 9f33bbe), À La Carte and FAQ layout, and the first sign-up screen (Did You Know, one screen or split). Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
