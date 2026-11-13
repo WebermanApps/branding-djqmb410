@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/alacarte-rich-1113/mocks/alcrich/density-comfy.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/density-tight.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-box.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/tint-cards.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-only.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/icons-accent.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/photo-band.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/icon-header.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/rich-list.jpg",
+    "/workspace/alacarte-rich-1113/mocks/alcrich/category-carousel.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "\u00c0 La Carte Rich Look Deck"
+}

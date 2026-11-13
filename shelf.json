@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T19:50:05+07:00",
+ "updated": "2026-11-13T19:54:36+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3356,6 +3356,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "a-la-carte-rich-look-deck",
+   "name": "À La Carte Rich Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-rich-look-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-13T19:39:00+07:00",
+   "added": "2026-11-13T19:54:36+07:00",
+   "note": "5 cards. Filling the wasted space and adding life on Shop À La Carte: comfortable vs tight density, cream list box vs cream service cards, icons vs accent stripes, a real photo band vs an icon header, and a rich list vs a category carousel for comparison only.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes"
+  },
   {
    "id": "plans-expand-deck",
    "name": "Plans Expand Deck",

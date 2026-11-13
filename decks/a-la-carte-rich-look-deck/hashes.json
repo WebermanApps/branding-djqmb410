@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Comfortable Rich List",
+      "sha12": "1c2e5c03c0c4"
+    },
+    "B": {
+      "label": "Tight Rich List",
+      "sha12": "2a6583d5e914"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Tinted List Box",
+      "sha12": "1c2e5c03c0c4"
+    },
+    "B": {
+      "label": "Tinted Service Cards",
+      "sha12": "9ea7171e6f11"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Line Icons",
+      "sha12": "9ea7171e6f11"
+    },
+    "B": {
+      "label": "Accent Stripes",
+      "sha12": "932c4707fc35"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Real Photo Band",
+      "sha12": "530dc2640396"
+    },
+    "B": {
+      "label": "Icon Header",
+      "sha12": "ed860369777c"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Rich Grouped List",
+      "sha12": "932c4707fc35"
+    },
+    "B": {
+      "label": "Category Carousel",
+      "sha12": "24ad50d136f8"
+    }
+  }
+}
