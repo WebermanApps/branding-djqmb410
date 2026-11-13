@@ -1,0 +1,22 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/chips-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/chips-green.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/rows-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/rows-soft.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/expand-instant.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/expand-smooth.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/icons-none.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/icons-line.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/price-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/price-required.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/scroll-fade.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/scroll-count.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/gloss-chip.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/gloss-row.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "\u00c0 La Carte Look Deck"
+}

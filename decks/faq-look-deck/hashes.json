@@ -1,0 +1,138 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Look",
+      "sha12": "0c16fcc8a27b"
+    },
+    "B": {
+      "label": "Matched To À La Carte",
+      "sha12": "37a4089b66ec"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "200ms Ease-Out",
+      "sha12": "0435f5b7dcec",
+      "vid": "media/ease-200.mp4",
+      "poster": "media/ease-200-poster.jpg",
+      "vid_sha12": "a16a997e0105",
+      "poster_sha12": "0435f5b7dcec"
+    },
+    "B": {
+      "label": "320ms Springy Ease",
+      "sha12": "f6792fad2fec",
+      "vid": "media/ease-320.mp4",
+      "poster": "media/ease-320-poster.jpg",
+      "vid_sha12": "ce979dcc4380",
+      "poster_sha12": "f6792fad2fec"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Grid Rows",
+      "sha12": "23b8780bea69",
+      "vid": "media/height-grid.mp4",
+      "poster": "media/height-grid-poster.jpg",
+      "vid_sha12": "b1c00c13e7b6",
+      "poster_sha12": "23b8780bea69"
+    },
+    "B": {
+      "label": "Measured Height",
+      "sha12": "a4db0ec55f92",
+      "vid": "media/height-measure.mp4",
+      "poster": "media/height-measure-poster.jpg",
+      "vid_sha12": "b86178d0456e",
+      "poster_sha12": "a4db0ec55f92"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Chevron Rotate",
+      "sha12": "611943e3ee08",
+      "vid": "media/chevron-rotate.mp4",
+      "poster": "media/chevron-rotate-poster.jpg",
+      "vid_sha12": "4bf10afbeb66",
+      "poster_sha12": "611943e3ee08"
+    },
+    "B": {
+      "label": "Plus To Minus",
+      "sha12": "073aeafa4b7d",
+      "vid": "media/plus-minus.mp4",
+      "poster": "media/plus-minus-poster.jpg",
+      "vid_sha12": "34f23f6d01e1",
+      "poster_sha12": "073aeafa4b7d"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Fade In",
+      "sha12": "e95c1a809aac",
+      "vid": "media/enter-fade.mp4",
+      "poster": "media/enter-fade-poster.jpg",
+      "vid_sha12": "64b98ca362ac",
+      "poster_sha12": "e95c1a809aac"
+    },
+    "B": {
+      "label": "Fade And Slide",
+      "sha12": "2dc181b64619",
+      "vid": "media/enter-slide.mp4",
+      "poster": "media/enter-slide-poster.jpg",
+      "vid_sha12": "8bb8d45788dd",
+      "poster_sha12": "2dc181b64619"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "One Open At A Time",
+      "sha12": "e8b28482b489",
+      "vid": "media/one-open.mp4",
+      "poster": "media/one-open-poster.jpg",
+      "vid_sha12": "c2a5755b6146",
+      "poster_sha12": "e8b28482b489"
+    },
+    "B": {
+      "label": "Several Stay Open",
+      "sha12": "e646c5400468",
+      "vid": "media/several-open.mp4",
+      "poster": "media/several-open-poster.jpg",
+      "vid_sha12": "60058a43643b",
+      "poster_sha12": "e646c5400468"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Stays Put",
+      "sha12": "f60e24ca8888",
+      "vid": "media/scroll-stay.mp4",
+      "poster": "media/scroll-stay-poster.jpg",
+      "vid_sha12": "3383f7aa0c21",
+      "poster_sha12": "f60e24ca8888"
+    },
+    "B": {
+      "label": "Scroll Follows",
+      "sha12": "11f34cdae309",
+      "vid": "media/scroll-follow.mp4",
+      "poster": "media/scroll-follow-poster.jpg",
+      "vid_sha12": "78a68b78df54",
+      "poster_sha12": "11f34cdae309"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Subtle Press Tint",
+      "sha12": "497976d16fa8",
+      "vid": "media/tap-tint.mp4",
+      "poster": "media/tap-tint-poster.jpg",
+      "vid_sha12": "846626549849",
+      "poster_sha12": "497976d16fa8"
+    },
+    "B": {
+      "label": "Scale .98",
+      "sha12": "99f20f036c2d",
+      "vid": "media/tap-scale.mp4",
+      "poster": "media/tap-scale-poster.jpg",
+      "vid_sha12": "d3d5bee07037",
+      "poster_sha12": "99f20f036c2d"
+    }
+  }
+}

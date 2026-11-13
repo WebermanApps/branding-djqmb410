@@ -1,0 +1,24 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chipsrows-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chipsrows-refined.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/ease-200.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/ease-320.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/height-grid.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/height-measure.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chevron-rotate.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/plus-minus.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/enter-fade.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/enter-slide.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/one-open.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/several-open.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/scroll-stay.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/scroll-follow.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/tap-tint.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/tap-scale.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "FAQ Look Deck"
+}

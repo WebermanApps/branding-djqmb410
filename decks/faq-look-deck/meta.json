@@ -1,0 +1,33 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chipsrows-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chipsrows-refined.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/ease-200.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/ease-320.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/height-grid.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/height-measure.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/chevron-rotate.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/plus-minus.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/enter-fade.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/enter-slide.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/one-open.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/several-open.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/scroll-stay.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/scroll-follow.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/tap-tint.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/faqlook/tap-scale.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "faq-look-deck",
+  "title": "FAQ Look Deck",
+  "short": "FAQ Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "A separate FAQ Look deck, visually consistent with the À La Carte one. Opening and closing matter most, so most cards are short looping recordings of open and close motion. Notes and Machan Decides on every card.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/faq-look-deck/spec.md",
+  "provenance": "Same local unlocked archive of smart-upkeep 79f5d57 as the À La Carte Look deck, 127.0.0.1, outside traffic blocked. Motion loops are 20fps sequences encoded to muted, playsinline, looping MP4 under 1.5MB, with a 780×1688 poster. Question wording is the live FAQ copy. Crop QA at 390×844 and 360×640. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep.",
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen section with preview header and flush Get Started bar"
+}

@@ -1,0 +1,80 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today's Dark Chip",
+      "sha12": "254a80197a8a"
+    },
+    "B": {
+      "label": "Green Pill",
+      "sha12": "913bcc43e068"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today's Divided Rows",
+      "sha12": "b2a250438823"
+    },
+    "B": {
+      "label": "Soft Padded Rows",
+      "sha12": "59e9a7223278"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today's Instant Open",
+      "sha12": "7eb766038bc4",
+      "vid": "media/expand-instant.mp4",
+      "poster": "media/expand-instant-poster.jpg",
+      "vid_sha12": "f1c454f2c68f",
+      "poster_sha12": "7eb766038bc4"
+    },
+    "B": {
+      "label": "Smooth Height And Fade",
+      "sha12": "2f1314b00858",
+      "vid": "media/expand-smooth.mp4",
+      "poster": "media/expand-smooth-poster.jpg",
+      "vid_sha12": "ca447b0c74c5",
+      "poster_sha12": "2f1314b00858"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "No Icons",
+      "sha12": "3dbbdb26b089"
+    },
+    "B": {
+      "label": "Line Icons",
+      "sha12": "d43ce73e5721"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Today's Quote",
+      "sha12": "78e13c1277dd"
+    },
+    "B": {
+      "label": "Quote Required",
+      "sha12": "4bf9814a20f3"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Fade Edge",
+      "sha12": "95d35a9dc8c9"
+    },
+    "B": {
+      "label": "Fade Plus Count",
+      "sha12": "9b5c7f93d6f9"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Gloss On The Active Chip",
+      "sha12": "e940d56ceee6"
+    },
+    "B": {
+      "label": "Gloss On The Open Row",
+      "sha12": "315487d09cc6"
+    }
+  }
+}

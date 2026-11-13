@@ -1,0 +1,31 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/chips-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/chips-green.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/rows-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/rows-soft.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/expand-instant.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/expand-smooth.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/icons-none.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/icons-line.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/price-today.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/price-required.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/scroll-fade.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/scroll-count.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/gloss-chip.jpg",
+    "/workspace/funnel-improve-decks-1112/mocks/alclook/gloss-row.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "a-la-carte-look-deck",
+  "title": "À La Carte Look Deck",
+  "short": "À La Carte Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Short deck on how the smartupkeep.ai Home À La Carte Menu section should look: sleek, smooth, user friendly, aesthetic, on brand. Seven cards, one meaning each. Expand is a short looping recording. Notes and Machan Decides on every card.",
+  "spec": "spec.md and /workspace/funnel-improve-decks-1112/out/a-la-carte-look-deck/spec.md",
+  "provenance": "Rendered from a local unlocked git archive of smart-upkeep origin/main 79f5d57beddea154e471c14821fd401767a72d40, served on 127.0.0.1 with outside traffic blocked, fonts local, Playwright headless. Variants injected as CSS or DOM. Motion loops are 20fps JPEG sequences encoded to muted, playsinline, looping MP4 (H.264 baseline, under 1.5MB) with a 780×1688 poster. Live prices and quote states only (Water And Plumbing and Roof And Outside as shown). Title set to À La Carte Menu. Crop QA at 390×844 and 360×640. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep.",
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen section with preview header and flush Get Started bar"
+}
