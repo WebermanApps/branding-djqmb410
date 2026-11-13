@@ -1,0 +1,46 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/row-icons.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/row-text.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/ico-line.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/ico-tile.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/place-row.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/place-chip.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/pill-terra.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/pill-char.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/head-photo.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/head-icon.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/stack/open-tint.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/stack/open-lift.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "a-la-carte-warm-look-deck",
+  "title": "À La Carte Warm Look Deck",
+  "short": "À La Carte Warm Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13, 8:43 PM ICT: the À La Carte Look Deck was too green. Remake it with no green as the main look: warm cream (#FCF9F4 / #FFFCF7) and white, terracotta #A8431F and charcoal #1A1A1A accents, rich full-screen visuals, no carousel. Machan, 7:39–7:40 PM: the section felt just black and white and plain, with so much wasted space. The fix is warmth, icons, real imagery, accents and density within one phone screen, not carousels. Machan, 8:49 PM: use icons instead of just text, or icons and text; every section needs to look good, and we have the info we want to share. Machan, 8:50 PM: rename Shop À La Carte to Tailor Your Plan, with the sentence Members can tailor their plan or add one-time services. directly under it. The bottom tab is Tailor Plan if it fits at 360, otherwise À La Carte. The tab is not a question on this deck. Keep live items and live prices. Pricing is frozen. Quote-required items keep the live word Quote.",
+  "spec": "spec.md and /workspace/alacarte-warm-1113/out/a-la-carte-warm-look-deck/spec.md",
+  "provenance": "Rendered from a local unlocked git archive of smart-upkeep PR #111 r2 395d5735533cc1e46b5e17e5bdf1743c0a3ef96f, served on 127.0.0.1 with outside traffic blocked and fonts local, Playwright headless. The live centered header was left as it is (logo centered, Share top left, menu top right). Green was not added to the header, the chips, the icons, or the price pills. Variants were injected as CSS or DOM into that local copy. Every frame uses the title Tailor Your Plan and the sentence Members can tailor their plan or add one-time services., placed directly under the title. The bottom tab is Tailor Plan, which fits at 360x640. Live catalog, live prices, and the live word Quote are used throughout (Quote Required was not substituted, and no prices were invented). Group names are the live groups in app.js: Heating And Cooling, Water And Plumbing, Roof And Outside, Inside The Home, and Seasonal Equipment. The live section lists the full monthly and one-time catalogs (5 monthly and 19 one-time rows). Real photos: visit-sink-trap.jpg for Water And Plumbing and visit-window-caulk.jpg for Roof And Outside, both already in the smart-upkeep repo. visit-water-heater.jpg is a real visit photo of a water heater, so it belongs with Water And Plumbing, not Heating And Cooling. Heating And Cooling, Inside The Home, and Seasonal Equipment have no fitting real photo in the repo, so the photo-band card is marked Needs Photo for those groups. No AI images and no member house photos were used. There is no carousel card. Crop QA at 390×844 and 360×640. One phone screen. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep. Updated Nov 13, 2026.",
+  "needs_photo": [
+    {
+      "card": "c5",
+      "side": "A",
+      "label": "Real Photo Band",
+      "need": "Real category header photos for Heating And Cooling, Inside The Home, and Seasonal Equipment. Water And Plumbing uses assets/member/visit-sink-trap.jpg; Roof And Outside can use assets/member/visit-window-caulk.jpg. visit-water-heater.jpg is a water heater and stays with Water And Plumbing. No source labels, no member homes."
+    }
+  ],
+  "real_assets": [
+    "/workspace/alacarte-warm-1113/app/assets/member/visit-sink-trap.jpg",
+    "/workspace/alacarte-warm-1113/app/assets/member/visit-window-caulk.jpg",
+    "/workspace/alacarte-warm-1113/app/assets/member/visit-water-heater.jpg"
+  ],
+  "videos": [
+    "media/open-tint.mp4",
+    "media/open-lift.mp4"
+  ],
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen Tailor Your Plan with centered header, title and lead, Tailor Plan tab, and flush Get Started bar"
+}

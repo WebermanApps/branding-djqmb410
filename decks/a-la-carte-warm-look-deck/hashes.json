@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Icons And Text",
+      "sha12": "2bc482869f51"
+    },
+    "B": {
+      "label": "Text Only",
+      "sha12": "0b446ab21377"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Warm Line Icons",
+      "sha12": "f8b060c0edd2"
+    },
+    "B": {
+      "label": "Filled Icons On A Soft Tile",
+      "sha12": "64f4016464d2"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Icons On Each Row",
+      "sha12": "f4a7c71983dd"
+    },
+    "B": {
+      "label": "Icons On Chips And Headers",
+      "sha12": "8acfed50b81a"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Terracotta Pills",
+      "sha12": "2b5574b17dde"
+    },
+    "B": {
+      "label": "Charcoal Outline Pills",
+      "sha12": "f1fa950f797b"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Real Photo Band",
+      "sha12": "fcbcbed71d76"
+    },
+    "B": {
+      "label": "Icon Header",
+      "sha12": "10687eb943ba"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Terracotta Open Tint",
+      "sha12": "a8fde8da493d"
+    },
+    "B": {
+      "label": "Charcoal Lifted Card",
+      "sha12": "cd70d1ade29e"
+    }
+  }
+}

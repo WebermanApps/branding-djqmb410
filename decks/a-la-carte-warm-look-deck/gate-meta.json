@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/row-icons.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/row-text.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/ico-line.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/ico-tile.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/place-row.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/place-chip.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/pill-terra.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/pill-char.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/head-photo.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/head-icon.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/stack/open-tint.jpg",
+    "/workspace/alacarte-warm-1113/mocks/alcwarm/stack/open-lift.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "\u00c0 La Carte Warm Look Deck"
+}

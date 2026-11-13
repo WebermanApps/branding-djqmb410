@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T20:48:34+07:00",
+ "updated": "2026-11-13T21:01:35+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3378,6 +3378,24 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
+   "id": "a-la-carte-warm-look-deck",
+   "name": "À La Carte Warm Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-warm-look-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-13T20:43:00+07:00",
+   "added": "2026-11-13T21:01:35+07:00",
+   "note": "6 cards. Warm remake of À La Carte with no green as the main look: icons and text vs text only, warm line vs filled icons on a soft tile, icons on rows vs on chips and headers, terracotta vs charcoal price pills, a real photo band vs an icon header, and how an open row looks (closed, open, and a clip). Every frame uses Tailor Your Plan and Members can tailor their plan or add one-time services. The bottom tab is Tailor Plan. Live prices only. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "6 cards, ready now, with Notes"
+  },
+  {
    "id": "onboarding-home-build-deck",
    "name": "Onboarding Home Build Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-home-build-deck/",
@@ -3394,25 +3412,6 @@
    "agent": "upkeep",
    "made": "2026-11-13",
    "blurb": "5 cards, ready now, with Notes"
-  },
-  {
-   "id": "faq-rich-look-deck",
-   "name": "FAQ Rich Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-rich-look-deck/",
-   "total": 5,
-   "answered": 5,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T19:39:00+07:00",
-   "added": "2026-11-13T20:01:54+07:00",
-   "note": "5 cards. Member-style port of the Home FAQ (cream card, corner chevron, typography) vs today's look, then density, topic icons, open-answer accent, and an intro or contact panel. Chips and the one-screen budget stay. Each option is shown closed and open, with a short clip.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "5 cards, ready now, with Notes",
-   "done_at": "2026-11-13T20:46:57+07:00"
   },
   {
    "id": "a-la-carte-rich-look-deck",
@@ -3433,44 +3432,6 @@
    "blurb": "4 cards, ready now, with Notes"
   },
   {
-   "id": "plans-expand-deck",
-   "name": "Plans Expand Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plans-expand-deck/",
-   "total": 4,
-   "answered": 2,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T19:38:00+07:00",
-   "added": "2026-11-13T19:50:05+07:00",
-   "note": "4 cards. Essentials first with Plus peeking (22% or 32%), how the And More sheet opens (grow from the tile or rise from the bottom), how it closes (X only or X plus a Close pill), and 6 vs 8 lines on the closed tile. 8 lines are marked: they hold at 390 but trim to 7 at 360. Every option shows unexpanded, expanded, and an open-and-close clip.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes",
-   "done_at": "2026-11-13T20:25:04+07:00"
-  },
-  {
-   "id": "hero-look-deck",
-   "name": "Hero Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/hero-look-deck/",
-   "total": 6,
-   "answered": 4,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T19:34:00+07:00",
-   "added": "2026-11-13T19:47:09+07:00",
-   "note": "6 cards. Home hero look: type hierarchy, tagline placement, tagline in the video, always-on vs opening service checks (both states plus an open-and-close clip), badge wrap, and type on the video floor vs below it.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "6 cards, ready now, with Notes",
-   "done_at": "2026-11-13T20:22:38+07:00"
-  },
-  {
    "id": "resume-indicator-placement-deck",
    "name": "Resume Indicator Placement Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/resume-indicator-placement-deck/",
@@ -3487,24 +3448,6 @@
    "agent": "upkeep",
    "made": "2026-11-13",
    "blurb": "4 cards on where the sign-up resume prompt sits with the new header, ready now, with Notes"
-  },
-  {
-   "id": "a-la-carte-look-deck",
-   "name": "À La Carte Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-look-deck/",
-   "total": 7,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-13T16:18:00+07:00",
-   "added": "2026-11-13T16:47:33+07:00",
-   "note": "Nov 13 2026: À La Carte Look. Seven cards on chips, rows, expand motion, icons, price labels, inner-scroll affordance, and where gloss and shadow go. Pinned on Max's Picks, collapsed by default.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "7 cards, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",
@@ -3647,6 +3590,63 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "faq-rich-look-deck",
+   "name": "FAQ Rich Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-rich-look-deck/",
+   "total": 5,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T19:39:00+07:00",
+   "added": "2026-11-13T20:01:54+07:00",
+   "note": "5 cards. Member-style port of the Home FAQ (cream card, corner chevron, typography) vs today's look, then density, topic icons, open-answer accent, and an intro or contact panel. Chips and the one-screen budget stay. Each option is shown closed and open, with a short clip.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-13T20:46:57+07:00"
+  },
+  {
+   "id": "plans-expand-deck",
+   "name": "Plans Expand Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/plans-expand-deck/",
+   "total": 4,
+   "answered": 2,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T19:38:00+07:00",
+   "added": "2026-11-13T19:50:05+07:00",
+   "note": "4 cards. Essentials first with Plus peeking (22% or 32%), how the And More sheet opens (grow from the tile or rise from the bottom), how it closes (X only or X plus a Close pill), and 6 vs 8 lines on the closed tile. 8 lines are marked: they hold at 390 but trim to 7 at 360. Every option shows unexpanded, expanded, and an open-and-close clip.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T20:25:04+07:00"
+  },
+  {
+   "id": "hero-look-deck",
+   "name": "Hero Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/hero-look-deck/",
+   "total": 6,
+   "answered": 4,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T19:34:00+07:00",
+   "added": "2026-11-13T19:47:09+07:00",
+   "note": "6 cards. Home hero look: type hierarchy, tagline placement, tagline in the video, always-on vs opening service checks (both states plus an open-and-close clip), badge wrap, and type on the video floor vs below it.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-13T20:22:38+07:00"
   },
   {
    "id": "header-color-deck",
@@ -7360,6 +7360,28 @@
    "removed_by": "Swatch (retire old FAQ Look Deck; replaced by FAQ Rich Look Deck)",
    "archived": true,
    "archive_note": "Deck files kept under decks/faq-look-deck/ so it can be restored"
+  },
+  {
+   "id": "a-la-carte-look-deck",
+   "name": "À La Carte Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-look-deck/",
+   "total": 7,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-11-13T16:18:00+07:00",
+   "added": "2026-11-13T16:47:33+07:00",
+   "note": "Replaced by À La Carte Warm Look Deck per Machan 8:43 PM (too green)",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "7 cards, ready now, with Notes",
+   "removed_at": "2026-11-13T21:01:35+07:00",
+   "removed_from": "requested",
+   "removed_by": "Swatch (Machan 8:43 PM, too green)",
+   "board": "branding-djqmb410#picks"
   }
  ],
  "requested_cleared": [
@@ -11979,6 +12001,14 @@
    "made": "2026-11-13",
    "blurb": "8 cards, ready now, with Notes",
    "retired_at": "2026-11-13T20:48:34+07:00"
+  },
+  {
+   "id": "a-la-carte-look-deck",
+   "name": "À La Carte Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-look-deck/",
+   "status": "retired",
+   "retired_at": "2026-11-13T21:01:35+07:00",
+   "note": "Replaced by À La Carte Warm Look Deck per Machan 8:43 PM (too green)"
   }
  ]
 }
