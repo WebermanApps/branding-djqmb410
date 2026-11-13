@@ -2,50 +2,50 @@
   "c1": {
     "A": {
       "label": "Today: Bottom Bar Strip",
-      "sha12": "cc018a4ae69b"
+      "sha12": "2f1c02470480"
     },
     "B": {
-      "label": "Pill Beside The Icons",
-      "sha12": "7f51ae27e1a0"
+      "label": "Compact Clock Beside The Menu",
+      "sha12": "a774725d0487"
     }
   },
   "c2": {
     "A": {
       "label": "Today: Bottom Bar Strip",
-      "sha12": "cc018a4ae69b"
+      "sha12": "2f1c02470480"
     },
     "B": {
       "label": "Pill Under The Logo",
-      "sha12": "296322e663cf"
+      "sha12": "58d7a90a2b11"
     }
   },
   "c3": {
     "A": {
       "label": "Today: Bottom Bar Strip",
-      "sha12": "cc018a4ae69b"
+      "sha12": "2f1c02470480"
     },
     "B": {
       "label": "Menu Dot, Then Continue Row",
-      "sha12": "a45d27972816",
+      "sha12": "be8ff4e7c71b",
       "video": {
         "path": "media/menu-dot.mp4",
-        "sha12": "c6b69792b15c",
-        "bytes": 73374
+        "sha12": "05f56fc6cd3d",
+        "bytes": 75937
       },
       "poster": {
         "path": "media/menu-dot-poster.jpg",
-        "sha12": "ca23bf631354"
+        "sha12": "d41502bed70c"
       }
     }
   },
   "c4": {
     "A": {
       "label": "Today: Bottom Bar Strip",
-      "sha12": "cc018a4ae69b"
+      "sha12": "2f1c02470480"
     },
     "B": {
       "label": "Slim Line At Card Top",
-      "sha12": "7b3cdcadd499"
+      "sha12": "66c4f9fc8331"
     }
   }
 }
