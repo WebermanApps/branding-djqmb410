@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T20:48:02+07:00",
+ "updated": "2026-11-13T20:48:34+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3487,24 +3487,6 @@
    "agent": "upkeep",
    "made": "2026-11-13",
    "blurb": "4 cards on where the sign-up resume prompt sits with the new header, ready now, with Notes"
-  },
-  {
-   "id": "faq-look-deck",
-   "name": "FAQ Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-look-deck/",
-   "total": 8,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-13T16:19:00+07:00",
-   "added": "2026-11-13T16:47:34+07:00",
-   "note": "Nov 13 2026: FAQ Look. Eight cards, most of them short open-and-close motion loops: chips and rows, easing, height method, chevron vs plus-minus, fade vs slide, one open vs several, scroll follow, and tap feedback. Pinned on Max's Picks, collapsed by default.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "8 cards, ready now, with Notes"
   },
   {
    "id": "a-la-carte-look-deck",
@@ -7356,6 +7338,28 @@
    "removed_by": "Machan (scrapped older open decks, via Grok Bot)",
    "archived": true,
    "archive_note": "Deck files kept under decks/<slug>/ so it can be restored"
+  },
+  {
+   "id": "faq-look-deck",
+   "name": "FAQ Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-look-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "removed",
+   "requested_at": "2026-11-13T16:19:00+07:00",
+   "added": "2026-11-13T16:47:34+07:00",
+   "note": "Replaced by FAQ Rich Look Deck per Machan 8:44 PM (no green headers)",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": false,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "8 cards, ready now, with Notes",
+   "removed_at": "2026-11-13T20:48:34+07:00",
+   "removed_by": "Swatch (retire old FAQ Look Deck; replaced by FAQ Rich Look Deck)",
+   "archived": true,
+   "archive_note": "Deck files kept under decks/faq-look-deck/ so it can be restored"
   }
  ],
  "requested_cleared": [
@@ -11956,6 +11960,25 @@
    "made": "2026-11-12",
    "blurb": "5 cards, ready now, with Notes",
    "retired_at": "2026-11-13T09:01:58+07:00"
+  },
+  {
+   "id": "faq-look-deck",
+   "name": "FAQ Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/faq-look-deck/",
+   "total": 8,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "retired",
+   "requested_at": "2026-11-13T16:19:00+07:00",
+   "added": "2026-11-13T16:47:34+07:00",
+   "note": "Replaced by FAQ Rich Look Deck per Machan 8:44 PM (no green headers)",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": false,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "8 cards, ready now, with Notes",
+   "retired_at": "2026-11-13T20:48:34+07:00"
   }
  ]
 }
