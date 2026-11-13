@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T22:27:05+07:00",
+ "updated": "2026-11-13T23:25:46+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3380,6 +3380,13 @@
    "name": "Pay Choice Deck",
    "answered": 4,
    "total": 5
+  },
+  {
+   "id": "home-build-motion-map-deck",
+   "at": "2026-11-13T23:25:22+07:00",
+   "name": "Home Build Motion & Map Deck",
+   "answered": 3,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3410,9 +3417,9 @@
    "name": "Home Build Motion & Map Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-build-motion-map-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T22:14:00+07:00",
    "added": "2026-11-13T22:27:05+07:00",
    "note": "4 cards. Follow-up to the Onboarding Home Build Deck: Step 1 map style (real Wayne, Oakland and Macomb), whether to show a nearby fringe, how items appear, and how stories change. Finish Reveal is Reveal. Reduced Motion is A Quick Fade. Pinned on Max's Picks, collapsed by default.",
@@ -3421,7 +3428,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T23:25:22+07:00"
   },
   {
    "id": "home-share-image-deck",
