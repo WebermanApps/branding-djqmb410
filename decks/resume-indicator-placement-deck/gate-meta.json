@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/beside.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/under.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/dot-open.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/line.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Resume Indicator Placement Deck"
+}

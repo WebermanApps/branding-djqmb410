@@ -1,0 +1,35 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/beside.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/under.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/dot-open.jpg",
+    "/workspace/resume-indicator-1113/mocks/control.jpg",
+    "/workspace/resume-indicator-1113/mocks/line.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "resume-indicator-placement-deck",
+  "title": "Resume Indicator Placement Deck",
+  "short": "Resume Indicator",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13 4:22 PM ICT: the Pick Up Where You Left Off prompt on Home is better than before but still a little awkward; consider a small indicator in the new large header. Short A/B deck, one meaning per card, each new placement against today's placement as the control: header pill (beside the icons, and under the logo), a dot on the menu icon that opens Continue Sign-Up, and a slim line at the top of the content card. Real frames, new header preview, light only, Title Case, 44px or more tap targets. Notes and Machan Decides on every card.",
+  "spec": "spec.md and /workspace/resume-indicator-1113/out/resume-indicator-placement-deck/spec.md",
+  "provenance": "Every frame is rendered from a git archive of smart-upkeep main 79f5d57beddea154e471c14821fd401767a72d40 (PR #107 merge, cache h99q), pagelock check exit 0, unlocked only in a local QA copy and served on 127.0.0.1 with all outside traffic blocked and fonts served locally. The real resume prompt comes from the app's own saved state (localStorage smartUpkeep.v1 with resume set to the Systems step), so the control strip reads the live text: Pick Up Where You Left Off · Step 3. Preview Context (injected on top of the real render, not live yet): a #0B6E4F brand band 88px plus the safe area, the real logo in white at 26px on the left, Share and menu as 48px tap targets with 22px white line glyphs, a white content card with a 20px top radius overlapping the band by 24px, and the bottom bar made full width and flush to the bottom edge. The badge strip shuffles on every load, so the capture seeds the shuffle to show the same badge order on every frame. Captured at 390x844 (2x); crop QA at 360x640. The menu clip is frame-stepped at 24fps (tap 250ms, open 220ms ease-out, hold 1.8s, close 180ms), muted, looping, playsinline, with a poster. Nothing submitted, finished or sent. Nothing pushed to smart-upkeep.",
+  "media": [
+    {
+      "path": "media/menu-dot.mp4",
+      "muted": true,
+      "loop": true,
+      "playsinline": true,
+      "poster": "media/menu-dot-poster.jpg",
+      "bytes": 73374
+    }
+  ],
+  "browser_qa": "crop QA at 390x844 and 360x640, no clipped UI text, tap targets 44px or more, card overlap 24px, bottom bar flush (qa/crop-qa.json)"
+}

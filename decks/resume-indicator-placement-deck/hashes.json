@@ -1,0 +1,51 @@
+{
+  "c1": {
+    "A": {
+      "label": "Today: Bottom Bar Strip",
+      "sha12": "cc018a4ae69b"
+    },
+    "B": {
+      "label": "Pill Beside The Icons",
+      "sha12": "7f51ae27e1a0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Today: Bottom Bar Strip",
+      "sha12": "cc018a4ae69b"
+    },
+    "B": {
+      "label": "Pill Under The Logo",
+      "sha12": "296322e663cf"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Today: Bottom Bar Strip",
+      "sha12": "cc018a4ae69b"
+    },
+    "B": {
+      "label": "Menu Dot, Then Continue Row",
+      "sha12": "a45d27972816",
+      "video": {
+        "path": "media/menu-dot.mp4",
+        "sha12": "c6b69792b15c",
+        "bytes": 73374
+      },
+      "poster": {
+        "path": "media/menu-dot-poster.jpg",
+        "sha12": "ca23bf631354"
+      }
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Today: Bottom Bar Strip",
+      "sha12": "cc018a4ae69b"
+    },
+    "B": {
+      "label": "Slim Line At Card Top",
+      "sha12": "7b3cdcadd499"
+    }
+  }
+}

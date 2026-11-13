@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T13:35:23+07:00",
+ "updated": "2026-11-13T16:33:11+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3343,23 +3343,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "home-first-section-deck",
-   "name": "Home First Section Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-first-section-deck/",
-   "total": 8,
-   "answered": 8,
+   "id": "resume-indicator-placement-deck",
+   "name": "Resume Indicator Placement Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/resume-indicator-placement-deck/",
+   "total": 4,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T11:20:00+07:00",
-   "added": "2026-11-13T11:27:19+07:00",
-   "note": "Nov 13 2026: Home First Section. Eight cards: hero video pace, text sizing, badge carousel, Get Started bar, And More lists (section headers vs headers plus icons, from PR #105 9f33bbe), À La Carte and FAQ layout, and the first sign-up screen (Did You Know, one screen or split). Pinned on Max's Picks, collapsed by default.",
+   "status": "open",
+   "requested_at": "2026-11-13T16:22:00+07:00",
+   "added": "2026-11-13T16:33:11+07:00",
+   "note": "Nov 13 2026: Resume Indicator Placement. Four cards, each a new spot for the sign-up resume prompt against today's Pick Up Where You Left Off strip: a header pill beside the icons, a header pill under the logo, a dot on the menu icon (with a short clip), and a slim line at the top of the white card. Shown on the new header preview. Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
-   "made": "2026-11-12",
-   "blurb": "8 cards on the Home first section and the first sign-up screen, ready now, with Notes",
-   "done_at": "2026-11-13T13:34:20+07:00"
+   "made": "2026-11-13",
+   "blurb": "4 cards on where the sign-up resume prompt sits with the new header, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",
@@ -3502,6 +3501,25 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "home-first-section-deck",
+   "name": "Home First Section Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-first-section-deck/",
+   "total": 8,
+   "answered": 8,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T11:20:00+07:00",
+   "added": "2026-11-13T11:27:19+07:00",
+   "note": "Nov 13 2026: Home First Section. Eight cards: hero video pace, text sizing, badge carousel, Get Started bar, And More lists (section headers vs headers plus icons, from PR #105 9f33bbe), À La Carte and FAQ layout, and the first sign-up screen (Did You Know, one screen or split). Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-12",
+   "blurb": "8 cards on the Home first section and the first sign-up screen, ready now, with Notes",
+   "done_at": "2026-11-13T13:34:20+07:00"
   },
   {
    "id": "signup-fit-deck",
