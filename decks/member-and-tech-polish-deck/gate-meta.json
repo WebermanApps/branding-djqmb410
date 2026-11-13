@@ -1,14 +1,14 @@
 {
   "category": "ui-phone-mockups",
   "asset_paths": [
-    "/workspace/mtp-deck-1112/mocks/rows-a.jpg",
-    "/workspace/mtp-deck-1112/mocks/rows-b.jpg",
-    "/workspace/mtp-deck-1112/mocks/send-a.jpg",
-    "/workspace/mtp-deck-1112/mocks/send-b.jpg",
-    "/workspace/mtp-deck-1112/mocks/code-a.jpg",
-    "/workspace/mtp-deck-1112/mocks/code-b.jpg",
-    "/workspace/mtp-deck-1112/mocks/cap-a.jpg",
-    "/workspace/mtp-deck-1112/mocks/cap-b.jpg"
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/rows-a.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/rows-b.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/send-a.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/send-b.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/code-a.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/code-b.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/cap-a.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/member-and-tech-polish-deck/cap-b.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",

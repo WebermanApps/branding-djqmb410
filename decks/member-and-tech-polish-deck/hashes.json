@@ -2,41 +2,41 @@
   "c1": {
     "A": {
       "label": "Sentence Case",
-      "sha12": "53df09b4550a"
+      "sha12": "b3b774b4d5b3"
     },
     "B": {
       "label": "Title Case Rows",
-      "sha12": "9445fa2f7c10"
+      "sha12": "61e06f71a965"
     }
   },
   "c2": {
     "A": {
       "label": "Charcoal",
-      "sha12": "5339b996302c"
+      "sha12": "8fcd5747902d"
     },
     "B": {
       "label": "Terracotta",
-      "sha12": "df15a7969e42"
+      "sha12": "e9950d15b0a4"
     }
   },
   "c3": {
     "A": {
       "label": "Typewriter Font",
-      "sha12": "c5abfbf461cf"
+      "sha12": "d7a6bd8d297c"
     },
     "B": {
       "label": "Khand",
-      "sha12": "16fcefce3ecb"
+      "sha12": "02956480a48c"
     }
   },
   "c4": {
     "A": {
       "label": "Lowercase Captions",
-      "sha12": "b14f0833a3c2"
+      "sha12": "df04459c2551"
     },
     "B": {
       "label": "Title Case Captions",
-      "sha12": "5e0ab4b4c726"
+      "sha12": "dd1f8b73639e"
     }
   }
 }
