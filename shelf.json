@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T18:24:17+07:00",
+ "updated": "2026-11-13T19:09:56+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3317,6 +3317,13 @@
    "name": "Home First Section Deck",
    "answered": 8,
    "total": 8
+  },
+  {
+   "id": "header-color-deck",
+   "at": "2026-11-13T18:45:59+07:00",
+   "name": "Header Color Deck",
+   "answered": 4,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3347,9 +3354,9 @@
    "name": "Header Color Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/header-color-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T18:13:00+07:00",
    "added": "2026-11-13T18:24:17+07:00",
    "note": "4 cards. Header band color (Cream, Warm White, Sand), logo and icon color on Cream, and a warm shadow vs a thin hairline after scroll. Green is kept off the band only.",
@@ -3358,7 +3365,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes"
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T18:45:59+07:00"
   },
   {
    "id": "resume-indicator-placement-deck",
