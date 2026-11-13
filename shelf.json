@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T21:18:39+07:00",
+ "updated": "2026-11-13T22:12:59+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3366,6 +3366,13 @@
    "name": "Resume Indicator Placement Deck",
    "answered": 4,
    "total": 4
+  },
+  {
+   "id": "onboarding-home-build-deck",
+   "at": "2026-11-13T22:12:20+07:00",
+   "name": "Onboarding Home Build Deck",
+   "answered": 1,
+   "total": 5
   }
  ],
  "pinned": [
@@ -3414,9 +3421,9 @@
    "name": "Onboarding Home Build Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-home-build-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 1,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T19:44:00+07:00",
    "added": "2026-11-13T19:59:45+07:00",
    "note": "5 cards. How the house builds through sign-up: step 1 scene, how items appear, how stories change, the finish reveal, and reduced motion. Style and placement are settled from Sign-Up First Steps. Pinned on Max's Picks, collapsed by default.",
@@ -3425,7 +3432,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-13T22:12:20+07:00"
   },
   {
    "id": "home-share-image-deck",
