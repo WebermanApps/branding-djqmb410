@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T21:09:25+07:00",
+ "updated": "2026-11-13T21:18:38+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3352,6 +3352,20 @@
    "name": "FAQ Rich Look Deck",
    "answered": 5,
    "total": 5
+  },
+  {
+   "id": "a-la-carte-warm-look-deck",
+   "at": "2026-11-13T21:15:16+07:00",
+   "name": "À La Carte Warm Look Deck",
+   "answered": 5,
+   "total": 6
+  },
+  {
+   "id": "resume-indicator-placement-deck",
+   "at": "2026-11-13T21:12:32+07:00",
+   "name": "Resume Indicator Placement Deck",
+   "answered": 4,
+   "total": 4
   }
  ],
  "pinned": [
@@ -3382,9 +3396,9 @@
    "name": "À La Carte Warm Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-warm-look-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T20:43:00+07:00",
    "added": "2026-11-13T21:01:35+07:00",
    "note": "6 cards. Warm remake of À La Carte with no green as the main look: icons and text vs text only, warm line vs filled icons on a soft tile, icons on rows vs on chips and headers, terracotta vs charcoal price pills, a real photo band vs an icon header, and how an open row looks (closed, open, and a clip). Every frame uses Tailor Your Plan and Members can tailor their plan or add one-time services. The bottom tab is Tailor Plan. Live prices only. Pinned on Max's Picks, collapsed by default.",
@@ -3393,7 +3407,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-13T21:15:16+07:00"
   },
   {
    "id": "onboarding-home-build-deck",
@@ -3418,9 +3433,9 @@
    "name": "Resume Indicator Placement Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/resume-indicator-placement-deck/",
    "total": 4,
-   "answered": 0,
+   "answered": 4,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T16:22:00+07:00",
    "added": "2026-11-13T16:33:11+07:00",
    "note": "Nov 13 2026: Resume Indicator Placement. Four cards, each a new spot for the sign-up resume prompt against today's Pick Up Where You Left Off strip: a header pill beside the icons, a header pill under the logo, a dot on the menu icon (with a short clip), and a slim line at the top of the white card. Shown on the new header preview. Pinned on Max's Picks, collapsed by default.",
@@ -3429,7 +3444,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "4 cards on where the sign-up resume prompt sits with the new header, ready now, with Notes"
+   "blurb": "4 cards on where the sign-up resume prompt sits with the new header, ready now, with Notes",
+   "done_at": "2026-11-13T21:12:32+07:00"
   },
   {
    "id": "home-share-image-deck",
