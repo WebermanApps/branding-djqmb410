@@ -1,0 +1,19 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-build-motion-map-1113/mocks/map-warm.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/map-line.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/map-soft.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/fringe-only.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/fringe-halo.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-pop.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-slide.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-stamp.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-stack.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-grow.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-swap.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Build Motion & Map Deck"
+}

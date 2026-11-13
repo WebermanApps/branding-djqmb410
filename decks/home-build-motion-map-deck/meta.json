@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/home-build-motion-map-1113/mocks/map-warm.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/map-line.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/map-soft.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/fringe-only.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/fringe-halo.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-pop.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-slide.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/appear-stamp.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-stack.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-grow.jpg",
+    "/workspace/home-build-motion-map-1113/mocks/story-swap.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-build-motion-map-deck",
+  "title": "Home Build Motion & Map Deck",
+  "short": "Home Build Motion",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, 10:06–10:12 PM ICT, 13 Nov 2026, on the Onboarding Home Build Deck. Step 1 Scene skipped: “i don't like filter change for this graphic. lets use a different graphic. maybe we can use a map showing the counties that we cover and then the next screen would change to a house graphic”. How Items Appear skipped: “draw in and appear look too similar cant see the difference”. Story Change skipped: “moprh looks the same”. Finish Reveal: B, Reveal. Reduced Motion was skipped, then at 10:12 PM he said “the last question i meant to click fade”, so it is locked as B, A Quick Fade. Develop's official service area, matching the live FAQ and tech routes: Wayne, Oakland and Macomb counties, Michigan. The Address step says “Wayne, Oakland, Macomb and nearby”, and the ZIP check (480xx to 483xx) reaches parts of Livingston, Washtenaw, St. Clair, Lapeer, Genesee and Monroe. Show the three as covered. Neighbors stay light grey and are never drawn as covered. A nearby fringe, if shown, is Machan's call.",
+  "spec": "spec.md and /workspace/home-build-motion-map-1113/out/home-build-motion-map-deck/spec.md",
+  "provenance": "County shapes from US Census cartographic boundaries cb_2023_us_county_500k (NAD83). Covered: Wayne, Oakland and Macomb. Neighbors drawn in light grey only: Livingston, Washtenaw, St. Clair, Lapeer, Genesee and Monroe. Original flat SVG house illustrations (no AI photos, no member houses). Funnel copy and steps mapped from live onboarding, including “We serve metro Detroit: Wayne, Oakland, Macomb and nearby”. The header is a mock of the Warm White #FFFCF7 88px band with the logo centered, Share top left and the menu top right. The house-build graphic and the Step 1 map are not live. Motion in the product is a one-shot 200–300ms transform or opacity change, no loops; the deck clips loop so you can see them. Mocks are the 390×660 Safari visible area (and 360×640), not the full 390×844 phone. Real prices only (Essentials $139/mo, Plus $209/mo, Complete $379/mo). Plan colors stay Essentials #0B6E4F, Plus #A8431F, Complete #05668D. Crop QA at 390×660 and 360×640. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep.",
+  "browser_qa": "crop QA at 390x660 and 360x640; 88px Warm White centered-logo header; 120px consistent map or house band; frame-strip stills"
+}

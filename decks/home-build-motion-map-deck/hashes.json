@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Flat Warm Map With Terracotta Counties",
+      "sha12": "adedaee2208e"
+    },
+    "B": {
+      "label": "Line-Art Map With Pin Dots",
+      "sha12": "b0fbe5c79691"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Three Counties Only",
+      "sha12": "4c3e0dc0e6c7"
+    },
+    "B": {
+      "label": "Three Counties Plus A Soft Nearby Halo",
+      "sha12": "c56118de7bc6"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Pop In",
+      "sha12": "1767b8c72c9f"
+    },
+    "B": {
+      "label": "Slide Up From The Ground",
+      "sha12": "2d539f712dcc"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Floors Stack On",
+      "sha12": "9c622d7c6406"
+    },
+    "B": {
+      "label": "Grow Taller",
+      "sha12": "d870f9e958c6"
+    }
+  }
+}

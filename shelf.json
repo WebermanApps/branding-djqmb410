@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T22:24:46+07:00",
+ "updated": "2026-11-13T22:27:05+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3406,42 +3406,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "pay-choice-deck",
-   "name": "Pay Choice Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pay-choice-deck/",
-   "total": 5,
-   "answered": 4,
+   "id": "home-build-motion-map-deck",
+   "name": "Home Build Motion & Map Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-build-motion-map-deck/",
+   "total": 4,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T21:09:00+07:00",
-   "added": "2026-11-13T21:18:39+07:00",
-   "note": "5 cards on How Would You Like To Pay: stacked cards vs a segmented toggle, a Save 10% pill vs a $280 savings line, rows with a radio vs selectable cards, a quiet founding line vs a soft cream banner, and calm vs a bolder filled selected card. Live Plus quote $233/mo, founding $2,796 due today, 10% annual $2,516. Pinned on Max's Picks, collapsed by default.",
+   "status": "open",
+   "requested_at": "2026-11-13T22:14:00+07:00",
+   "added": "2026-11-13T22:27:05+07:00",
+   "note": "4 cards. Follow-up to the Onboarding Home Build Deck: Step 1 map style (real Wayne, Oakland and Macomb), whether to show a nearby fringe, how items appear, and how stories change. Finish Reveal is Reveal. Reduced Motion is A Quick Fade. Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-13",
-   "blurb": "5 cards, ready now, with Notes",
-   "done_at": "2026-11-13T22:24:21+07:00"
-  },
-  {
-   "id": "onboarding-home-build-deck",
-   "name": "Onboarding Home Build Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-home-build-deck/",
-   "total": 5,
-   "answered": 1,
-   "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T19:44:00+07:00",
-   "added": "2026-11-13T19:59:45+07:00",
-   "note": "5 cards. How the house builds through sign-up: step 1 scene, how items appear, how stories change, the finish reveal, and reduced motion. Style and placement are settled from Sign-Up First Steps. Pinned on Max's Picks, collapsed by default.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "5 cards, ready now, with Notes",
-   "done_at": "2026-11-13T22:12:20+07:00"
+   "blurb": "4 cards, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",
@@ -3586,6 +3566,25 @@
    "made": "2026-10-17"
   },
   {
+   "id": "pay-choice-deck",
+   "name": "Pay Choice Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/pay-choice-deck/",
+   "total": 5,
+   "answered": 4,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T21:09:00+07:00",
+   "added": "2026-11-13T21:18:39+07:00",
+   "note": "5 cards on How Would You Like To Pay: stacked cards vs a segmented toggle, a Save 10% pill vs a $280 savings line, rows with a radio vs selectable cards, a quiet founding line vs a soft cream banner, and calm vs a bolder filled selected card. Live Plus quote $233/mo, founding $2,796 due today, 10% annual $2,516. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-13T22:24:21+07:00"
+  },
+  {
    "id": "a-la-carte-warm-look-deck",
    "name": "À La Carte Warm Look Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/a-la-carte-warm-look-deck/",
@@ -3603,6 +3602,25 @@
    "made": "2026-11-13",
    "blurb": "6 cards, ready now, with Notes",
    "done_at": "2026-11-13T21:15:16+07:00"
+  },
+  {
+   "id": "onboarding-home-build-deck",
+   "name": "Onboarding Home Build Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-home-build-deck/",
+   "total": 5,
+   "answered": 1,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T19:44:00+07:00",
+   "added": "2026-11-13T19:59:45+07:00",
+   "note": "5 cards. How the house builds through sign-up: step 1 scene, how items appear, how stories change, the finish reveal, and reduced motion. Style and placement are settled from Sign-Up First Steps. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-13T22:12:20+07:00"
   },
   {
    "id": "faq-rich-look-deck",
