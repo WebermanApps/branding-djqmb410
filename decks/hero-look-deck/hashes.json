@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tagline Leads (Live)",
+      "sha12": "2974b8a67e78"
+    },
+    "B": {
+      "label": "Eyebrow Leads",
+      "sha12": "df5e69d6e412"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Under The Price (Live)",
+      "sha12": "2974b8a67e78"
+    },
+    "B": {
+      "label": "Above See Plans",
+      "sha12": "f6a66f1ef84d"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Typeset On The Page (Live)",
+      "sha12": "2974b8a67e78"
+    },
+    "B": {
+      "label": "Built Into The Video",
+      "sha12": "8b7c09a94686"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Always-On Checks",
+      "sha12": "bbe44be55b71"
+    },
+    "B": {
+      "label": "Opening List",
+      "sha12": "166c3c0af65a"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Scrolling Row (Live)",
+      "sha12": "2974b8a67e78"
+    },
+    "B": {
+      "label": "All Six Wrapped",
+      "sha12": "37804bc868a4"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "On The Video Floor (Live)",
+      "sha12": "2974b8a67e78"
+    },
+    "B": {
+      "label": "Below The Video",
+      "sha12": "5f612f3cfe55"
+    }
+  }
+}

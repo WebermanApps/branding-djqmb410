@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/eyebrow-leads.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/tagline-below.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/tagline-in-video.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/checks-always.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/checks-opening.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/badges-wrap.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/type-below.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Hero Look Deck"
+}

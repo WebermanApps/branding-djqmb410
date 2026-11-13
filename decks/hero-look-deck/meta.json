@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/eyebrow-leads.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/tagline-below.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/tagline-in-video.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/checks-always.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/checks-opening.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/badges-wrap.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/live.jpg",
+    "/workspace/hero-look-1113/mocks/herolook/type-below.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "hero-look-deck",
+  "title": "Hero Look Deck",
+  "short": "Hero Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13, 2026: I just don't 100% love the way this looks and I'm open to any ideas. I want to sell as much info as I can on this slide but it MUST MUST MUST look crisp clean. Must keep a video, Preventive Home Maintenance, Starting At $139/mo, the badges, the See Plans down arrow, and almost certainly Home Care, On Schedule. Try taglines built into the video, moving the tagline, little check marks inside the graphic (real plan service lines only), and other layout and hierarchy options. If any option has an expanding part, show it unexpanded and expanded, plus a short clip of the open and close.",
+  "spec": "spec.md and /workspace/hero-look-1113/out/hero-look-deck/spec.md",
+  "provenance": "Frames are a local render of smart-upkeep main 08c9fa56690eb99ba4f1d5debfef2b951ebf0c74 (PR #108 merge, live on smartupkeep.ai), from a git archive whose pagelock check exited 0, unlocked only in a mode-700 QA copy, served on 127.0.0.1 with outside traffic blocked and Khand and Hind served locally. The header in every frame is a preview of the coming Home header (Machan, Nov 13, 7:46 PM ICT): the logo stays centered at all times, Share is top left, and the menu is top right, at the same size and band height. The band is Warm White with the brand-color logo; green stays off the band. Stills freeze a real frame of teaser-v7-phone-4svc-fill-3x4.mp4 (the live phone loop). Clips are frame-stepped at 20 fps, muted, looping, playsinline, under 1.5MB, with a poster. Service lines are the seven Essentials lines from live app.js ESSENTIALS_LINES (Machan Nov 13 9:07 AM); nothing was invented. Tagline-in-video and service checks are page overlays on the live loop, not a baked re-render. Crop QA at 390×844 and 360×640. One phone screen. Nothing submitted, finished or sent. Nothing pushed to smart-upkeep.",
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen Home hero with live Warm White header and flush Get Started bar"
+}
