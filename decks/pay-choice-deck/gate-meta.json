@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/pay-choice-1113/mocks/paychoice/stack-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/toggle-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/save-pill-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/save-line-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/rows-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/cards-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/quiet-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/banner-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/calm-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/bold-390.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Pay Choice Deck"
+}

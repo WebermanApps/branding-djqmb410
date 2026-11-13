@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Stacked Cards",
+      "sha12": "eeef44703b0f"
+    },
+    "B": {
+      "label": "Segmented Toggle",
+      "sha12": "991a131e045b"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Save 10% Pill",
+      "sha12": "4148d83b3714"
+    },
+    "B": {
+      "label": "Savings Line",
+      "sha12": "73b6e93ae27e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Rows With A Radio",
+      "sha12": "2f2820ff4efc"
+    },
+    "B": {
+      "label": "Selectable Cards",
+      "sha12": "82e34fea5b3c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Quiet Line",
+      "sha12": "71d8e68fd2e3"
+    },
+    "B": {
+      "label": "Soft Cream Banner",
+      "sha12": "de86bf73dfdc"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Calm",
+      "sha12": "9036c96c9120"
+    },
+    "B": {
+      "label": "Bolder",
+      "sha12": "54016c1fac0f"
+    }
+  }
+}

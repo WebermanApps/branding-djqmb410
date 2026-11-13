@@ -1,0 +1,41 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/pay-choice-1113/mocks/paychoice/stack-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/toggle-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/save-pill-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/save-line-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/rows-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/cards-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/quiet-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/banner-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/calm-390.jpg",
+    "/workspace/pay-choice-1113/mocks/paychoice/bold-390.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "pay-choice-deck",
+  "title": "Pay Choice Deck",
+  "short": "Pay Choice",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 13, 9:09 PM ICT: can we make a deck for the How Would You Like To Pay page. He had just called the current onboarding Plan slide WAY too loud and wants onboarding warm and welcoming. Open choices: monthly vs annual layout, how the 10%-off annual saving is shown, card vs row styles, how founding-offer wording appears, and calm vs bold. Real prices only, from pricing-config and the live quote. No new numbers. Keep it to one screen at 390x844 and 360x640.",
+  "spec": "spec.md and /workspace/pay-choice-1113/out/pay-choice-deck/spec.md",
+  "provenance": "Rendered from a local unlocked git archive of smart-upkeep PR #111 r3 54700bb131fc95d431d67cbbde3f64dcf33fbc32 (branch onboarding-header-1113), pagelock check exit 0, unlocked only in a local mode-700 QA copy and served on 127.0.0.1 with outside traffic blocked and fonts served locally, Playwright headless. The live centered header was left as it is (logo centered, Share top left, menu top right). The step bar is the one already on that head: Back, Continue To Access, and Start Over as a quiet link, plus Built by Machan. The later three-button bar is not on this head and was not invented here; the bar is not a question on this deck. Variants inject CSS and DOM only. Live founding is open, so most cards show Founding 2-For-1 at the live Plus quote for this home: $233/mo and $2,796 due today (12 x $233). The $139 / $209 / $379 figures are the plan floors in pricing-config.js line 39 (tierMinAnnual); this 2,500 sq ft Plus home prices above the $209 Plus floor. The Annual Saving card uses the post-Founding 50 path already in the app (annualDiscount 0.10 at pricing-config.js line 58, and annualPrepaidOf in app.js: Math.round(monthly x 12 x (1 - annualDiscount))). For this quote that is $2,516 prepaid, $280 less than 12 monthly payments of $233. Founding wording is only live copy from the pay step. The live selected card uses a jungle-green ring; these frames restyle the selected accent to terracotta so the page reads warm. No gold and no green header band. Crop QA at 390×844 and 360×640. One phone screen, at least 8px of air above the bar, no clipped text. Nothing submitted, paid, finished or sent. Nothing was pushed to smart-upkeep. Made Nov 13, 2026.",
+  "browser_qa": "crop QA at 390x844 and 360x640; one-screen How Would You Like To Pay with centered header and the #111 r3 step bar; air >= 8px",
+  "prices": {
+    "home": "2,500 sq ft, 1 story, 1 furnace, 1 AC, 1 tank water heater, ZIP 48375, Plus (gold), founding open",
+    "monthly": "$233/mo",
+    "founding_due_today": "$2,796",
+    "annual_prepaid": "$2,516",
+    "annual_savings": "$280",
+    "annualDiscount": 0.1,
+    "source": {
+      "tier_floors": "pricing-config.js:39 tierMinAnnual $139 / $209 / $379",
+      "annualDiscount": "pricing-config.js:58 annualDiscount 0.10",
+      "quote": "live pay-step due note and Due Today on PR #111 r3 54700bb, Plus quote for this home",
+      "prepaid_formula": "app.js annualPrepaidOf: Math.round(monthly * 12 * (1 - annualDiscountRate()))"
+    }
+  }
+}
