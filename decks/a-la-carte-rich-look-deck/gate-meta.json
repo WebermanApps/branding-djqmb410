@@ -8,9 +8,7 @@
     "/workspace/alacarte-rich-1113/mocks/alcrich/icons-only.jpg",
     "/workspace/alacarte-rich-1113/mocks/alcrich/icons-accent.jpg",
     "/workspace/alacarte-rich-1113/mocks/alcrich/photo-band.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/icon-header.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/rich-list.jpg",
-    "/workspace/alacarte-rich-1113/mocks/alcrich/category-carousel.jpg"
+    "/workspace/alacarte-rich-1113/mocks/alcrich/icon-header.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",
