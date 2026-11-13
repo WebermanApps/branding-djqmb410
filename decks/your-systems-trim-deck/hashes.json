@@ -2,21 +2,21 @@
   "c1": {
     "A": {
       "label": "No Trim",
-      "sha12": "55da8328f81e"
+      "sha12": "7b412f15464c"
     },
     "B": {
       "label": "Faint Sand Trim",
-      "sha12": "42d578dc6cf8"
+      "sha12": "b118933dadfc"
     }
   },
   "c2": {
     "A": {
       "label": "Faint Sand",
-      "sha12": "42d578dc6cf8"
+      "sha12": "b118933dadfc"
     },
     "B": {
       "label": "Extras Line",
-      "sha12": "15c502679677"
+      "sha12": "6588e0e53add"
     }
   }
 }

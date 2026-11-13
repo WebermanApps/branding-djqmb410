@@ -1,10 +1,10 @@
 {
   "category": "ui-phone-mockups",
   "asset_paths": [
-    "/workspace/ys-trim-1112/mocks/ys-trim-none.jpg",
-    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
-    "/workspace/ys-trim-1112/mocks/ys-trim-sand.jpg",
-    "/workspace/ys-trim-1112/mocks/ys-trim-extras.jpg"
+    "/workspace/deck-photo-qa-1113/fixed/your-systems-trim-deck/ys-trim-none.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/your-systems-trim-deck/ys-trim-sand.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/your-systems-trim-deck/ys-trim-sand.jpg",
+    "/workspace/deck-photo-qa-1113/fixed/your-systems-trim-deck/ys-trim-extras.jpg"
   ],
   "ui_screenshots": true,
   "bleed_mode": "edge-safe",
