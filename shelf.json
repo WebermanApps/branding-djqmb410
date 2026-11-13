@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T11:59:46+07:00",
+ "updated": "2026-11-13T13:35:23+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3310,6 +3310,13 @@
    "name": "Funnel Drop-Off Deck",
    "answered": 4,
    "total": 4
+  },
+  {
+   "id": "home-first-section-deck",
+   "at": "2026-11-13T13:34:20+07:00",
+   "name": "Home First Section Deck",
+   "answered": 8,
+   "total": 8
   }
  ],
  "pinned": [
@@ -3340,9 +3347,9 @@
    "name": "Home First Section Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-first-section-deck/",
    "total": 8,
-   "answered": 0,
+   "answered": 8,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-13T11:20:00+07:00",
    "added": "2026-11-13T11:27:19+07:00",
    "note": "Nov 13 2026: Home First Section. Eight cards: hero video pace, text sizing, badge carousel, Get Started bar, And More lists (section headers vs headers plus icons, from PR #105 9f33bbe), À La Carte and FAQ layout, and the first sign-up screen (Did You Know, one screen or split). Pinned on Max's Picks, collapsed by default.",
@@ -3351,7 +3358,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-12",
-   "blurb": "8 cards on the Home first section and the first sign-up screen, ready now, with Notes"
+   "blurb": "8 cards on the Home first section and the first sign-up screen, ready now, with Notes",
+   "done_at": "2026-11-13T13:34:20+07:00"
   },
   {
    "id": "home-share-image-deck",
