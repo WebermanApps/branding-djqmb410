@@ -1,0 +1,32 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek22.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek22-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek22-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek32.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek32-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/peek32-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-grow.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-grow-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-grow-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-rise.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-rise-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/enter-rise-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-x.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-x-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-x-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-pill.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-pill-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/close-pill-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines6.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines6-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines6-open.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines8.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines8-closed.jpg",
+    "/workspace/plans-expand-deck-1113/mocks/plansexpand/lines8-open.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Plans Expand Deck"
+}

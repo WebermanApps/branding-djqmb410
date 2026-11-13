@@ -1,0 +1,182 @@
+{
+  "c1": {
+    "A": {
+      "label": "22% Peek",
+      "sha12": "6eb06bac9971",
+      "closed": {
+        "path": "media/peek22-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/peek22-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/peek22.mp4",
+        "sha12": "309918818eba",
+        "bytes": 136661
+      },
+      "poster": {
+        "path": "media/peek22-poster.jpg",
+        "sha12": "2fc982f088de"
+      }
+    },
+    "B": {
+      "label": "32% Peek",
+      "sha12": "39d822d8d7bc",
+      "closed": {
+        "path": "media/peek32-closed.jpg",
+        "sha12": "e77beca15d6d"
+      },
+      "open": {
+        "path": "media/peek32-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/peek32.mp4",
+        "sha12": "0d77e5d642c3",
+        "bytes": 143335
+      },
+      "poster": {
+        "path": "media/peek32-poster.jpg",
+        "sha12": "2fc982f088de"
+      }
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Grow From The Tile",
+      "sha12": "6dcff2f446e0",
+      "closed": {
+        "path": "media/enter-grow-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/enter-grow-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/enter-grow.mp4",
+        "sha12": "59ac454a0115",
+        "bytes": 139890
+      },
+      "poster": {
+        "path": "media/enter-grow-poster.jpg",
+        "sha12": "1c5a9d17f89d"
+      }
+    },
+    "B": {
+      "label": "Rise From The Bottom",
+      "sha12": "8aef0112f2c8",
+      "closed": {
+        "path": "media/enter-rise-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/enter-rise-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/enter-rise.mp4",
+        "sha12": "85e2fb2f8fba",
+        "bytes": 165940
+      },
+      "poster": {
+        "path": "media/enter-rise-poster.jpg",
+        "sha12": "cff51ebea924"
+      }
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "X At The Top Right",
+      "sha12": "0fb5f048a69e",
+      "closed": {
+        "path": "media/close-x-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/close-x-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/close-x.mp4",
+        "sha12": "4608d1aa1cf3",
+        "bytes": 139828
+      },
+      "poster": {
+        "path": "media/close-x-poster.jpg",
+        "sha12": "2fc982f088de"
+      }
+    },
+    "B": {
+      "label": "X And Close Pill",
+      "sha12": "2d20a030a132",
+      "closed": {
+        "path": "media/close-pill-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/close-pill-open.jpg",
+        "sha12": "64b702c716a1"
+      },
+      "video": {
+        "path": "media/close-pill.mp4",
+        "sha12": "134f4f901eb0",
+        "bytes": 133700
+      },
+      "poster": {
+        "path": "media/close-pill-poster.jpg",
+        "sha12": "2dd420f4bc3c"
+      }
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "6 Lines",
+      "sha12": "de516917fbff",
+      "closed": {
+        "path": "media/lines6-closed.jpg",
+        "sha12": "7b2452722f05"
+      },
+      "open": {
+        "path": "media/lines6-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/lines6.mp4",
+        "sha12": "18084a4f31c4",
+        "bytes": 125238
+      },
+      "poster": {
+        "path": "media/lines6-poster.jpg",
+        "sha12": "2fc982f088de"
+      }
+    },
+    "B": {
+      "label": "8 Lines — Trims At 360",
+      "sha12": "dd0a6a87207d",
+      "closed": {
+        "path": "media/lines8-closed.jpg",
+        "sha12": "cf16a0857064"
+      },
+      "open": {
+        "path": "media/lines8-open.jpg",
+        "sha12": "253e5ef3c197"
+      },
+      "video": {
+        "path": "media/lines8.mp4",
+        "sha12": "bb69e4e09167",
+        "bytes": 141175
+      },
+      "poster": {
+        "path": "media/lines8-poster.jpg",
+        "sha12": "2fc982f088de"
+      },
+      "closed360": {
+        "path": "media/lines8-closed-360.jpg",
+        "sha12": "01d227a6dfbf"
+      }
+    }
+  }
+}
