@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Compact Rows",
+      "sha12": "03d90278d380"
+    },
+    "B": {
+      "label": "Roomy Rows With A Line",
+      "sha12": "4b2a1b9c2185"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Price Pills",
+      "sha12": "18daae0739d7"
+    },
+    "B": {
+      "label": "Right-Aligned Price",
+      "sha12": "21ac9bc5233b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Section Icon",
+      "sha12": "f1fb48b71cfc"
+    },
+    "B": {
+      "label": "No Icon",
+      "sha12": "af8f4850d67c"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Tag On Each Row",
+      "sha12": "0143fce70c9b"
+    },
+    "B": {
+      "label": "Two Sub-Headers",
+      "sha12": "5d96f0d88081"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Header Band",
+      "sha12": "67eb356f7497"
+    },
+    "B": {
+      "label": "Title With A Rule",
+      "sha12": "019f9c3e72a1"
+    }
+  }
+}

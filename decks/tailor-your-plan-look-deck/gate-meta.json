@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-look-decks-1114/mocks/t-den-compact.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-den-roomy.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-pr-pill.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-pr-plain.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-ic-icon.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-ic-none.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-lb-tag.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-lb-split.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-hd-band.jpg",
+    "/workspace/home-look-decks-1114/mocks/t-hd-rule.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tailor Your Plan Look Deck"
+}
