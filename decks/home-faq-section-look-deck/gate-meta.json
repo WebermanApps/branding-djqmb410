@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-look-decks-1114/sec/mocks/fs-q-acc.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-q-sheet.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-t-card.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-t-head.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-p-count.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-p-prog.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-k-slim.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-k-wide.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-c-white.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-c-tint.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home FAQ Section Look Deck"
+}

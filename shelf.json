@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T10:16:49+07:00",
+ "updated": "2026-11-14T10:26:52+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3387,6 +3387,24 @@
    "name": "Home Build Motion & Map Deck",
    "answered": 3,
    "total": 4
+  },
+  {
+   "id": "tailor-your-plan-look-deck",
+   "name": "Tailor Your Plan Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-look-deck/",
+   "at": "2026-11-14T10:19:25+07:00",
+   "done_at": "2026-11-14T10:19:25+07:00",
+   "answered": 5,
+   "total": 5
+  },
+  {
+   "id": "onboarding-map-crop-deck",
+   "name": "Onboarding Map Crop Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-map-crop-deck/",
+   "at": "2026-11-14T10:22:21+07:00",
+   "done_at": "2026-11-14T10:22:21+07:00",
+   "answered": 3,
+   "total": 3
   }
  ],
  "pinned": [
@@ -3413,34 +3431,16 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "onboarding-map-crop-deck",
-   "name": "Onboarding Map Crop Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-map-crop-deck/",
-   "total": 3,
-   "answered": 0,
-   "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-14T10:11:00+07:00",
-   "added": "2026-11-14T10:16:49+07:00",
-   "note": "3 cards. Three quick cards on how to crop the bigger Step 1 map in onboarding. Each card puts two of the three crops side by side: Southeast Michigan, the Lower Peninsula, and the Whole State With An Inset. All three keep Map B Line-Art With Pin Dots, the 240px map band from PR #128, and Wayne, Oakland and Macomb labeled. Pinned on Max's Picks, collapsed by default.",
-   "collapsible": true,
-   "collapsed": true,
-   "pinned": true,
-   "agent": "upkeep",
-   "made": "2026-11-14",
-   "blurb": "3 cards, ready now, with Notes"
-  },
-  {
-   "id": "tailor-your-plan-look-deck",
-   "name": "Tailor Your Plan Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-look-deck/",
+   "id": "home-faq-section-look-deck",
+   "name": "Home FAQ Section Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-faq-section-look-deck/",
    "total": 5,
    "answered": 0,
    "tag": "Max's Picks",
    "status": "open",
-   "requested_at": "2026-11-14T09:44:00+07:00",
-   "added": "2026-11-14T10:00:38+07:00",
-   "note": "5 cards. Five cards on the new Tailor Your Plan carousel from draft PR #126: the black and white pills are gone, with one card for each section. The section fills the space down to the bar, so the FAQ header no longer shows. Each pair changes one thing: row spacing, how prices show, section icons, how plan add-ons and one-time add-ons are told apart, and the section header. Pinned on Max's Picks, collapsed by default.",
+   "requested_at": "2026-11-14T10:17:00+07:00",
+   "added": "2026-11-14T10:26:52+07:00",
+   "note": "5 cards. Five cards on the Home FAQ the way you meant it: one carousel card per section, with that section's questions inside. Built on draft PR #126 in your section order, with your 6 Plans And Visits questions first. Each pair changes one thing: how a question opens, where the section name sits, the pager, how much of the next card peeks in, and card color. The questions and answers are the Legal-approved text word for word. Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
@@ -3449,22 +3449,42 @@
    "blurb": "5 cards, ready now, with Notes"
   },
   {
-   "id": "home-faq-look-deck",
-   "name": "Home FAQ Look Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-faq-look-deck/",
-   "total": 6,
-   "answered": 0,
+   "id": "onboarding-map-crop-deck",
+   "name": "Onboarding Map Crop Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-map-crop-deck/",
+   "total": 3,
+   "answered": 3,
    "tag": "Max's Picks",
-   "status": "open",
-   "requested_at": "2026-11-14T09:44:00+07:00",
-   "added": "2026-11-14T09:57:34+07:00",
-   "note": "6 cards. Six cards on the new Home FAQ carousel from draft PR #126: one card per question, in your new category order. Each pair changes one thing: card height, where the category shows, the pager, how much of the next card peeks in, how a card starts, and card color. Every frame keeps the cards top-aligned, so the next card's top lines up with the one in view, and the questions and answers are the FAQ text word for word. Pinned on Max's Picks, collapsed by default.",
+   "status": "done",
+   "requested_at": "2026-11-14T10:11:00+07:00",
+   "added": "2026-11-14T10:16:49+07:00",
+   "note": "3 cards. Three quick cards on how to crop the bigger Step 1 map in onboarding. Each card puts two of the three crops side by side: Southeast Michigan, the Lower Peninsula, and the Whole State With An Inset. All three keep Map B Line-Art With Pin Dots, the 240px map band from PR #128, and Wayne, Oakland and Macomb labeled. Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-14",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "3 cards, ready now, with Notes",
+   "done_at": "2026-11-14T10:22:21+07:00"
+  },
+  {
+   "id": "tailor-your-plan-look-deck",
+   "name": "Tailor Your Plan Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-look-deck/",
+   "total": 5,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-14T09:44:00+07:00",
+   "added": "2026-11-14T10:00:38+07:00",
+   "note": "5 cards. Five cards on the new Tailor Your Plan carousel from draft PR #126: the black and white pills are gone, with one card for each section. The section fills the space down to the bar, so the FAQ header no longer shows. Each pair changes one thing: row spacing, how prices show, section icons, how plan add-ons and one-time add-ons are told apart, and the section header. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-14T10:19:25+07:00"
   },
   {
    "id": "home-share-image-deck",
@@ -12170,6 +12190,30 @@
    "archive_note": "Deck files kept under decks/a-la-carte-rich-look-deck/ so it can be restored",
    "board": "branding-djqmb410#picks",
    "retired_at": "2026-11-13T21:09:25+07:00"
+  },
+  {
+   "id": "home-faq-look-deck",
+   "name": "Home FAQ Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-faq-look-deck/",
+   "total": 6,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "retired",
+   "requested_at": "2026-11-14T09:44:00+07:00",
+   "added": "2026-11-14T09:57:34+07:00",
+   "note": "Replaced by Home FAQ Section Look Deck per Machan 10:17 AM (“the design is supposed to be carousel by section, not question”)",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": false,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "6 cards, ready now, with Notes",
+   "retired_at": "2026-11-14T10:26:52+07:00",
+   "removed_at": "2026-11-14T10:26:52+07:00",
+   "removed_from": "requested",
+   "removed_by": "Swatch (retire Home FAQ Look Deck; replaced by Home FAQ Section Look Deck)",
+   "archived": true,
+   "archive_note": "Deck files kept under decks/home-faq-look-deck/ so it can be restored; his submit receipt, if it lands, stays in the submit inbox"
   }
  ]
 }

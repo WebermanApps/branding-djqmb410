@@ -1,0 +1,30 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/home-look-decks-1114/sec/mocks/fs-q-acc.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-q-sheet.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-t-card.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-t-head.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-p-count.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-p-prog.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-k-slim.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-k-wide.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-c-white.jpg",
+    "/workspace/home-look-decks-1114/sec/mocks/fs-c-tint.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-faq-section-look-deck",
+  "title": "Home FAQ Section Look Deck",
+  "short": "Home FAQ Section Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026 ICT, in UpKeep Develop's chat. 10:17 AM: “there was confusion on the faq look deck” / “so i submitted with one note” / “the design is supposed to be carousel by section, not question”. 9:28–9:36 AM: FAQ sections in order: Plans And Visits (6 pinned: What's Included And How Many Do I Get?, What Do You Do On A Visit?, What Does A Plan Cost?, What's In My Visit Report?, What Is The Founding 50 Offer?, Is Smart Upkeep A Home Warranty Or Insurance?), Our Team And Coverage, Billing, Cancel And Moving, and Heating, Cooling And Furnace Filters; the other sections stay as they are. 9:13 AM: “i think in FAQ we could do that too, carousel cards”; “basically plans, tailor your plan, and faq will all be similar style”. Replaces the Home FAQ Look Deck, which was built one card per question by mistake.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of smart-upkeep draft PR #126 r4 head bbc354b47d9e66f8296f05c1d8ce5dd61afc283a (cache h9m8), off main e1b76db3, from a git archive that passed the pagelock check and was unlocked only in a local copy, served on 127.0.0.1 with outside traffic blocked (0 outside requests) and fonts served locally. 390×844 at 2×, full frame, no crop. The section-card layout is a mock: in that local copy the head's 37 rendered FAQ cards are regrouped into one card per section, in the head's own order, with CSS and small DOM changes only. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. Every question title and answer is the text the head renders on Home (the Legal-approved Home FAQ copy at bbc354b4), copied from the page, not retyped. Employees, License and Liability stay hidden, as in the head. The “+ N More Questions” line at the bottom of a long card is a mock marker for the rows that scroll inside the card; it is not FAQ copy. The header is the PR's centered logo with Share top left and the menu top right, and the dock keeps the 48px tabs with the 44px Get Started under them on every frame. Every frame is top-aligned: the card in view and its neighbor start at the same height, the card runs down to the pager, and nothing from another section peeks in. The only text cut off at an edge is the peeking neighbor card, which is how the carousel works.",
+  "pr": "WebermanApps/smart-upkeep#126",
+  "pr_head": "bbc354b47d9e66f8296f05c1d8ce5dd61afc283a",
+  "replaces": "home-faq-look-deck",
+  "browser_qa": "crop QA at 390x844 @2x, full frame; only the peeking neighbor card is cut, by design"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Opens In Place",
+      "sha12": "7b8c341c3c14"
+    },
+    "B": {
+      "label": "Opens In A Sheet",
+      "sha12": "05f16e0d839a"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "On The Card",
+      "sha12": "8b131bedec50"
+    },
+    "B": {
+      "label": "Header Above The Cards",
+      "sha12": "9d3bb3155014"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Section Counter",
+      "sha12": "43b0737994da"
+    },
+    "B": {
+      "label": "Progress Bar",
+      "sha12": "5c5dfcc76acb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Slim Peek",
+      "sha12": "5feac0ddc58f"
+    },
+    "B": {
+      "label": "Wide Peek",
+      "sha12": "933cbf20d8ad"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "White Card",
+      "sha12": "acc2156e5a9b"
+    },
+    "B": {
+      "label": "Warm Tint Card",
+      "sha12": "76d91dd00a08"
+    }
+  }
+}
