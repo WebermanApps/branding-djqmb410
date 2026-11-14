@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Tabs Over Next",
+      "sha12": "0b533b113b90"
+    },
+    "B": {
+      "label": "One Row, Back, Start Over And Next",
+      "sha12": "7659e3f078f0"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "One Row, Back, Start Over And Next",
+      "sha12": "7659e3f078f0"
+    },
+    "B": {
+      "label": "One Row, Back, Home And Next",
+      "sha12": "4cf18c23e809"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "One Row, Back, Start Over And Next",
+      "sha12": "7659e3f078f0"
+    },
+    "B": {
+      "label": "Icon Back, Wide Next, And A Start Over Link",
+      "sha12": "959b495cf740"
+    }
+  }
+}

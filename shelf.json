@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T21:09:37+07:00",
+ "updated": "2026-11-14T21:14:20+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3464,6 +3464,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "sign-up-bar-deck",
+   "name": "Sign-Up Bar Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/sign-up-bar-deck/",
+   "total": 3,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-14T21:07:00+07:00",
+   "added": "2026-11-14T21:14:20+07:00",
+   "note": "3 cards. Three cards on how the sign-up bottom bar should be laid out. Develop is holding the current sign-up update until you pick. Each option is a real render of How Big Is Your Home?, with the house band, at 360, 390 and 430 wide. The first card is two rows versus one row. The second is which buttons sit in a one-row bar. The third is a tighter one-row idea, with Back as an icon and Start Over as a link above the bar. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "3 cards, ready now, with Notes"
+  },
   {
    "id": "share-image-cool-deck",
    "name": "Share Image Cool Deck",

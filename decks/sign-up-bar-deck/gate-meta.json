@@ -1,0 +1,12 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/signup-bar-deck-1114/mocks/opt-a.jpg",
+    "/workspace/signup-bar-deck-1114/mocks/opt-b.jpg",
+    "/workspace/signup-bar-deck-1114/mocks/opt-c.jpg",
+    "/workspace/signup-bar-deck-1114/mocks/opt-d.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Sign-Up Bar Deck"
+}
