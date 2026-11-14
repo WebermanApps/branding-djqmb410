@@ -1,0 +1,31 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/home-look-decks-1114/mocks/faq-h-fit.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-h-fixed.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-cat-chip.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-cat-head.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pg-count.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pg-prog.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pk-slim.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pk-wide.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-top-q.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-top-icon.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-bg-white.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-bg-tint.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-faq-look-deck",
+  "title": "Home FAQ Look Deck",
+  "short": "Home FAQ Look",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026 ICT, in UpKeep Develop's chat. 9:13 AM: “for tailor your plan we could get rid of the black and white pills and just have a carousel that has one card per section”; “i think in FAQ we could do that too, carousel cards for questions”; “basically plans, tailor your plan, and faq will all be similar style”; 9:14 AM: “it doesn't ahve to share the exact same style”, “i'm just saying that plans are carousel right now”. 9:13 AM: “when you are on \"tailor your plan\" you can still see FAQ header”. 9:28 AM: “lets try to shorten answers when possible”. 9:28–9:36 AM: FAQ categories in order: Plans And Visits (6), Our Team And Coverage, Billing, Cancel And Moving, and Heating, Cooling And Furnace Filters; the other categories stay as they are. 9:44 AM: “i made some suggestions on how the faq should look and how the tailor your plan should look” / “do you want to make decks based on my suggestions”.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of smart-upkeep draft PR #126 head 496c08865b4c9b90d7d5844dd9d06f8e708582d8 (cache h9m2), off main e1b76db3, from a git archive that passed the pagelock check and was unlocked only in a local copy, served on 127.0.0.1 with outside traffic blocked and fonts served locally. 390×844 at 2×, full frame, no crop. Variants only add CSS and small DOM changes in that local copy. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. The header is the PR's centered logo with Share top left and the menu top right. The Get Started button under the four tabs is shown on every frame, as Machan asked at 9:12 AM. Prices come from the PR's pricing-config.js through the live catalog code, so no price was typed by hand. In the FAQ frames, the Home-only short answers and titles in the draft were switched off, so every question and answer is the FAQ_ALL text word for word. Legal is still reviewing the short answers. The seven cards the PR holds back for Machan and Legal stay hidden. The only text cut off at an edge is the peeking card next to the one in view, which is how the carousel works.",
+  "pr": "WebermanApps/smart-upkeep#126",
+  "pr_head": "496c08865b4c9b90d7d5844dd9d06f8e708582d8",
+  "browser_qa": "crop QA at 390x844 @2x, full frame; only the peeking neighbor card is cut, by design"
+}

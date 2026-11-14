@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-13T23:25:46+07:00",
+ "updated": "2026-11-14T09:57:34+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3413,23 +3413,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "home-build-motion-map-deck",
-   "name": "Home Build Motion & Map Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-build-motion-map-deck/",
-   "total": 4,
-   "answered": 3,
+   "id": "home-faq-look-deck",
+   "name": "Home FAQ Look Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-faq-look-deck/",
+   "total": 6,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-13T22:14:00+07:00",
-   "added": "2026-11-13T22:27:05+07:00",
-   "note": "4 cards. Follow-up to the Onboarding Home Build Deck: Step 1 map style (real Wayne, Oakland and Macomb), whether to show a nearby fringe, how items appear, and how stories change. Finish Reveal is Reveal. Reduced Motion is A Quick Fade. Pinned on Max's Picks, collapsed by default.",
+   "status": "open",
+   "requested_at": "2026-11-14T09:44:00+07:00",
+   "added": "2026-11-14T09:57:34+07:00",
+   "note": "6 cards. Six cards on the new Home FAQ carousel from draft PR #126: one card per question, in your new category order. Each pair changes one thing: card height, where the category shows, the pager, how much of the next card peeks in, how a card starts, and card color. Every frame keeps the cards top-aligned, so the next card's top lines up with the one in view, and the questions and answers are the FAQ text word for word. Pinned on Max's Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
-   "made": "2026-11-13",
-   "blurb": "4 cards, ready now, with Notes",
-   "done_at": "2026-11-13T23:25:22+07:00"
+   "made": "2026-11-14",
+   "blurb": "6 cards, ready now, with Notes"
   },
   {
    "id": "home-share-image-deck",
@@ -3572,6 +3571,25 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "home-build-motion-map-deck",
+   "name": "Home Build Motion & Map Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/home-build-motion-map-deck/",
+   "total": 4,
+   "answered": 3,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-13T22:14:00+07:00",
+   "added": "2026-11-13T22:27:05+07:00",
+   "note": "4 cards. Follow-up to the Onboarding Home Build Deck: Step 1 map style (real Wayne, Oakland and Macomb), whether to show a nearby fringe, how items appear, and how stories change. Finish Reveal is Reveal. Reduced Motion is A Quick Fade. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-13",
+   "blurb": "4 cards, ready now, with Notes",
+   "done_at": "2026-11-13T23:25:22+07:00"
   },
   {
    "id": "pay-choice-deck",

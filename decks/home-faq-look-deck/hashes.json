@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Fits Its Answer",
+      "sha12": "e5fcaad3afce"
+    },
+    "B": {
+      "label": "One Height For All",
+      "sha12": "4f7feb3fb335"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Chip On The Card",
+      "sha12": "be4662a9997a"
+    },
+    "B": {
+      "label": "Header Above The Cards",
+      "sha12": "bf98d54f5035"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Counter",
+      "sha12": "c15ad95f83d2"
+    },
+    "B": {
+      "label": "Category Progress",
+      "sha12": "718a6f9ea3da"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Slim Peek",
+      "sha12": "1a1b1c68a482"
+    },
+    "B": {
+      "label": "Wide Peek",
+      "sha12": "368948ce099f"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Question First",
+      "sha12": "b1bf9b15f212"
+    },
+    "B": {
+      "label": "Icon And Question",
+      "sha12": "9b32e3654856"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "White Card",
+      "sha12": "0fc62711238a"
+    },
+    "B": {
+      "label": "Warm Tint Card",
+      "sha12": "2b41e56f3d67"
+    }
+  }
+}

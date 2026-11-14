@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-look-decks-1114/mocks/faq-h-fit.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-h-fixed.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-cat-chip.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-cat-head.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pg-count.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pg-prog.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pk-slim.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-pk-wide.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-top-q.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-top-icon.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-bg-white.jpg",
+    "/workspace/home-look-decks-1114/mocks/faq-bg-tint.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home FAQ Look Deck"
+}
