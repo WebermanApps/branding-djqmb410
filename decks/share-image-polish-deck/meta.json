@@ -1,0 +1,27 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/share-image-polish-1114/mocks/current-size.jpg",
+    "/workspace/share-image-polish-1114/mocks/logo-small.jpg",
+    "/workspace/share-image-polish-1114/mocks/house-plain.jpg",
+    "/workspace/share-image-polish-1114/mocks/price-text.jpg",
+    "/workspace/share-image-polish-1114/mocks/bg-flat.jpg",
+    "/workspace/share-image-polish-1114/mocks/fill-frame.jpg",
+    "/workspace/share-image-polish-1114/mocks/logo-large.jpg",
+    "/workspace/share-image-polish-1114/mocks/house-details.jpg",
+    "/workspace/share-image-polish-1114/mocks/price-pill.jpg",
+    "/workspace/share-image-polish-1114/mocks/bg-sand-band.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "share-image-polish-deck",
+  "title": "Share Image Polish Deck",
+  "short": "Share Image Polish",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, about 3:40 PM ICT, after looking at the final share image: “make another deck to improve please”, then “Improve the share image”. Build a Share Image Polish Deck from his locked picks (Logo-Led, Illustrated House, With $139, Cream #FAF6EE). The current image is small and sits in a big empty field, with a tiny logo and a small house, so it reads weakly at link-preview size. Use no real photos, Khand and Hind, Title Case, no gold, and no green as the main color. Keep everything inside the center-square safe area.",
+  "spec": "spec.md",
+  "provenance": "The Current Size option is the final share graphic from /workspace/share-graphic-1114/og-share-1200x630.png, built from Machan’s Home Share Graphic Deck picks (Illustrated House, With $139, Logo-Led, Cream #FAF6EE). The other options reuse that same logo and illustrated house, drawn as original vectors, not traced from a photo, with Khand and Hind. Where a price is shown it is Starting At $139/mo, the approved Essentials price. Filled options keep the logo, words, and house inside the center 630×630 square (x=285–915) so a square crop, an iMessage card, and an X card still read. Each option is also shown in an iMessage-style card and an X-style link card. Crop QA at 390 and 1280; no clipped UI text. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. Gold is not used.",
+  "browser_qa": "1200x630 compositions plus iMessage and X previews; crop QA at 390 and 1280; no clipped UI text; content kept in the center-square safe area on the filled options"
+}

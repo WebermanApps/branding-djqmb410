@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/share-image-polish-1114/mocks/current-size.jpg",
+    "/workspace/share-image-polish-1114/mocks/logo-small.jpg",
+    "/workspace/share-image-polish-1114/mocks/house-plain.jpg",
+    "/workspace/share-image-polish-1114/mocks/price-text.jpg",
+    "/workspace/share-image-polish-1114/mocks/bg-flat.jpg",
+    "/workspace/share-image-polish-1114/mocks/fill-frame.jpg",
+    "/workspace/share-image-polish-1114/mocks/logo-large.jpg",
+    "/workspace/share-image-polish-1114/mocks/house-details.jpg",
+    "/workspace/share-image-polish-1114/mocks/price-pill.jpg",
+    "/workspace/share-image-polish-1114/mocks/bg-sand-band.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Share Image Polish Deck"
+}

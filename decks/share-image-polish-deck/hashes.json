@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Current Size",
+      "sha12": "0bbfb369bc9d"
+    },
+    "B": {
+      "label": "Filling The Frame",
+      "sha12": "d70e90df639e"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Small Logo Above The Headline",
+      "sha12": "9cd16c7bda01"
+    },
+    "B": {
+      "label": "Large Logo As The Headline",
+      "sha12": "5d230a60d862"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Plain House",
+      "sha12": "b8fa9d226d2b"
+    },
+    "B": {
+      "label": "House With Brand Details",
+      "sha12": "f2a57e0f55b9"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plain Text Price",
+      "sha12": "b5683a615115"
+    },
+    "B": {
+      "label": "Terracotta Price Pill",
+      "sha12": "ffccd001c9b0"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Flat Cream",
+      "sha12": "5546ffa76e26"
+    },
+    "B": {
+      "label": "Warm Sand Band",
+      "sha12": "e020c82acd22"
+    }
+  }
+}

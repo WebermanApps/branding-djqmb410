@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T15:31:01+07:00",
+ "updated": "2026-11-14T15:45:50+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3457,6 +3457,24 @@
  "queued": [],
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
+  {
+   "id": "share-image-polish-deck",
+   "name": "Share Image Polish Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/share-image-polish-deck/",
+   "total": 5,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-14T15:40:00+07:00",
+   "added": "2026-11-14T15:45:50+07:00",
+   "note": "5 cards. Five short cards on a tighter 1200×630 share image for when someone texts or posts smartupkeep.ai. Every option keeps the locked picks: a logo-led layout, the illustrated house, Starting At $139/mo, and cream #FAF6EE. No real house photos. Each option shows the full share image, then a preview of how it looks in an iMessage card and an X link card. Pinned on Max’s Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "5 cards, ready now, with Notes"
+  },
   {
    "id": "daniel-carly-photo-crop-deck",
    "name": "Daniel And Carly Photo Crop Deck",
