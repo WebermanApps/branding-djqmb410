@@ -1,0 +1,18 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/tailor-polish-deck-1114/mocks/c1a-wash.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c2a-noicon.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c3a-ink.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c4a-plain.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c5a-tag.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c1b-edge.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c2b-icons.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c3b-tc.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c4b-inset.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c5b-chip.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Tailor Your Plan Polish Deck"
+}

@@ -1,0 +1,52 @@
+{
+  "c1": {
+    "A": {
+      "label": "Full Tile Wash",
+      "sha12": "20241ad655e3"
+    },
+    "B": {
+      "label": "Tinted Header And Edge",
+      "sha12": "f57c301e4258"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Name Only",
+      "sha12": "bf03cc919870"
+    },
+    "B": {
+      "label": "A Pip On Each Row",
+      "sha12": "f5e38e75129b"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Ink Price",
+      "sha12": "8b033b182895"
+    },
+    "B": {
+      "label": "Terracotta Price",
+      "sha12": "9adcffc42216"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plain Inline",
+      "sha12": "1121f5d09b88"
+    },
+    "B": {
+      "label": "Inset Detail Panel",
+      "sha12": "c66b6becc887"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Plain Text Tag",
+      "sha12": "64bbcb8b45c0"
+    },
+    "B": {
+      "label": "Soft Tint Tag",
+      "sha12": "fcbe17c81ced"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/tailor-polish-deck-1114/mocks/c1a-wash.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c2a-noicon.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c3a-ink.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c4a-plain.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c5a-tag.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c1b-edge.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c2b-icons.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c3b-tc.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c4b-inset.jpg",
+    "/workspace/tailor-polish-deck-1114/mocks/c5b-chip.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "tailor-your-plan-polish-deck",
+  "title": "Tailor Your Plan Polish Deck",
+  "short": "Tailor Your Plan Polish",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, 8:41 PM ICT, relayed by Grok: “can we make a deck to improve the look of tailor your plan”. A short swipe deck of visual-improvement options for the Tailor Your Plan section as it is live now, the compact list from #134, still one phone screen per category. Base it on his earlier picks from this morning: Roomy Rows With A Line, Right-Aligned Price, Section Icon, Tag On Each Row, Title With A Rule, and “more list like… rely on the expansion for detail”. Later at 8:41 PM: “color changes should be on tailor your plan section, and the faq shouldn't have the color… some color on faq is ok, but not the distinct tile changes… that should be on tailor your plan”. The distinct light warm tints per category are the baseline on every card. One pair tests how the tint shows: a full tile wash, or a tinted header plus a light edge. Keep the tints warm and light, with no green as the main look. Text contrast at least 4.5:1. Real prices only. Phone-first, light cream or white, Khand and Hind, Title Case, no gold.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of smart-upkeep origin/main 6257bc6a854e20d2066dd63b850831424178ac1f (live at the time of this deck), from a git archive that passed the pagelock check and was unlocked only in a local copy, served on 127.0.0.1 with outside traffic blocked and fonts served locally. 390×844 at 2×, full frame, no crop. Variants only add CSS in that local session. Fit was checked at 360×640, 390×660 and 430×746 for every category: all rows stay visible, taps stay at least 44px, and the only leftover scroll is the known 2px on two six-row cards at 360×640, same as the live list. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. The header is the live centered logo with Share top left and the menu top right. The footer of the Home frame is the sticky bar and Get Started. The site footer still reads Built by Machan with no link. Prices come from pricing-config.js through the live catalog code, so no price was typed by hand. The only text cut off at an edge is the peeking card next to the one in view, which is how the carousel works. The live add-on tag gray #8A8178 is under 4.5:1, so these frames use #5C534C for the tag and #A8431F for Quote and terracotta prices, which meet 4.5:1 on every tint, including the deepest #F3E6DF. Gold is not used.",
+  "browser_qa": "390x844 @2x full frame; fit at 360x640, 390x660, 430x746 for all 5 categories; no clipped UI text on the card in view; tag and price contrast ≥ 4.5:1",
+  "head": "6257bc6a854e20d2066dd63b850831424178ac1f"
+}
