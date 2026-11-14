@@ -1,0 +1,25 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/home-share-graphic-1114/mocks/line.jpg",
+    "/workspace/home-share-graphic-1114/mocks/with-price.jpg",
+    "/workspace/home-share-graphic-1114/mocks/logo-led.jpg",
+    "/workspace/home-share-graphic-1114/mocks/bg-cream.jpg",
+    "/workspace/home-share-graphic-1114/mocks/illust.jpg",
+    "/workspace/home-share-graphic-1114/mocks/no-price.jpg",
+    "/workspace/home-share-graphic-1114/mocks/house-led.jpg",
+    "/workspace/home-share-graphic-1114/mocks/bg-sand.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "home-share-graphic-deck",
+  "title": "Home Share Graphic Deck",
+  "short": "Home Share Graphic",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, 3:10 PM ICT, relayed by Grok: “i don't want to use a real image of a house”, “it should be graphics only for share”, “redo deck please”. Remake the Home Share Image Deck as a graphics-only deck for the link preview image shown when smartupkeep.ai is texted or posted. Use no real photos, only brand graphics: the logo, a line-art or illustrated house (vector, not traced from a photo), and $139 where a price is shown (Essentials, the approved price). Light cream or warm backgrounds, never a green header band, no gold, no dark colors.",
+  "spec": "spec.md",
+  "provenance": "Share cards were drawn at 1200×630 with the live logo (A-roof-chevron-transparent.svg) and Khand / Hind, on cream or warm sand, with an original line-art house and an original illustrated house made as simple vectors, not traced from a photo. No real photographs are used. Where a price is shown it is Starting At $139/mo, the approved Essentials price. Each option is also shown in an iMessage-style card and an X-style link card. Crop QA at 390 and 1280; no clipped UI text. This remake replaces the photo-based Home Share Image Deck. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. Gold is not used.",
+  "browser_qa": "1200x630 compositions plus iMessage and X previews; crop QA at 390 and 1280; no clipped UI text"
+}

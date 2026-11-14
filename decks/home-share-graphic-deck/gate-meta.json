@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/home-share-graphic-1114/mocks/line.jpg",
+    "/workspace/home-share-graphic-1114/mocks/with-price.jpg",
+    "/workspace/home-share-graphic-1114/mocks/logo-led.jpg",
+    "/workspace/home-share-graphic-1114/mocks/bg-cream.jpg",
+    "/workspace/home-share-graphic-1114/mocks/illust.jpg",
+    "/workspace/home-share-graphic-1114/mocks/no-price.jpg",
+    "/workspace/home-share-graphic-1114/mocks/house-led.jpg",
+    "/workspace/home-share-graphic-1114/mocks/bg-sand.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Home Share Graphic Deck"
+}

@@ -1,0 +1,16 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/header-footer-shade-1114/mocks/hdr-cream.jpg",
+    "/workspace/header-footer-shade-1114/mocks/ftr-cream.jpg",
+    "/workspace/header-footer-shade-1114/mocks/match.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hair-none.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hdr-sand.jpg",
+    "/workspace/header-footer-shade-1114/mocks/ftr-sand.jpg",
+    "/workspace/header-footer-shade-1114/mocks/differ.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hair-yes.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Header And Footer Shade Deck"
+}

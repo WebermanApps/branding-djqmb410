@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Deeper Warm Cream",
+      "sha12": "ef6e402f0ee7"
+    },
+    "B": {
+      "label": "Soft Sand Tint",
+      "sha12": "df606d14c653"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Deeper Warm Cream",
+      "sha12": "2878c1e49014"
+    },
+    "B": {
+      "label": "Soft Sand Tint",
+      "sha12": "2adaef7cb421"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Same Shade",
+      "sha12": "f8305a4bf306"
+    },
+    "B": {
+      "label": "Different Shades",
+      "sha12": "a9fd1c2dc1a8"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "No Hairline",
+      "sha12": "d3c63745a3e5"
+    },
+    "B": {
+      "label": "Hairline",
+      "sha12": "63a6ae31d733"
+    }
+  }
+}

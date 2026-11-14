@@ -1,0 +1,26 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/header-footer-shade-1114/mocks/hdr-cream.jpg",
+    "/workspace/header-footer-shade-1114/mocks/ftr-cream.jpg",
+    "/workspace/header-footer-shade-1114/mocks/match.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hair-none.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hdr-sand.jpg",
+    "/workspace/header-footer-shade-1114/mocks/ftr-sand.jpg",
+    "/workspace/header-footer-shade-1114/mocks/differ.jpg",
+    "/workspace/header-footer-shade-1114/mocks/hair-yes.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "header-and-footer-shade-deck",
+  "title": "Header And Footer Shade Deck",
+  "short": "Header And Footer Shade",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, 3:08 PM ICT, relayed by Grok: “i want to differentiate the main color from header and footer just a little”. Show a few subtle shades for the smartupkeep.ai header and footer bands against the main cream page. Shades stay light, cream or warm only, and only slightly different from the page. Never green for the header band, and no gold. Dark colors and black stay off the bands.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of smart-upkeep origin/main 9f726d315dd8a6621e34becec7cd2aff8a969c3e, from a git archive that passed the pagelock check and was unlocked only in a local copy, served on 127.0.0.1 with outside traffic blocked (0 outside requests) and fonts served locally. 390×844 at 2×, plus crop QA at 1280. Header frames show the top of Home. Footer frames show the FAQ at the bottom of Home with Built by Machan pulled up just above the dock, as it looks when you pull to reveal it. Band shades were applied only in the local session with CSS; the white page card stays #FFFFFF. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. The header is the live centered brand-color logo with Share top left and the menu top right. The footer reads Built by Machan with no link. Gold is not used.",
+  "browser_qa": "crop QA at 390x844 @2x and 1280; header and pulled-up footer; no clipped Share, logo, menu, or Built by Machan",
+  "head": "9f726d315dd8a6621e34becec7cd2aff8a969c3e"
+}

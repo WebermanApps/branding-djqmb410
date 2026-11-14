@@ -1,0 +1,42 @@
+{
+  "c1": {
+    "A": {
+      "label": "Line-Art House",
+      "sha12": "284d34606d30"
+    },
+    "B": {
+      "label": "Illustrated House",
+      "sha12": "5de744ef394d"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "With $139",
+      "sha12": "410c9f4287d3"
+    },
+    "B": {
+      "label": "Without A Price",
+      "sha12": "6aeb12d88858"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Logo-Led",
+      "sha12": "755541b415c3"
+    },
+    "B": {
+      "label": "House-Led",
+      "sha12": "25f0e8e2c5ab"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Cream",
+      "sha12": "b3e35efe77f6"
+    },
+    "B": {
+      "label": "Warm Sand",
+      "sha12": "36f5b82932a8"
+    }
+  }
+}
