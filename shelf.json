@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T20:51:40+07:00",
+ "updated": "2026-11-14T21:00:47+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3432,6 +3432,13 @@
    "done_at": "2026-11-14T15:29:18+07:00",
    "answered": 4,
    "total": 4
+  },
+  {
+   "id": "tailor-your-plan-polish-deck",
+   "at": "2026-11-14T20:57:51+07:00",
+   "name": "Tailor Your Plan Polish Deck",
+   "answered": 5,
+   "total": 5
   }
  ],
  "pinned": [
@@ -3462,9 +3469,9 @@
    "name": "Tailor Your Plan Polish Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-polish-deck/",
    "total": 5,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-14T20:41:00+07:00",
    "added": "2026-11-14T20:51:40+07:00",
    "note": "5 cards. Five cards on the live Tailor Your Plan list, with the earlier picks kept: roomy enough rows with a line, a right-aligned price, a section icon, a tag on each row, a title with a rule, and the detail in the expansion. Each category now has its own light tint, using the hex values from the live FAQ cards, as you asked at 8:41 PM. The pair on the first card is how that tint shows. The other four cards keep the tinted header and edge, and change one thing: a small pip on each row, the color of the price, how an open row looks, and how the add-on tags look. Every option still fits one phone screen per category. Pinned on Max's Picks, collapsed by default.",
@@ -3473,7 +3480,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-14",
-   "blurb": "5 cards, ready now, with Notes"
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-14T20:57:51+07:00"
   },
   {
    "id": "share-image-polish-deck",
