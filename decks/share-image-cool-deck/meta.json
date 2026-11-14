@@ -1,0 +1,29 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/share-image-cool-1114/mocks/logo-sheen.jpg",
+    "/workspace/share-image-cool-1114/mocks/house-lineart.jpg",
+    "/workspace/share-image-cool-1114/mocks/head-stack.jpg",
+    "/workspace/share-image-cool-1114/mocks/plan-dots.jpg",
+    "/workspace/share-image-cool-1114/mocks/tex-grain.jpg",
+    "/workspace/share-image-cool-1114/mocks/badge-seal.jpg",
+    "/workspace/share-image-cool-1114/mocks/logo-chip.jpg",
+    "/workspace/share-image-cool-1114/mocks/house-pin.jpg",
+    "/workspace/share-image-cool-1114/mocks/head-rule.jpg",
+    "/workspace/share-image-cool-1114/mocks/plan-edge.jpg",
+    "/workspace/share-image-cool-1114/mocks/tex-glow.jpg",
+    "/workspace/share-image-cool-1114/mocks/badge-check.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "share-image-cool-deck",
+  "title": "Share Image Cool Deck",
+  "short": "Share Image Cool",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, 9:01 PM ICT: “Let’s make another deck for the share image .. I like the direction right now, now let’s make it cool”. Then at 9:02 PM ICT: “You can ignore previous notes I made on it through decks, I wasn’t understand before but now I do”. So this deck builds only from the live smartupkeep.ai link preview, assets/og-139.png?v=2 (sha12 a4467bb5ca0f), and offers cooler takes on it. Graphics only, no real house photos. Light cream, no green header band, no green as the main look, no gold. Khand and Hind, Title Case, and only copy and prices already on the live image.",
+  "spec": "spec.md",
+  "provenance": "Built from the live share image, assets/og-139.png?v=2 on smart-upkeep main 8e981d41 (sha12 a4467bb5ca0f), and its source SVG. Earlier share-image deck notes and picks are not used, per Machan at 9:02 PM ICT. Every option is a real 1200×630 PNG, rendered in Chromium with Khand and Hind, and kept at full size so the winner can ship. The logo and house are the same vectors as the live image; the line-art house, map pin, seal and check are original vector drawings. No photos. The only words are the ones already on the live image or site: Preventive Home Maintenance, Starting At $139/mo, Smart Upkeep, and the plan names Essentials, Plus and Complete. Plan colors are the site’s own (#0B6E4F, #A8431F, #05668D), used as small accents only. Crop QA: in every option all text sits inside the center 630×630 square (x=285–915) and inside the frame, and no text is clipped in the phone previews at 390 wide. Nothing was pushed to smart-upkeep, and nothing was submitted, paid or sent. Gold is not used.",
+  "browser_qa": "12 real 1200x630 PNGs plus iMessage-style and WhatsApp-style previews at 390 wide and the square crop; all text inside the center square and frame; no clipped UI text"
+}

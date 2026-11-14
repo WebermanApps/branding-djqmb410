@@ -1,0 +1,62 @@
+{
+  "c1": {
+    "A": {
+      "label": "Soft Sheen Logo",
+      "sha12": "79a3e77c1585"
+    },
+    "B": {
+      "label": "Logo On A Lifted Tile",
+      "sha12": "f4f919afb801"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Line-Art House Build",
+      "sha12": "b12343ae7811"
+    },
+    "B": {
+      "label": "Map Pin Over The House",
+      "sha12": "a68f6bcc4960"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Big Two-Line Headline",
+      "sha12": "bc952b9b93db"
+    },
+    "B": {
+      "label": "Headline With A Terracotta Rule",
+      "sha12": "d8da4d12ad77"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "Plan Color Dots Under The Price",
+      "sha12": "d66219c4117c"
+    },
+    "B": {
+      "label": "Thin Plan Color Edge",
+      "sha12": "ee90ad6c4980"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Paper Grain",
+      "sha12": "522eb1d3b9d0"
+    },
+    "B": {
+      "label": "Warm Glow And Sheen",
+      "sha12": "a87a3a86edd1"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "Round Seal",
+      "sha12": "ba29187c0583"
+    },
+    "B": {
+      "label": "Check Badge On The House",
+      "sha12": "4e115d8bc69a"
+    }
+  }
+}

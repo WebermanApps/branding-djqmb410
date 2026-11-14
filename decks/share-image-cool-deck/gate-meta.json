@@ -1,0 +1,20 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/share-image-cool-1114/mocks/logo-sheen.jpg",
+    "/workspace/share-image-cool-1114/mocks/house-lineart.jpg",
+    "/workspace/share-image-cool-1114/mocks/head-stack.jpg",
+    "/workspace/share-image-cool-1114/mocks/plan-dots.jpg",
+    "/workspace/share-image-cool-1114/mocks/tex-grain.jpg",
+    "/workspace/share-image-cool-1114/mocks/badge-seal.jpg",
+    "/workspace/share-image-cool-1114/mocks/logo-chip.jpg",
+    "/workspace/share-image-cool-1114/mocks/house-pin.jpg",
+    "/workspace/share-image-cool-1114/mocks/head-rule.jpg",
+    "/workspace/share-image-cool-1114/mocks/plan-edge.jpg",
+    "/workspace/share-image-cool-1114/mocks/tex-glow.jpg",
+    "/workspace/share-image-cool-1114/mocks/badge-check.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Share Image Cool Deck"
+}

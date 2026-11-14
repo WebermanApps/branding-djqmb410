@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T21:00:47+07:00",
+ "updated": "2026-11-14T21:07:45+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3465,23 +3465,22 @@
  "queued_note": "Held back by the 5-deck cap (pinned + decks <= 5). Requested decks never count toward the cap and never show in the header shelf.",
  "requested": [
   {
-   "id": "tailor-your-plan-polish-deck",
-   "name": "Tailor Your Plan Polish Deck",
-   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-polish-deck/",
-   "total": 5,
-   "answered": 5,
+   "id": "share-image-cool-deck",
+   "name": "Share Image Cool Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/share-image-cool-deck/",
+   "total": 6,
+   "answered": 0,
    "tag": "Max's Picks",
-   "status": "done",
-   "requested_at": "2026-11-14T20:41:00+07:00",
-   "added": "2026-11-14T20:51:40+07:00",
-   "note": "5 cards. Five cards on the live Tailor Your Plan list, with the earlier picks kept: roomy enough rows with a line, a right-aligned price, a section icon, a tag on each row, a title with a rule, and the detail in the expansion. Each category now has its own light tint, using the hex values from the live FAQ cards, as you asked at 8:41 PM. The pair on the first card is how that tint shows. The other four cards keep the tinted header and edge, and change one thing: a small pip on each row, the color of the price, how an open row looks, and how the add-on tags look. Every option still fits one phone screen per category. Pinned on Max's Picks, collapsed by default.",
+   "status": "open",
+   "requested_at": "2026-11-14T21:01:00+07:00",
+   "added": "2026-11-14T21:07:45+07:00",
+   "note": "6 cards. Six short cards on making the smartupkeep.ai link preview cooler while keeping today’s look: the logo, Preventive Home Maintenance, Starting At $139/mo, the illustrated house, and cream. Each card changes one thing. Each option shows the full 1200×630 image, the link preview in an iMessage-style and a WhatsApp-style phone message at 390 wide, and the small square crop some apps use. Pinned on Max’s Picks, collapsed by default.",
    "collapsible": true,
    "collapsed": true,
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-14",
-   "blurb": "5 cards, ready now, with Notes",
-   "done_at": "2026-11-14T20:57:51+07:00"
+   "blurb": "6 cards, ready now, with Notes"
   },
   {
    "id": "share-image-polish-deck",
@@ -3624,6 +3623,25 @@
    "status": "open",
    "requested_at": "2026-10-17T21:07:54+07:00",
    "made": "2026-10-17"
+  },
+  {
+   "id": "tailor-your-plan-polish-deck",
+   "name": "Tailor Your Plan Polish Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/tailor-your-plan-polish-deck/",
+   "total": 5,
+   "answered": 5,
+   "tag": "Max's Picks",
+   "status": "done",
+   "requested_at": "2026-11-14T20:41:00+07:00",
+   "added": "2026-11-14T20:51:40+07:00",
+   "note": "5 cards. Five cards on the live Tailor Your Plan list, with the earlier picks kept: roomy enough rows with a line, a right-aligned price, a section icon, a tag on each row, a title with a rule, and the detail in the expansion. Each category now has its own light tint, using the hex values from the live FAQ cards, as you asked at 8:41 PM. The pair on the first card is how that tint shows. The other four cards keep the tinted header and edge, and change one thing: a small pip on each row, the color of the price, how an open row looks, and how the add-on tags look. Every option still fits one phone screen per category. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "5 cards, ready now, with Notes",
+   "done_at": "2026-11-14T20:57:51+07:00"
   },
   {
    "id": "home-share-graphic-deck",
