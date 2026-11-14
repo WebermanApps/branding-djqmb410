@@ -1,0 +1,28 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/onboarding-polish-deck-1114/mocks/c1a-tint.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c2a-type.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c3a-sel.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c4a-strip.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c5a-pin.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c6a-step.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c7a-house.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c8a-receipt.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c9a-delta.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c10a-swipe.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c1b-plain.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c2b-type-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c3b-sel-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c4b-strip-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c5b-pin-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c6b-step-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c7b-house-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c8b-receipt-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c9b-delta-now.jpg",
+    "/workspace/onboarding-polish-deck-1114/mocks/c10b-swipe-now.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Onboarding Polish Deck"
+}

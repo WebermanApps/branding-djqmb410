@@ -1,0 +1,102 @@
+{
+  "c1": {
+    "A": {
+      "label": "Warm Tint Per Step",
+      "sha12": "34d9730c61f2"
+    },
+    "B": {
+      "label": "Keep The Cream Hero",
+      "sha12": "fb6678bea6bf"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Bigger Khand, Shared Cards, Tip Chips",
+      "sha12": "e8c0d9e5f604"
+    },
+    "B": {
+      "label": "Keep Today's Type And Cards",
+      "sha12": "5ac6079e27f9"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Outline, Check, And A Soft Lift",
+      "sha12": "043ba691a9bb"
+    },
+    "B": {
+      "label": "Keep The Soft Green Fill",
+      "sha12": "31d45886a7cb"
+    }
+  },
+  "c4": {
+    "A": {
+      "label": "A Running Your Home Strip",
+      "sha12": "7ecda52aa96b"
+    },
+    "B": {
+      "label": "No Summary Strip",
+      "sha12": "104b18ddded2"
+    }
+  },
+  "c5": {
+    "A": {
+      "label": "Pin Drop, Then An Address Card",
+      "sha12": "82f95d0f5164"
+    },
+    "B": {
+      "label": "Keep The Street And ZIP Fields",
+      "sha12": "40ccb5b4c13d"
+    }
+  },
+  "c6": {
+    "A": {
+      "label": "A Tick And A Number Roll",
+      "sha12": "93e11aff4b9e"
+    },
+    "B": {
+      "label": "Keep The Quiet Stepper",
+      "sha12": "bc4506624cc1"
+    }
+  },
+  "c7": {
+    "A": {
+      "label": "Systems Light Up, Extras Orbit",
+      "sha12": "3b1dfbe44a47"
+    },
+    "B": {
+      "label": "Keep Today's House Band",
+      "sha12": "d31b31ec291b"
+    }
+  },
+  "c8": {
+    "A": {
+      "label": "Itemized Receipt And A Count-Up",
+      "sha12": "2802a32949aa"
+    },
+    "B": {
+      "label": "Keep The Plain Breakdown",
+      "sha12": "fa9b2dfe4e9c"
+    }
+  },
+  "c9": {
+    "A": {
+      "label": "A Live Monthly Delta Pill",
+      "sha12": "e4f184c80a2f"
+    },
+    "B": {
+      "label": "Keep The Note Under The List",
+      "sha12": "eb0eb1519c47"
+    }
+  },
+  "c10": {
+    "A": {
+      "label": "Swipeable Plan Cards",
+      "sha12": "93f478f0edb3"
+    },
+    "B": {
+      "label": "Keep The Stacked Plan Cards",
+      "sha12": "12d329f230cf"
+    }
+  }
+}

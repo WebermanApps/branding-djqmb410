@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T21:07:45+07:00",
+ "updated": "2026-11-14T21:09:37+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3481,6 +3481,24 @@
    "agent": "upkeep",
    "made": "2026-11-14",
    "blurb": "6 cards, ready now, with Notes"
+  },
+  {
+   "id": "onboarding-polish-deck",
+   "name": "Onboarding Polish Deck",
+   "url": "https://webermanapps.github.io/branding-djqmb410/decks/onboarding-polish-deck/",
+   "total": 10,
+   "answered": 0,
+   "tag": "Max's Picks",
+   "status": "open",
+   "requested_at": "2026-11-14T20:47:00+07:00",
+   "added": "2026-11-14T21:09:37+07:00",
+   "note": "10 cards. Ten cards of look-only options for sign-up steps 1–7, on top of the onboarding work already in flight. The house band stays in every frame. The first eight cards are cheap; the last two are medium. Pinned on Max's Picks, collapsed by default.",
+   "collapsible": true,
+   "collapsed": true,
+   "pinned": true,
+   "agent": "upkeep",
+   "made": "2026-11-14",
+   "blurb": "10 cards, ready now, with Notes"
   },
   {
    "id": "share-image-polish-deck",
