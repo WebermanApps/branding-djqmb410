@@ -104,7 +104,7 @@
    "made": "2026-10-29"
   }
  ],
- "updated": "2026-11-14T21:22:49+07:00",
+ "updated": "2026-11-14T21:26:41+07:00",
  "done": [
   {
    "id": "welcome-box-branded-items-deck",
@@ -3453,6 +3453,13 @@
    "name": "Sign-Up Bar Deck",
    "answered": 0,
    "total": 3
+  },
+  {
+   "id": "share-image-cool-deck",
+   "at": "2026-11-14T21:17:50+07:00",
+   "name": "Share Image Cool Deck",
+   "answered": 5,
+   "total": 6
   }
  ],
  "pinned": [
@@ -3502,9 +3509,9 @@
    "name": "Share Image Cool Deck",
    "url": "https://webermanapps.github.io/branding-djqmb410/decks/share-image-cool-deck/",
    "total": 6,
-   "answered": 0,
+   "answered": 5,
    "tag": "Max's Picks",
-   "status": "open",
+   "status": "done",
    "requested_at": "2026-11-14T21:01:00+07:00",
    "added": "2026-11-14T21:07:45+07:00",
    "note": "6 cards. Six short cards on making the smartupkeep.ai link preview cooler while keeping today’s look: the logo, Preventive Home Maintenance, Starting At $139/mo, the illustrated house, and cream. Each card changes one thing. Each option shows the full 1200×630 image, the link preview in an iMessage-style and a WhatsApp-style phone message at 390 wide, and the small square crop some apps use. Pinned on Max’s Picks, collapsed by default.",
@@ -3513,7 +3520,8 @@
    "pinned": true,
    "agent": "upkeep",
    "made": "2026-11-14",
-   "blurb": "6 cards, ready now, with Notes"
+   "blurb": "6 cards, ready now, with Notes",
+   "done_at": "2026-11-14T21:17:50+07:00"
   },
   {
    "id": "onboarding-polish-deck",
