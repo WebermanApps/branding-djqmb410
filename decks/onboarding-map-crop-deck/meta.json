@@ -1,0 +1,23 @@
+{
+  "category": "ui-phone-mockups",
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "asset_paths": [
+    "/workspace/map-crop-deck-1114/mocks/A-390x844.jpg",
+    "/workspace/map-crop-deck-1114/mocks/B-390x844.jpg",
+    "/workspace/map-crop-deck-1114/mocks/C-390x844.jpg"
+  ],
+  "agent": "upkeep",
+  "submit_agent": "upkeep",
+  "id": "onboarding-map-crop-deck",
+  "title": "Onboarding Map Crop Deck",
+  "short": "Onboarding Map Crop",
+  "status": "published pagelocked; pinned closed on Max's Picks",
+  "requested": "Machan, Nov 14 2026, 9:16 AM ICT: “for the step 1, the map photo is why too small, i feel like we could almost double the size, we can show more of michigan”. Draft PR #128 doubled the map band to 240px and drew the whole state, which made Wayne, Oakland and Macomb tiny and dropped their labels. Machan's standing rule: any crop question goes to him as a swipe deck. Map B Line-Art With Pin Dots stays; Wayne, Oakland and Macomb only, labeled.",
+  "spec": "spec.md",
+  "provenance": "Frames are a local render of smart-upkeep draft PR #128 head 6c5c8d15b57f80f226aef8b1e80d62a27298386d (cache h9k6), from a git archive that passed the pagelock check, unlocked only in a local copy, served on 127.0.0.1 with outside traffic blocked and fonts served locally. Step 1 (Where's Your Home?) at 390×844, 2×, full frame, no crop. Only the MAP drawing in onboarding-house.js was swapped per option, plus Develop's r2 top-alignment of the address step on every frame so the form sits under the title. Map shapes are US Census cartographic boundaries cb_2023 500k (Michigan state and counties), drawn in the PR's Map B line-art style. Develop's map-options renders were not on disk when this deck was built, so these were rendered fresh. Nothing was pushed to smart-upkeep, and nothing was submitted or sent.",
+  "pr": "WebermanApps/smart-upkeep#128",
+  "pr_head": "6c5c8d15b57f80f226aef8b1e80d62a27298386d",
+  "intentional_reuse": "3 crops x 3 pairs; c2A reuses c1A, c3A reuses c1B, c3B reuses c2B",
+  "browser_qa": "390x844 full frame; labels inside the art box, no overlap; air >= 8 at 360x640, 390x844, 430x932"
+}

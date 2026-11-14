@@ -1,0 +1,11 @@
+{
+  "category": "ui-phone-mockups",
+  "asset_paths": [
+    "/workspace/map-crop-deck-1114/mocks/A-390x844.jpg",
+    "/workspace/map-crop-deck-1114/mocks/B-390x844.jpg",
+    "/workspace/map-crop-deck-1114/mocks/C-390x844.jpg"
+  ],
+  "ui_screenshots": true,
+  "bleed_mode": "edge-safe",
+  "title": "Onboarding Map Crop Deck"
+}

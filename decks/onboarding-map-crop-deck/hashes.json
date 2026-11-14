@@ -1,0 +1,32 @@
+{
+  "c1": {
+    "A": {
+      "label": "Southeast Michigan",
+      "sha12": "357b704f0119"
+    },
+    "B": {
+      "label": "Lower Peninsula",
+      "sha12": "de5de4ab18f2"
+    }
+  },
+  "c2": {
+    "A": {
+      "label": "Southeast Michigan",
+      "sha12": "357b704f0119"
+    },
+    "B": {
+      "label": "Whole State With An Inset",
+      "sha12": "8fda53255c6e"
+    }
+  },
+  "c3": {
+    "A": {
+      "label": "Lower Peninsula",
+      "sha12": "de5de4ab18f2"
+    },
+    "B": {
+      "label": "Whole State With An Inset",
+      "sha12": "8fda53255c6e"
+    }
+  }
+}
